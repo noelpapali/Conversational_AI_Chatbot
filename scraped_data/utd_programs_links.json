@@ -1,0 +1,622 @@
+[
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-accounting/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-in-accounting/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/bs-actuarial-science/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-actuarial-science/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/is/ba-american-studies/"
+    },
+    {
+        "name": "MFA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/mfa-animation/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-arts-animation-and-games/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/msf-applied-cognition-and-neuroscience/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-applied-sociology/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-art-history/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-arts-technology-and-emerging-communication/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-atec/"
+    },
+    {
+        "name": "MFA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/mfa-atec/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/phd-atec/"
+    },
+    {
+        "name": "AUD",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/aud/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/bs-biochemistry/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-bioinformatics/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-biology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-biology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-biomedical-engineering/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-biomedical-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-biomedical-engineering/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/bs-in-biomedical-sciences/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-biotechnology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-business-administration/"
+    },
+    {
+        "name": "MBA",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/mba/"
+    },
+    {
+        "name": "DBA",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/doctor-of-business-administration/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-in-business-analytics-and-artificial-intelligence/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-business-analytics-and-artificial-intelligence/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-chemistry/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-chemistry/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-chemistry/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/phd-chemistry/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/bs-child-learning-and-development/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/phd-cognition-and-neuroscience/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/bs-cognitive-science/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-computer-engineering/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-computer-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-computer-engineering/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-computer-information-systems-and-technology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-computer-science/"
+    },
+    {
+        "name": "MSCS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-computer-science/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-computer-science/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ba-criminology/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-criminology/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/phd-criminology/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-cyber-security-technology-and-policy/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/master-of-science-in-cyber-security-technology-and-policy/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-data-science-ecs/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/bs-data-science-nsm/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-data-science-and-statistics/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/phd-data-science-and-statistics/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ba-economics/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/bs-economics/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-economics/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/phd-economics/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/is/ba-bs-in-education/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/is/ba-bs-in-education/"
+    },
+    {
+        "name": "BSEE",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-electrical-engineering/"
+    },
+    {
+        "name": "MSEE",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-electrical-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-electrical-engineering/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-in-energy-management/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-finance/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/master-of-science-in-finance/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-financial-technology-analytics/"
+    },
+    {
+        "name": "MFA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/mfa-game-development/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/bs-geosciences/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-geosciences/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/phd-geosciences/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/bs-geospatial-information-sciences/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-geospatial-information-sciences/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/phd-geospatial-information-sciences/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-global-business/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-healthcare-leadership-and-management/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-healthcare-management/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/is/bs-healthcare-studies/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-history/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-history/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/phd-in-history/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/ms-human-development-and-early-childhood-disorders/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-human-resource-management/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-humanities/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/phd-humanities/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-information-technology-and-management/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-innovation-and-entrepreneurship/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/is/ba-bs-interdisciplinary-studies/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/is/ba-bs-interdisciplinary-studies/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/is/ma-interdisciplinary-studies/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-international-management-studies/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/phd-international-management-studies/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ba-bs-international-political-economy/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ba-bs-international-political-economy/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-international-political-economy/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-latin-american-studies/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-latin-american-studies/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/master-of-science-in-leadership-and-organizational-development/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-literature/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-literature/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/phd-literature/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-management-science/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/phd-management-science/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-marketing/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-marketing/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-materials-science-and-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-materials-science-and-engineering/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-mathematics/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-mathematics/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-mathematics/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/phd-mathematics/"
+    },
+    {
+        "name": "MAT",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/mat/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-mechanical-engineering/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-mechanical-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-mechanical-engineering/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-molecular-and-cell-biology/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/phd-molecular-and-cell-biology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/bs-molecular-biology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/bs-neuroscience/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-philosophy/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-philosophy/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-physics/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ba-bs-physics/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/ms-physics/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/phd-physics/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ba-political-science/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ma-political-science/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/phd-political-science/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/bs-psychology/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/ms-psychology/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/phd-psychology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/bs-public-affairs/"
+    },
+    {
+        "name": "MPA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/mpa/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/phd-public-affairs/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/bachelor-of-arts-in-public-health/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/bs-public-policy/"
+    },
+    {
+        "name": "MPP",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/mpp/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/phd-public-policy-and-political-economy/"
+    },
+    {
+        "name": "MAT",
+        "url": "https://www.utdallas.edu/fact-sheets/nsm/mat-science-education/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ms-social-data-analytics-and-research/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/epps/ba-sociology/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/bs-software-engineering/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-software-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-software-engineering/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/bs-speech-language-hearing-sciences/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/phd-communication-sciences-and-disorders/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/bbs/ms-communication-disorders/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/ms-supply-chain-management/"
+    },
+    {
+        "name": "BS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/bs-supply-chain-management-and-analytics/"
+    },
+    {
+        "name": "BS",
+        "url": null
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-systems-engineering-and-management/"
+    },
+    {
+        "name": "MS",
+        "url": "https://www.utdallas.edu/fact-sheets/jsom/master-of-science-in-systems-engineering-and-management/"
+    },
+    {
+        "name": "MSTE",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/ms-telecommunications-engineering/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/ecs/phd-telecommunications-engineering/"
+    },
+    {
+        "name": "BA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ba-visual-and-performing-arts/"
+    },
+    {
+        "name": "MA",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/ma-visual-and-performing-arts/"
+    },
+    {
+        "name": "PHD",
+        "url": "https://www.utdallas.edu/fact-sheets/aht/phd-visual-and-performing-arts/"
+    }
+]
