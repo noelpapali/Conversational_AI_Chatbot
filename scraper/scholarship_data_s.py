@@ -13,7 +13,7 @@ from logging_config import configure_logging
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
 # Set up Selenium WebDriver
-service = Service("chrome/chromedriver.exe")  # Path to your ChromeDriver
+service = Service("../chrome/chromedriver.exe")  # Path to your ChromeDriver
 driver = webdriver.Chrome(service=service)  # Use the service parameter
 driver.get("https://www.utdallas.edu/costs-scholarships-aid/scholarships/listings/")
 
@@ -37,7 +37,7 @@ required_headers = ['Scholarship name', 'School', 'Academic Program', 'Status', 
 headers = [header for header in headers if header in required_headers]
 
 # Add the new header for additional information
-headers.append("Additional Information")
+# headers.append("Additional Information")
 logging.info(f"Filtered headers: {headers}")  # Log filtered headers
 logging.info(f"Number of headers: {len(headers)}")  # Log number of headers
 
@@ -59,35 +59,35 @@ while True:
         if len(cells) > 1:  # Ensure there are enough columns
             cells = cells[1:]  # Skip the first column
 
-        if cells:  # Skip empty rows (e.g., header row)
-            # Initialize additional information as empty
-            additional_info = ""
-
-            # Try to extract additional information
-            try:
-                # Find the "More Information" link
-                more_info_link = row.find_element(By.CLASS_NAME, 'more-information-text')
-                scholarship_id = more_info_link.get_attribute('href').split('#')[-1]
-
-                # Locate the corresponding more-information-text table
-                more_info_table = driver.find_element(By.ID, f'scholarship-more-information-{scholarship_id}')
-
-                # Extract text from <p> and <li> tags
-                paragraphs = more_info_table.find_elements(By.TAG_NAME, 'p')
-                lists = more_info_table.find_elements(By.TAG_NAME, 'li')
-                for p in paragraphs:
-                    additional_info += p.text.strip() + " "
-                for li in lists:
-                    additional_info += li.text.strip() + " "
-
-                # Clean up additional info
-                additional_info = additional_info.strip()
-            except Exception as e:
-                logging.warning(f"Error extracting additional information for row: {e}")
-                additional_info = ""  # Set to empty if extraction fails
-
-            # Append the additional information to the row
-            cells.append(additional_info)
+        # if cells:  # Skip empty rows (e.g., header row)
+        #     # Initialize additional information as empty
+        #     additional_info = ""
+        #
+        #     # Try to extract additional information
+        #     try:
+        #         # Find the "More Information" link
+        #         more_info_link = row.find_element(By.CLASS_NAME, 'more-information-text')
+        #         scholarship_id = more_info_link.get_attribute('href').split('#')[-1]
+        #
+        #         # Locate the corresponding more-information-text table
+        #         more_info_table = driver.find_element(By.ID, f'scholarship-more-information-{scholarship_id}')
+        #
+        #         # Extract text from <p> and <li> tags
+        #         paragraphs = more_info_table.find_elements(By.TAG_NAME, 'p')
+        #         lists = more_info_table.find_elements(By.TAG_NAME, 'li')
+        #         for p in paragraphs:
+        #             additional_info += p.text.strip() + " "
+        #         for li in lists:
+        #             additional_info += li.text.strip() + " "
+        #
+        #         # Clean up additional info
+        #         additional_info = additional_info.strip()
+        #     except Exception as e:
+        #         logging.warning(f"Error extracting additional information for row: {e}")
+        #         additional_info = ""  # Set to empty if extraction fails
+        #
+        #     # Append the additional information to the row
+        #     cells.append(additional_info)
 
             # Ensure the row has the same number of columns as headers
             if len(cells) != len(headers):
@@ -117,7 +117,7 @@ df = pd.DataFrame(all_rows, columns=headers)
 logging.info(f"Total rows extracted: {len(all_rows)}")  # Log total rows
 
 # Save to CSV
-output_dir = "tables"
+output_dir = "../tables"
 os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
 output_file = os.path.join(output_dir, filename)  # Use the dynamic filename
 

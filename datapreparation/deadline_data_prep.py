@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Define the folder containing the CSV files
-input_folder = "tables"
+input_folder = "../tables"
 
 # List of CSV files (assuming you have 4 tables)
 csv_files = [
@@ -41,7 +41,7 @@ print(deadlines_df.info())
 print(deadlines_df[["Date", "Classification"]].head(4))
 print(deadlines_df.head(4))
 
-output_file = os.path.join("tables", "deadlines_table.csv")
+output_file = os.path.join("../tables", "deadlines_table.csv")
 
 # Save the DataFrame to CSV (without index)
 deadlines_df.to_csv(output_file, index=False)

@@ -15,7 +15,7 @@ from logging_config import configure_logging
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
 # Set up WebDriver
-chrome_driver_path = "C:/Users/pavan/PycharmProjects/PythonProject1/chrome/chromedriver.exe"
+chrome_driver_path = "../chrome/chromedriver.exe"
 service = Service(chrome_driver_path)
 options = webdriver.ChromeOptions()
 options.add_argument("--headless")  # Run in headless mode (remove for debugging)
@@ -44,7 +44,7 @@ try:
     program_data = [{"name": program.text, "url": program.get_attribute("href")} for program in programs]
 
     # Save data to JSON
-    output_file = "scraped_data/utd_programs_links.json"
+    output_file = "../scraped_data/utd_programs_links.json"
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
     with open(output_file, "w", encoding="utf-8") as f:

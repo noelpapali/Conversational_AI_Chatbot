@@ -18,7 +18,7 @@ soup = BeautifulSoup(response.content, 'html.parser')
 tables = soup.find_all('figure', class_='wp-block-table is-style-stripes')
 
 # Create a directory to save CSV files
-output_folder = "tables"
+output_folder = "../tables"
 os.makedirs(output_folder, exist_ok=True)
 
 # Loop through each table and extract data
