@@ -8500,3 +8500,1743 @@ Stacktrace:
 2025-03-03 21:26:36,165 - INFO - Successfully scraped data for program: PHD
 2025-03-03 21:26:36,188 - INFO - Scraped data successfully written to ../scraped_data/utd_programs_data.json
 2025-03-03 21:26:38,508 - INFO - WebDriver closed.
+2025-03-10 16:15:20,014 - INFO - Logging configured successfully.
+2025-03-10 16:15:20,015 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:15:20,239 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:15:20,264 - INFO - Parsed HTML content using BeautifulSoup.
+2025-03-10 16:15:20,264 - INFO - Found 7 <h2> headings.
+2025-03-10 16:15:20,265 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:15:20,265 - INFO - Processed <h2> heading: The Future Demands Different
+2025-03-10 16:15:20,265 - INFO - Processed <h2> heading: Recent Rankings
+2025-03-10 16:15:20,265 - INFO - Processed <h2> heading: Academic Areas
+2025-03-10 16:15:20,265 - INFO - Processed <h2> heading: Degree Programs
+2025-03-10 16:15:20,266 - INFO - Processed <h2> heading: Upcoming Events
+2025-03-10 16:15:20,266 - INFO - Processed <h2> heading: Request Information
+2025-03-10 16:15:20,266 - INFO - Processed <h2> heading: Need to find something else?
+2025-03-10 16:15:20,266 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:17:51,157 - INFO - Logging configured successfully.
+2025-03-10 16:17:51,157 - INFO - Created directory: scraped_data
+2025-03-10 16:17:51,157 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:17:51,363 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:17:51,391 - INFO - Parsed HTML content using BeautifulSoup.
+2025-03-10 16:17:51,392 - INFO - Found 7 <h2> headings.
+2025-03-10 16:17:51,392 - INFO - Opened file for writing: scraped_data\scraped_content.txt
+2025-03-10 16:17:51,392 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 16:17:51,392 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 16:17:51,393 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 16:17:51,393 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 16:17:51,393 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 16:17:51,393 - INFO - Processing <h2> heading: Request Information
+2025-03-10 16:17:51,393 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 16:17:51,393 - INFO - Data scraped successfully and saved to 'scraped_data\scraped_content.txt'
+2025-03-10 16:30:47,394 - INFO - Logging configured successfully.
+2025-03-10 16:30:47,395 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:30:47,591 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:30:47,625 - INFO - Opened file for writing: scraped_data\scraped_content.txt
+2025-03-10 16:30:47,625 - INFO - Scraping headings and subheadings.
+2025-03-10 16:30:47,625 - INFO - Found 7 <h2> headings.
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: Request Information
+2025-03-10 16:30:47,626 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 16:30:47,626 - INFO - Scraping tabbed content.
+2025-03-10 16:30:47,627 - INFO - Found tabbed content container.
+2025-03-10 16:30:47,627 - INFO - Processing tab: BS
+2025-03-10 16:30:47,628 - INFO - Processing tab: MS
+2025-03-10 16:30:47,628 - INFO - Processing tab: MBA
+2025-03-10 16:30:47,628 - INFO - Processing tab: PhD
+2025-03-10 16:30:47,628 - INFO - Processing tab: DBA
+2025-03-10 16:30:47,628 - INFO - Processing tab: Executive Education
+2025-03-10 16:30:47,628 - INFO - Processing tab: Certificates
+2025-03-10 16:30:47,629 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 16:30:47,629 - INFO - Found 'Upcoming Events' section.
+2025-03-10 16:30:47,630 - INFO - Processed 'Upcoming Events' section.
+2025-03-10 16:30:47,630 - INFO - Scraping 'At a Glance' section.
+2025-03-10 16:30:47,631 - INFO - Found 'At a Glance' section.
+2025-03-10 16:30:47,631 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:30:47,631 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 16:30:47,632 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:30:47,632 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:30:47,632 - INFO - Data scraped successfully and saved to 'scraped_data\scraped_content.txt'
+2025-03-10 16:31:15,883 - INFO - Logging configured successfully.
+2025-03-10 16:31:15,883 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:31:16,101 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:31:16,132 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:31:16,133 - INFO - Scraping headings and subheadings.
+2025-03-10 16:31:16,133 - INFO - Found 7 <h2> headings.
+2025-03-10 16:31:16,133 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 16:31:16,133 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 16:31:16,133 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 16:31:16,134 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 16:31:16,134 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 16:31:16,134 - INFO - Processing <h2> heading: Request Information
+2025-03-10 16:31:16,134 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 16:31:16,134 - INFO - Scraping tabbed content.
+2025-03-10 16:31:16,135 - INFO - Found tabbed content container.
+2025-03-10 16:31:16,135 - INFO - Processing tab: BS
+2025-03-10 16:31:16,135 - INFO - Processing tab: MS
+2025-03-10 16:31:16,136 - INFO - Processing tab: MBA
+2025-03-10 16:31:16,136 - INFO - Processing tab: PhD
+2025-03-10 16:31:16,136 - INFO - Processing tab: DBA
+2025-03-10 16:31:16,136 - INFO - Processing tab: Executive Education
+2025-03-10 16:31:16,136 - INFO - Processing tab: Certificates
+2025-03-10 16:31:16,136 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 16:31:16,137 - INFO - Found 'Upcoming Events' section.
+2025-03-10 16:31:16,137 - INFO - Processed 'Upcoming Events' section.
+2025-03-10 16:31:16,137 - INFO - Scraping 'At a Glance' section.
+2025-03-10 16:31:16,138 - INFO - Found 'At a Glance' section.
+2025-03-10 16:31:16,139 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:31:16,139 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 16:31:16,139 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:31:16,139 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:31:16,139 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:35:20,248 - INFO - Logging configured successfully.
+2025-03-10 16:35:20,249 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:35:20,477 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:35:20,509 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:35:20,509 - INFO - Scraping content in order.
+2025-03-10 16:35:20,512 - INFO - Processing <h3> subheading: Upcoming Events
+2025-03-10 16:35:20,512 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 16:35:20,512 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 16:35:20,512 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:35:20,512 - INFO - Processing <h3> subheading: Poets & Quants Online MBA Rankings 2025
+2025-03-10 16:35:20,512 - INFO - Processing <h3> subheading: research contributions, worldwide and in North America, 2019-2023
+2025-03-10 16:35:20,512 - INFO - Processing <h3> subheading: research rank in Top 100 Full-Time Global MBA Programs
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: among Supply Chain Management Undergraduate Programs
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: Best Online MBA Programs, among public universities
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: tied, for Best Online MBA Program Specialties – Business Analytics
+2025-03-10 16:35:20,513 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: Accounting
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: Finance
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: Information Systems
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: Marketing
+2025-03-10 16:35:20,513 - INFO - Processing <h3> subheading: Operations / Supply Chain Management
+2025-03-10 16:35:20,514 - INFO - Processing <h3> subheading: Organizations, Strategy and International Management
+2025-03-10 16:35:20,514 - INFO - Processing <h3> subheading: At a Glance
+2025-03-10 16:35:20,514 - INFO - Found 'At a Glance' section.
+2025-03-10 16:35:20,515 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: BS
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: MS
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: MBA
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: PhD
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: DBA
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: Executive Education
+2025-03-10 16:35:20,515 - INFO - Processing <h3> subheading: Certificates
+2025-03-10 16:35:20,515 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 16:35:20,515 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:35:20,515 - INFO - Processing <h2> heading: Request Information
+2025-03-10 16:35:20,516 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 16:35:20,516 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:36:04,778 - INFO - Logging configured successfully.
+2025-03-10 16:36:04,778 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:36:04,994 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:36:05,018 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:36:05,018 - INFO - Scraping headings and subheadings.
+2025-03-10 16:36:05,019 - INFO - Found 7 <h2> headings.
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: Request Information
+2025-03-10 16:36:05,019 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 16:36:05,019 - INFO - Scraping tabbed content.
+2025-03-10 16:36:05,020 - INFO - Found tabbed content container.
+2025-03-10 16:36:05,020 - INFO - Processing tab: BS
+2025-03-10 16:36:05,021 - INFO - Processing tab: MS
+2025-03-10 16:36:05,021 - INFO - Processing tab: MBA
+2025-03-10 16:36:05,021 - INFO - Processing tab: PhD
+2025-03-10 16:36:05,021 - INFO - Processing tab: DBA
+2025-03-10 16:36:05,021 - INFO - Processing tab: Executive Education
+2025-03-10 16:36:05,021 - INFO - Processing tab: Certificates
+2025-03-10 16:36:05,022 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 16:36:05,022 - INFO - Found 'Upcoming Events' section.
+2025-03-10 16:36:05,022 - INFO - Processed 'Upcoming Events' section.
+2025-03-10 16:36:05,022 - INFO - Scraping 'At a Glance' section.
+2025-03-10 16:36:05,023 - INFO - Found 'At a Glance' section.
+2025-03-10 16:36:05,024 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:36:05,024 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 16:36:05,024 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:36:05,024 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:36:05,025 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:40:01,935 - INFO - Logging configured successfully.
+2025-03-10 16:40:01,936 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:40:02,131 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:40:02,163 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:40:02,164 - INFO - Scraping content in order.
+2025-03-10 16:40:02,165 - INFO - Processing <h3> subheading: Upcoming Events
+2025-03-10 16:40:02,165 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 16:40:02,165 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 16:40:02,165 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:40:02,165 - INFO - Processing <h3> subheading: Poets & Quants Online MBA Rankings 2025
+2025-03-10 16:40:02,165 - INFO - Processing <h3> subheading: research contributions, worldwide and in North America, 2019-2023
+2025-03-10 16:40:02,165 - INFO - Processing <h3> subheading: research rank in Top 100 Full-Time Global MBA Programs
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: among Supply Chain Management Undergraduate Programs
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Best Online MBA Programs, among public universities
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: tied, for Best Online MBA Program Specialties – Business Analytics
+2025-03-10 16:40:02,166 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Accounting
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Finance
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Information Systems
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Marketing
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Operations / Supply Chain Management
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: Organizations, Strategy and International Management
+2025-03-10 16:40:02,166 - INFO - Processing <h3> subheading: At a Glance
+2025-03-10 16:40:02,166 - INFO - Found 'At a Glance' section.
+2025-03-10 16:40:02,167 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 16:40:02,167 - INFO - Found tabbed content.
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: BS
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: MS
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: MBA
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: PhD
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: DBA
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: Executive Education
+2025-03-10 16:40:02,168 - INFO - Processing <h3> subheading: Certificates
+2025-03-10 16:40:02,168 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 16:40:02,168 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:40:02,168 - INFO - Processing <h2> heading: Request Information
+2025-03-10 16:40:02,168 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 16:40:02,169 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:46:40,041 - INFO - Logging configured successfully.
+2025-03-10 16:46:40,042 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:46:40,250 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:46:40,287 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:46:40,288 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:46:40,288 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:46:40,289 - INFO - Found 'At a Glance' section.
+2025-03-10 16:46:40,289 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:46:40,290 - WARNING - No 'Upcoming Events' section found.
+2025-03-10 16:46:40,291 - WARNING - No 'Degree Programs' section found.
+2025-03-10 16:46:40,291 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:47:31,771 - INFO - Logging configured successfully.
+2025-03-10 16:47:31,771 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:47:31,959 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:47:32,005 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:47:32,005 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:47:32,007 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:47:32,007 - INFO - Found 'At a Glance' section.
+2025-03-10 16:47:32,009 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:47:32,009 - WARNING - No 'Upcoming Events' section found.
+2025-03-10 16:47:32,011 - WARNING - No 'Degree Programs' section found.
+2025-03-10 16:47:32,011 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:48:40,809 - INFO - Logging configured successfully.
+2025-03-10 16:48:40,809 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:48:41,016 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:48:41,095 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 16:48:41,095 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:48:41,095 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:48:41,095 - INFO - Found 'At a Glance' section.
+2025-03-10 16:48:41,095 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:48:41,112 - WARNING - No 'Upcoming Events' section found.
+2025-03-10 16:48:41,112 - WARNING - No 'Degree Programs' section found.
+2025-03-10 16:48:41,112 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 16:51:32,508 - INFO - Logging configured successfully.
+2025-03-10 16:51:32,508 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:51:32,709 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:51:32,746 - INFO - Opened file for writing: ..\scraped_data\scraped_content.txt
+2025-03-10 16:51:32,746 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:51:32,747 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:51:32,747 - INFO - Found 'At a Glance' section.
+2025-03-10 16:51:32,748 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:51:32,748 - WARNING - No 'Upcoming Events' section found.
+2025-03-10 16:51:32,749 - WARNING - No 'Degree Programs' section found.
+2025-03-10 16:51:32,749 - INFO - Data scraped successfully and saved to '..\scraped_data\scraped_content.txt'
+2025-03-10 16:54:01,160 - INFO - Logging configured successfully.
+2025-03-10 16:54:01,160 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:54:01,376 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:54:01,400 - INFO - Opened file for writing: ..\scraped_data\scraped_content.txt
+2025-03-10 16:54:01,400 - INFO - Scraping content with headings.
+2025-03-10 16:54:01,402 - INFO - Found target <div> class: ['glance__wrapper']
+2025-03-10 16:54:01,403 - INFO - Data scraped successfully and saved to '..\scraped_data\scraped_content.txt'
+2025-03-10 16:56:21,207 - INFO - Logging configured successfully.
+2025-03-10 16:56:21,207 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 16:56:21,397 - INFO - Successfully retrieved the webpage.
+2025-03-10 16:56:21,413 - INFO - Opened file for writing: ..\scraped_data\scraped_content.txt
+2025-03-10 16:56:21,413 - INFO - Found 'Recent Rankings' section.
+2025-03-10 16:56:21,413 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 16:56:21,413 - INFO - Found 'At a Glance' section.
+2025-03-10 16:56:21,413 - INFO - Processed 'At a Glance' section.
+2025-03-10 16:56:21,413 - WARNING - No 'Upcoming Events' section found.
+2025-03-10 16:56:21,429 - WARNING - No 'Degree Programs' section found.
+2025-03-10 16:56:21,429 - INFO - Data scraped successfully and saved to '..\scraped_data\scraped_content.txt'
+2025-03-10 17:01:26,925 - INFO - Logging configured successfully.
+2025-03-10 17:01:26,925 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:01:27,139 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:01:27,210 - INFO - Opened file for writing: ..\scraped_data\scraped_content.txt
+2025-03-10 17:01:27,210 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:01:27,214 - WARNING - No 'At a Glance' section found.
+2025-03-10 17:01:27,217 - WARNING - No 'Upcoming Events' section found.
+2025-03-10 17:01:27,219 - WARNING - No 'Degree Programs' section found.
+2025-03-10 17:01:27,219 - INFO - Data scraped successfully and saved to '..\scraped_data\scraped_content.txt'
+2025-03-10 17:03:21,396 - INFO - Logging configured successfully.
+2025-03-10 17:03:21,397 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:03:21,591 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:03:21,626 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:03:21,626 - INFO - Scraping headings and subheadings.
+2025-03-10 17:03:21,627 - INFO - Found 7 <h2> headings.
+2025-03-10 17:03:21,627 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:03:21,627 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:03:21,627 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:03:21,627 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:03:21,627 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:03:21,628 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:03:21,628 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:03:21,628 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:03:21,628 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:03:21,628 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:03:21,628 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:03:21,629 - INFO - Found 'At a Glance' section.
+2025-03-10 17:03:21,629 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:03:21,629 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 17:03:21,630 - INFO - Found 'Upcoming Events' section.
+2025-03-10 17:03:21,630 - INFO - Processed 'Upcoming Events' section.
+2025-03-10 17:03:21,630 - INFO - Scraping tabbed content.
+2025-03-10 17:03:21,631 - INFO - Found tabbed content container.
+2025-03-10 17:03:21,631 - INFO - Processing tab: BS
+2025-03-10 17:03:21,631 - INFO - Processing tab: MS
+2025-03-10 17:03:21,632 - INFO - Processing tab: MBA
+2025-03-10 17:03:21,632 - INFO - Processing tab: PhD
+2025-03-10 17:03:21,632 - INFO - Processing tab: DBA
+2025-03-10 17:03:21,632 - INFO - Processing tab: Executive Education
+2025-03-10 17:03:21,632 - INFO - Processing tab: Certificates
+2025-03-10 17:03:21,633 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:09:36,753 - INFO - Logging configured successfully.
+2025-03-10 17:09:36,753 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:09:36,958 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:09:36,995 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:09:36,995 - INFO - Scraping headings and subheadings.
+2025-03-10 17:09:36,995 - INFO - Found 7 <h2> headings.
+2025-03-10 17:09:36,995 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:09:36,995 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:09:36,996 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:09:36,996 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:09:36,996 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:09:36,996 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:09:36,996 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:09:36,996 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:09:36,997 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:09:36,997 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:09:36,997 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:09:36,998 - INFO - Found 'At a Glance' section.
+2025-03-10 17:09:36,998 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:09:36,998 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 17:09:36,999 - INFO - Found 'Upcoming Events' section.
+2025-03-10 17:09:36,999 - INFO - Processed 'Upcoming Events' section.
+2025-03-10 17:09:36,999 - INFO - Scraping tabbed content.
+2025-03-10 17:09:37,000 - INFO - Found tabbed content container.
+2025-03-10 17:09:37,000 - INFO - Processing tab: BS
+2025-03-10 17:09:37,000 - INFO - Processing tab: MS
+2025-03-10 17:09:37,000 - INFO - Processing tab: MBA
+2025-03-10 17:09:37,001 - INFO - Processing tab: PhD
+2025-03-10 17:09:37,001 - INFO - Processing tab: DBA
+2025-03-10 17:09:37,001 - INFO - Processing tab: Executive Education
+2025-03-10 17:09:37,001 - INFO - Processing tab: Certificates
+2025-03-10 17:09:37,001 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:10:29,664 - INFO - Logging configured successfully.
+2025-03-10 17:10:29,664 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:10:29,871 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:10:29,899 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:10:29,899 - INFO - Scraping headings and subheadings.
+2025-03-10 17:10:29,899 - INFO - Found 7 <h2> headings.
+2025-03-10 17:10:29,899 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:10:29,899 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:10:29,900 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:10:29,900 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:10:29,900 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:10:29,900 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:10:29,900 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:10:29,900 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:10:29,901 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:10:29,901 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:10:29,901 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:10:29,902 - INFO - Found 'At a Glance' section.
+2025-03-10 17:10:29,902 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:10:29,902 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 17:10:29,903 - INFO - Found 'Upcoming Events' section.
+2025-03-10 17:10:29,903 - INFO - Processed 'Upcoming Events' section.
+2025-03-10 17:10:29,903 - INFO - Scraping tabbed content.
+2025-03-10 17:10:29,904 - INFO - Found tabbed content container.
+2025-03-10 17:10:29,904 - INFO - Processing tab: BS
+2025-03-10 17:10:29,904 - INFO - Processing tab: MS
+2025-03-10 17:10:29,904 - INFO - Processing tab: MBA
+2025-03-10 17:10:29,905 - INFO - Processing tab: PhD
+2025-03-10 17:10:29,905 - INFO - Processing tab: DBA
+2025-03-10 17:10:29,905 - INFO - Processing tab: Executive Education
+2025-03-10 17:10:29,905 - INFO - Processing tab: Certificates
+2025-03-10 17:10:29,905 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:13:06,771 - INFO - Logging configured successfully.
+2025-03-10 17:13:06,771 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:13:06,973 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:13:07,007 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:13:07,007 - INFO - Scraping headings and subheadings.
+2025-03-10 17:13:07,007 - INFO - Found 7 <h2> headings.
+2025-03-10 17:13:07,007 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:13:07,007 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:13:07,007 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:13:07,008 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:13:07,008 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:13:07,008 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:13:07,008 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:13:07,008 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:13:07,008 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:13:07,009 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:13:07,009 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:13:07,010 - INFO - Found 'At a Glance' section.
+2025-03-10 17:13:07,010 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:13:07,010 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 17:13:07,011 - INFO - Found 'Upcoming Events' section.
+2025-03-10 17:13:07,011 - WARNING - No event blocks found in 'Upcoming Events' section.
+2025-03-10 17:13:07,011 - INFO - Scraping tabbed content.
+2025-03-10 17:13:07,012 - INFO - Found tabbed content container.
+2025-03-10 17:13:07,012 - INFO - Processing tab: BS
+2025-03-10 17:13:07,012 - INFO - Processing tab: MS
+2025-03-10 17:13:07,012 - INFO - Processing tab: MBA
+2025-03-10 17:13:07,013 - INFO - Processing tab: PhD
+2025-03-10 17:13:07,013 - INFO - Processing tab: DBA
+2025-03-10 17:13:07,013 - INFO - Processing tab: Executive Education
+2025-03-10 17:13:07,013 - INFO - Processing tab: Certificates
+2025-03-10 17:13:07,013 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:14:46,580 - INFO - Logging configured successfully.
+2025-03-10 17:14:46,581 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:14:46,778 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:14:46,803 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:14:46,803 - INFO - Scraping headings and subheadings.
+2025-03-10 17:14:46,803 - INFO - Found 7 <h2> headings.
+2025-03-10 17:14:46,803 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:14:46,803 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:14:46,803 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:14:46,804 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:14:46,804 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:14:46,804 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:14:46,804 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:14:46,804 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:14:46,804 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:14:46,805 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:14:46,805 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:14:46,806 - INFO - Found 'At a Glance' section.
+2025-03-10 17:14:46,806 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:14:46,806 - INFO - Scraping tabbed content.
+2025-03-10 17:14:46,807 - INFO - Found tabbed content container.
+2025-03-10 17:14:46,807 - INFO - Processing tab: BS
+2025-03-10 17:14:46,807 - INFO - Processing tab: MS
+2025-03-10 17:14:46,807 - INFO - Processing tab: MBA
+2025-03-10 17:14:46,808 - INFO - Processing tab: PhD
+2025-03-10 17:14:46,808 - INFO - Processing tab: DBA
+2025-03-10 17:14:46,808 - INFO - Processing tab: Executive Education
+2025-03-10 17:14:46,808 - INFO - Processing tab: Certificates
+2025-03-10 17:14:46,808 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:15:58,531 - INFO - Logging configured successfully.
+2025-03-10 17:15:58,531 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:15:58,732 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:15:58,768 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:15:58,768 - INFO - Scraping headings and subheadings.
+2025-03-10 17:15:58,769 - INFO - Found 7 <h2> headings.
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:15:58,769 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:15:58,770 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:15:58,770 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:15:58,770 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:15:58,770 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:15:58,771 - INFO - Found 'At a Glance' section.
+2025-03-10 17:15:58,771 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:15:58,771 - INFO - Scraping tabbed content.
+2025-03-10 17:15:58,772 - INFO - Found tabbed content container.
+2025-03-10 17:15:58,772 - INFO - Processing tab: BS
+2025-03-10 17:15:58,772 - INFO - Processing tab: MS
+2025-03-10 17:15:58,773 - INFO - Processing tab: MBA
+2025-03-10 17:15:58,773 - INFO - Processing tab: PhD
+2025-03-10 17:15:58,773 - INFO - Processing tab: DBA
+2025-03-10 17:15:58,773 - INFO - Processing tab: Executive Education
+2025-03-10 17:15:58,773 - INFO - Processing tab: Certificates
+2025-03-10 17:15:58,773 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:20:43,711 - INFO - Logging configured successfully.
+2025-03-10 17:20:43,711 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:20:43,927 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:20:43,958 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:20:43,958 - INFO - Scraping headings and subheadings.
+2025-03-10 17:20:43,958 - INFO - Found 7 <h2> headings.
+2025-03-10 17:20:43,958 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:20:43,958 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:20:43,958 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:20:43,959 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:20:43,959 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:20:43,959 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:20:43,959 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:20:43,959 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:21:15,472 - INFO - Logging configured successfully.
+2025-03-10 17:21:15,473 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:21:15,662 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:21:15,724 - INFO - Opened file for writing: ../scraped_data\scraped_content1.txt
+2025-03-10 17:21:15,724 - INFO - Scraping headings and subheadings.
+2025-03-10 17:21:15,724 - INFO - Found 7 <h2> headings.
+2025-03-10 17:21:15,724 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:21:15,724 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:21:15,724 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:21:15,725 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:21:15,725 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:21:15,725 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:21:15,725 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:21:15,725 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content1.txt'
+2025-03-10 17:22:00,064 - INFO - Logging configured successfully.
+2025-03-10 17:22:00,064 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:22:00,259 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:22:00,292 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:22:00,292 - INFO - Scraping headings and subheadings.
+2025-03-10 17:22:00,293 - INFO - Found 7 <h2> headings.
+2025-03-10 17:22:00,293 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:22:00,293 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:22:00,293 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:22:00,293 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:22:00,293 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:22:00,294 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:22:00,294 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:22:00,294 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 17:22:00,294 - INFO - Found 'Recent Rankings' section.
+2025-03-10 17:22:00,294 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 17:22:00,294 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:22:00,295 - INFO - Found 'At a Glance' section.
+2025-03-10 17:22:00,295 - INFO - Processed 'At a Glance' section.
+2025-03-10 17:22:00,295 - INFO - Scraping tabbed content.
+2025-03-10 17:22:00,296 - INFO - Found tabbed content container.
+2025-03-10 17:22:00,296 - INFO - Processing tab: BS
+2025-03-10 17:22:00,297 - INFO - Processing tab: MS
+2025-03-10 17:22:00,297 - INFO - Processing tab: MBA
+2025-03-10 17:22:00,297 - INFO - Processing tab: PhD
+2025-03-10 17:22:00,297 - INFO - Processing tab: DBA
+2025-03-10 17:22:00,297 - INFO - Processing tab: Executive Education
+2025-03-10 17:22:00,297 - INFO - Processing tab: Certificates
+2025-03-10 17:22:00,298 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:25:07,349 - INFO - Logging configured successfully.
+2025-03-10 17:25:07,350 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:25:07,589 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:25:07,622 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:25:07,622 - INFO - Scraping headings and subheadings.
+2025-03-10 17:25:07,622 - INFO - Found 7 <h2> headings.
+2025-03-10 17:25:07,622 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:25:07,622 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:25:07,622 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:25:07,622 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:25:07,622 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:25:07,623 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:25:07,623 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:25:07,623 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:28:51,823 - INFO - Logging configured successfully.
+2025-03-10 17:28:51,823 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:28:52,025 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:28:52,045 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:28:52,045 - INFO - Scraping headings and subheadings.
+2025-03-10 17:28:52,045 - INFO - Found 7 <h2> headings.
+2025-03-10 17:28:52,045 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:28:52,045 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:28:52,045 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:28:52,046 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:28:52,046 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:28:52,046 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:28:52,046 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:28:52,046 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:30:24,427 - INFO - Logging configured successfully.
+2025-03-10 17:30:24,428 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:30:24,654 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:30:24,675 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:30:24,675 - INFO - Scraping headings and subheadings.
+2025-03-10 17:30:24,675 - INFO - Found 7 <h2> headings.
+2025-03-10 17:30:24,675 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:30:24,676 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:30:24,676 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:30:24,676 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:30:24,676 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:30:24,676 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:30:24,676 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:30:24,676 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:32:33,448 - INFO - Logging configured successfully.
+2025-03-10 17:32:33,448 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:32:33,647 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:32:33,679 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:32:33,679 - INFO - Scraping headings and subheadings.
+2025-03-10 17:32:33,679 - INFO - Found 7 <h2> headings.
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:32:33,679 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:32:33,679 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:32:33,679 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:32:33,679 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:32:33,679 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:32:33,679 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:32:33,679 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:32:33,679 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:32:33,679 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:32:33,679 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:32:33,679 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:34:59,279 - INFO - Logging configured successfully.
+2025-03-10 17:34:59,279 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:34:59,477 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:34:59,505 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:34:59,505 - INFO - Scraping headings and subheadings.
+2025-03-10 17:34:59,505 - INFO - Found 7 <h2> headings.
+2025-03-10 17:34:59,505 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:34:59,505 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:34:59,505 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:34:59,506 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:34:59,506 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:34:59,506 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:34:59,506 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:34:59,506 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:34:59,507 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:34:59,507 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:34:59,507 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:34:59,507 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:34:59,507 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:34:59,507 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:34:59,507 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:34:59,507 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:34:59,507 - INFO - Scraping all hyperlinks.
+2025-03-10 17:34:59,508 - INFO - Scraped hyperlink: Skip to content -> https://jindal.utdallas.edu#content
+2025-03-10 17:34:59,508 - INFO - Scraped hyperlink: The University of Texas at Dallas -> https://utdallas.edu
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Staff Listing -> https://jindal.utdallas.edu/staff-list/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Galaxy -> https://galaxy.utdallas.edu/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Directory -> https://www.utdallas.edu/directory
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: eLearning -> https://elearning.utdallas.edu/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Map -> https://map.concept3d.com/?id=1772#!m/435245?ce/42138?bm/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Calendar -> https://www.utdallas.edu/academics/calendar/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Courses -> https://coursebook.utdallas.edu/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Apply -> https://jindal.utdallas.edu/admission-requirements/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Inquire -> https://jindal.utdallas.edu/request-information/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink:  -> https://jindal.utdallas.edu
+             https://jindal.utdallas.edu      
+                   
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Rankings -> https://jindal.utdallas.edu/jindal/about-the-jindal-school-of-management/business-school-rankings
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: News -> https://jindal.utdallas.edu/jindal/news
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Careers -> https://jindal.utdallas.edu/jindal/career-management-center/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Calendar -> https://jindal.utdallas.edu/jindal/calendar
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: External Relations -> https://jindal.utdallas.edu/jindal/external-relations/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Community Engagement -> https://jindal.utdallas.edu/jindal/about-the-jindal-school-of-management/community-engagement/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Make a Gift -> https://jindal.utdallas.edu/jindal/giving-jsom/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: About -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: About the Jindal School -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Community Engagement -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/community-engagement/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Conferences -> https://jindal.utdallas.edu/conferences/
+2025-03-10 17:34:59,509 - INFO - Scraped hyperlink: Contact Information -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/contact/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Leadership Team -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/school-leadership/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Message from the Dean -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/message-dean/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Naveen Jindal -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/naveen-jindal/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Rankings -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/business-school-rankings/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Student Experience -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/student-experience/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Outcomes & Success Factors -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/pm/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: MANAGEMENT Magazine -> https://managementmagazine.utdallas.edu
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Programs -> https://jindal.utdallas.edu/academics/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Academic Programs -> https://jindal.utdallas.edu/academics/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Undergraduate -> https://jindal.utdallas.edu/undergraduate-programs/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: Master’s -> https://jindal.utdallas.edu/masters-programs/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: MBA -> https://mba.utdallas.edu/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: PhD -> https://jindal.utdallas.edu/phd-programs/
+2025-03-10 17:34:59,510 - INFO - Scraped hyperlink: DBA -> https://execed.utdallas.edu/doctor-business-administration/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Executive Education -> https://execed.utdallas.edu
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Certificate Programs -> https://jindal.utdallas.edu/certificate-programs/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Honors Programs -> https://jindal.utdallas.edu/honors-programs/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Faculty -> https://jindal.utdallas.edu/faculty/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Jindal School Faculty -> https://jindal.utdallas.edu/faculty/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Accounting -> https://accounting.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Finance and Managerial Economics -> https://fin.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Information Systems -> https://infosystems.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Marketing -> https://marketing.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Operations Management -> https://om.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,511 - INFO - Scraped hyperlink: Organizations, Strategy and International Management -> https://osim.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Faculty Research -> https://jindal.utdallas.edu/faculty-research/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Faculty Mentoring -> https://jindal.utdallas.edu/faculty-mentoring/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Students -> https://jindal.utdallas.edu/student-resources/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Student Resources -> https://jindal.utdallas.edu/student-resources
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Advising -> https://jindal.utdallas.edu/advising/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Business Cards -> https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Business Communication Center -> https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Business Competitions -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/business-competitions/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Career Management Center -> https://jindal.utdallas.edu/career-management-center/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Comet Closet -> https://jindal.utdallas.edu/student-resources/comet-closet/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Dean’s Council -> https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: FAQ -> https://jindal.utdallas.edu/faq/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Finance Lab -> https://jindal.utdallas.edu/student-resources/finance-lab/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: GrammarlyEDU & Quinncia -> https://jindal.utdallas.edu/student-resources/grammarly-quinncia/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Internship Experiences -> https://jsom.utdallas.edu/internship-stories/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Labs -> https://jindal.utdallas.edu/student-resources/labs/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Living Learning Community -> https://jindal.utdallas.edu/student-resources/living-learning-community/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Lockers -> https://jindal.utdallas.edu/student-resources/lockers/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Neurodiversity at UT Dallas -> https://jindal.utdallas.edu/student-resources/neurodiversity/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Scholarships -> https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-10 17:34:59,512 - INFO - Scraped hyperlink: Special Event Requests -> https://jindal.utdallas.edu/student-resources/special-event-room-reservation/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Student Organizations -> https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Study Abroad -> https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: TA/RA Graduate Assistantships -> https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Technology & Facilities Services -> https://jindal.utdallas.edu/student-resources/tech-support/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: UTDserv -> https://jindal.utdallas.edu/undergraduate-programs/utdserv/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: UTDsolv -> https://utdsolv.utdallas.edu/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Alumni -> https://jindal.utdallas.edu/alumni/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: JSOM Alumni -> https://jindal.utdallas.edu/alumni/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Events and Programming -> https://jindal.utdallas.edu/alumni/alumni-events/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Alumni Involvement -> https://jindal.utdallas.edu/alumni/involvement/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Mentor & Volunteer Opportunities -> https://jindal.utdallas.edu/alumni/mentor-volunteer-opportunities/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Alumni Chapters -> https://jindal.utdallas.edu/alumni/alumni-chapters/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Contacts -> https://jindal.utdallas.edu/alumni/alumni-contacts/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Connect with Jindal Alums -> https://cometscommunity.utdallas.edu/groups/54/feed
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Centers & Institutes -> https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Centers & Institutes of Excellence -> https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Center and Laboratory for Behavioral Operations and Economics -> https://jindal.utdallas.edu/centers-of-excellence/lboe/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Center for Finance Strategy & Innovation -> https://jindal.utdallas.edu/centers-of-excellence/cfsi/
+2025-03-10 17:34:59,513 - INFO - Scraped hyperlink: Center for Global Business -> https://jindal.utdallas.edu/centers-of-excellence/cgb/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for Healthcare Leadership and Management -> https://jindal.utdallas.edu/centers-of-excellence/healthcare/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for Information Technology and Management -> https://jindal.utdallas.edu/centers-of-excellence/citm/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for Intelligent Supply Networks -> https://jindal.utdallas.edu/centers-of-excellence/c4isn/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for Internal Auditing Excellence -> https://jindal.utdallas.edu/centers-of-excellence/iaep/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for Professional Sales -> https://jindal.utdallas.edu/centers-of-excellence/pro-sales/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for Retail Innovation and Strategy Excellence -> https://jindal.utdallas.edu/centers-of-excellence/retail-innovation-strategy-excellence/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Center for the Management of Financial and Digital Asset Technologies -> https://jindal.utdallas.edu/centers-of-excellence/fd-tech-center/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Herbert D. Weitzman Institute for Real Estate -> https://jindal.utdallas.edu/centers-of-excellence/weitzman-institute-real-estate/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: Institute for Excellence in Corporate Governance -> https://jindal.utdallas.edu/centers-of-excellence/iecg/
+2025-03-10 17:34:59,514 - INFO - Scraped hyperlink: International Center for Decision and Risk Analysis -> https://jindal.utdallas.edu/centers-of-excellence/icdria/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: The Institute for Innovation & Entrepreneurship -> https://www.utdallas.edu/iie
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Morris Hite Center -> https://jindal.utdallas.edu/centers-of-excellence/morris-hite-center-for-marketing/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Sustainable Global Business Initiative -> https://jindal.utdallas.edu/centers-of-excellence/cgb/sustainable-global-business-initiative/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: UTD Top 100™ -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: UTD Top 100™ Research Rankings -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: North American Rankings -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/northRankings#20192023
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Worldwide Rankings -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/worldRankings#20192023
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Admission -> https://jindal.utdallas.edu/admission-requirements/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Undergraduate Admission -> https://jindal.utdallas.edu/admission-requirements/undergraduate/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Graduate Admission -> https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: MBA Admission -> https://mba.utdallas.edu/admissions/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: PhD Admission -> https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Exec Ed Admission -> https://execed.utdallas.edu/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Certificate Programs -> https://jindal.utdallas.edu/certificate-programs/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Admission Resources -> https://jindal.utdallas.edu/admission-requirements/admission-resources/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Scholarships -> https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: About -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: About the Jindal School -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/
+2025-03-10 17:34:59,515 - INFO - Scraped hyperlink: Community Engagement -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/community-engagement/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Conferences -> https://jindal.utdallas.edu/conferences/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Contact Information -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/contact/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Leadership Team -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/school-leadership/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Message from the Dean -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/message-dean/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Naveen Jindal -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/naveen-jindal/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Rankings -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/business-school-rankings/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Student Experience -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/student-experience/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Outcomes & Success Factors -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/pm/
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: MANAGEMENT Magazine -> https://managementmagazine.utdallas.edu
+2025-03-10 17:34:59,516 - INFO - Scraped hyperlink: Programs -> https://jindal.utdallas.edu/academics/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Academic Programs -> https://jindal.utdallas.edu/academics/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Undergraduate -> https://jindal.utdallas.edu/undergraduate-programs/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Master’s -> https://jindal.utdallas.edu/masters-programs/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: MBA -> https://mba.utdallas.edu/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: PhD -> https://jindal.utdallas.edu/phd-programs/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: DBA -> https://execed.utdallas.edu/doctor-business-administration/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Executive Education -> https://execed.utdallas.edu
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Certificate Programs -> https://jindal.utdallas.edu/certificate-programs/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Honors Programs -> https://jindal.utdallas.edu/honors-programs/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Faculty -> https://jindal.utdallas.edu/faculty/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Jindal School Faculty -> https://jindal.utdallas.edu/faculty/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Accounting -> https://accounting.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Finance and Managerial Economics -> https://fin.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,517 - INFO - Scraped hyperlink: Information Systems -> https://infosystems.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Marketing -> https://marketing.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Operations Management -> https://om.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Organizations, Strategy and International Management -> https://osim.utdallas.edu/program-resources/faculty-research/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Faculty Research -> https://jindal.utdallas.edu/faculty-research/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Faculty Mentoring -> https://jindal.utdallas.edu/faculty-mentoring/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Students -> https://jindal.utdallas.edu/student-resources/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Student Resources -> https://jindal.utdallas.edu/student-resources
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Advising -> https://jindal.utdallas.edu/advising/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Business Cards -> https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Business Communication Center -> https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Business Competitions -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/business-competitions/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Career Management Center -> https://jindal.utdallas.edu/career-management-center/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Comet Closet -> https://jindal.utdallas.edu/student-resources/comet-closet/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Dean’s Council -> https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: FAQ -> https://jindal.utdallas.edu/faq/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Finance Lab -> https://jindal.utdallas.edu/student-resources/finance-lab/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: GrammarlyEDU & Quinncia -> https://jindal.utdallas.edu/student-resources/grammarly-quinncia/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Internship Experiences -> https://jsom.utdallas.edu/internship-stories/
+2025-03-10 17:34:59,518 - INFO - Scraped hyperlink: Labs -> https://jindal.utdallas.edu/student-resources/labs/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Living Learning Community -> https://jindal.utdallas.edu/student-resources/living-learning-community/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Lockers -> https://jindal.utdallas.edu/student-resources/lockers/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Neurodiversity at UT Dallas -> https://jindal.utdallas.edu/student-resources/neurodiversity/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Scholarships -> https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Special Event Requests -> https://jindal.utdallas.edu/student-resources/special-event-room-reservation/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Student Organizations -> https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Study Abroad -> https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: TA/RA Graduate Assistantships -> https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Technology & Facilities Services -> https://jindal.utdallas.edu/student-resources/tech-support/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: UTDserv -> https://jindal.utdallas.edu/undergraduate-programs/utdserv/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: UTDsolv -> https://utdsolv.utdallas.edu/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Alumni -> https://jindal.utdallas.edu/alumni/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: JSOM Alumni -> https://jindal.utdallas.edu/alumni/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Events and Programming -> https://jindal.utdallas.edu/alumni/alumni-events/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Alumni Involvement -> https://jindal.utdallas.edu/alumni/involvement/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Mentor & Volunteer Opportunities -> https://jindal.utdallas.edu/alumni/mentor-volunteer-opportunities/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Alumni Chapters -> https://jindal.utdallas.edu/alumni/alumni-chapters/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Contacts -> https://jindal.utdallas.edu/alumni/alumni-contacts/
+2025-03-10 17:34:59,519 - INFO - Scraped hyperlink: Connect with Jindal Alums -> https://cometscommunity.utdallas.edu/groups/54/feed
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Centers & Institutes -> https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Centers & Institutes of Excellence -> https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center and Laboratory for Behavioral Operations and Economics -> https://jindal.utdallas.edu/centers-of-excellence/lboe/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Finance Strategy & Innovation -> https://jindal.utdallas.edu/centers-of-excellence/cfsi/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Global Business -> https://jindal.utdallas.edu/centers-of-excellence/cgb/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Healthcare Leadership and Management -> https://jindal.utdallas.edu/centers-of-excellence/healthcare/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Information Technology and Management -> https://jindal.utdallas.edu/centers-of-excellence/citm/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Intelligent Supply Networks -> https://jindal.utdallas.edu/centers-of-excellence/c4isn/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Internal Auditing Excellence -> https://jindal.utdallas.edu/centers-of-excellence/iaep/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Professional Sales -> https://jindal.utdallas.edu/centers-of-excellence/pro-sales/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for Retail Innovation and Strategy Excellence -> https://jindal.utdallas.edu/centers-of-excellence/retail-innovation-strategy-excellence/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Center for the Management of Financial and Digital Asset Technologies -> https://jindal.utdallas.edu/centers-of-excellence/fd-tech-center/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Herbert D. Weitzman Institute for Real Estate -> https://jindal.utdallas.edu/centers-of-excellence/weitzman-institute-real-estate/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Institute for Excellence in Corporate Governance -> https://jindal.utdallas.edu/centers-of-excellence/iecg/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: International Center for Decision and Risk Analysis -> https://jindal.utdallas.edu/centers-of-excellence/icdria/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: The Institute for Innovation & Entrepreneurship -> https://www.utdallas.edu/iie
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Morris Hite Center -> https://jindal.utdallas.edu/centers-of-excellence/morris-hite-center-for-marketing/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Sustainable Global Business Initiative -> https://jindal.utdallas.edu/centers-of-excellence/cgb/sustainable-global-business-initiative/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: UTD Top 100™ -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: UTD Top 100™ Research Rankings -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: North American Rankings -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/northRankings#20192023
+2025-03-10 17:34:59,520 - INFO - Scraped hyperlink: Worldwide Rankings -> https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/worldRankings#20192023
+2025-03-10 17:34:59,521 - INFO - Scraped hyperlink: Admission -> https://jindal.utdallas.edu/admission-requirements/
+2025-03-10 17:34:59,521 - INFO - Scraped hyperlink: Undergraduate Admission -> https://jindal.utdallas.edu/admission-requirements/undergraduate/
+2025-03-10 17:34:59,521 - INFO - Scraped hyperlink: Graduate Admission -> https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-10 17:34:59,521 - INFO - Scraped hyperlink: MBA Admission -> https://mba.utdallas.edu/admissions/
+2025-03-10 17:34:59,521 - INFO - Scraped hyperlink: PhD Admission -> https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-10 17:34:59,521 - INFO - Scraped hyperlink: Exec Ed Admission -> https://execed.utdallas.edu/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Certificate Programs -> https://jindal.utdallas.edu/certificate-programs/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Admission Resources -> https://jindal.utdallas.edu/admission-requirements/admission-resources/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Scholarships -> https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Rankings -> https://jindal.utdallas.edu/jindal/about-the-jindal-school-of-management/business-school-rankings
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: News -> https://jindal.utdallas.edu/jindal/news
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Careers -> https://jindal.utdallas.edu/jindal/career-management-center/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Calendar -> https://jindal.utdallas.edu/jindal/calendar
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: External Relations -> https://jindal.utdallas.edu/jindal/external-relations/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Community Engagement -> https://jindal.utdallas.edu/jindal/about-the-jindal-school-of-management/community-engagement/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Make a Gift -> https://jindal.utdallas.edu/jindal/giving-jsom/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Request Information -> https://jindal.utdallas.edu/request-information/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Apply Now -> https://utdallas.my.site.com
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Upcoming Events -> https://jindal.utdallas.edu/calendar
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Supply Chain Directors Conference -> https://jindal.utdallas.edu/2025-03/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Undergraduate Deans Conference -> https://jindal.utdallas.edu/ug-deans-conference/2025-03/
+2025-03-10 17:34:59,522 - INFO - Scraped hyperlink: Join us for the 2025 JSOM Reunion -> https://jindal.utdallas.edu/alumni/jsomreunion/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: News -> https://jindal.utdallas.edu/news/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: About the Jindal School -> https://jindal.utdallas.edu/jindal/about-the-jindal-school-of-management/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Visit UT Dallas -> https://www.utdallas.edu/visitors/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Accounting -> https://jindal.utdallas.edu/accounting/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Finance -> https://jindal.utdallas.edu/fin/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Information Systems -> https://jindal.utdallas.edu/infosystems/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Marketing -> https://jindal.utdallas.edu/marketing/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Operations / Supply Chain Management -> https://jindal.utdallas.edu/om/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: Organizations, Strategy and International Management -> https://jindal.utdallas.edu/osim/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Accounting -> https://jindal.utdallas.edu/accounting/bs-accounting/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Business Administration -> https://jindal.utdallas.edu/osim/bs-ba/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Business Analytics and Artificial Intelligence (STEM) -> https://jindal.utdallas.edu/infosystems/bs-business-analytics/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Finance -> https://jindal.utdallas.edu/fin/bs-finance/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Global Business -> https://jindal.utdallas.edu/osim/bs-global-business/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Healthcare Management -> https://jindal.utdallas.edu/osim/bs-healthcare-management/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Human Resource Management -> https://jindal.utdallas.edu/osim/bs-hrm/
+2025-03-10 17:34:59,523 - INFO - Scraped hyperlink: BS Computer Information Systems & Technology (STEM) -> https://jindal.utdallas.edu/infosystems/bs-cis-tech/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: BS Marketing -> https://jindal.utdallas.edu/marketing/bs-marketing/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: BS Supply Chain Management and Analytics (STEM) -> https://jindal.utdallas.edu/om/bs-scm/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Business Analytics and Artificial Intelligence Supply Chain Management and Analytics -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/business-analytics-supply-chain-management
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Finance and Economics -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/finance-economics
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Global Business & Human Resource Management -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/global-business-human-resource-management
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Global Business & International Political Economy -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/global-business-international-political-economy
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Global Business & Marketing -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/global-business-marketing
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Global Business & Supply chain Management and Analytics -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/global-business-supply-chain-management
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Healthcare Management & Biology -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/healthcare-management-biology
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Healthcare Management & Molecular Biology -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/healthcare-management-molecular-biology
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Marketing & Supply Chain Management -> https://catalog.utdallas.edu/2024/undergraduate/programs/jsom/marketing-supply-chain-management
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: Davidson Management Honors Program -> https://jindal.utdallas.edu/jindal/honors-programs/dmhp/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: MS Accounting and Analytics (STEM) -> https://jindal.utdallas.edu/accounting/masters-degree-options/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: MS Business Analytics and Artificial Intelligence (STEM) -> https://jindal.utdallas.edu/infosystems/ms-ba-options/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: MS Energy Management (STEM) -> https://jindal.utdallas.edu/fin/ms-energy-management/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: MS Finance (STEM) -> https://jindal.utdallas.edu/fin/masters-degree-options/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: MS Financial Technology & Analytics (STEM) -> https://jindal.utdallas.edu/fin/ms-ftec/
+2025-03-10 17:34:59,524 - INFO - Scraped hyperlink: MS Healthcare Leadership & Management -> https://jindal.utdallas.edu/osim/ms-healthcare-management/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS Information Technology & Management (STEM) -> https://jindal.utdallas.edu/infosystems/ms-information-technology/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS Innovation and Entrepreneurship -> https://jindal.utdallas.edu/osim/ms-innovation-entrepreneurship/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS International Management Studies -> https://jindal.utdallas.edu/osim/ms-international-management-studies/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS Management Science (STEM) -> https://jindal.utdallas.edu/om/ms-management/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS Marketing (STEM) -> https://jindal.utdallas.edu/marketing/masters-in-marketing/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS Supply Chain Management (STEM) -> https://jindal.utdallas.edu/om/ms-scm/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: MS Systems Engineering & Management (STEM) -> https://sem.utdallas.edu/
+2025-03-10 17:34:59,525 - INFO - Scraped hyperlink: Full-Time MBA -> https://jindal.utdallas.edu/mba/academics/full-time-mba/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: PMBA Evening Cohort -> https://jindal.utdallas.edu/mba/academics/professional-mba-evening-cohort/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: PMBA Flex -> https://jindal.utdallas.edu/mba/academics/professional-mba-flex/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: PMBA Online -> https://jindal.utdallas.edu/mba/academics/professional-mba-online/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: Executive MBA -> https://jindal.utdallas.edu/execed/emba/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: Customized Online Programs -> https://jindal.utdallas.edu/execed/global-leadership/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: PhD International Management Studies -> https://jindal.utdallas.edu/jindal/phd-programs/international-management-studies/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: PhD Management Science -> https://jindal.utdallas.edu/jindal/phd-programs/management-science/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: Doctor of Business Administration -> https://jindal.utdallas.edu/execed/doctor-business-administration/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: View All Executive Education Programs -> https://jindal.utdallas.edu/execed/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: View All Certificate Programs -> https://jindal.utdallas.edu/jindal/certificate-programs/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: View All Events -> https://jindal.utdallas.edu/jindal/calendar/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink: Request Information -> https://jindal.utdallas.edu/jindal/request-information/
+2025-03-10 17:34:59,526 - INFO - Scraped hyperlink:  -> https://jindal.utdallas.edu
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: The University of Texas at Dallas -> https://utdallas.edu
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Undergraduate -> https://jindal.utdallas.edu/undergraduate-programs/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: MS -> https://jindal.utdallas.edu/masters-programs/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: MBA -> https://mba.utdallas.edu/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: PhD -> https://jindal.utdallas.edu/phd-programs/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Executive Education -> https://execed.utdallas.edu/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Certificates -> https://jindal.utdallas.edu/certificate-programs/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Centers & Institutes -> https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Staff -> https://jindal.utdallas.edu/staff-list/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: About Jindal School -> https://jindal.utdallas.edu/about-the-jindal-school-of-management/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Advising -> https://jindal.utdallas.edu/advising/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Career Management -> https://jindal.utdallas.edu/career-management-center/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Alumni -> https://jindal.utdallas.edu/alumni/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: External Relations -> https://jindal.utdallas.edu/external-relations/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Faculty & Research -> https://jindal.utdallas.edu/faculty/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: Faculty Publications -> https://jsom.utdallas.edu/list-of-published-works
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink: News & Stories -> https://jindal.utdallas.edu/external-relations/news-stories/
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink:  -> https://www.facebook.com/jindal.utdallas
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink:  -> https://twitter.com/jindal_utdallas
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink:  -> https://instagram.com/jindal_utdallas
+2025-03-10 17:34:59,527 - INFO - Scraped hyperlink:  -> https://www.linkedin.com/school/university-of-texas-at-dallas---naveen-jindal-school-of-management/mycompany/?viewAsMember=true
+2025-03-10 17:34:59,528 - INFO - Scraped hyperlink:  -> https://www.youtube.com/channel/UCoUw4cCn3EFg2RIQKJt8aSA
+2025-03-10 17:34:59,528 - INFO - Scraped hyperlink: Sitemap -> https://jindal.utdallas.edu/sitemap/
+2025-03-10 17:34:59,528 - INFO - Scraped hyperlink: Content Owners -> https://jindal.utdallas.edu/content-owners/
+2025-03-10 17:34:59,528 - INFO - Scraped hyperlink: Privacy Policy -> https://jindal.utdallas.edu/privacy-policy/
+2025-03-10 17:34:59,528 - INFO - Scraped hyperlink: Accessibility -> https://www.utdallas.edu/about-us/accessibility/
+2025-03-10 17:34:59,528 - INFO - Scraped hyperlink: Back to Top -> https://jindal.utdallas.edu#top
+2025-03-10 17:34:59,529 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:37:53,944 - INFO - Logging configured successfully.
+2025-03-10 17:37:53,944 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:37:54,148 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:37:54,168 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:37:54,168 - INFO - Scraping headings and subheadings.
+2025-03-10 17:37:54,169 - INFO - Found 7 <h2> headings.
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:37:54,169 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:37:54,169 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:37:54,170 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:37:54,170 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:37:54,170 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:37:54,170 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:37:54,170 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:37:54,170 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:37:54,170 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:37:54,170 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:37:54,171 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:39:33,784 - INFO - Logging configured successfully.
+2025-03-10 17:39:33,785 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:39:33,985 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:39:34,009 - INFO - Opened file for writing: ../scraped_data\scraped_content2.txt
+2025-03-10 17:39:34,009 - INFO - Scraping headings and subheadings.
+2025-03-10 17:39:34,009 - INFO - Found 7 <h2> headings.
+2025-03-10 17:39:34,009 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:39:34,009 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:39:34,009 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:39:34,010 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:39:34,010 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:39:34,010 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:39:34,010 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:39:34,010 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:39:34,011 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:39:34,012 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:39:34,012 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:39:34,012 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:39:34,012 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:39:34,012 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:39:34,012 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:39:34,012 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:39:34,012 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content2.txt'
+2025-03-10 17:43:24,072 - INFO - Logging configured successfully.
+2025-03-10 17:43:24,072 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:43:24,271 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:43:24,295 - INFO - Opened file for writing: ../scraped_data\scraped_content2.txt
+2025-03-10 17:43:24,295 - INFO - Scraping headings and subheadings.
+2025-03-10 17:43:24,295 - INFO - Found 7 <h2> headings.
+2025-03-10 17:43:24,295 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:43:24,296 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:43:24,296 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:43:24,296 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:43:24,296 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:43:24,296 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:43:24,296 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:43:24,296 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:43:24,297 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:43:24,297 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:43:24,297 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:43:24,297 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:43:24,297 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:43:24,297 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:43:24,297 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:43:24,297 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:43:24,299 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content2.txt'
+2025-03-10 17:44:59,062 - INFO - Logging configured successfully.
+2025-03-10 17:44:59,063 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:44:59,271 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:44:59,302 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:44:59,302 - INFO - Scraping headings and subheadings.
+2025-03-10 17:44:59,303 - INFO - Found 7 <h2> headings.
+2025-03-10 17:44:59,303 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:44:59,303 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:44:59,303 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:44:59,303 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:44:59,304 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:44:59,304 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:44:59,304 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:44:59,304 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:44:59,305 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:44:59,305 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:44:59,305 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:44:59,305 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:44:59,305 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:44:59,305 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:44:59,305 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:44:59,306 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:44:59,306 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:46:45,511 - INFO - Logging configured successfully.
+2025-03-10 17:46:45,511 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:46:45,716 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:46:45,750 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:46:45,750 - INFO - Scraping headings and subheadings.
+2025-03-10 17:46:45,750 - INFO - Found 7 <h2> headings.
+2025-03-10 17:46:45,750 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:46:45,751 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:46:45,751 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:46:45,751 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:46:45,751 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:47:06,197 - INFO - Logging configured successfully.
+2025-03-10 17:47:06,197 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:47:06,406 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:47:06,438 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:47:06,438 - INFO - Scraping headings and subheadings.
+2025-03-10 17:47:06,438 - INFO - Found 7 <h2> headings.
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:47:06,438 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:47:06,438 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:47:06,438 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:47:06,438 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:47:06,438 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:47:06,438 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:47:06,438 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:47:06,438 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:47:06,438 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:47:06,438 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:47:06,438 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:47:34,695 - INFO - Logging configured successfully.
+2025-03-10 17:47:34,696 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:47:34,884 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:47:34,909 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:47:34,909 - INFO - Scraping headings and subheadings.
+2025-03-10 17:47:34,910 - INFO - Found 7 <h2> headings.
+2025-03-10 17:47:34,910 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:47:34,910 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:47:34,910 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:47:34,910 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:47:34,911 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:47:34,911 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:47:34,911 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:47:34,911 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:47:34,912 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:47:34,912 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:47:34,912 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:47:34,912 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:47:34,912 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:47:34,912 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:47:34,912 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:47:34,913 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:47:34,913 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:49:15,366 - INFO - Logging configured successfully.
+2025-03-10 17:49:15,367 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:49:15,579 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:49:15,602 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:49:15,603 - INFO - Scraping headings and subheadings.
+2025-03-10 17:49:15,603 - INFO - Found 7 <h2> headings.
+2025-03-10 17:49:15,603 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:49:15,603 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:49:15,603 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:49:15,603 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:49:15,604 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:49:15,604 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:49:15,604 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:49:15,604 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:49:15,605 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:49:15,605 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:49:15,605 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:49:15,605 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:49:15,605 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:49:15,605 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:49:15,606 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:49:15,606 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:49:15,606 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:54:35,991 - INFO - Logging configured successfully.
+2025-03-10 17:54:35,991 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:54:36,506 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:54:36,538 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:54:36,538 - INFO - Scraping headings and subheadings.
+2025-03-10 17:54:36,538 - INFO - Found 7 <h2> headings.
+2025-03-10 17:54:36,539 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:54:36,539 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:54:36,539 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:54:36,539 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:54:36,540 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:54:36,540 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:54:36,540 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:54:36,540 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:54:36,541 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:54:36,541 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:54:36,541 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:54:36,541 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:54:36,541 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:54:36,541 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:54:36,541 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:54:36,541 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:54:36,541 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:54:41,940 - INFO - Logging configured successfully.
+2025-03-10 17:54:41,940 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:54:42,146 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:54:42,179 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:54:42,179 - INFO - Scraping headings and subheadings.
+2025-03-10 17:54:42,179 - INFO - Found 7 <h2> headings.
+2025-03-10 17:54:42,180 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:54:42,180 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:54:42,180 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:54:42,180 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:54:42,181 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:54:42,181 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:54:42,181 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:54:42,181 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:54:42,182 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:54:42,182 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:54:42,182 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:54:42,182 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:54:42,182 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:54:42,182 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:54:42,182 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:54:42,182 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:54:42,182 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:58:15,048 - INFO - Logging configured successfully.
+2025-03-10 17:58:15,049 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:58:15,267 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:58:15,299 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:58:15,299 - INFO - Scraping headings and subheadings.
+2025-03-10 17:58:15,300 - INFO - Found 7 <h2> headings.
+2025-03-10 17:58:15,300 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:58:15,300 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:58:15,300 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:58:15,300 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:58:15,301 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:58:15,301 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:58:15,301 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:58:15,301 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:58:15,302 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:58:15,302 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:58:15,302 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:58:15,302 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:58:15,302 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:58:15,302 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:58:15,303 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:58:15,303 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:58:15,303 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 17:59:19,558 - INFO - Logging configured successfully.
+2025-03-10 17:59:19,559 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 17:59:19,768 - INFO - Successfully retrieved the webpage.
+2025-03-10 17:59:19,802 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 17:59:19,802 - INFO - Scraping headings and subheadings.
+2025-03-10 17:59:19,802 - INFO - Found 7 <h2> headings.
+2025-03-10 17:59:19,802 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 17:59:19,802 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 17:59:19,802 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 17:59:19,803 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 17:59:19,803 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 17:59:19,803 - INFO - Processing <h2> heading: Request Information
+2025-03-10 17:59:19,803 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 17:59:19,803 - INFO - Scraping 'At a Glance' section.
+2025-03-10 17:59:19,804 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 17:59:19,804 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 17:59:19,804 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 17:59:19,805 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 17:59:19,805 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 17:59:19,805 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 17:59:19,805 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 17:59:19,805 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 17:59:19,805 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:02:26,234 - INFO - Logging configured successfully.
+2025-03-10 18:02:26,236 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:02:26,435 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:02:26,463 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 18:02:26,463 - INFO - Scraping headings and subheadings.
+2025-03-10 18:02:26,464 - INFO - Found 7 <h2> headings.
+2025-03-10 18:02:26,464 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:02:26,464 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:02:26,464 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:02:26,464 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:02:26,464 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:02:26,464 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:02:26,465 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:02:26,465 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:02:26,465 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 18:02:26,465 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 18:02:26,465 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 18:02:26,466 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 18:02:26,466 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 18:02:26,466 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 18:02:26,466 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 18:02:26,466 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 18:02:26,466 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:04:19,864 - INFO - Logging configured successfully.
+2025-03-10 18:04:19,864 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:04:20,055 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:04:20,103 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 18:04:20,103 - INFO - Scraping headings and subheadings.
+2025-03-10 18:04:20,103 - INFO - Found 7 <h2> headings.
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:04:20,104 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:04:20,104 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:04:20,106 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 18:04:20,106 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 18:04:20,106 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 18:04:20,106 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 18:04:20,106 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 18:04:20,106 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 18:04:20,106 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 18:04:20,106 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 18:04:20,107 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:04:59,230 - INFO - Logging configured successfully.
+2025-03-10 18:04:59,230 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:04:59,425 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:04:59,449 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 18:04:59,450 - INFO - Scraping headings and subheadings.
+2025-03-10 18:04:59,450 - INFO - Found 7 <h2> headings.
+2025-03-10 18:04:59,450 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:04:59,450 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:04:59,450 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:04:59,450 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:04:59,451 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:04:59,451 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:04:59,451 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:04:59,451 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:04:59,452 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 18:04:59,452 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 18:04:59,452 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 18:04:59,452 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 18:04:59,452 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 18:04:59,453 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 18:04:59,453 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 18:04:59,453 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 18:04:59,453 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:11:34,192 - INFO - Logging configured successfully.
+2025-03-10 18:11:34,193 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:11:34,403 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:11:34,427 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 18:11:34,427 - INFO - Scraping headings and subheadings.
+2025-03-10 18:11:34,427 - INFO - Found 7 <h2> headings.
+2025-03-10 18:11:34,427 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:11:34,428 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:11:34,428 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:11:34,428 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:11:34,428 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:11:34,428 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:11:34,428 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:11:34,428 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:11:34,429 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 18:11:34,429 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 18:11:34,429 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 18:11:34,429 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 18:11:34,429 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 18:11:34,429 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 18:11:34,430 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 18:11:34,430 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 18:11:34,430 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:14:39,371 - INFO - Logging configured successfully.
+2025-03-10 18:14:39,371 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:14:39,556 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:14:39,576 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 18:14:39,577 - INFO - Scraping Degree Programs section.
+2025-03-10 18:14:39,577 - WARNING - No Degree Programs section found.
+2025-03-10 18:14:39,577 - INFO - Scraping headings and subheadings.
+2025-03-10 18:14:39,578 - INFO - Found 7 <h2> headings.
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:14:39,578 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:14:39,578 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:14:39,579 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 18:14:39,579 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 18:14:39,579 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 18:14:39,579 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 18:14:39,579 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 18:14:39,579 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 18:14:39,579 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 18:14:39,579 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 18:14:39,580 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:15:15,180 - INFO - Logging configured successfully.
+2025-03-10 18:15:15,180 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:15:15,380 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:15:15,418 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 18:15:15,418 - INFO - Scraping headings and subheadings.
+2025-03-10 18:15:15,419 - INFO - Found 7 <h2> headings.
+2025-03-10 18:15:15,419 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:15:15,419 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:15:15,419 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:15:15,420 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:15:15,420 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:15:15,420 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:15:15,421 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:15:15,421 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:15:15,421 - INFO - Scraped: 10,332 STUDENTS - from 71 countries
+2025-03-10 18:15:15,421 - INFO - Scraped: 386 FACULTY - in business areas
+2025-03-10 18:15:15,421 - INFO - Scraped: 57,073 ALUMNI - worldwide
+2025-03-10 18:15:15,422 - INFO - Scraped: 35 DEGREE PROGRAMS - in undergraduate, graduate PhD and executive education
+2025-03-10 18:15:15,422 - INFO - Scraped: 345k SERVICE HOURS - by students with UTDserv
+2025-03-10 18:15:15,422 - INFO - Scraped: $10M+ DOLLARS - community impact
+2025-03-10 18:15:15,422 - INFO - Scraped: 75+ STUDENT ORGANIZATIONS - within Jindal School
+2025-03-10 18:15:15,422 - INFO - Scraped: 223 UNIQUE VISITS BY EMPLOYERS - organized by Career Management Center in 2022
+2025-03-10 18:15:15,422 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 18:20:19,078 - INFO - Logging configured successfully.
+2025-03-10 18:20:19,079 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:20:19,292 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:20:19,317 - INFO - Opened file for writing: ../scraped_data\scraped_content3.txt
+2025-03-10 18:20:19,317 - INFO - Scraping headings and subheadings.
+2025-03-10 18:20:19,317 - INFO - Found 7 <h2> headings.
+2025-03-10 18:20:19,317 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:20:19,317 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:20:19,318 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:20:19,318 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:20:19,318 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:20:19,318 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:20:19,318 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:20:19,318 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 18:20:19,319 - INFO - Found 'Recent Rankings' section.
+2025-03-10 18:20:19,319 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 18:20:19,319 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:20:19,320 - INFO - Found 'At a Glance' section.
+2025-03-10 18:20:19,320 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:20:19,320 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 18:20:19,321 - INFO - Found 'Upcoming Events' section.
+2025-03-10 18:20:19,321 - WARNING - No event blocks found in 'Upcoming Events' section.
+2025-03-10 18:20:19,321 - INFO - Scraping tabbed content.
+2025-03-10 18:20:19,322 - INFO - Found tabbed content container.
+2025-03-10 18:20:19,322 - INFO - Processing tab: BS
+2025-03-10 18:20:19,322 - INFO - Processing tab: MS
+2025-03-10 18:20:19,322 - INFO - Processing tab: MBA
+2025-03-10 18:20:19,323 - INFO - Processing tab: PhD
+2025-03-10 18:20:19,323 - INFO - Processing tab: DBA
+2025-03-10 18:20:19,323 - INFO - Processing tab: Executive Education
+2025-03-10 18:20:19,323 - INFO - Processing tab: Certificates
+2025-03-10 18:20:19,323 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content3.txt'
+2025-03-10 18:24:24,633 - INFO - Logging configured successfully.
+2025-03-10 18:24:24,633 - INFO - Directory ensured: ../scraped_data
+2025-03-10 18:24:24,633 - INFO - Fetching: https://jindal.utdallas.edu/
+2025-03-10 18:24:24,853 - INFO - Writing to: ../scraped_data\scraped_content.txt
+2025-03-10 18:24:24,853 - INFO - Scraping headings...
+2025-03-10 18:24:24,869 - INFO - Processing: The Future Demands Different
+2025-03-10 18:24:24,869 - INFO - Processing: Recent Rankings
+2025-03-10 18:24:24,869 - INFO - Processing: Academic Areas
+2025-03-10 18:24:24,869 - INFO - Processing: Degree Programs
+2025-03-10 18:24:24,869 - INFO - Processing: Upcoming Events
+2025-03-10 18:24:24,869 - INFO - Processing: Request Information
+2025-03-10 18:24:24,869 - INFO - Processing: Need to find something else?
+2025-03-10 18:24:24,869 - INFO - Scraping Recent Rankings...
+2025-03-10 18:24:24,869 - INFO - Scraping At a Glance...
+2025-03-10 18:24:24,869 - INFO - Scraping upcoming events...
+2025-03-10 18:24:24,869 - INFO - Scraping tabbed content...
+2025-03-10 18:24:24,869 - INFO - Processing tab: BS
+2025-03-10 18:24:24,869 - INFO - Processing tab: MS
+2025-03-10 18:24:24,869 - INFO - Processing tab: MBA
+2025-03-10 18:24:24,869 - INFO - Processing tab: PhD
+2025-03-10 18:24:24,869 - INFO - Processing tab: DBA
+2025-03-10 18:24:24,869 - INFO - Processing tab: Executive Education
+2025-03-10 18:24:24,869 - INFO - Processing tab: Certificates
+2025-03-10 18:24:24,869 - INFO - Data saved to ../scraped_data\scraped_content.txt
+2025-03-10 18:28:56,033 - INFO - Logging configured successfully.
+2025-03-10 18:28:56,034 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:28:56,235 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:28:56,269 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:28:56,269 - INFO - Scraping headings and subheadings.
+2025-03-10 18:28:56,270 - INFO - Found 7 <h2> headings.
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:28:56,270 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:28:56,270 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 18:28:56,271 - INFO - Found 'Recent Rankings' section.
+2025-03-10 18:28:56,271 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 18:28:56,271 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:28:56,272 - INFO - Found 'At a Glance' section.
+2025-03-10 18:28:56,273 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:28:56,273 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 18:28:56,273 - INFO - Found 'Upcoming Events' section.
+2025-03-10 18:28:56,274 - WARNING - No event blocks found in 'Upcoming Events' section.
+2025-03-10 18:28:56,274 - INFO - Scraping tabbed content.
+2025-03-10 18:28:56,274 - INFO - Found tabbed content container.
+2025-03-10 18:28:56,275 - INFO - Processing tab: BS
+2025-03-10 18:28:56,275 - INFO - Processing tab: MS
+2025-03-10 18:28:56,275 - INFO - Processing tab: MBA
+2025-03-10 18:28:56,276 - INFO - Processing tab: PhD
+2025-03-10 18:28:56,276 - INFO - Processing tab: DBA
+2025-03-10 18:28:56,276 - INFO - Processing tab: Executive Education
+2025-03-10 18:28:56,276 - INFO - Processing tab: Certificates
+2025-03-10 18:28:56,277 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:33:02,548 - INFO - Logging configured successfully.
+2025-03-10 18:33:02,549 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:33:02,766 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:33:02,806 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:33:02,806 - INFO - Scraping 'Recent Rankings' section.
+2025-03-10 18:33:02,806 - INFO - Found 'Recent Rankings' section.
+2025-03-10 18:33:02,807 - INFO - Processed 'Recent Rankings' section.
+2025-03-10 18:33:02,807 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:33:02,808 - INFO - Found 'At a Glance' section.
+2025-03-10 18:33:02,808 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:33:02,808 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 18:33:02,809 - INFO - Found 'Upcoming Events' section.
+2025-03-10 18:33:02,809 - WARNING - No event blocks found in 'Upcoming Events' section.
+2025-03-10 18:33:02,809 - INFO - Scraping tabbed content.
+2025-03-10 18:33:02,810 - INFO - Found tabbed content container.
+2025-03-10 18:33:02,810 - INFO - Processing tab: BS
+2025-03-10 18:33:02,811 - INFO - Processing tab: MS
+2025-03-10 18:33:02,811 - INFO - Processing tab: MBA
+2025-03-10 18:33:02,811 - INFO - Processing tab: PhD
+2025-03-10 18:33:02,811 - INFO - Processing tab: DBA
+2025-03-10 18:33:02,811 - INFO - Processing tab: Executive Education
+2025-03-10 18:33:02,811 - INFO - Processing tab: Certificates
+2025-03-10 18:33:02,811 - INFO - Scraping headings and subheadings.
+2025-03-10 18:33:02,812 - INFO - Found 7 <h2> headings.
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:33:02,812 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:33:02,813 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:34:23,976 - INFO - Logging configured successfully.
+2025-03-10 18:34:23,976 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:34:24,187 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:34:24,207 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:34:24,207 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:34:24,208 - INFO - Found 'At a Glance' section.
+2025-03-10 18:34:24,209 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:34:24,209 - INFO - Scraping 'Upcoming Events' section.
+2025-03-10 18:34:24,209 - INFO - Found 'Upcoming Events' section.
+2025-03-10 18:34:24,209 - WARNING - No event blocks found in 'Upcoming Events' section.
+2025-03-10 18:34:24,209 - INFO - Scraping tabbed content.
+2025-03-10 18:34:24,210 - INFO - Found tabbed content container.
+2025-03-10 18:34:24,210 - INFO - Processing tab: BS
+2025-03-10 18:34:24,210 - INFO - Processing tab: MS
+2025-03-10 18:34:24,211 - INFO - Processing tab: MBA
+2025-03-10 18:34:24,211 - INFO - Processing tab: PhD
+2025-03-10 18:34:24,211 - INFO - Processing tab: DBA
+2025-03-10 18:34:24,211 - INFO - Processing tab: Executive Education
+2025-03-10 18:34:24,211 - INFO - Processing tab: Certificates
+2025-03-10 18:34:24,211 - INFO - Scraping headings and subheadings.
+2025-03-10 18:34:24,211 - INFO - Found 7 <h2> headings.
+2025-03-10 18:34:24,211 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:34:24,211 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:34:24,211 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:34:24,211 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:34:24,211 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:34:24,211 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:34:24,212 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:34:24,212 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:35:29,294 - INFO - Logging configured successfully.
+2025-03-10 18:35:29,295 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:35:29,503 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:35:29,547 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:35:29,547 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:35:29,548 - INFO - Found 'At a Glance' section.
+2025-03-10 18:35:29,549 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:35:29,549 - INFO - Scraping tabbed content.
+2025-03-10 18:35:29,550 - INFO - Found tabbed content container.
+2025-03-10 18:35:29,550 - INFO - Processing tab: BS
+2025-03-10 18:35:29,551 - INFO - Processing tab: MS
+2025-03-10 18:35:29,551 - INFO - Processing tab: MBA
+2025-03-10 18:35:29,551 - INFO - Processing tab: PhD
+2025-03-10 18:35:29,551 - INFO - Processing tab: DBA
+2025-03-10 18:35:29,551 - INFO - Processing tab: Executive Education
+2025-03-10 18:35:29,552 - INFO - Processing tab: Certificates
+2025-03-10 18:35:29,552 - INFO - Scraping headings and subheadings.
+2025-03-10 18:35:29,552 - INFO - Found 7 <h2> headings.
+2025-03-10 18:35:29,552 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:35:29,552 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:35:29,552 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:35:29,553 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:35:29,553 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:35:29,553 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:35:29,553 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:35:29,553 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:36:20,591 - INFO - Logging configured successfully.
+2025-03-10 18:36:20,592 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:36:20,782 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:36:20,822 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:36:20,822 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:36:20,823 - INFO - Found 'At a Glance' section.
+2025-03-10 18:36:20,824 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:36:20,824 - INFO - Scraping headings and subheadings.
+2025-03-10 18:36:20,824 - INFO - Found 7 <h2> headings.
+2025-03-10 18:36:20,824 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:36:20,824 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:36:20,824 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:36:20,824 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:36:20,825 - INFO - Processing <h2> heading: Upcoming Events
+2025-03-10 18:36:20,825 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:36:20,825 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:36:20,825 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:40:13,417 - INFO - Logging configured successfully.
+2025-03-10 18:40:13,418 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:40:13,629 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:40:13,664 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:40:13,664 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:40:13,665 - INFO - Found 'At a Glance' section.
+2025-03-10 18:40:13,665 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:40:13,665 - INFO - Scraping headings and subheadings.
+2025-03-10 18:40:13,666 - INFO - Found 7 <h2> headings.
+2025-03-10 18:40:13,666 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:40:13,666 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:40:13,666 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:40:13,666 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:40:13,666 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:40:13,666 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:40:13,667 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:46:54,083 - INFO - Logging configured successfully.
+2025-03-10 18:46:54,084 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:46:54,306 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:46:54,341 - INFO - Opened file for writing: ../scraped_data\scraped_content4.txt
+2025-03-10 18:46:54,341 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:46:54,342 - INFO - Found 'At a Glance' section.
+2025-03-10 18:46:54,343 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:46:54,343 - INFO - Scraping headings and subheadings.
+2025-03-10 18:46:54,343 - INFO - Found 7 <h2> headings.
+2025-03-10 18:46:54,343 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:46:54,343 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:46:54,343 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:46:54,344 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:46:54,344 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:46:54,344 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:46:54,344 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content4.txt'
+2025-03-10 18:56:55,758 - INFO - Logging configured successfully.
+2025-03-10 18:56:55,759 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:56:56,309 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:56:56,334 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 18:56:56,334 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:56:56,335 - INFO - Found 'At a Glance' section.
+2025-03-10 18:56:56,336 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:56:56,336 - INFO - Scraping headings and subheadings.
+2025-03-10 18:56:56,336 - INFO - Found 7 <h2> headings.
+2025-03-10 18:56:56,336 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:56:56,336 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:56:56,336 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:56:56,336 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:56:56,336 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:56:56,336 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:56:56,337 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 18:58:23,947 - INFO - Logging configured successfully.
+2025-03-10 18:58:23,948 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 18:58:24,153 - INFO - Successfully retrieved the webpage.
+2025-03-10 18:58:24,177 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 18:58:24,177 - INFO - Scraping 'At a Glance' section.
+2025-03-10 18:58:24,178 - INFO - Found 'At a Glance' section.
+2025-03-10 18:58:24,179 - INFO - Processed 'At a Glance' section.
+2025-03-10 18:58:24,179 - INFO - Scraping headings and subheadings.
+2025-03-10 18:58:24,179 - INFO - Found 7 <h2> headings.
+2025-03-10 18:58:24,179 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 18:58:24,179 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 18:58:24,179 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 18:58:24,179 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 18:58:24,180 - INFO - Processing <h2> heading: Request Information
+2025-03-10 18:58:24,180 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 18:58:24,180 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:02:39,520 - INFO - Logging configured successfully.
+2025-03-10 19:02:39,521 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:02:39,719 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:02:39,756 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:02:39,756 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:02:39,757 - INFO - Found 'At a Glance' section.
+2025-03-10 19:02:39,758 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:02:39,758 - INFO - Scraping headings and subheadings.
+2025-03-10 19:02:39,758 - INFO - Found 7 <h2> headings.
+2025-03-10 19:02:39,758 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:02:39,758 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:02:39,758 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:02:39,758 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:02:39,758 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:02:39,758 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:02:39,759 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:17:05,608 - INFO - Logging configured successfully.
+2025-03-10 19:17:05,609 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:17:05,818 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:17:05,852 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:17:05,852 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:17:05,854 - INFO - Found 'At a Glance' section.
+2025-03-10 19:17:05,855 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:17:05,855 - INFO - Scraping headings and subheadings.
+2025-03-10 19:17:05,855 - INFO - Found 7 <h2> headings.
+2025-03-10 19:17:05,855 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:17:05,856 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:17:05,856 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:17:05,856 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:17:05,856 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:17:05,856 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:17:05,856 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:18:34,387 - INFO - Logging configured successfully.
+2025-03-10 19:18:34,388 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:18:34,597 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:18:34,628 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:18:34,628 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:18:34,629 - INFO - Found 'At a Glance' section.
+2025-03-10 19:18:34,630 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:18:34,630 - INFO - Scraping headings and subheadings.
+2025-03-10 19:18:34,630 - INFO - Found 7 <h2> headings.
+2025-03-10 19:18:34,630 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:18:34,630 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:18:34,630 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:18:34,631 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:18:34,631 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:18:34,631 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:18:34,631 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:22:33,574 - INFO - Logging configured successfully.
+2025-03-10 19:22:33,575 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:22:33,783 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:22:33,803 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:22:33,803 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:22:33,804 - INFO - Found 'At a Glance' section.
+2025-03-10 19:22:33,805 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:22:33,805 - INFO - Scraping headings and subheadings.
+2025-03-10 19:22:33,805 - INFO - Found 7 <h2> headings.
+2025-03-10 19:22:33,805 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:22:33,805 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:22:33,805 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:22:33,805 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:22:33,805 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:22:33,806 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:22:33,806 - INFO - Scraping <li> and <a> tags with context.
+2025-03-10 19:22:33,822 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:24:35,206 - INFO - Logging configured successfully.
+2025-03-10 19:24:35,207 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:24:35,406 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:24:35,441 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:24:35,441 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:24:35,442 - INFO - Found 'At a Glance' section.
+2025-03-10 19:24:35,447 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:24:35,447 - INFO - Scraping headings and subheadings.
+2025-03-10 19:24:35,447 - INFO - Found 7 <h2> headings.
+2025-03-10 19:24:35,447 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:24:35,448 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:24:35,448 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:24:35,448 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:24:35,448 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:24:35,448 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:25:01,491 - INFO - Logging configured successfully.
+2025-03-10 19:25:01,492 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:25:01,702 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:25:01,741 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:25:01,741 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:25:01,742 - INFO - Found 'At a Glance' section.
+2025-03-10 19:25:01,743 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:25:01,743 - INFO - Scraping headings and subheadings.
+2025-03-10 19:25:01,743 - INFO - Found 7 <h2> headings.
+2025-03-10 19:25:01,743 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:25:01,743 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:25:01,743 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:25:01,744 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:25:01,744 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:25:01,744 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:25:01,744 - INFO - Scraping <a> tags with context.
+2025-03-10 19:25:01,860 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:28:02,547 - INFO - Logging configured successfully.
+2025-03-10 19:28:02,547 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:28:02,756 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:28:02,786 - INFO - Opened file for writing: ../scraped_data\scraped_content5.txt
+2025-03-10 19:28:02,786 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:28:02,786 - INFO - Found 'At a Glance' section.
+2025-03-10 19:28:02,787 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:28:02,787 - INFO - Scraping headings and subheadings.
+2025-03-10 19:28:02,787 - INFO - Found 7 <h2> headings.
+2025-03-10 19:28:02,787 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:28:02,788 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:28:02,788 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:28:02,788 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:28:02,788 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:28:02,788 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:28:02,788 - INFO - Scraping <li> and <a> tags with context.
+2025-03-10 19:28:02,806 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content5.txt'
+2025-03-10 19:30:28,319 - INFO - Logging configured successfully.
+2025-03-10 19:30:28,320 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-03-10 19:30:28,527 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:30:28,564 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-03-10 19:30:28,564 - INFO - Scraping 'At a Glance' section.
+2025-03-10 19:30:28,565 - INFO - Found 'At a Glance' section.
+2025-03-10 19:30:28,566 - INFO - Processed 'At a Glance' section.
+2025-03-10 19:30:28,566 - INFO - Scraping headings and subheadings.
+2025-03-10 19:30:28,567 - INFO - Found 7 <h2> headings.
+2025-03-10 19:30:28,567 - INFO - Processing <h2> heading: The Future Demands Different
+2025-03-10 19:30:28,567 - INFO - Processing <h2> heading: Recent Rankings
+2025-03-10 19:30:28,567 - INFO - Processing <h2> heading: Academic Areas
+2025-03-10 19:30:28,567 - INFO - Processing <h2> heading: Degree Programs
+2025-03-10 19:30:28,567 - INFO - Processing <h2> heading: Request Information
+2025-03-10 19:30:28,567 - INFO - Processing <h2> heading: Need to find something else?
+2025-03-10 19:30:28,567 - INFO - Scraping <li> and <a> tags with context.
+2025-03-10 19:30:28,590 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-03-10 19:44:58,896 - INFO - Logging configured successfully.
+2025-03-10 19:44:58,896 - INFO - Sending GET request to: https://jindal.utdallas.edu/calendar/
+2025-03-10 19:44:59,108 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:44:59,154 - INFO - Opened file for writing: ../scraped_data\events.txt
+2025-03-10 19:44:59,154 - INFO - Scraping event data.
+2025-03-10 19:44:59,155 - INFO - Processing events for: Mar, 2025
+2025-03-10 19:44:59,158 - INFO - Processing events for: Apr, 2025
+2025-03-10 19:44:59,159 - INFO - Event data scraped successfully.
+2025-03-10 19:44:59,160 - INFO - Event data scraped successfully and saved to '../scraped_data\events.txt'
+2025-03-10 19:51:00,066 - INFO - Logging configured successfully.
+2025-03-10 19:51:00,066 - INFO - Sending GET request to: https://jindal.utdallas.edu/calendar/
+2025-03-10 19:51:00,288 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:51:00,330 - INFO - Opened file for writing: ../scraped_data\events.txt
+2025-03-10 19:51:00,330 - INFO - Scraping event data.
+2025-03-10 19:51:00,331 - INFO - Extracted degree levels: {'bs': 'BS', 'ms': 'MS', 'mba': 'MBA', 'exec': 'Exec. Ed.', 'phd': 'PhD', 'cmc': 'CMC', 'jsom-conference': 'Conference', 'competition': 'Competition'}
+2025-03-10 19:51:00,332 - INFO - Processing events for: Mar, 2025
+2025-03-10 19:51:00,335 - INFO - Processing events for: Apr, 2025
+2025-03-10 19:51:00,336 - INFO - Event data scraped successfully.
+2025-03-10 19:51:00,337 - INFO - Event data scraped successfully and saved to '../scraped_data\events.txt'
+2025-03-10 19:53:30,179 - INFO - Logging configured successfully.
+2025-03-10 19:53:30,179 - INFO - Sending GET request to: https://jindal.utdallas.edu/calendar/
+2025-03-10 19:53:30,381 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:53:30,431 - INFO - Opened file for writing: ../scraped_data\events.txt
+2025-03-10 19:53:30,431 - INFO - Scraping event data.
+2025-03-10 19:53:30,431 - INFO - Processing events for: Mar, 2025
+2025-03-10 19:53:30,434 - INFO - Processing events for: Apr, 2025
+2025-03-10 19:53:30,436 - INFO - Event data scraped successfully.
+2025-03-10 19:53:30,436 - INFO - Event data scraped successfully and saved to '../scraped_data\events.txt'
+2025-03-10 19:54:30,339 - INFO - Logging configured successfully.
+2025-03-10 19:54:30,340 - INFO - Sending GET request to: https://jindal.utdallas.edu/calendar/
+2025-03-10 19:54:30,562 - INFO - Successfully retrieved the webpage.
+2025-03-10 19:54:30,600 - INFO - Opened file for writing: ../scraped_data\events.txt
+2025-03-10 19:54:30,600 - INFO - Scraping event data.
+2025-03-10 19:54:30,600 - INFO - Processing events for: Mar, 2025
+2025-03-10 19:54:30,604 - INFO - Processing events for: Apr, 2025
+2025-03-10 19:54:30,606 - INFO - Event data scraped successfully.
+2025-03-10 19:54:30,606 - INFO - Event data scraped successfully and saved to '../scraped_data\events.txt'
