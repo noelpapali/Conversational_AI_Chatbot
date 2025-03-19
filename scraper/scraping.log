@@ -10240,3 +10240,785 @@ Stacktrace:
 2025-03-10 19:54:30,604 - INFO - Processing events for: Apr, 2025
 2025-03-10 19:54:30,606 - INFO - Event data scraped successfully.
 2025-03-10 19:54:30,606 - INFO - Event data scraped successfully and saved to '../scraped_data\events.txt'
+2025-03-19 11:17:24,748 - INFO - Logging configured successfully.
+2025-03-19 11:17:24,750 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:17:24,938 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:17:24,981 - INFO - Opened file for writing: ../scraped_data\freshman_admission.txt
+2025-03-19 11:17:24,982 - INFO - Scraping headings and specific div classes.
+2025-03-19 11:17:24,982 - INFO - Found 8 <h3> headings.
+2025-03-19 11:17:24,982 - INFO - Processing <h3> heading: 
+2025-03-19 11:17:24,983 - INFO - Processing <h3> heading: Criteria
+2025-03-19 11:17:24,984 - INFO - Processing <h3> heading: Application Process
+2025-03-19 11:17:24,985 - INFO - Processing <h3> heading: Deadlines and Fees
+2025-03-19 11:17:24,986 - INFO - Processing <h3> heading: Timeline
+2025-03-19 11:17:24,986 - INFO - Processing <h3> heading: Admission Counseling
+2025-03-19 11:17:24,987 - INFO - Processing <h3> heading: Visit UT Dallas
+2025-03-19 11:17:24,994 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission.txt'
+2025-03-19 11:22:32,496 - INFO - Logging configured successfully.
+2025-03-19 11:22:32,496 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:22:32,687 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 11:22:32,709 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:22:32,710 - INFO - Opened file for writing: ../scraped_data\freshman_admission_links.txt
+2025-03-19 11:22:32,710 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:22:32,710 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:22:32,887 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:32,917 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:22:32,917 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:22:33,088 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:33,107 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:22:33,108 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:22:33,249 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:33,273 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:22:33,273 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:22:33,424 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:33,443 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:22:33,443 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:22:33,597 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:33,643 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 11:22:33,643 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 11:22:33,797 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:33,827 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:22:33,827 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:22:34,640 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:22:34,650 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission_links.txt'
+2025-03-19 11:30:56,798 - INFO - Logging configured successfully.
+2025-03-19 11:30:56,798 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:30:56,998 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:57,026 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:30:57,027 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:30:57,027 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:30:57,027 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:30:57,027 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:30:57,027 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 11:30:57,027 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:30:57,028 - INFO - Opened file for writing: ../scraped_data\freshman_admission_links.txt
+2025-03-19 11:30:57,028 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:30:57,028 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:30:57,202 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:57,232 - INFO - Processing heading: 
+2025-03-19 11:30:57,232 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-03-19 11:30:57,232 - INFO - Processing heading: 
+2025-03-19 11:30:57,232 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:30:57,233 - INFO - Processing heading: Admission Review Criteria
+2025-03-19 11:30:57,234 - INFO - Processing heading: Texas Top 10%
+2025-03-19 11:30:57,234 - INFO - Processing heading: Home-Schooled and GED
+2025-03-19 11:30:57,234 - INFO - Processing heading: Major-Specific Requirements
+2025-03-19 11:30:57,234 - INFO - Processing heading: International Applicants
+2025-03-19 11:30:57,234 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:30:57,234 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:30:57,235 - INFO - Processing heading: 
+2025-03-19 11:30:57,235 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:30:57,235 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:30:57,402 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:57,434 - INFO - Processing heading: 
+2025-03-19 11:30:57,434 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-03-19 11:30:57,435 - INFO - Processing heading: 
+2025-03-19 11:30:57,435 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:30:57,436 - INFO - Processing heading: Submit your admission application.
+2025-03-19 11:30:57,436 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-03-19 11:30:57,436 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-03-19 11:30:57,436 - INFO - Processing heading: Submit your official transcripts.
+2025-03-19 11:30:57,437 - INFO - Processing heading: After Submission
+2025-03-19 11:30:57,437 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-03-19 11:30:57,437 - INFO - Processing heading: International Students
+2025-03-19 11:30:57,437 - INFO - Processing heading: Veterans
+2025-03-19 11:30:57,437 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:30:57,437 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:30:57,438 - INFO - Processing heading: 
+2025-03-19 11:30:57,438 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:30:57,438 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:30:57,601 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:57,628 - INFO - Processing heading: 
+2025-03-19 11:30:57,629 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-03-19 11:30:57,629 - INFO - Processing heading: 
+2025-03-19 11:30:57,629 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:30:57,629 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-03-19 11:30:57,629 - INFO - Processing heading: Application Fees
+2025-03-19 11:30:57,629 - INFO - Processing heading: Submitting Fee Waivers
+2025-03-19 11:30:57,629 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-03-19 11:30:57,630 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:30:57,630 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:30:57,630 - INFO - Processing heading: 
+2025-03-19 11:30:57,630 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:30:57,630 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:30:57,823 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:57,845 - INFO - Processing heading: 
+2025-03-19 11:30:57,846 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-03-19 11:30:57,846 - INFO - Processing heading: 
+2025-03-19 11:30:57,846 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:30:57,846 - INFO - Processing heading: Submit your application and supporting documents.
+2025-03-19 11:30:57,846 - INFO - Processing heading: Your completed application will be reviewed.
+2025-03-19 11:30:57,846 - INFO - Processing heading: You will receive an admission decision.
+2025-03-19 11:30:57,846 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:30:57,846 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:30:57,846 - INFO - Processing heading: 
+2025-03-19 11:30:57,846 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:30:57,846 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:30:58,014 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:58,038 - INFO - Processing heading: 
+2025-03-19 11:30:58,038 - INFO - Processing heading: Counselor Locator
+2025-03-19 11:30:58,039 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 11:30:58,039 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 11:30:58,268 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:58,298 - INFO - Processing heading: 
+2025-03-19 11:30:58,298 - INFO - Processing heading: Visit UT Dallas
+2025-03-19 11:30:58,298 - INFO - Processing heading: Discover UTD Info Session
+2025-03-19 11:30:58,298 - INFO - Processing heading: Scholars’ Day
+2025-03-19 11:30:58,298 - INFO - Processing heading: Preview Friday
+2025-03-19 11:30:58,298 - INFO - Processing heading: Welcome to the Comet Family!
+2025-03-19 11:30:58,300 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:30:58,300 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:30:58,751 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:30:58,763 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission_links.txt'
+2025-03-19 11:35:17,970 - INFO - Logging configured successfully.
+2025-03-19 11:35:17,970 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:35:18,139 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 11:35:18,157 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:35:18,158 - INFO - Opened file for writing: ../scraped_data\freshman_admission.txt
+2025-03-19 11:35:18,158 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:35:18,158 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:35:18,299 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:18,315 - INFO - Processing heading: 
+2025-03-19 11:35:18,315 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-03-19 11:35:18,315 - INFO - Processing heading: 
+2025-03-19 11:35:18,316 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:35:18,316 - INFO - Processing heading: Admission Review Criteria
+2025-03-19 11:35:18,316 - INFO - Processing heading: Texas Top 10%
+2025-03-19 11:35:18,316 - INFO - Processing heading: Home-Schooled and GED
+2025-03-19 11:35:18,316 - INFO - Processing heading: Major-Specific Requirements
+2025-03-19 11:35:18,316 - INFO - Processing heading: International Applicants
+2025-03-19 11:35:18,316 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:35:18,316 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:35:18,316 - INFO - Processing heading: 
+2025-03-19 11:35:18,316 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:35:18,316 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:35:18,461 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:18,479 - INFO - Processing heading: 
+2025-03-19 11:35:18,479 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-03-19 11:35:18,479 - INFO - Processing heading: 
+2025-03-19 11:35:18,480 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:35:18,480 - INFO - Processing heading: Submit your admission application.
+2025-03-19 11:35:18,480 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-03-19 11:35:18,480 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-03-19 11:35:18,480 - INFO - Processing heading: Submit your official transcripts.
+2025-03-19 11:35:18,480 - INFO - Processing heading: After Submission
+2025-03-19 11:35:18,480 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-03-19 11:35:18,480 - INFO - Processing heading: International Students
+2025-03-19 11:35:18,480 - INFO - Processing heading: Veterans
+2025-03-19 11:35:18,480 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:35:18,480 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:35:18,481 - INFO - Processing heading: 
+2025-03-19 11:35:18,481 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:35:18,481 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:35:18,629 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:18,647 - INFO - Processing heading: 
+2025-03-19 11:35:18,647 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-03-19 11:35:18,648 - INFO - Processing heading: 
+2025-03-19 11:35:18,648 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:35:18,648 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-03-19 11:35:18,648 - INFO - Processing heading: Application Fees
+2025-03-19 11:35:18,648 - INFO - Processing heading: Submitting Fee Waivers
+2025-03-19 11:35:18,648 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-03-19 11:35:18,648 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:35:18,648 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:35:18,648 - INFO - Processing heading: 
+2025-03-19 11:35:18,649 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:35:18,649 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:35:18,790 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:18,807 - INFO - Processing heading: 
+2025-03-19 11:35:18,807 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-03-19 11:35:18,807 - INFO - Processing heading: 
+2025-03-19 11:35:18,807 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:35:18,808 - INFO - Processing heading: Submit your application and supporting documents.
+2025-03-19 11:35:18,808 - INFO - Processing heading: Your completed application will be reviewed.
+2025-03-19 11:35:18,808 - INFO - Processing heading: You will receive an admission decision.
+2025-03-19 11:35:18,808 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:35:18,808 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:35:18,808 - INFO - Processing heading: 
+2025-03-19 11:35:18,808 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:35:18,808 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:35:18,992 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:19,021 - INFO - Processing heading: 
+2025-03-19 11:35:19,021 - INFO - Processing heading: Counselor Locator
+2025-03-19 11:35:19,021 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 11:35:19,021 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 11:35:19,183 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:19,199 - INFO - Processing heading: 
+2025-03-19 11:35:19,199 - INFO - Processing heading: Visit UT Dallas
+2025-03-19 11:35:19,200 - INFO - Processing heading: Discover UTD Info Session
+2025-03-19 11:35:19,200 - INFO - Processing heading: Scholars’ Day
+2025-03-19 11:35:19,200 - INFO - Processing heading: Preview Friday
+2025-03-19 11:35:19,200 - INFO - Processing heading: Welcome to the Comet Family!
+2025-03-19 11:35:19,202 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:35:19,202 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:35:19,845 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:35:19,855 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission.txt'
+2025-03-19 11:49:59,268 - INFO - Logging configured successfully.
+2025-03-19 11:49:59,268 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:49:59,456 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 11:49:59,477 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:49:59,478 - INFO - Opened file for writing: ../scraped_data\freshman_admission_links.txt
+2025-03-19 11:49:59,478 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:49:59,478 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:49:59,646 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:49:59,667 - INFO - Processing heading: 
+2025-03-19 11:49:59,667 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-03-19 11:49:59,668 - INFO - Processing heading: 
+2025-03-19 11:49:59,668 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:49:59,668 - INFO - Processing heading: Admission Review Criteria
+2025-03-19 11:49:59,668 - INFO - Processing heading: Texas Top 10%
+2025-03-19 11:49:59,668 - INFO - Processing heading: Home-Schooled and GED
+2025-03-19 11:49:59,668 - INFO - Processing heading: Major-Specific Requirements
+2025-03-19 11:49:59,668 - INFO - Processing heading: International Applicants
+2025-03-19 11:49:59,668 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:49:59,668 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:49:59,668 - INFO - Processing heading: 
+2025-03-19 11:49:59,668 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:49:59,668 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:49:59,836 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:49:59,854 - INFO - Processing heading: 
+2025-03-19 11:49:59,854 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-03-19 11:49:59,854 - INFO - Processing heading: 
+2025-03-19 11:49:59,854 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:49:59,855 - INFO - Processing heading: Submit your admission application.
+2025-03-19 11:49:59,855 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-03-19 11:49:59,855 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-03-19 11:49:59,855 - INFO - Processing heading: Submit your official transcripts.
+2025-03-19 11:49:59,855 - INFO - Processing heading: After Submission
+2025-03-19 11:49:59,855 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-03-19 11:49:59,855 - INFO - Processing heading: International Students
+2025-03-19 11:49:59,855 - INFO - Processing heading: Veterans
+2025-03-19 11:49:59,855 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:49:59,855 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:49:59,855 - INFO - Processing heading: 
+2025-03-19 11:49:59,855 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:49:59,855 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:50:00,010 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:50:00,037 - INFO - Processing heading: 
+2025-03-19 11:50:00,037 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-03-19 11:50:00,037 - INFO - Processing heading: 
+2025-03-19 11:50:00,037 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:50:00,037 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-03-19 11:50:00,038 - INFO - Processing heading: Application Fees
+2025-03-19 11:50:00,038 - INFO - Processing heading: Submitting Fee Waivers
+2025-03-19 11:50:00,039 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-03-19 11:50:00,040 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:50:00,040 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:50:00,040 - INFO - Processing heading: 
+2025-03-19 11:50:00,040 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:50:00,040 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:50:00,182 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:50:00,207 - INFO - Processing heading: 
+2025-03-19 11:50:00,207 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-03-19 11:50:00,207 - INFO - Processing heading: 
+2025-03-19 11:50:00,207 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:50:00,207 - INFO - Processing heading: Submit your application and supporting documents.
+2025-03-19 11:50:00,207 - INFO - Processing heading: Your completed application will be reviewed.
+2025-03-19 11:50:00,207 - INFO - Processing heading: You will receive an admission decision.
+2025-03-19 11:50:00,207 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:50:00,207 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:50:00,207 - INFO - Processing heading: 
+2025-03-19 11:50:00,207 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:50:00,208 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:50:00,424 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:50:00,450 - INFO - Processing heading: 
+2025-03-19 11:50:00,450 - INFO - Processing heading: Counselor Locator
+2025-03-19 11:50:00,452 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 11:50:00,452 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 11:50:00,621 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:50:00,640 - INFO - Processing heading: 
+2025-03-19 11:50:00,640 - INFO - Processing heading: Visit UT Dallas
+2025-03-19 11:50:00,640 - INFO - Processing heading: Discover UTD Info Session
+2025-03-19 11:50:00,640 - INFO - Processing heading: Scholars’ Day
+2025-03-19 11:50:00,640 - INFO - Processing heading: Preview Friday
+2025-03-19 11:50:00,640 - INFO - Processing heading: Welcome to the Comet Family!
+2025-03-19 11:50:00,643 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:50:00,643 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:50:01,773 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:50:01,780 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission_links.txt'
+2025-03-19 11:56:28,437 - INFO - Logging configured successfully.
+2025-03-19 11:56:28,437 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:56:29,067 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 11:56:29,088 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:56:29,089 - INFO - Opened file for writing: ../scraped_data\freshman_admission_links.txt
+2025-03-19 11:56:29,089 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:56:29,089 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:56:29,890 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:29,911 - INFO - Processing heading: 
+2025-03-19 11:56:29,911 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-03-19 11:56:29,912 - INFO - Processing heading: 
+2025-03-19 11:56:29,912 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:56:29,912 - INFO - Processing heading: Admission Review Criteria
+2025-03-19 11:56:29,912 - INFO - Processing heading: Texas Top 10%
+2025-03-19 11:56:29,912 - INFO - Processing heading: Home-Schooled and GED
+2025-03-19 11:56:29,912 - INFO - Processing heading: Major-Specific Requirements
+2025-03-19 11:56:29,912 - INFO - Processing heading: International Applicants
+2025-03-19 11:56:29,912 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:56:29,913 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:56:29,913 - INFO - Processing heading: 
+2025-03-19 11:56:29,913 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:56:29,913 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:56:30,092 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:30,125 - INFO - Processing heading: 
+2025-03-19 11:56:30,125 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-03-19 11:56:30,127 - INFO - Processing heading: 
+2025-03-19 11:56:30,127 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:56:30,128 - INFO - Processing heading: Submit your admission application.
+2025-03-19 11:56:30,128 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-03-19 11:56:30,130 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-03-19 11:56:30,130 - INFO - Processing heading: Submit your official transcripts.
+2025-03-19 11:56:30,130 - INFO - Processing heading: After Submission
+2025-03-19 11:56:30,130 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-03-19 11:56:30,131 - INFO - Processing heading: International Students
+2025-03-19 11:56:30,131 - INFO - Processing heading: Veterans
+2025-03-19 11:56:30,131 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:56:30,131 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:56:30,133 - INFO - Processing heading: 
+2025-03-19 11:56:30,133 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:56:30,133 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:56:30,281 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:30,308 - INFO - Processing heading: 
+2025-03-19 11:56:30,309 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-03-19 11:56:30,309 - INFO - Processing heading: 
+2025-03-19 11:56:30,309 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:56:30,310 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-03-19 11:56:30,310 - INFO - Processing heading: Application Fees
+2025-03-19 11:56:30,311 - INFO - Processing heading: Submitting Fee Waivers
+2025-03-19 11:56:30,311 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-03-19 11:56:30,311 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:56:30,311 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:56:30,312 - INFO - Processing heading: 
+2025-03-19 11:56:30,312 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:56:30,312 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:56:30,911 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:30,934 - INFO - Processing heading: 
+2025-03-19 11:56:30,934 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-03-19 11:56:30,935 - INFO - Processing heading: 
+2025-03-19 11:56:30,935 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:56:30,935 - INFO - Processing heading: Submit your application and supporting documents.
+2025-03-19 11:56:30,935 - INFO - Processing heading: Your completed application will be reviewed.
+2025-03-19 11:56:30,935 - INFO - Processing heading: You will receive an admission decision.
+2025-03-19 11:56:30,936 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:56:30,936 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:56:30,936 - INFO - Processing heading: 
+2025-03-19 11:56:30,936 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:56:30,936 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:56:31,606 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:31,627 - INFO - Processing heading: 
+2025-03-19 11:56:31,627 - INFO - Processing heading: Counselor Locator
+2025-03-19 11:56:31,627 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 11:56:31,627 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 11:56:32,144 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:32,167 - INFO - Processing heading: 
+2025-03-19 11:56:32,167 - INFO - Processing heading: Visit UT Dallas
+2025-03-19 11:56:32,167 - INFO - Processing heading: Discover UTD Info Session
+2025-03-19 11:56:32,168 - INFO - Processing heading: Scholars’ Day
+2025-03-19 11:56:32,168 - INFO - Processing heading: Preview Friday
+2025-03-19 11:56:32,168 - INFO - Processing heading: Welcome to the Comet Family!
+2025-03-19 11:56:32,169 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:56:32,170 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:56:32,628 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:56:32,638 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission_links.txt'
+2025-03-19 11:58:06,179 - INFO - Logging configured successfully.
+2025-03-19 11:58:06,179 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 11:58:07,486 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:07,517 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:58:07,517 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:58:07,517 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:58:07,517 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:58:07,518 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:58:07,518 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 11:58:07,518 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:58:07,519 - INFO - Opened file for writing: ../scraped_data\freshman_admission_links.txt
+2025-03-19 11:58:07,519 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:58:07,519 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 11:58:09,020 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:09,048 - INFO - Processing heading: 
+2025-03-19 11:58:09,048 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-03-19 11:58:09,048 - INFO - Processing heading: 
+2025-03-19 11:58:09,049 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:58:09,049 - INFO - Processing heading: Admission Review Criteria
+2025-03-19 11:58:09,049 - INFO - Processing heading: Texas Top 10%
+2025-03-19 11:58:09,049 - INFO - Processing heading: Home-Schooled and GED
+2025-03-19 11:58:09,049 - INFO - Processing heading: Major-Specific Requirements
+2025-03-19 11:58:09,049 - INFO - Processing heading: International Applicants
+2025-03-19 11:58:09,049 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:58:09,050 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:58:09,050 - INFO - Processing heading: 
+2025-03-19 11:58:09,050 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:58:09,050 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 11:58:10,146 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:10,174 - INFO - Processing heading: 
+2025-03-19 11:58:10,174 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-03-19 11:58:10,175 - INFO - Processing heading: 
+2025-03-19 11:58:10,175 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:58:10,175 - INFO - Processing heading: Submit your admission application.
+2025-03-19 11:58:10,175 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-03-19 11:58:10,175 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-03-19 11:58:10,175 - INFO - Processing heading: Submit your official transcripts.
+2025-03-19 11:58:10,175 - INFO - Processing heading: After Submission
+2025-03-19 11:58:10,176 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-03-19 11:58:10,176 - INFO - Processing heading: International Students
+2025-03-19 11:58:10,176 - INFO - Processing heading: Veterans
+2025-03-19 11:58:10,176 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:58:10,177 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:58:10,177 - INFO - Processing heading: 
+2025-03-19 11:58:10,177 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:58:10,177 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 11:58:10,796 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:10,822 - INFO - Processing heading: 
+2025-03-19 11:58:10,822 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-03-19 11:58:10,822 - INFO - Processing heading: 
+2025-03-19 11:58:10,822 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:58:10,823 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-03-19 11:58:10,823 - INFO - Processing heading: Application Fees
+2025-03-19 11:58:10,824 - INFO - Processing heading: Submitting Fee Waivers
+2025-03-19 11:58:10,824 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-03-19 11:58:10,824 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:58:10,824 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:58:10,824 - INFO - Processing heading: 
+2025-03-19 11:58:10,824 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:58:10,824 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 11:58:10,963 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:10,989 - INFO - Processing heading: 
+2025-03-19 11:58:10,990 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-03-19 11:58:10,990 - INFO - Processing heading: 
+2025-03-19 11:58:10,990 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 11:58:10,990 - INFO - Processing heading: Submit your application and supporting documents.
+2025-03-19 11:58:10,990 - INFO - Processing heading: Your completed application will be reviewed.
+2025-03-19 11:58:10,990 - INFO - Processing heading: You will receive an admission decision.
+2025-03-19 11:58:10,991 - INFO - Processing heading: Admission Counseling
+2025-03-19 11:58:10,991 - INFO - Processing heading: Freshman Admissions
+2025-03-19 11:58:10,991 - INFO - Processing heading: 
+2025-03-19 11:58:10,991 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:58:10,991 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 11:58:12,491 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:12,515 - INFO - Processing heading: 
+2025-03-19 11:58:12,515 - INFO - Processing heading: Counselor Locator
+2025-03-19 11:58:12,516 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 11:58:12,516 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 11:58:12,679 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:12,725 - INFO - Processing heading: 
+2025-03-19 11:58:12,726 - INFO - Processing heading: Visit UT Dallas
+2025-03-19 11:58:12,726 - INFO - Processing heading: Discover UTD Info Session
+2025-03-19 11:58:12,727 - INFO - Processing heading: Scholars’ Day
+2025-03-19 11:58:12,727 - INFO - Processing heading: Preview Friday
+2025-03-19 11:58:12,728 - INFO - Processing heading: Welcome to the Comet Family!
+2025-03-19 11:58:12,733 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:58:12,733 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 11:58:13,195 - INFO - Successfully retrieved the webpage.
+2025-03-19 11:58:13,208 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission_links.txt'
+2025-03-19 12:01:50,600 - INFO - Logging configured successfully.
+2025-03-19 12:01:50,601 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-03-19 12:01:50,767 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:50,784 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 12:01:50,784 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 12:01:50,784 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 12:01:50,784 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 12:01:50,784 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 12:01:50,785 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-03-19 12:01:50,785 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 12:01:50,785 - INFO - Opened file for writing: ../scraped_data\freshman_admission_links.txt
+2025-03-19 12:01:50,785 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 12:01:50,785 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-03-19 12:01:50,925 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:50,941 - INFO - Processing heading: 
+2025-03-19 12:01:50,941 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-03-19 12:01:50,941 - INFO - Processing heading: 
+2025-03-19 12:01:50,941 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 12:01:50,941 - INFO - Processing heading: Admission Review Criteria
+2025-03-19 12:01:50,941 - INFO - Processing heading: Texas Top 10%
+2025-03-19 12:01:50,941 - INFO - Processing heading: Home-Schooled and GED
+2025-03-19 12:01:50,942 - INFO - Processing heading: Major-Specific Requirements
+2025-03-19 12:01:50,942 - INFO - Processing heading: International Applicants
+2025-03-19 12:01:50,942 - INFO - Processing heading: Admission Counseling
+2025-03-19 12:01:50,942 - INFO - Processing heading: Freshman Admissions
+2025-03-19 12:01:50,942 - INFO - Processing heading: 
+2025-03-19 12:01:50,942 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 12:01:50,942 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-03-19 12:01:51,084 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:51,140 - INFO - Processing heading: 
+2025-03-19 12:01:51,141 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-03-19 12:01:51,141 - INFO - Processing heading: 
+2025-03-19 12:01:51,141 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 12:01:51,141 - INFO - Processing heading: Submit your admission application.
+2025-03-19 12:01:51,141 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-03-19 12:01:51,142 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-03-19 12:01:51,142 - INFO - Processing heading: Submit your official transcripts.
+2025-03-19 12:01:51,143 - INFO - Processing heading: After Submission
+2025-03-19 12:01:51,143 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-03-19 12:01:51,143 - INFO - Processing heading: International Students
+2025-03-19 12:01:51,143 - INFO - Processing heading: Veterans
+2025-03-19 12:01:51,143 - INFO - Processing heading: Admission Counseling
+2025-03-19 12:01:51,143 - INFO - Processing heading: Freshman Admissions
+2025-03-19 12:01:51,143 - INFO - Processing heading: 
+2025-03-19 12:01:51,143 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 12:01:51,144 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-03-19 12:01:53,435 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:53,477 - INFO - Processing heading: 
+2025-03-19 12:01:53,477 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-03-19 12:01:53,477 - INFO - Processing heading: 
+2025-03-19 12:01:53,478 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 12:01:53,478 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-03-19 12:01:53,478 - INFO - Processing heading: Application Fees
+2025-03-19 12:01:53,478 - INFO - Processing heading: Submitting Fee Waivers
+2025-03-19 12:01:53,479 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-03-19 12:01:53,479 - INFO - Processing heading: Admission Counseling
+2025-03-19 12:01:53,479 - INFO - Processing heading: Freshman Admissions
+2025-03-19 12:01:53,479 - INFO - Processing heading: 
+2025-03-19 12:01:53,479 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 12:01:53,479 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-03-19 12:01:55,117 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:55,133 - INFO - Processing heading: 
+2025-03-19 12:01:55,134 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-03-19 12:01:55,134 - INFO - Processing heading: 
+2025-03-19 12:01:55,134 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-03-19 12:01:55,134 - INFO - Processing heading: Submit your application and supporting documents.
+2025-03-19 12:01:55,134 - INFO - Processing heading: Your completed application will be reviewed.
+2025-03-19 12:01:55,134 - INFO - Processing heading: You will receive an admission decision.
+2025-03-19 12:01:55,135 - INFO - Processing heading: Admission Counseling
+2025-03-19 12:01:55,135 - INFO - Processing heading: Freshman Admissions
+2025-03-19 12:01:55,135 - INFO - Processing heading: 
+2025-03-19 12:01:55,135 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 12:01:55,135 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-03-19 12:01:55,297 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:55,341 - INFO - Processing heading: 
+2025-03-19 12:01:55,341 - INFO - Processing heading: Counselor Locator
+2025-03-19 12:01:55,341 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-03-19 12:01:55,341 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-03-19 12:01:57,068 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:57,093 - INFO - Processing heading: 
+2025-03-19 12:01:57,094 - INFO - Processing heading: Visit UT Dallas
+2025-03-19 12:01:57,094 - INFO - Processing heading: Discover UTD Info Session
+2025-03-19 12:01:57,094 - INFO - Processing heading: Scholars’ Day
+2025-03-19 12:01:57,094 - INFO - Processing heading: Preview Friday
+2025-03-19 12:01:57,094 - INFO - Processing heading: Welcome to the Comet Family!
+2025-03-19 12:01:57,097 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 12:01:57,097 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-03-19 12:01:57,663 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:01:57,673 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission_links.txt'
+2025-03-19 12:12:06,202 - INFO - Logging configured successfully.
+2025-03-19 12:12:06,203 - INFO - Opened file for writing: ../scraped_data\masters_admission_requirements.txt
+2025-03-19 12:12:06,203 - INFO - Scraping new page: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:12:06,203 - INFO - Sending GET request to: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:12:06,659 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:12:06,685 - INFO - Processed table: Master’s Application Deadlines
+2025-03-19 12:12:06,686 - INFO - Processing tab heading: Personal Objectives Statement
+2025-03-19 12:12:06,686 - INFO - Processing tab heading: Resume
+2025-03-19 12:12:06,686 - INFO - Processing tab heading: Transcripts
+2025-03-19 12:12:06,686 - INFO - Processing tab heading: Letters of Recommendation
+2025-03-19 12:12:06,686 - INFO - Processing tab heading: English Proficiency
+2025-03-19 12:12:06,687 - INFO - Processing tab heading: Optional GRE/GMAT Test Score
+2025-03-19 12:12:06,687 - INFO - Processing tab heading: Scholarships
+2025-03-19 12:12:06,687 - INFO - Processing tab heading: Submitting Documents
+2025-03-19 12:12:06,688 - INFO - Processing tab heading: Master’s Degree Program Prerequisites
+2025-03-19 12:12:06,688 - INFO - Processing tab heading: Non-Degree-Seeking Students
+2025-03-19 12:12:06,688 - INFO - Data scraped successfully and saved to '../scraped_data\masters_admission_requirements.txt'
+2025-03-19 12:18:10,269 - INFO - Logging configured successfully.
+2025-03-19 12:18:10,270 - INFO - Opened file for writing: ../scraped_data\masters_admission.txt
+2025-03-19 12:18:10,270 - INFO - Scraping new page: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:18:10,270 - INFO - Sending GET request to: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:18:11,002 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:18:11,027 - INFO - Processed table: Master’s Application Deadlines
+2025-03-19 12:18:11,028 - INFO - Data scraped successfully and saved to '../scraped_data\masters_admission.txt'
+2025-03-19 12:21:57,418 - INFO - Logging configured successfully.
+2025-03-19 12:21:57,418 - INFO - Opened file for writing: ../scraped_data\masters_admission_requirements.txt
+2025-03-19 12:21:57,418 - INFO - Scraping new page: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:21:57,418 - INFO - Sending GET request to: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:21:57,924 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:21:57,949 - INFO - Processed table: Master’s Application Deadlines
+2025-03-19 12:21:57,950 - INFO - Processing tab heading: Personal Objectives Statement
+2025-03-19 12:21:57,950 - INFO - Processing tab heading: Resume
+2025-03-19 12:21:57,950 - INFO - Processing tab heading: Transcripts
+2025-03-19 12:21:57,950 - INFO - Processing tab heading: Letters of Recommendation
+2025-03-19 12:21:57,951 - INFO - Processing tab heading: English Proficiency
+2025-03-19 12:21:57,951 - INFO - Processing tab heading: Optional GRE/GMAT Test Score
+2025-03-19 12:21:57,951 - INFO - Processing tab heading: Scholarships
+2025-03-19 12:21:57,951 - INFO - Processing tab heading: Submitting Documents
+2025-03-19 12:21:57,952 - INFO - Processing tab heading: Master’s Degree Program Prerequisites
+2025-03-19 12:21:57,952 - INFO - Processing tab heading: Non-Degree-Seeking Students
+2025-03-19 12:21:57,952 - INFO - Data scraped successfully and saved to '../scraped_data\masters_admission_requirements.txt'
+2025-03-19 12:22:22,326 - INFO - Logging configured successfully.
+2025-03-19 12:22:22,326 - INFO - Opened file for writing: ../scraped_data\masters_admission.txt
+2025-03-19 12:22:22,326 - INFO - Scraping new page: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:22:22,326 - INFO - Sending GET request to: https://jindal.utdallas.edu/admission-requirements/masters/
+2025-03-19 12:22:22,491 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:22:22,516 - INFO - Processed table: Master’s Application Deadlines
+2025-03-19 12:22:22,517 - INFO - Processing tab heading: Personal Objectives Statement
+2025-03-19 12:22:22,517 - INFO - Processing tab heading: Resume
+2025-03-19 12:22:22,518 - INFO - Processing tab heading: Transcripts
+2025-03-19 12:22:22,518 - INFO - Processing tab heading: Letters of Recommendation
+2025-03-19 12:22:22,518 - INFO - Processing tab heading: English Proficiency
+2025-03-19 12:22:22,518 - INFO - Processing tab heading: Optional GRE/GMAT Test Score
+2025-03-19 12:22:22,519 - INFO - Processing tab heading: Scholarships
+2025-03-19 12:22:22,519 - INFO - Processing tab heading: Submitting Documents
+2025-03-19 12:22:22,519 - INFO - Processing tab heading: Master’s Degree Program Prerequisites
+2025-03-19 12:22:22,519 - INFO - Processing tab heading: Non-Degree-Seeking Students
+2025-03-19 12:22:22,520 - INFO - Data scraped successfully and saved to '../scraped_data\masters_admission.txt'
+2025-03-19 12:28:52,013 - INFO - Logging configured successfully.
+2025-03-19 12:28:52,013 - INFO - Opened file for writing: ../scraped_data\phd_admission_requirements.txt
+2025-03-19 12:28:52,013 - INFO - Scraping new page: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:28:52,013 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:28:52,971 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:28:52,998 - INFO - Processed hero box: Fall 2026 applications will open July 1, 2025
+2025-03-19 12:28:52,999 - INFO - Processed heading: Required Application Materials
+2025-03-19 12:28:53,000 - INFO - Processed heading: PhD Admissions Overview
+2025-03-19 12:28:53,001 - INFO - Processed heading: Student Funding
+2025-03-19 12:28:53,002 - INFO - Data scraped successfully and saved to '../scraped_data\phd_admission_requirements.txt'
+2025-03-19 12:29:48,217 - INFO - Logging configured successfully.
+2025-03-19 12:29:48,218 - INFO - Opened file for writing: ../scraped_data\phd_admissions.txt
+2025-03-19 12:29:48,218 - INFO - Scraping new page: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:29:48,218 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:29:48,370 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:29:48,407 - INFO - Processed hero box: Fall 2026 applications will open July 1, 2025
+2025-03-19 12:29:48,409 - INFO - Processed heading: Required Application Materials
+2025-03-19 12:29:48,410 - INFO - Processed heading: PhD Admissions Overview
+2025-03-19 12:29:48,410 - INFO - Processed heading: Student Funding
+2025-03-19 12:29:48,411 - INFO - Data scraped successfully and saved to '../scraped_data\phd_admissions.txt'
+2025-03-19 12:34:30,720 - INFO - Logging configured successfully.
+2025-03-19 12:34:30,720 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:34:30,901 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:30,923 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:34:30,923 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:34:30,924 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:34:30,924 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:34:30,924 - INFO - Found menu link: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:34:30,924 - INFO - Found menu link: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:34:30,924 - INFO - Found menu link: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:34:30,924 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:34:30,925 - INFO - Opened file for writing: ../scraped_data\phd_programs_data.txt
+2025-03-19 12:34:30,925 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:34:30,925 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:34:31,056 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:31,091 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:34:31,091 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:34:31,716 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:31,756 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:34:31,756 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:34:31,907 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:31,954 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:34:31,955 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:34:32,096 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:32,141 - INFO - Scraping page: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:34:32,141 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:34:33,794 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:33,822 - INFO - Scraping page: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:34:33,822 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:34:34,266 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:34:34,268 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:34:34,591 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:34:34,592 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:34:34,791 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:34:34,792 - INFO - Scraping page: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:34:34,792 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:34:36,494 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:36,549 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:34:36,549 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:34:36,696 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:34:36,766 - INFO - Data scraped successfully and saved to '../scraped_data\phd_programs_data.txt'
+2025-03-19 12:40:51,206 - INFO - Logging configured successfully.
+2025-03-19 12:40:51,206 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:40:51,369 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:51,413 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:40:51,413 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:40:51,414 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:40:51,414 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:40:51,414 - INFO - Found menu link: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:40:51,414 - INFO - Found menu link: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:40:51,414 - INFO - Found menu link: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:40:51,414 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:40:51,414 - INFO - Opened file for writing: ../scraped_data\phd_programs_data.txt
+2025-03-19 12:40:51,415 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:40:51,415 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:40:51,547 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:51,583 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:40:51,583 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:40:51,730 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:51,764 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:40:51,764 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:40:51,913 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:51,951 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:40:51,952 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:40:52,088 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:52,124 - INFO - Scraping page: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:40:52,124 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:40:52,281 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:52,301 - INFO - Scraping page: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:40:52,301 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:40:52,648 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:40:52,649 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:40:52,778 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:40:52,779 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:40:52,911 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:40:52,912 - INFO - Scraping page: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:40:52,914 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:40:53,302 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:53,369 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:40:53,369 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:40:53,516 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:40:53,566 - INFO - Data scraped successfully and saved to '../scraped_data\phd_programs_data.txt'
+2025-03-19 12:44:23,432 - INFO - Logging configured successfully.
+2025-03-19 12:44:23,432 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:44:23,582 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:44:23,607 - INFO - Found menu link: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:44:23,607 - INFO - Opened file for writing: ../scraped_data\phd_programs_data.txt
+2025-03-19 12:44:23,608 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:44:23,608 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/
+2025-03-19 12:44:23,746 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:23,779 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:44:23,780 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/programs-concentrations/
+2025-03-19 12:44:23,928 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:23,976 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:44:23,976 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/funding/
+2025-03-19 12:44:24,121 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:24,162 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:44:24,162 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/placements/
+2025-03-19 12:44:24,294 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:24,332 - INFO - Scraping page: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:44:24,332 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-students/
+2025-03-19 12:44:24,459 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:24,492 - INFO - Scraping page: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:44:24,492 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:44:24,644 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:44:24,645 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:44:25,233 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:44:25,234 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/voices/phd-testimonials/
+2025-03-19 12:44:25,369 - ERROR - Failed to retrieve the webpage. Status code: 404
+2025-03-19 12:44:25,370 - INFO - Scraping page: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:44:25,370 - INFO - Sending GET request to: https://jindal.utdallas.edu/jindal/faq/#phd-admissions
+2025-03-19 12:44:25,781 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:25,825 - INFO - Scraping page: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:44:25,825 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/admission-requirements/
+2025-03-19 12:44:25,970 - INFO - Successfully retrieved the webpage.
+2025-03-19 12:44:26,012 - INFO - Data scraped successfully and saved to '../scraped_data\phd_programs_data.txt'
