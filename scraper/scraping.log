@@ -11091,3 +11091,2142 @@ Stacktrace:
 2025-03-19 13:12:54,542 - INFO - Sending GET request to: https://jindal.utdallas.edu/certificate-programs/professional/
 2025-03-19 13:12:54,692 - INFO - Successfully retrieved the webpage.
 2025-03-19 13:12:54,710 - INFO - Data scraped successfully and saved to '../scraped_data\certificate_programs_data.txt'
+2025-03-19 14:41:11,066 - INFO - Logging configured successfully.
+2025-03-19 14:41:11,066 - INFO - Scraping page: https://bursar.utdallas.edu/
+2025-03-19 14:41:11,066 - INFO - Sending GET request to: https://bursar.utdallas.edu/
+2025-03-19 14:41:11,279 - INFO - Successfully retrieved the webpage.
+2025-03-19 14:41:11,290 - INFO - Data scraped successfully and saved to '../scraped_data\bursar_data.json'
+2025-03-19 14:43:49,657 - INFO - Logging configured successfully.
+2025-03-19 14:43:49,657 - INFO - Scraping page: https://bursar.utdallas.edu/
+2025-03-19 14:43:49,657 - INFO - Sending GET request to: https://bursar.utdallas.edu/
+2025-03-19 14:43:49,923 - INFO - Successfully retrieved the webpage.
+2025-03-19 14:43:49,937 - INFO - Data scraped successfully and saved to '../scraped_data\bursar_data.txt'
+2025-03-19 15:09:49,602 - INFO - Logging configured successfully.
+2025-03-19 15:09:49,604 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:09:49,987 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:09:50,167 - INFO - Current academic year: 2024-2025
+2025-03-19 15:09:50,168 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:09:50,168 - INFO - Found 'Tuition Plans' section.
+2025-03-19 15:09:50,168 - INFO - Found 'Tuition Rates' section.
+2025-03-19 15:09:50,169 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:09:50,170 - INFO - Found 'Guaranteed Rates' section.
+2025-03-19 15:09:50,174 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:11:45,515 - INFO - Logging configured successfully.
+2025-03-19 15:11:45,516 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:11:45,767 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:11:45,970 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:11:45,970 - INFO - Found 'Tuition Plans' section.
+2025-03-19 15:11:45,971 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:15:15,945 - INFO - Logging configured successfully.
+2025-03-19 15:15:15,945 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:15:16,207 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:15:16,412 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:15:16,412 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:15:16,412 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:15:16,412 - INFO - Found comparison table.
+2025-03-19 15:15:16,412 - INFO - Extracted comparison table data.
+2025-03-19 15:15:16,412 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:16:56,782 - INFO - Logging configured successfully.
+2025-03-19 15:16:56,783 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:16:57,038 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:16:57,220 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:16:57,220 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:16:57,220 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:16:57,221 - INFO - Found comparison table.
+2025-03-19 15:16:57,221 - INFO - Extracted comparison table data.
+2025-03-19 15:16:57,221 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:16:57,221 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:16:57,221 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:16:57,222 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:19:12,780 - INFO - Logging configured successfully.
+2025-03-19 15:19:12,781 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:19:13,076 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:19:13,247 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:19:13,248 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:19:13,248 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:19:13,248 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:19:13,248 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:19:13,248 - INFO - Extracted 'Variable Rates' table data.
+2025-03-19 15:19:13,249 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:19:13,249 - INFO - Extracted 'Supplemental Designated Tuition Fees' table data.
+2025-03-19 15:19:13,249 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:23:41,324 - INFO - Logging configured successfully.
+2025-03-19 15:23:41,326 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:23:41,564 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:23:41,744 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:23:41,744 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:23:41,744 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:23:41,744 - INFO - Found comparison table.
+2025-03-19 15:23:41,744 - INFO - Extracted comparison table data.
+2025-03-19 15:23:41,744 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:23:41,744 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:23:41,744 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:23:41,744 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:23:41,744 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:23:41,746 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:23:41,746 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:23:41,746 - INFO - Extracted 'Variable Rates' table data.
+2025-03-19 15:23:41,746 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:23:41,746 - INFO - Extracted 'Supplemental Designated Tuition Fees' table data.
+2025-03-19 15:23:41,746 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:27:47,894 - INFO - Logging configured successfully.
+2025-03-19 15:27:47,895 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:27:48,160 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:27:48,343 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:27:48,343 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:27:48,343 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:27:48,343 - INFO - Found comparison table.
+2025-03-19 15:27:48,344 - INFO - Extracted comparison table data.
+2025-03-19 15:27:48,344 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:27:48,344 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:27:48,344 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:27:48,344 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:27:48,345 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:27:48,345 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:27:48,345 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:27:48,345 - INFO - Extracted 'Variable Rates' table data.
+2025-03-19 15:27:48,345 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:27:48,345 - INFO - Extracted 'Supplemental Designated Tuition Fees' table data.
+2025-03-19 15:27:48,346 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:31:32,847 - INFO - Logging configured successfully.
+2025-03-19 15:31:32,848 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:31:33,116 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:31:33,353 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:31:33,353 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:31:33,353 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:31:33,353 - INFO - Found comparison table.
+2025-03-19 15:31:33,355 - INFO - Extracted comparison table data.
+2025-03-19 15:31:33,355 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:31:33,355 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:31:33,355 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:31:33,355 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:31:33,356 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:31:33,356 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:31:33,356 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:31:33,356 - INFO - Extracted 'Variable Rates' table data.
+2025-03-19 15:31:33,357 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:31:33,357 - INFO - Extracted 'Supplemental Designated Tuition Fees' table data.
+2025-03-19 15:31:33,357 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:32:36,370 - INFO - Logging configured successfully.
+2025-03-19 15:32:36,372 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:32:36,680 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:32:36,854 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:32:36,854 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:32:36,855 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:32:36,855 - INFO - Found comparison table.
+2025-03-19 15:32:36,855 - INFO - Extracted comparison table data.
+2025-03-19 15:32:36,855 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:32:36,855 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:32:36,855 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:32:36,856 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:32:36,856 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:32:36,856 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:32:36,856 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:32:36,857 - INFO - Extracted 'Variable Rates' table data.
+2025-03-19 15:32:36,857 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:32:36,857 - INFO - Extracted 'Supplemental Designated Tuition Fees' table data.
+2025-03-19 15:32:36,858 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:35:11,215 - INFO - Logging configured successfully.
+2025-03-19 15:35:11,216 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:35:11,602 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:35:11,825 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:35:11,826 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:35:11,826 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:35:11,826 - INFO - Found comparison table.
+2025-03-19 15:35:11,826 - INFO - Extracted comparison table data.
+2025-03-19 15:35:11,827 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:35:11,827 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:35:11,827 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:35:11,827 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:35:11,827 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:35:11,828 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:35:11,828 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:35:11,828 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 15:35:11,829 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 15:35:11,829 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 15:35:11,829 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 15:35:11,830 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 15:35:11,830 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 15:35:11,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 15:35:11,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 15:35:11,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 15:35:11,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 15:35:11,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 15:35:11,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 15:35:11,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 15:35:11,833 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:35:11,833 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:35:11,833 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:35:11,834 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:35:11,834 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 15:35:11,834 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:35:11,834 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col">School</th>
+<th scope="col">Courses</th>
+<th scope="col">Fee</th>
+</tr>
+2025-03-19 15:35:11,834 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Harry J. Bass Jr. School of Arts, Humanities, and Technology</td>
+<td>All ATCM Undergraduate</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,834 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All ATCM Graduate</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,834 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>School of Behavioral and Brain Sciences</td>
+<td>Graduate Speech Language/Audiology (COMD, AUD)</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,834 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>School of Economic, Political and Policy Sciences</td>
+<td>Graduate Public Affairs (PA)</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,835 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Erik Jonsson School of Engineering and Computer Science</td>
+<td>All ECS Undergraduate</td>
+<td>$70.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,835 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All ECS Graduate</td>
+<td>$95.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,835 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Naveen Jindal School of Management</td>
+<td>All MGT Undergraduate</td>
+<td>$60.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,835 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All MGT Graduate</td>
+<td>$100.00 per credit hour</td>
+</tr>
+2025-03-19 15:35:11,835 - INFO - Extracted 0 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:35:11,836 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:37:46,118 - INFO - Logging configured successfully.
+2025-03-19 15:37:46,119 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:37:46,397 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:37:46,706 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:37:46,707 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:37:46,707 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:37:46,707 - INFO - Found comparison table.
+2025-03-19 15:37:46,708 - INFO - Extracted comparison table data.
+2025-03-19 15:37:46,708 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:37:46,708 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:37:46,708 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:37:46,709 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:37:46,709 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:37:46,710 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:37:46,710 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:37:46,710 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 15:37:46,712 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 15:37:46,713 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 15:37:46,713 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 15:37:46,714 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 15:37:46,714 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 15:37:46,715 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 15:37:46,715 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 15:37:46,716 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 15:37:46,716 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 15:37:46,717 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 15:37:46,717 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 15:37:46,718 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 15:37:46,718 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:37:46,719 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:37:46,719 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:37:46,720 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:37:46,720 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 15:37:46,720 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:37:46,720 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col">School</th>
+<th scope="col">Courses</th>
+<th scope="col">Fee</th>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Harry J. Bass Jr. School of Arts, Humanities, and Technology</td>
+<td>All ATCM Undergraduate</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All ATCM Graduate</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>School of Behavioral and Brain Sciences</td>
+<td>Graduate Speech Language/Audiology (COMD, AUD)</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>School of Economic, Political and Policy Sciences</td>
+<td>Graduate Public Affairs (PA)</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Erik Jonsson School of Engineering and Computer Science</td>
+<td>All ECS Undergraduate</td>
+<td>$70.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All ECS Graduate</td>
+<td>$95.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,721 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Naveen Jindal School of Management</td>
+<td>All MGT Undergraduate</td>
+<td>$60.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,722 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All MGT Graduate</td>
+<td>$100.00 per credit hour</td>
+</tr>
+2025-03-19 15:37:46,722 - INFO - Extracted 0 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:37:46,723 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:39:16,610 - INFO - Logging configured successfully.
+2025-03-19 15:39:16,610 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:39:16,851 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:39:17,020 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:39:17,020 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:39:17,020 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:39:17,020 - INFO - Found comparison table.
+2025-03-19 15:39:17,021 - INFO - Extracted comparison table data.
+2025-03-19 15:39:17,021 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:39:17,021 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:39:17,021 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:39:17,021 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:39:17,022 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:39:17,022 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:39:17,022 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:39:17,023 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 15:39:17,023 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 15:39:17,023 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 15:39:17,024 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 15:39:17,024 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 15:39:17,025 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 15:39:17,025 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 15:39:17,025 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 15:39:17,026 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 15:39:17,026 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 15:39:17,026 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 15:39:17,026 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 15:39:17,027 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 15:39:17,028 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:39:17,028 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:39:17,028 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:39:17,029 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:39:17,030 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 15:39:17,030 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:39:17,030 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col">School</th>
+<th scope="col">Courses</th>
+<th scope="col">Fee</th>
+</tr>
+2025-03-19 15:39:17,030 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Harry J. Bass Jr. School of Arts, Humanities, and Technology</td>
+<td>All ATCM Undergraduate</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,030 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All ATCM Graduate</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,030 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>School of Behavioral and Brain Sciences</td>
+<td>Graduate Speech Language/Audiology (COMD, AUD)</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,030 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>School of Economic, Political and Policy Sciences</td>
+<td>Graduate Public Affairs (PA)</td>
+<td>$50.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,031 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Erik Jonsson School of Engineering and Computer Science</td>
+<td>All ECS Undergraduate</td>
+<td>$70.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,031 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All ECS Graduate</td>
+<td>$95.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,031 - WARNING - Skipping row due to mismatched cells: <tr>
+<td rowspan="2">Naveen Jindal School of Management</td>
+<td>All MGT Undergraduate</td>
+<td>$60.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,031 - WARNING - Skipping row due to mismatched cells: <tr>
+<td>All MGT Graduate</td>
+<td>$100.00 per credit hour</td>
+</tr>
+2025-03-19 15:39:17,031 - INFO - Extracted 0 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:39:17,032 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:41:26,697 - INFO - Logging configured successfully.
+2025-03-19 15:41:26,698 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:41:26,944 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:41:27,115 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:41:27,116 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:41:27,116 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:41:27,116 - INFO - Found comparison table.
+2025-03-19 15:41:27,116 - INFO - Extracted comparison table data.
+2025-03-19 15:41:27,117 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:41:27,117 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:41:27,117 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:41:27,117 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:41:27,117 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:41:27,118 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:41:27,118 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:41:27,118 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 15:41:27,118 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 15:41:27,119 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 15:41:27,119 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 15:41:27,121 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 15:41:27,121 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 15:41:27,121 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 15:41:27,122 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 15:41:27,122 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 15:41:27,122 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 15:41:27,123 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 15:41:27,123 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 15:41:27,123 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 15:41:27,123 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:41:27,124 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:41:27,125 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:41:27,125 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:41:27,125 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 15:41:27,126 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:41:27,126 - INFO - Extracted 9 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:41:27,127 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:44:34,693 - INFO - Logging configured successfully.
+2025-03-19 15:44:34,696 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:44:34,957 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:44:35,120 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:44:35,121 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:44:35,121 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:44:35,121 - INFO - Found comparison table.
+2025-03-19 15:44:35,121 - INFO - Extracted comparison table data.
+2025-03-19 15:44:35,122 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:44:35,122 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:44:35,122 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:44:35,122 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:44:35,122 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:44:35,122 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:44:35,123 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:44:35,123 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 15:44:35,123 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 15:44:35,124 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 15:44:35,124 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 15:44:35,124 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 15:44:35,125 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 15:44:35,125 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 15:44:35,125 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 15:44:35,125 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 15:44:35,126 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 15:44:35,126 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 15:44:35,126 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 15:44:35,126 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 15:44:35,127 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:44:35,127 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:44:35,128 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:44:35,128 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:44:35,129 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 15:44:35,129 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:44:35,129 - INFO - Extracted 9 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:44:35,130 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:48:34,775 - INFO - Logging configured successfully.
+2025-03-19 15:48:34,775 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:48:35,816 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:48:35,994 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:48:35,994 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:48:35,995 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:48:35,995 - INFO - Found comparison table.
+2025-03-19 15:48:35,995 - INFO - Extracted comparison table data.
+2025-03-19 15:48:35,996 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:48:35,996 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:48:35,996 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:48:35,996 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:48:35,996 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:48:35,997 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:48:35,997 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 15:52:17,840 - INFO - Logging configured successfully.
+2025-03-19 15:52:17,841 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 15:52:18,466 - INFO - Successfully retrieved the webpage.
+2025-03-19 15:52:18,789 - INFO - Scraping tuition plans and rates.
+2025-03-19 15:52:18,790 - INFO - Found 'New Incoming Students' section.
+2025-03-19 15:52:18,790 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 15:52:18,790 - INFO - Found comparison table.
+2025-03-19 15:52:18,790 - INFO - Extracted comparison table data.
+2025-03-19 15:52:18,791 - INFO - Found 'Continuing Students' section.
+2025-03-19 15:52:18,791 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 15:52:18,791 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 15:52:18,791 - INFO - Found 'Variable Rates' section.
+2025-03-19 15:52:18,791 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 15:52:18,792 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 15:52:18,792 - INFO - Found 'Variable Rates' table.
+2025-03-19 15:52:18,792 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 15:52:18,792 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 15:52:18,793 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 15:52:18,793 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 15:52:18,793 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 15:52:18,794 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 15:52:18,794 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 15:52:18,794 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 15:52:18,794 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 15:52:18,796 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 15:52:18,796 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 15:52:18,796 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 15:52:18,797 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 15:52:18,797 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:52:18,797 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:52:18,797 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:52:18,798 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 15:52:18,798 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 15:52:18,798 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:52:18,799 - INFO - Extracted 9 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 15:52:18,799 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
+2025-03-19 16:07:35,214 - INFO - Logging configured successfully.
+2025-03-19 16:07:35,215 - INFO - Sending GET request to: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-03-19 16:07:35,523 - INFO - Successfully retrieved the webpage.
+2025-03-19 16:07:35,823 - INFO - Scraping tuition plans and rates.
+2025-03-19 16:07:35,823 - INFO - Found 'New Incoming Students' section.
+2025-03-19 16:07:35,823 - INFO - Extracted description for 'New Incoming Students'.
+2025-03-19 16:07:35,823 - INFO - Found comparison table.
+2025-03-19 16:07:35,823 - INFO - Extracted comparison table data.
+2025-03-19 16:07:35,824 - INFO - Found 'Continuing Students' section.
+2025-03-19 16:07:35,824 - INFO - Extracted description for 'Continuing Students'.
+2025-03-19 16:07:35,824 - INFO - Extracted links for 'Continuing Students'.
+2025-03-19 16:07:35,824 - INFO - Found 'Variable Rates' section.
+2025-03-19 16:07:35,824 - INFO - Extracted description for 'Variable Rates'.
+2025-03-19 16:07:35,825 - INFO - Extracted links for 'Variable Rates'.
+2025-03-19 16:07:35,825 - INFO - Found 'Variable Rates' table.
+2025-03-19 16:07:35,825 - WARNING - Skipping row due to mismatched cells: <tr>
+<th scope="col" style="width: 53px;"></th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 225px;">Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Undergraduate</th>
+<th colspan="3" scope="colgroup" style="background-color: #f2f2f2; width: 237px;">Resident / Graduate</th>
+<th colspan="3" scope="colgroup" style="width: 237px;">Non-Resident / Graduate</th>
+</tr>
+2025-03-19 16:07:35,826 - WARNING - Skipping row due to mismatched cells: <tr class="tuitionThHighlight" style="height: 93px;">
+<th scope="col" style="width: 53px;"><strong>Credit Hours</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 64px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+<th scope="col" style="width: 85px;"><strong>Fall / Spring / 11-Week Summer</strong></th>
+<th scope="col" style="width: 76px;"><strong>8-Week Summer Only</strong></th>
+<th scope="col" style="width: 76px;"><strong>5-Week Summer Only</strong></th>
+</tr>
+2025-03-19 16:07:35,826 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">1</td>
+<td style="width: 85px; text-align: left;">$1,740</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;" width="64">$1,648</td>
+<td style="width: 76px; text-align: left;">$1,577</td>
+<td style="width: 85px; text-align: left;">$4,685</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$4,593</td>
+<td style="width: 76px; text-align: left;">$4,522</td>
+<td style="width: 85px; text-align: left;">$1,691</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$1,599</td>
+<td style="width: 76px; text-align: left;">$1,528</td>
+<td style="width: 85px; text-align: left;">$2,489</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,397</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;" width="64">$2,326</td>
+</tr>
+2025-03-19 16:07:35,826 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">2</td>
+<td style="width: 85px; text-align: left;">$2,318</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,226</td>
+<td style="width: 76px; text-align: left;">$2,155</td>
+<td style="width: 85px; text-align: left;">$6,278</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,186</td>
+<td style="width: 76px; text-align: left;">$6,115</td>
+<td style="width: 85px; text-align: left;">$2,693</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$2,601</td>
+<td style="width: 76px; text-align: left;">$2,530</td>
+<td style="width: 85px; text-align: left;">$4,005</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,913</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,842</td>
+</tr>
+2025-03-19 16:07:35,827 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">3</td>
+<td style="width: 85px; text-align: left;">$2,897</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$2,805</td>
+<td style="width: 76px; text-align: left;">$2,734</td>
+<td style="width: 85px; text-align: left;">$7,871</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,779</td>
+<td style="width: 76px; text-align: left;">$7,708</td>
+<td style="width: 85px; text-align: left;">$3,475</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$3,383</td>
+<td style="width: 76px; text-align: left;">$3,312</td>
+<td style="width: 85px; text-align: left;">$5,499</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,407</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,336</td>
+</tr>
+2025-03-19 16:07:35,828 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">4</td>
+<td style="width: 85px; text-align: left;">$3,476</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,384</td>
+<td style="width: 76px; text-align: left;">$3,313</td>
+<td style="width: 85px; text-align: left;">$9,464</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,372</td>
+<td style="width: 76px; text-align: left;">$9,301</td>
+<td style="width: 85px; text-align: left;">$4,152</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,060</td>
+<td style="width: 76px; text-align: left;">$3,989</td>
+<td style="width: 85px; text-align: left;">$6,917</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,825</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,754</td>
+</tr>
+2025-03-19 16:07:35,829 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">5</td>
+<td style="width: 85px; text-align: left;">$4,055</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$3,963</td>
+<td style="width: 76px; text-align: left;">$3,892</td>
+<td style="width: 85px; text-align: left;">$11,057</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$10,965</td>
+<td style="width: 76px; text-align: left;">$10,894</td>
+<td style="width: 85px; text-align: left;">$4,828</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$4,736</td>
+<td style="width: 76px; text-align: left;">$4,665</td>
+<td style="width: 85px; text-align: left;">$8,335</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,243</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,172</td>
+</tr>
+2025-03-19 16:07:35,829 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">6</td>
+<td style="width: 85px; text-align: left;">$4,633</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$4,541</td>
+<td style="width: 76px; text-align: left;">$4,470</td>
+<td style="width: 85px; text-align: left;">$12,651</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$12,559</td>
+<td style="width: 76px; text-align: left;">$12,488</td>
+<td style="width: 85px; text-align: left;">$5,502</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$5,410</td>
+<td style="width: 76px; text-align: left;">$5,339</td>
+<td style="width: 85px; text-align: left;">$9,751</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,659</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,588</td>
+</tr>
+2025-03-19 16:07:35,830 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">7</td>
+<td style="width: 85px; text-align: left;">$5,212</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,120</td>
+<td style="width: 76px; text-align: left;">$5,049</td>
+<td style="width: 85px; text-align: left;">$14,244</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,152</td>
+<td style="width: 76px; text-align: left;">$14,081</td>
+<td style="width: 85px; text-align: left;">$6,613</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$6,521</td>
+<td style="width: 76px; text-align: left;">$6,450</td>
+<td style="width: 85px; text-align: left;">$11,788</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,696</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$11,625</td>
+</tr>
+2025-03-19 16:07:35,830 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">8</td>
+<td style="width: 85px; text-align: left;">$5,791</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$5,699</td>
+<td style="width: 76px; text-align: left;">$5,628</td>
+<td style="width: 85px; text-align: left;">$15,837</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,745</td>
+<td style="width: 76px; text-align: left;">$15,674</td>
+<td style="width: 85px; text-align: left;">$7,289</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,197</td>
+<td style="width: 76px; text-align: left;">$7,126</td>
+<td style="width: 85px; text-align: left;">$13,188</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,096</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$13,025</td>
+</tr>
+2025-03-19 16:07:35,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">9</td>
+<td style="width: 85px; text-align: left;">$6,370</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,278</td>
+<td style="width: 76px; text-align: left;">$6,207</td>
+<td style="width: 85px; text-align: left;">$17,429</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,337</td>
+<td style="width: 76px; text-align: left;">$17,266</td>
+<td style="width: 85px; text-align: left;">$7,584</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$7,492</td>
+<td style="width: 76px; text-align: left;">$7,421</td>
+<td style="width: 85px; text-align: left;">$14,774</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,682</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$14,611</td>
+</tr>
+2025-03-19 16:07:35,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">10</td>
+<td style="width: 85px; text-align: left;">$6,388</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,296</td>
+<td style="width: 76px; text-align: left;">$6,225</td>
+<td style="width: 85px; text-align: left;">$17,497</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,405</td>
+<td style="width: 76px; text-align: left;">$17,334</td>
+<td style="width: 85px; text-align: left;">$8,173</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,081</td>
+<td style="width: 76px; text-align: left;">$8,010</td>
+<td style="width: 85px; text-align: left;">$15,816</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,724</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$15,653</td>
+</tr>
+2025-03-19 16:07:35,831 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">11</td>
+<td style="width: 85px; text-align: left;">$6,406</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$6,314</td>
+<td style="width: 76px; text-align: left;">$6,243</td>
+<td style="width: 85px; text-align: left;">$17,564</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$17,472</td>
+<td style="width: 76px; text-align: left;">$17,401</td>
+<td style="width: 85px; text-align: left;">$8,762</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$8,670</td>
+<td style="width: 76px; text-align: left;">$8,599</td>
+<td style="width: 85px; text-align: left;">$17,082</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,990</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$16,919</td>
+</tr>
+2025-03-19 16:07:35,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">12</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 16:07:35,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">13</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 16:07:35,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">14</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 16:07:35,832 - WARNING - Skipping row due to mismatched cells: <tr>
+<td style="width: 53px; text-align: left;">15</td>
+<td style="width: 85px; text-align: left;">$7,322</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 64px; text-align: left;">$7,230</td>
+<td style="width: 76px; text-align: left;">$7,159</td>
+<td style="width: 85px; text-align: left;">$20,072</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$19,980</td>
+<td style="width: 76px; text-align: left;">$19,909</td>
+<td style="width: 85px; text-align: left;">$9,101</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$9,009</td>
+<td style="width: 76px; text-align: left;">$8,938</td>
+<td style="width: 85px; text-align: left;">$18,256</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,164</td>
+<td align="right" class="xl82" height="18" style="height: 13.2pt; width: 76px; text-align: left;">$18,093</td>
+</tr>
+2025-03-19 16:07:35,833 - INFO - Extracted 0 rows from 'Variable Rates' table.
+2025-03-19 16:07:35,833 - INFO - Found 'Supplemental Designated Tuition Fees' table.
+2025-03-19 16:07:35,834 - INFO - Extracted 9 rows from 'Supplemental Designated Tuition Fees' table.
+2025-03-19 16:07:35,834 - INFO - Saved all tables to '../scraped_data\tuition_rates.csv'.
+2025-03-19 16:07:35,835 - INFO - Data scraped successfully and saved to '../scraped_data\tuition_plans_rates.json'
