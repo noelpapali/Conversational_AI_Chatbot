@@ -1,283 +1,292 @@
 name: Sharpen your business acumen.
-description: Paragraph: Executive Education at The University of Texas at Dallas is designed for individuals and organizations ready to drive change.
+description:  Executive Education at The University of Texas at Dallas is designed for individuals and organizations ready to drive change.
 url: https://execed.utdallas.edu/
 
 name: Vision for Executive Education
-description: Paragraph: Business professionals and corporations will recognize the Executive Education program as a global leader in business management, leadership education and executive development. We will support the Jindal School of Management and UT Dallas in achieving marketplace dominance as an innovative executive education entity that offers leading-edge, highly differentiated programs.
+description:  Business professionals and corporations will recognize the Executive Education program as a global leader in business management, leadership education and executive development. We will support the Jindal School of Management and UT Dallas in achieving marketplace dominance as an innovative executive education entity that offers leading-edge, highly differentiated programs.
+url: https://execed.utdallas.edu/
+
+name: Build your network and promote yourself.
+description:  Business is not only about what you know but about who you know.
+url: https://execed.utdallas.edu/
+
+name: Innovative Faculty with Real-World Experience
+description:  The Jindal School of Management faculty includes prolific researchers, dedicated educators and top-level corporate executives.
+url: https://execed.utdallas.edu/
+
+name: Wideblocks
+description: Executive MBA:
 url: https://execed.utdallas.edu/
 
 name: Flexible Formats
-description: Paragraph: Leaders and executives know the power of meeting people where they are.
+description:  Leaders and executives know the power of meeting people where they are.
 url: https://execed.utdallas.edu/
 
 name: Student Testimonials
 description: Link: See all Executive Education Testimonials (
 url: https://execed.utdallas.edu/
 
-name: Innovative Faculty with Real-World Experience
-description: Paragraph: The Jindal School of Management faculty includes prolific researchers, dedicated educators and top-level corporate executives.
-url: https://execed.utdallas.edu/
-
-name: Build your network and promote yourself.
-description: Paragraph: Business is not only about what you know but about who you know.
-url: https://execed.utdallas.edu/
-
-name: Professional Certificates (non-credit)
-description: List:
-  - Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
-  - Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
-List:
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Sourcing Management (Link: /jindal/centers-of-excellence/c4isn/#05-online-sourcing-management-training)
-  - Supply Chain Management (Link: /jindal/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-List:
-  - Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
-  - Executive and Professional Coaching (Professional) (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Professional) (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic HR (Professional) (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
-url: /execed/voices/testimonials)
-
-name: Tamer Elshamy, GLEMBA ’19
-description: Paragraph: Sales Director,
-url: /execed/voices/testimonials)
-
 name: Holly Martin, GLEMBA ’19
-description: Paragraph: Customer Experience Manager,
+description:  Customer Experience Manager,
 url: /execed/voices/testimonials)
 
-name: Darrick Fitzgerald, GLEMBA ’18
-description: Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team,
-url: /execed/voices/testimonials)
-
-name: Khaled Hallak, EMBA 2021
-description: Paragraph: Bank of America, Officer,
-url: /execed/voices/testimonials)
-
-name: Mission
-description: Paragraph: We strive to serve the global business community — individuals and organizations — by providing advanced, contemporary executive development programs and opportunities to acquire the essential knowledge, skills and abilities for continuous personal and professional improvement and sustainable business success.
-Paragraph: We develop and continuously improve programs that incorporate a broad range of management disciplines to address the challenges of managing and leading in the rapidly evolving, dynamic, global society.
-url: /execed/voices/testimonials)
-
-name: Andy Miller, GLEMBA ’16
-description: Paragraph: IT Operations Manager,
-url: /execed/voices/testimonials)
-
-name: Jennifer Masie, EMBA 2022
-description: Paragraph: Vice President, Retail Operations and Chief of Staff
-url: /execed/voices/testimonials)
-
-name: Certificates
-description: Paragraph: Below is a complete list of all Executive Education certificates — both Academic and Professional (non-credit) — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page.
-url: /execed/voices/testimonials)
-
-name: Academic Certificates
-description: List:
-  - Product Lifecycle and Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Project Management (Link: /execed/project-management/degree-programs/#certificate)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-List:
-  - Executive and Professional Coaching (Academic) (Link: https://obcc.utdallas.edu/coaching/academic-certificate/)
-  - Organizational Consulting (Academic) (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/academic-certificate/)
-  - Strategic HR (Academic) (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/academic-certificate/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
-url: /execed/voices/testimonials)
-
-name: Andrew Svatek, EMBA 2022
-description: Paragraph: Director of Operations,
+name: Alexander Moeller, EMBA 2017
+description:  Quality Director,
 url: /execed/voices/testimonials)
 
 name: Executive Education Alumni Spotlights
 description: Link: See all Executive Education Alumni Spotlights (
 url: /execed/voices/testimonials)
 
-name: Alexander Moeller, EMBA 2017
-description: Paragraph: Quality Director,
+name: Academic Certificates
+description: 
+Product Lifecycle and Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
+Project Management (Link: /execed/project-management/degree-programs/#certificate)
+Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+
+Executive and Professional Coaching (Academic) (Link: https://obcc.utdallas.edu/coaching/academic-certificate/)
+Organizational Consulting (Academic) (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/academic-certificate/)
+Strategic HR (Academic) (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/academic-certificate/)
+Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+url: /execed/voices/testimonials)
+
+name: Certificates
+description:  Below is a complete list of all Executive Education certificates — both Academic and Professional (non-credit) — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page.
+url: /execed/voices/testimonials)
+
+name: Andy Miller, GLEMBA ’16
+description:  IT Operations Manager,
+url: /execed/voices/testimonials)
+
+name: Tamer Elshamy, GLEMBA ’19
+description:  Sales Director,
+url: /execed/voices/testimonials)
+
+name: Khaled Hallak, EMBA 2021
+description:  Bank of America, Officer,
+url: /execed/voices/testimonials)
+
+name: Andrew Svatek, EMBA 2022
+description:  Director of Operations,
+url: /execed/voices/testimonials)
+
+name: Mission
+description:  We strive to serve the global business community — individuals and organizations — by providing advanced, contemporary executive development programs and opportunities to acquire the essential knowledge, skills and abilities for continuous personal and professional improvement and sustainable business success.
+ We develop and continuously improve programs that incorporate a broad range of management disciplines to address the challenges of managing and leading in the rapidly evolving, dynamic, global society.
+url: /execed/voices/testimonials)
+
+name: Darrick Fitzgerald, GLEMBA ’18
+description:  Managing Consultant – Supply Chain Management Reverse Logistics Team,
 url: /execed/voices/testimonials)
 
 name: Jake Henne, EMBA 2021
-description: Paragraph: World Wide Technology, Client Manager
+description:  World Wide Technology, Client Manager
 url: /execed/voices/testimonials)
 
-name: Charles Gillis, MBA’04
-description: Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
-url: /execed/voices/alumni-spotlights)
+name: Jennifer Masie, EMBA 2022
+description:  Vice President, Retail Operations and Chief of Staff
+url: /execed/voices/testimonials)
+
+name: Professional Certificates (non-credit)
+description: 
+Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
+Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
+
+Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
+Sourcing Management (Link: /jindal/centers-of-excellence/c4isn/#05-online-sourcing-management-training)
+Supply Chain Management (Link: /jindal/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
+
+Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
+Executive and Professional Coaching (Professional) (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+Organizational Consulting (Professional) (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
+Strategic HR (Professional) (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
+url: /execed/voices/testimonials)
 
 name: Sarah Hagan, EMBA’11
-description: Paragraph: CFO, 
+description:  CFO, 
  Omnitracs
-Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
+ Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
 url: /execed/voices/alumni-spotlights)
 
 name: Darla Chapman Ripley, EMBA’97
-description: Paragraph: Associate,   Dave Perry-Miller & Associates Real Estate
-Paragraph: Darla  Ripley places a lot of importance on maintaining all networks, regardless of industry or location.
-url: /execed/voices/alumni-spotlights)
-
-name: Executive Education Articles
-description: Link: See all Executive Education Articles (
-url: /execed/voices/alumni-spotlights)
-
-name: Sid Keswani, MBA’09
-description: Paragraph: President, Pandora Americas
-Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
-url: /execed/voices/alumni-spotlights)
-
-name: Joseph James, MBA’10
-description: Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
+description:  Associate,   Dave Perry-Miller & Associates Real Estate
+ Darla  Ripley places a lot of importance on maintaining all networks, regardless of industry or location.
 url: /execed/voices/alumni-spotlights)
 
 name: Will McIntosh, EMBA’06
-description: Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
-Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
+description:  Senior Manager, Advisory Services, Ernst & Young LLP
+ McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
 url: /execed/voices/alumni-spotlights)
 
-name: What Makes a Good EMBA Candidate?
-description: Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+name: Joseph James, MBA’10
+description:  Entrepreneur
+ James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
+url: /execed/voices/alumni-spotlights)
+
+name: Executive Education Articles
+description: Link: See all Executive Education Articles (
+url: /execed/voices/alumni-spotlights)
+
+name: Charles Gillis, MBA’04
+description:  Executive Director, 
+ Munsch Hardt Kopf & Harr, PC
+ Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
+url: /execed/voices/alumni-spotlights)
+
+name: Sid Keswani, MBA’09
+description:  President, Pandora Americas
+ As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
+url: /execed/voices/alumni-spotlights)
+
+name: Difference Between EMBA and PMBA
+description:  What is the difference between EMBA and PMBA?
+ UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 url: /execed/voices/executive-education-articles)
 
 name: The Importance of a Relevant Curriculum
-description: Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
+description:  Curriculum is Key for Students
+ Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 url: /execed/voices/executive-education-articles)
 
 name: How to Write an Admissions Essay for an Executive MBA Program
-description: Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
-url: /execed/voices/executive-education-articles)
-
-name: Academic Certificates
-description: Paragraph: Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
-List:
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/coaching-academic-certificate/)
-  - Project Management (Link: https://execed.utdallas.edu/project-management/)
-  - Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
-url: /execed/voices/executive-education-articles)
-
-name: Executive Master’s Programs
-description: Paragraph: Pursue your master’s degree alongside other working professionals.
-List:
-  - MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-  - MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
-  - Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
-  - MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
-url: /execed/voices/executive-education-articles)
-
-name: Difference Between EMBA and PMBA
-description: Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
-url: /execed/voices/executive-education-articles)
-
-name: Executive MBA Programs
-description: Paragraph: Get your MBA in a classroom setting with other working professionals.
-List:
-  - Executive MBA (EMBA) (Link: /execed/emba/)
-  - Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
-  - EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
-  - Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+description:  The power of your personal story
+ Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
 url: /execed/voices/executive-education-articles)
 
 name: Professional Certificates
-description: Paragraph: Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
-List:
-  - Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
+description:  Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
+
+Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
+Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
+Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
+Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
+Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
+Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
 url: /execed/voices/executive-education-articles)
 
 name: Academic Certificates
-description: Paragraph: Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
-List:
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/coaching-academic-certificate/)
-  - Project Management (Link: https://execed.utdallas.edu/project-management/)
-  - Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
-url: https://execed.utdallas.edu/academic-programs/
+description:  Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
+
+Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/coaching-academic-certificate/)
+Project Management (Link: https://execed.utdallas.edu/project-management/)
+Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
+Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
+Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
+Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+url: /execed/voices/executive-education-articles)
+
+name: What Makes a Good EMBA Candidate?
+description:  An Excellent Career Investment
+ When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+url: /execed/voices/executive-education-articles)
+
+name: Executive MBA Programs
+description:  Get your MBA in a classroom setting with other working professionals.
+
+Executive MBA (EMBA) (Link: /execed/emba/)
+Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
+EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
+EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
+Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
+EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
+Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+url: /execed/voices/executive-education-articles)
 
 name: Executive Master’s Programs
-description: Paragraph: Pursue your master’s degree alongside other working professionals.
-List:
-  - MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-  - MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
-  - Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
-  - MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
+description:  Pursue your master’s degree alongside other working professionals.
+
+MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
+MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
+MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
+Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
+Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
+MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
+url: /execed/voices/executive-education-articles)
+
+name: Professional Certificates
+description:  Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
+
+Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
+Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
+Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
+Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
+Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
+Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
 url: https://execed.utdallas.edu/academic-programs/
 
 name: Executive Education Articles
 description: Link: See all Executive Education Articles (
 url: https://execed.utdallas.edu/academic-programs/
 
-name: Executive MBA Programs
-description: Paragraph: Get your MBA in a classroom setting with other working professionals.
-List:
-  - Executive MBA (EMBA) (Link: /execed/emba/)
-  - Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
-  - EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
-  - Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+name: Wideblocks
+description: Find the perfect program to help you take your next step.:
+ Master the knowledge, skills and tools required to lead in our increasingly competitive global economy. Executive Education at UT Dallas has the faculty expertise to help you become a global leader in business management, leadership education and executive development.
 url: https://execed.utdallas.edu/academic-programs/
 
-name: Professional Certificates
-description: Paragraph: Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
-List:
-  - Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
+name: Executive MBA Programs
+description:  Get your MBA in a classroom setting with other working professionals.
+
+Executive MBA (EMBA) (Link: /execed/emba/)
+Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
+EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
+EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
+Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
+EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
+Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
 url: https://execed.utdallas.edu/academic-programs/
 
-name: How to Write an Admissions Essay for an Executive MBA Program
-description: Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
-url: /execed/voices/executive-education-articles)
+name: Executive Master’s Programs
+description:  Pursue your master’s degree alongside other working professionals.
 
-name: Executive MBA Programs
-description: Paragraph: 
-Link: Executive MBA (EMBA) (
-url: /execed/voices/executive-education-articles)
+MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
+MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
+MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
+Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
+Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
+MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
+url: https://execed.utdallas.edu/academic-programs/
+
+name: Academic Certificates
+description:  Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
+
+Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/coaching-academic-certificate/)
+Project Management (Link: https://execed.utdallas.edu/project-management/)
+Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
+Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
+Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
+Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+url: https://execed.utdallas.edu/academic-programs/
 
 name: The Importance of a Relevant Curriculum
-description: Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
-url: /execed/voices/executive-education-articles)
-
-name: What Makes a Good EMBA Candidate?
-description: Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+description:  Curriculum is Key for Students
+ Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 url: /execed/voices/executive-education-articles)
 
 name: Difference Between EMBA and PMBA
-description: Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+description:  What is the difference between EMBA and PMBA?
+ UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+url: /execed/voices/executive-education-articles)
+
+name: What Makes a Good EMBA Candidate?
+description:  An Excellent Career Investment
+ When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+url: /execed/voices/executive-education-articles)
+
+name: How to Write an Admissions Essay for an Executive MBA Program
+description:  The power of your personal story
+ Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+url: /execed/voices/executive-education-articles)
+
+name: Executive MBA Programs
+description:  
+Link: Executive MBA (EMBA) (
 url: /execed/voices/executive-education-articles)
 
 name: Link
@@ -305,7 +314,7 @@ description: Online EMBA with an Emphasis on Healthcare Organization Leadership 
 url: /execed/project-management/)
 
 name: Executive Master’s Programs
-description: Paragraph: 
+description:  
 Link: MS Leadership and Organizational Development (
 url: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
 
@@ -326,7 +335,7 @@ description: MS in Systems Engineering and Management (
 url: /execed/product-lifecycle-scm/#supply-chain)
 
 name: Certificates and Corporate Education
-description: Paragraph: 
+description:  
 Link: Academic Certificates (
 url: https://www.utdallas.edu/sem/)
 
@@ -338,97 +347,103 @@ name: Link
 description: Corporate Education (
 url: /execed/certificate-programs/#professional)
 
+name: Professional Certificates
+description:  Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
+
+Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
+Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
+Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
+Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
+Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
+Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
+url: https://execed.utdallas.edu/certificate-programs/
+
 name: Academic Certificates
-description: Paragraph: Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
-List:
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/coaching-academic-certificate/)
-  - Project Management (Link: https://execed.utdallas.edu/project-management/)
-  - Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+description:  Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
+
+Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/coaching-academic-certificate/)
+Project Management (Link: https://execed.utdallas.edu/project-management/)
+Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
+Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
+Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
+Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
+Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+url: https://execed.utdallas.edu/certificate-programs/
+
+name: Wideblocks
+description: Stay competitive and get ahead.:
+ The Executive Education area of the Naveen Jindal School of Management has developed a variety of professional and certificate programs to meet individual business education needs. Regardless of your professional goals, our programs provide the skills and knowledge to stay competitive in today’s challenging business environment and position you for success.
+ Our programs are offered through various delivery options, including a self-paced, online “mini-MBA” — the Certificate of Management. Each professional and certificate program can be delivered on a customized basis to a specific group of professionals within an organization. Click on the links on the left menu to learn more about our programs.
 url: https://execed.utdallas.edu/certificate-programs/
 
 name: Student Testimonials
 description: Link: See all Executive Education Testimonials (
 url: https://execed.utdallas.edu/certificate-programs/
 
+name: Executive MBA Programs
+description:  Get your MBA in a classroom setting with other working professionals.
+
+Executive MBA (EMBA) (Link: /execed/emba/)
+Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
+EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
+EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
+Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
+EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
+Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+url: https://execed.utdallas.edu/certificate-programs/
+
 name: Executive Master’s Programs
-description: Paragraph: Pursue your master’s degree alongside other working professionals.
-List:
-  - MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-  - MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
-  - Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
-  - MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
+description:  Pursue your master’s degree alongside other working professionals.
+
+MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
+MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
+MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
+Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
+Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
+MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
 url: https://execed.utdallas.edu/certificate-programs/
 
-name: Executive MBA Programs
-description: Paragraph: Get your MBA in a classroom setting with other working professionals.
-List:
-  - Executive MBA (EMBA) (Link: /execed/emba/)
-  - Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
-  - EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
-  - Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
-url: https://execed.utdallas.edu/certificate-programs/
-
-name: Professional Certificates
-description: Paragraph: Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
-List:
-  - Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
-url: https://execed.utdallas.edu/certificate-programs/
-
-name: Daniel Hendrickson, EMBA 2022
-description: Paragraph: VP, Sr. Financial Analyst,
-url: /execed/voices/testimonials)
-
-name: Darrick Fitzgerald, GLEMBA ’18
-description: Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team,
-url: /execed/voices/testimonials)
-
-name: Executive MBA Programs
-description: Paragraph: 
-Link: Executive MBA (EMBA) (
-url: /execed/voices/testimonials)
-
-name: Ashwin Prakash, GLEMBA ’20
-description: Paragraph: Head of Data Science and Analytics,
-url: /execed/voices/testimonials)
-
-name: Khaled Hallak, EMBA 2021
-description: Paragraph: Bank of America, Officer,
+name: Vinesh Reddy
+description:  Vice President, Business Process Offshore,
 url: /execed/voices/testimonials)
 
 name: Andy Miller, GLEMBA ’16
-description: Paragraph: IT Operations Manager,
+description:  IT Operations Manager,
 url: /execed/voices/testimonials)
 
-name: Jennifer Masie, EMBA 2022
-description: Paragraph: Vice President, Retail Operations and Chief of Staff
+name: Ashwin Prakash, GLEMBA ’20
+description:  Head of Data Science and Analytics,
 url: /execed/voices/testimonials)
 
-name: Vinesh Reddy
-description: Paragraph: Vice President, Business Process Offshore,
+name: Executive MBA Programs
+description:  
+Link: Executive MBA (EMBA) (
 url: /execed/voices/testimonials)
 
-name: Jake Henne, EMBA 2021
-description: Paragraph: World Wide Technology, Client Manager
+name: Khaled Hallak, EMBA 2021
+description:  Bank of America, Officer,
 url: /execed/voices/testimonials)
 
 name: Vinay Rao, EMBA 2021
-description: Paragraph: ERP Specialist Advisor
+description:  ERP Specialist Advisor
+url: /execed/voices/testimonials)
+
+name: Darrick Fitzgerald, GLEMBA ’18
+description:  Managing Consultant – Supply Chain Management Reverse Logistics Team,
+url: /execed/voices/testimonials)
+
+name: Jake Henne, EMBA 2021
+description:  World Wide Technology, Client Manager
+url: /execed/voices/testimonials)
+
+name: Daniel Hendrickson, EMBA 2022
+description:  VP, Sr. Financial Analyst,
+url: /execed/voices/testimonials)
+
+name: Jennifer Masie, EMBA 2022
+description:  Vice President, Retail Operations and Chief of Staff
 url: /execed/voices/testimonials)
 
 name: Link
@@ -456,7 +471,7 @@ description: Online EMBA with an Emphasis on Healthcare Organization Leadership 
 url: /execed/project-management/)
 
 name: Executive Master’s Programs
-description: Paragraph: 
+description:  
 Link: MS Leadership and Organizational Development (
 url: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
 
@@ -477,7 +492,7 @@ description: MS in Systems Engineering and Management (
 url: /execed/product-lifecycle-scm/#supply-chain)
 
 name: Certificates and Corporate Education
-description: Paragraph: 
+description:  
 Link: Academic Certificates (
 url: https://www.utdallas.edu/sem/)
 
@@ -489,87 +504,92 @@ name: Link
 description: Corporate Education (
 url: /execed/certificate-programs/#professional)
 
+name: Wideblocks
+description: Executive Education offers scholarships and fellowships to help new and current students pay for their education.:
+ The Jindal School awards scholarships to competitive current students. Each scholarship has specific criteria – please read through them before applying. The
+url: https://execed.utdallas.edu/scholarships-executive-education/
+
 name: EMBA Class of 2018 Endowed Veteran’s Scholarship
-description: Paragraph: In 2018, the Executive MBA Class of 2018 and the Global Leadership Executive MBA Class of 2018 created an endowed scholarship for veterans in the Global Leadership MBA/Customized Online MBA program to provide financial assistance while enrolled.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be current or future UT Dallas Executive MBA or Global Leadership MBA/Customized Online MBA students.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants must be serving or have served in the U.S. military.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:  In 400 words or less, describe how the EMBA or Global Leadership MBA/Customized Online MBA curriculum is helping you achieve your professional goals.
+description:  In 2018, the Executive MBA Class of 2018 and the Global Leadership Executive MBA Class of 2018 created an endowed scholarship for veterans in the Global Leadership MBA/Customized Online MBA program to provide financial assistance while enrolled.
+ Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+
+Applicants must be current or future UT Dallas Executive MBA or Global Leadership MBA/Customized Online MBA students.
+Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
+Applicants must be serving or have served in the U.S. military.
+Scholarship award is non-renewable and cannot be stacked or combined.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
+ Essay:  In 400 words or less, describe how the EMBA or Global Leadership MBA/Customized Online MBA curriculum is helping you achieve your professional goals.
 Link: Click Here to Apply (
 url: https://execed.utdallas.edu/scholarships-executive-education/
 
 name: Jasper H. Arnold III Endowed Fellowship
-description: Paragraph: This fellowship was established in 2009 in memory of Dr. Jasper Arnold III, Director of the Jindal School of Management Executive MBA program.  Dr. Arnold worked to enhance the quality of business education available at a public state university.  His efforts to increase enrollment, improve curriculum and put in place high-quality faculty, elevated the reputation of the Executive MBA program to one of the most recognized and distinguished programs of its kind in the nation.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be enrolled in the UT Dallas Executive MBA program.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants may be U.S. citizens, permanent residents or international students.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:  In 400 words or less, describe how the EMBA curriculum is helping you achieve your professional goals.
+description:  This fellowship was established in 2009 in memory of Dr. Jasper Arnold III, Director of the Jindal School of Management Executive MBA program.  Dr. Arnold worked to enhance the quality of business education available at a public state university.  His efforts to increase enrollment, improve curriculum and put in place high-quality faculty, elevated the reputation of the Executive MBA program to one of the most recognized and distinguished programs of its kind in the nation.
+ Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to one scholarship will be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+
+Applicants must be enrolled in the UT Dallas Executive MBA program.
+Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
+Applicants may be U.S. citizens, permanent residents or international students.
+Scholarship award is non-renewable and cannot be stacked or combined.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
+ Essay:  In 400 words or less, describe how the EMBA curriculum is helping you achieve your professional goals.
 Link: Click Here to Apply (
 url: https://forms.office.com/r/P090uCSKqC)
 
 name: Duggirala Endowed Executive MBA Fellowship
-description: Paragraph: This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
-  - Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
-  - Applicants may be US citizens, permanent residents, or international students.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-  - Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
-  - Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:
-Paragraph: In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
+description:  This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
+ Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+
+Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
+Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
+Applicants may be US citizens, permanent residents, or international students.
+Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
+Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
+Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
+Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
+Scholarship award is non-renewable and cannot be stacked or combined.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
+ Essay:
+ In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
 Link: Click here to Apply (
 url: https://forms.office.com/r/kbT196P8Cr)
 
 name: Stephen E. Guisinger Memorial Int’l Management Scholarship
-description: Paragraph: This fellowship was established in memory of Jindal School faculty member Dr. Stephen E. Guisinger to support graduate students in International Management. Professor Guisinger was co-founder and director of the Jindal School’s MS in International Management Studies (MIMS), which later became the Global Leadership MBA/Customized Online MBA. Scholar and leader, consultant to the World Bank and prominent international business economist, Dr. Guisinger taught at the UT Dallas Jindal School from 1976 until his death in 2001 at the age of 60.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be enrolled in the UT Dallas Global Leadership MBA/Customized Online MBA program.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants may be U.S. citizens, permanent residents or international students.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-Paragraph: Essay:  In 400 words or less, describe why you are interested in studying international management.
+description:  This fellowship was established in memory of Jindal School faculty member Dr. Stephen E. Guisinger to support graduate students in International Management. Professor Guisinger was co-founder and director of the Jindal School’s MS in International Management Studies (MIMS), which later became the Global Leadership MBA/Customized Online MBA. Scholar and leader, consultant to the World Bank and prominent international business economist, Dr. Guisinger taught at the UT Dallas Jindal School from 1976 until his death in 2001 at the age of 60.
+ Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+
+Applicants must be enrolled in the UT Dallas Global Leadership MBA/Customized Online MBA program.
+Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
+Applicants may be U.S. citizens, permanent residents or international students.
+Scholarship award is non-renewable and cannot be stacked or combined.
+ Essay:  In 400 words or less, describe why you are interested in studying international management.
 Link: Click here to Apply (
 url: https://forms.office.com/r/3kwGNMbPc5)
 
 name: Ruben Mesa EMBA ’15 Memorial Fellowship
-description: Paragraph: The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
-Paragraph: Award: $2,000 (3) tuition credit during the scholarship award period. Up to three scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be incoming or current graduate students at UT Dallas.
-  - Applicants must be pursuing a graduate degree within the UT Dallas Executive Education department area.
-  - Applicants must have a cumulative GPA between 3.0 and 3.5. (If your GPA is above 3.5 or below 3.0, you will not be eligible.)
-  - Applicants must be enrolled in at least six (6) credit hours each semester.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must be U.S. citizens, permanent residents, or international students.
-  - Applicants must have a minimum of 10 years of work experience and/or military service following the completion of their undergraduate degree.
-  - Among equally qualified applicants, preference shall be given to applicants who demonstrate the greatest financial need or to applicants who received their undergraduate degree from UT Dallas.
-  - Recipients may compete for a second year of funding, provided they have maintained at least a 3.0 cumulative GPA and will be enrolled in a minimum of six (6) credit hours per semester during the second year of funding. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:
+description:  The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
+ Award: $2,000 (3) tuition credit during the scholarship award period. Up to three scholarships may be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+
+Applicants must be incoming or current graduate students at UT Dallas.
+Applicants must be pursuing a graduate degree within the UT Dallas Executive Education department area.
+Applicants must have a cumulative GPA between 3.0 and 3.5. (If your GPA is above 3.5 or below 3.0, you will not be eligible.)
+Applicants must be enrolled in at least six (6) credit hours each semester.
+Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
+Applicants must be U.S. citizens, permanent residents, or international students.
+Applicants must have a minimum of 10 years of work experience and/or military service following the completion of their undergraduate degree.
+Among equally qualified applicants, preference shall be given to applicants who demonstrate the greatest financial need or to applicants who received their undergraduate degree from UT Dallas.
+Recipients may compete for a second year of funding, provided they have maintained at least a 3.0 cumulative GPA and will be enrolled in a minimum of six (6) credit hours per semester during the second year of funding. Recipients seeking a second year of funding must reapply through the Jindal School.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
+ Essay:
 In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
 Click here to Apply
 url: https://forms.office.com/r/3kwGNMbPc5)
@@ -578,277 +598,297 @@ name: Student Testimonials
 description: Link: See all Executive MBA Testimonials (
 url: https://forms.office.com/r/szFb5Zqajc)
 
-name: Stephen E. Guisinger Memorial Int’l Management Scholarship
-description: Paragraph: This fellowship was established in memory of Jindal School faculty member Dr. Stephen E. Guisinger to support graduate students in International Management. Professor Guisinger was co-founder and director of the Jindal School’s MS in International Management Studies (MIMS), which later became the Global Leadership MBA/Customized Online MBA. Scholar and leader, consultant to the World Bank and prominent international business economist, Dr. Guisinger taught at the UT Dallas Jindal School from 1976 until his death in 2001 at the age of 60.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:  In 400 words or less, describe why you are interested in studying international management.
-List:
-  - Applicants must be enrolled in the UT Dallas Global Leadership MBA/Customized Online MBA program.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants may be U.S. citizens, permanent residents or international students.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-url: /execed/voices/executive-mba-testimonials)
-
-name: Daniel Hendrickson, EMBA 2022
-description: Paragraph: VP, Sr. Financial Analyst,
-url: /execed/voices/executive-mba-testimonials)
-
-name: Jasper H. Arnold III Endowed Fellowship
-description: Paragraph: This fellowship was established in 2009 in memory of Dr. Jasper Arnold III, Director of the Jindal School of Management Executive MBA program.  Dr. Arnold worked to enhance the quality of business education available at a public state university.  His efforts to increase enrollment, improve curriculum and put in place high-quality faculty, elevated the reputation of the Executive MBA program to one of the most recognized and distinguished programs of its kind in the nation.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:  In 400 words or less, describe how the EMBA curriculum is helping you achieve your professional goals.
-List:
-  - Applicants must be enrolled in the UT Dallas Executive MBA program.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants may be U.S. citizens, permanent residents or international students.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-url: /execed/voices/executive-mba-testimonials)
-
-name: What are the rules for JSOM Executive Education Scholarships?
-description: List:
-  - Scholarships are not transferable/deferrable. If a scholarship recipient defers admission, the scholarship will not be deferred and a new scholarship application is required for the semester of deferment.
-  - Scholarships are non-renewable and cannot be combined or stacked with other scholarships awarded by JSOM during the academic year.
-  - Scholarship recipients must maintain a minimum GPA of 3.0 during the academic year.
-  - Acceptance of scholarship awards and tuition reductions can result in varying implications for your tax status/situation. Please consult your professional tax advisor to determine the financial implications. You may also contact taxcompliance@utdallas.edu. (Link: mailto:taxcompliance@utdallas.edu)
-  - Failure to comply with scholarship requirements/criteria may result in the revocation of the scholarship.
-url: /execed/voices/executive-mba-testimonials)
-
-name: Ruben Mesa EMBA ’15 Memorial Fellowship
-description: Paragraph: The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
-Paragraph: Award: $2,000 (3) tuition credit during the scholarship award period. Up to three scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:
-In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
-Click here to Apply
-Paragraph: In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
-List:
-  - Applicants must be incoming or current graduate students at UT Dallas.
-  - Applicants must be pursuing a graduate degree within the UT Dallas Executive Education department area.
-  - Applicants must have a cumulative GPA between 3.0 and 3.5. (If your GPA is above 3.5 or below 3.0, you will not be eligible.)
-  - Applicants must be enrolled in at least six (6) credit hours each semester.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must be U.S. citizens, permanent residents, or international students.
-  - Applicants must have a minimum of 10 years of work experience and/or military service following the completion of their undergraduate degree.
-  - Among equally qualified applicants, preference shall be given to applicants who demonstrate the greatest financial need or to applicants who received their undergraduate degree from UT Dallas.
-  - Recipients may compete for a second year of funding, provided they have maintained at least a 3.0 cumulative GPA and will be enrolled in a minimum of six (6) credit hours per semester during the second year of funding. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-url: /execed/voices/executive-mba-testimonials)
-
-name: Who can apply for JSOM Executive Education Scholarships?
-description: List:
-  - Current executive education students are encouraged to apply for scholarship awards.
-  - Neither applicants for admission nor current students are considered automatically for scholarship awards.
-url: /execed/voices/executive-mba-testimonials)
-
-name: Khaled Hallak, EMBA 2021
-description: Paragraph: Bank of America, Officer,
-url: /execed/voices/executive-mba-testimonials)
-
-name: Jennifer Masie, EMBA 2022
-description: Paragraph: Vice President, Retail Operations and Chief of Staff
-url: /execed/voices/executive-mba-testimonials)
-
 name: How can I learn about the status of my application for JSOM Executive Education Scholarships?
-description: Paragraph: Please contact Rhonda Bush at rhonda.bush@utdallas.edu
+description:  Please contact Rhonda Bush at rhonda.bush@utdallas.edu
 url: /execed/voices/executive-mba-testimonials)
 
 name: How can I learn more about other scholarships offered within the Naveen Jindal School of Management?
-description: Paragraph: Please visit the JSOM Graduate Scholarship page to learn more about how to apply for other scholarships within JSOM.
+description:  Please visit the JSOM Graduate Scholarship page to learn more about how to apply for other scholarships within JSOM.
 url: /execed/voices/executive-mba-testimonials)
 
-name: How can I apply for JSOM Executive Education Scholarships?
-description: List:
-  - Visit each of the Executive Education Scholarships above and read through the criteria and requirements.
-  - Students are expected to have fully read the criteria and requirements for each scholarship.
-  - If the criteria and requirements are met, students can select the “Click Here to Apply” button to apply for each scholarship they qualify for.
-  - Once an application is submitted, students are unable to make any changes.
+name: Ruben Mesa EMBA ’15 Memorial Fellowship
+description:  The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
+ Award: $2,000 (3) tuition credit during the scholarship award period. Up to three scholarships may be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+ Essay:
+In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
+Click here to Apply
+ In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
+
+Applicants must be incoming or current graduate students at UT Dallas.
+Applicants must be pursuing a graduate degree within the UT Dallas Executive Education department area.
+Applicants must have a cumulative GPA between 3.0 and 3.5. (If your GPA is above 3.5 or below 3.0, you will not be eligible.)
+Applicants must be enrolled in at least six (6) credit hours each semester.
+Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
+Applicants must be U.S. citizens, permanent residents, or international students.
+Applicants must have a minimum of 10 years of work experience and/or military service following the completion of their undergraduate degree.
+Among equally qualified applicants, preference shall be given to applicants who demonstrate the greatest financial need or to applicants who received their undergraduate degree from UT Dallas.
+Recipients may compete for a second year of funding, provided they have maintained at least a 3.0 cumulative GPA and will be enrolled in a minimum of six (6) credit hours per semester during the second year of funding. Recipients seeking a second year of funding must reapply through the Jindal School.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
 url: /execed/voices/executive-mba-testimonials)
 
-name: Andrew Svatek, EMBA 2022
-description: Paragraph: Director of Operations,
-url: /execed/voices/executive-mba-testimonials)
+name: Tabs
+description: EMBA Class of 2018 Endowed Veteran’s Scholarship:
+ In 2018, the Executive MBA Class of 2018 and the Global Leadership Executive MBA Class of 2018 created an endowed scholarship for veterans in the Global Leadership MBA/Customized Online MBA program to provide financial assistance while enrolled.
+ Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+ Essay:  In 400 words or less, describe how the EMBA or Global Leadership MBA/Customized Online MBA curriculum is helping you achieve your professional goals.
 
-name: Duggirala Endowed Executive MBA Fellowship
-description: Paragraph: This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:
-Paragraph: In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-List:
-  - Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
-  - Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
-  - Applicants may be US citizens, permanent residents, or international students.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-  - Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
-  - Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-url: /execed/voices/executive-mba-testimonials)
-
-name: Jake Henne, EMBA 2021
-description: Paragraph: World Wide Technology, Client Manager
+Applicants must be current or future UT Dallas Executive MBA or Global Leadership MBA/Customized Online MBA students.
+Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
+Applicants must be serving or have served in the U.S. military.
+Scholarship award is non-renewable and cannot be stacked or combined.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
 url: /execed/voices/executive-mba-testimonials)
 
 name: Who can I contact with any additional questions or concerns?
-description: List:
-  - For any further questions or concerns, please contact Rhonda Bush, rhonda.bush@utdallas.edu (Link: mailto:rhonda.bush@utdallas.edu target=)
+description: 
+For any further questions or concerns, please contact Rhonda Bush, rhonda.bush@utdallas.edu (Link: mailto:rhonda.bush@utdallas.edu target=)
+url: /execed/voices/executive-mba-testimonials)
+
+name: Jasper H. Arnold III Endowed Fellowship
+description:  This fellowship was established in 2009 in memory of Dr. Jasper Arnold III, Director of the Jindal School of Management Executive MBA program.  Dr. Arnold worked to enhance the quality of business education available at a public state university.  His efforts to increase enrollment, improve curriculum and put in place high-quality faculty, elevated the reputation of the Executive MBA program to one of the most recognized and distinguished programs of its kind in the nation.
+ Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to one scholarship will be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+ Essay:  In 400 words or less, describe how the EMBA curriculum is helping you achieve your professional goals.
+
+Applicants must be enrolled in the UT Dallas Executive MBA program.
+Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
+Applicants may be U.S. citizens, permanent residents or international students.
+Scholarship award is non-renewable and cannot be stacked or combined.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
+url: /execed/voices/executive-mba-testimonials)
+
+name: What are the rules for JSOM Executive Education Scholarships?
+description: 
+Scholarships are not transferable/deferrable. If a scholarship recipient defers admission, the scholarship will not be deferred and a new scholarship application is required for the semester of deferment.
+Scholarships are non-renewable and cannot be combined or stacked with other scholarships awarded by JSOM during the academic year.
+Scholarship recipients must maintain a minimum GPA of 3.0 during the academic year.
+Acceptance of scholarship awards and tuition reductions can result in varying implications for your tax status/situation. Please consult your professional tax advisor to determine the financial implications. You may also contact taxcompliance@utdallas.edu. (Link: mailto:taxcompliance@utdallas.edu)
+Failure to comply with scholarship requirements/criteria may result in the revocation of the scholarship.
+url: /execed/voices/executive-mba-testimonials)
+
+name: Stephen E. Guisinger Memorial Int’l Management Scholarship
+description:  This fellowship was established in memory of Jindal School faculty member Dr. Stephen E. Guisinger to support graduate students in International Management. Professor Guisinger was co-founder and director of the Jindal School’s MS in International Management Studies (MIMS), which later became the Global Leadership MBA/Customized Online MBA. Scholar and leader, consultant to the World Bank and prominent international business economist, Dr. Guisinger taught at the UT Dallas Jindal School from 1976 until his death in 2001 at the age of 60.
+ Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+ Essay:  In 400 words or less, describe why you are interested in studying international management.
+
+Applicants must be enrolled in the UT Dallas Global Leadership MBA/Customized Online MBA program.
+Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
+Applicants may be U.S. citizens, permanent residents or international students.
+Scholarship award is non-renewable and cannot be stacked or combined.
+url: /execed/voices/executive-mba-testimonials)
+
+name: Who can apply for JSOM Executive Education Scholarships?
+description: 
+Current executive education students are encouraged to apply for scholarship awards.
+Neither applicants for admission nor current students are considered automatically for scholarship awards.
+url: /execed/voices/executive-mba-testimonials)
+
+name: How can I apply for JSOM Executive Education Scholarships?
+description: 
+Visit each of the Executive Education Scholarships above and read through the criteria and requirements.
+Students are expected to have fully read the criteria and requirements for each scholarship.
+If the criteria and requirements are met, students can select the “Click Here to Apply” button to apply for each scholarship they qualify for.
+Once an application is submitted, students are unable to make any changes.
+url: /execed/voices/executive-mba-testimonials)
+
+name: Khaled Hallak, EMBA 2021
+description:  Bank of America, Officer,
+url: /execed/voices/executive-mba-testimonials)
+
+name: Andrew Svatek, EMBA 2022
+description:  Director of Operations,
 url: /execed/voices/executive-mba-testimonials)
 
 name: Vinay Rao, EMBA 2021
-description: Paragraph: ERP Specialist Advisor
+description:  ERP Specialist Advisor
+url: /execed/voices/executive-mba-testimonials)
+
+name: Jake Henne, EMBA 2021
+description:  World Wide Technology, Client Manager
+url: /execed/voices/executive-mba-testimonials)
+
+name: Daniel Hendrickson, EMBA 2022
+description:  VP, Sr. Financial Analyst,
+url: /execed/voices/executive-mba-testimonials)
+
+name: Duggirala Endowed Executive MBA Fellowship
+description:  This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
+ Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
+ Contact: Rhonda Bush at rhonda.bush@utdallas.edu
+ Requirements, Terms and Conditions:
+ Essay:
+ In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
+
+Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
+Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
+Applicants may be US citizens, permanent residents, or international students.
+Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
+Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
+Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
+Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
+Scholarship award is non-renewable and cannot be stacked or combined.
+Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
+url: /execed/voices/executive-mba-testimonials)
+
+name: Jennifer Masie, EMBA 2022
+description:  Vice President, Retail Operations and Chief of Staff
 url: /execed/voices/executive-mba-testimonials)
 
 name: Student Experiences
-description: Paragraph: Current Executive Education students and alumni share their academic experiences, outcomes and insights. Read their stories and discover how Executive Education programs have made an impact on their professional and personal lives.
+description:  Current Executive Education students and alumni share their academic experiences, outcomes and insights. Read their stories and discover how Executive Education programs have made an impact on their professional and personal lives.
 Link: See all Student Experiences (
 url: https://execed.utdallas.edu/voices/
 
-name: Student Testimonials
-description: Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
-Link: See all Executive Education Testimonials (
-url: /execed/voices/student-experiences/)
-
-name: My Experience Going Through the EMBA Program
-description: Paragraph: What has your ROI been?
-Paragraph: I am able to make better strategic decisions, both professionally and personally.  I can clearly and critically assess problems and have found the courage to make the tough calls.  I now prioritize my work and can motivate the team towards a common goal.
-url: /execed/voices/student-experiences/)
+name: Wideblocks
+description: Get to know Executive Education from the voices of the people who know best.:
+ What better way to see how Executive Education at UT Dallas can help you achieve your goals than to hear directly from the people who have experienced it themselves? Executive Education alumni and current students, as well as faculty and staff members, have a lot to say about what you can expect from becoming a part of an Executive Education program. Our students work hard with their classmates and walk off the stage, diploma in hand and ready to advance their careers.
+url: https://execed.utdallas.edu/voices/
 
 name: The Transition From Surviving To Thriving
-description: Paragraph: The “reshaping” process
-Paragraph: The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
+description:  The “reshaping” process
+ The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
 url: /execed/voices/student-experiences/)
 
 name: How the Executive MBA Helped My Career
-description: Paragraph: Investing in my future
-Paragraph: At work I’ve acquired a new professional certification and been allowed to completely re-write my job description into one that fits who I am and rewards me for all the effort I’ve put in, both at work and at school.  Next step – here I come!
+description:  Investing in my future
+ At work I’ve acquired a new professional certification and been allowed to completely re-write my job description into one that fits who I am and rewards me for all the effort I’ve put in, both at work and at school.  Next step – here I come!
+url: /execed/voices/student-experiences/)
+
+name: My Experience Going Through the EMBA Program
+description:  What has your ROI been?
+ I am able to make better strategic decisions, both professionally and personally.  I can clearly and critically assess problems and have found the courage to make the tough calls.  I now prioritize my work and can motivate the team towards a common goal.
 url: /execed/voices/student-experiences/)
 
 name: The Academic Experience of a Lifetime
-description: Paragraph: Experiences as an EMBA student
-Paragraph: The classes expose students to many topics that you may not think about every day. I have been able to apply theories and practices from every class I have taken in this program to my job. I am very pleased with the program and the confidence it has given me.
+description:  Experiences as an EMBA student
+ The classes expose students to many topics that you may not think about every day. I have been able to apply theories and practices from every class I have taken in this program to my job. I am very pleased with the program and the confidence it has given me.
 url: /execed/voices/student-experiences/)
 
-name: Daniel Hendrickson, EMBA 2022
-description: Paragraph: VP, Sr. Financial Analyst,
-url: /execed/voices/testimonials)
+name: Student Testimonials
+description:  Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
+Link: See all Executive Education Testimonials (
+url: /execed/voices/student-experiences/)
 
 name: Holly Martin, GLEMBA ’19
-description: Paragraph: Customer Experience Manager,
-url: /execed/voices/testimonials)
-
-name: Ashwin Prakash, GLEMBA ’20
-description: Paragraph: Head of Data Science and Analytics,
-url: /execed/voices/testimonials)
-
-name: Khaled Hallak, EMBA 2021
-description: Paragraph: Bank of America, Officer,
-url: /execed/voices/testimonials)
-
-name: Andy Miller, GLEMBA ’16
-description: Paragraph: IT Operations Manager,
+description:  Customer Experience Manager,
 url: /execed/voices/testimonials)
 
 name: Vinesh Reddy
-description: Paragraph: Vice President, Business Process Offshore,
-url: /execed/voices/testimonials)
-
-name: Michelle Miller, EMBA 2015
-description: Paragraph: Research Operations Manager,
+description:  Vice President, Business Process Offshore,
 url: /execed/voices/testimonials)
 
 name: Imraan Husain, GLEMBA ’17
-description: Paragraph: Director,
-url: /execed/voices/testimonials)
-
-name: Andrew Svatek, EMBA 2022
-description: Paragraph: Director of Operations,
+description:  Director,
 url: /execed/voices/testimonials)
 
 name: Executive Education Alumni Spotlights
-description: Paragraph: Read the success stories from JSOM alumni who earned their degrees from the Jindal School of Management. These alumni are current professionals who share their insights about their experience and life after graduating from UT Dallas.
+description:  Read the success stories from JSOM alumni who earned their degrees from the Jindal School of Management. These alumni are current professionals who share their insights about their experience and life after graduating from UT Dallas.
 Link: See all Executive Education Alumni Spotlights (
 url: /execed/voices/testimonials)
 
-name: Jake Henne, EMBA 2021
-description: Paragraph: World Wide Technology, Client Manager
+name: Andy Miller, GLEMBA ’16
+description:  IT Operations Manager,
+url: /execed/voices/testimonials)
+
+name: Ashwin Prakash, GLEMBA ’20
+description:  Head of Data Science and Analytics,
+url: /execed/voices/testimonials)
+
+name: Khaled Hallak, EMBA 2021
+description:  Bank of America, Officer,
+url: /execed/voices/testimonials)
+
+name: Andrew Svatek, EMBA 2022
+description:  Director of Operations,
 url: /execed/voices/testimonials)
 
 name: Alexander Moeller, EMBA 2017
-description: Paragraph: Quality Director,
+description:  Quality Director,
 url: /execed/voices/testimonials)
 
 name: Vinay Rao, EMBA 2021
-description: Paragraph: ERP Specialist Advisor
+description:  ERP Specialist Advisor
 url: /execed/voices/testimonials)
 
-name: Charles Gillis, MBA’04
-description: Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
-url: /execed/voices/alumni-spotlights)
+name: Michelle Miller, EMBA 2015
+description:  Research Operations Manager,
+url: /execed/voices/testimonials)
 
-name: Darla Chapman Ripley, EMBA’97
-description: Paragraph: Associate,   Dave Perry-Miller & Associates Real Estate
-Paragraph: Darla  Ripley places a lot of importance on maintaining all networks, regardless of industry or location.
-url: /execed/voices/alumni-spotlights)
+name: Jake Henne, EMBA 2021
+description:  World Wide Technology, Client Manager
+url: /execed/voices/testimonials)
 
-name: Sid Keswani, MBA’09
-description: Paragraph: President, Pandora Americas
-Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
-url: /execed/voices/alumni-spotlights)
-
-name: Sarah Hagan, EMBA’11
-description: Paragraph: CFO, 
- Omnitracs
-Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
-url: /execed/voices/alumni-spotlights)
-
-name: Joseph James, MBA’10
-description: Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
-url: /execed/voices/alumni-spotlights)
+name: Daniel Hendrickson, EMBA 2022
+description:  VP, Sr. Financial Analyst,
+url: /execed/voices/testimonials)
 
 name: Executive Education Articles
-description: Paragraph: Discover how Executive Education faculty are researching, publishing, speaking and engaging in the business community. The authors of these articles also include accounting students, staff and friends.
+description:  Discover how Executive Education faculty are researching, publishing, speaking and engaging in the business community. The authors of these articles also include accounting students, staff and friends.
 Link: See all Executive Education Articles (
 url: /execed/voices/alumni-spotlights)
 
-name: Will McIntosh, EMBA’06
-description: Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
-Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
+name: Darla Chapman Ripley, EMBA’97
+description:  Associate,   Dave Perry-Miller & Associates Real Estate
+ Darla  Ripley places a lot of importance on maintaining all networks, regardless of industry or location.
 url: /execed/voices/alumni-spotlights)
 
-name: What Makes a Good EMBA Candidate?
-description: Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+name: Joseph James, MBA’10
+description:  Entrepreneur
+ James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
+url: /execed/voices/alumni-spotlights)
+
+name: Will McIntosh, EMBA’06
+description:  Senior Manager, Advisory Services, Ernst & Young LLP
+ McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
+url: /execed/voices/alumni-spotlights)
+
+name: Charles Gillis, MBA’04
+description:  Executive Director, 
+ Munsch Hardt Kopf & Harr, PC
+ Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
+url: /execed/voices/alumni-spotlights)
+
+name: Sarah Hagan, EMBA’11
+description:  CFO, 
+ Omnitracs
+ Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
+url: /execed/voices/alumni-spotlights)
+
+name: Sid Keswani, MBA’09
+description:  President, Pandora Americas
+ As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
+url: /execed/voices/alumni-spotlights)
+
+name: The Importance of a Relevant Curriculum
+description:  Curriculum is Key for Students
+ Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 url: /execed/voices/executive-education-articles)
 
 name: How to Write an Admissions Essay for an Executive MBA Program
-description: Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+description:  The power of your personal story
+ Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
 url: /execed/voices/executive-education-articles)
 
-name: Executive MBA Programs
-description: Paragraph: 
-Link: Executive MBA (EMBA) (
-url: /execed/voices/executive-education-articles)
-
-name: The Importance of a Relevant Curriculum
-description: Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
+name: What Makes a Good EMBA Candidate?
+description:  An Excellent Career Investment
+ When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 url: /execed/voices/executive-education-articles)
 
 name: Difference Between EMBA and PMBA
-description: Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+description:  What is the difference between EMBA and PMBA?
+ UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+url: /execed/voices/executive-education-articles)
+
+name: Executive MBA Programs
+description:  
+Link: Executive MBA (EMBA) (
 url: /execed/voices/executive-education-articles)
 
 name: Link
@@ -876,7 +916,7 @@ description: Online EMBA with an Emphasis on Healthcare Organization Leadership 
 url: /execed/project-management/)
 
 name: Executive Master’s Programs
-description: Paragraph: 
+description:  
 Link: MS Leadership and Organizational Development (
 url: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
 
@@ -897,7 +937,7 @@ description: MS in Systems Engineering and Management (
 url: /execed/product-lifecycle-scm/#supply-chain)
 
 name: Certificates and Corporate Education
-description: Paragraph: 
+description:  
 Link: Academic Certificates (
 url: https://www.utdallas.edu/sem/)
 

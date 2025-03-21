@@ -23,6 +23,12 @@ def clean_text(text):
     # Remove leading dashes or bullet points
     text = re.sub(r'^\s*-\s*', '', text, flags=re.MULTILINE)
 
+    # Remove specific unwanted prefixes
+    text = re.sub(r'\b(?:Paragraph:|List:|Wideblocks:|Tabs:|Smallblocks:)\b\s*', '', text, flags=re.IGNORECASE)
+
+    # Remove standalone "Paragraph:" and "List:" lines
+    text = re.sub(r'^\s*(Paragraph|List):', '', text, flags=re.MULTILINE | re.IGNORECASE)
+
     # Ensure clean spacing and remove redundant line breaks
     #text = re.sub(r'\s+', ' ', text).strip()
 
@@ -32,7 +38,6 @@ def clean_text(text):
         print(f"Before: {original_text}\nAfter: {text}\n{'-' * 50}")
 
     return text if text else None  # Return None if empty after cleaning
-
 
 # Function to process scraped data
 def preprocess_data(file_path):
@@ -76,11 +81,11 @@ def preprocess_data(file_path):
             if para and ':' in para and not para.startswith('http'):
                 name, description = map(str.strip, para.split(':', 1))
 
-                if name.lower() in ['wideblocks', 'tabs', 'smallblocks']:
-                    logger.info(f"Skipping section: {name}")
-                    continue
+                # Clean the name and description immediately after extraction
+                name = clean_text(name)
+                description = clean_text(description)
 
-                if description:
+                if name and description:
                     items.append({
                         'name': name,
                         'description': description,
@@ -89,36 +94,15 @@ def preprocess_data(file_path):
 
         processed_data.extend(items)
 
-    # **Apply cleaning at the very end**
-    for item in processed_data:
-        # Clean the name
-        item['name'] = re.sub(
-            r'\b(?: Paragraph:| List:|Wideblocks:|Tabs:|Smallblocks:)\b\s*',
-            '',
-            item['name'],
-            flags=re.IGNORECASE
-        ).strip()
-
-        # Clean the description
-        item['description'] = re.sub(
-            r'\b(?: Paragraph:| List:|Wideblocks:|Tabs:|Smallblocks:)\b\s*',
-            '',
-            item['description'],
-            flags=re.IGNORECASE
-        ).strip()
-
     logger.info(f"Finished processing file: {file_path}. Total records: {len(processed_data)}")
     return processed_data
-
 
 # Wrapper functions
 def preprocess_certificates(file_path):
     return preprocess_data(file_path)
 
-
 def preprocess_exec_ed(file_path):
     return preprocess_data(file_path)
-
 
 # Function to save structured data to a text file
 def save_to_txt(data, output_path):
@@ -152,7 +136,6 @@ def save_to_txt(data, output_path):
                     file.write("\n")
 
     logger.info(f"Data successfully saved to {output_path}")
-
 
 # File paths
 certificates_file = '../scraped_data/certificate_programs_data.txt'
