@@ -13601,3 +13601,267 @@ Stacktrace:
 2025-03-21 16:09:57,148 - INFO - Fetching webpage using Selenium: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
 2025-03-21 16:11:38,659 - INFO - Extracting content from 'card card-body' elements (excluding tables).
 2025-03-21 16:11:38,690 - INFO - Text content saved to '../scraped_data\tuition_rates_content.txt'.
+2025-03-21 19:08:07,931 - INFO - Logging configured successfully.
+2025-03-21 19:08:08,499 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:08:08,500 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:08:11,124 - INFO - Scraping sub-page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:08:13,991 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:08:16,262 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:08:19,438 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:08:21,683 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:08:23,942 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 19:08:24,112 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/business-communication-center/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 19:08:26,136 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-21 19:08:26,310 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/business-cards/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-21 19:08:28,325 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-21 19:08:28,452 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/study-abroad-programs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-21 19:08:30,453 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/comet-closet/
+2025-03-21 19:08:32,748 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 19:08:32,871 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/deans-council/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 19:08:34,873 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:16:14,817 - INFO - Logging configured successfully.
+2025-03-21 19:16:15,045 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:16:15,045 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:16:17,244 - INFO - Scraping sub-page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:16:19,448 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:16:21,716 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:16:21,882 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/assistantships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:16:23,884 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:16:24,013 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/student-organizations/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:16:26,015 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:16:26,168 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/labs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:16:28,169 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 19:16:28,307 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/business-communication-center/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 19:16:30,309 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-21 19:16:30,428 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/business-cards/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-21 19:16:32,430 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-21 19:16:34,720 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/comet-closet/
+2025-03-21 19:16:38,003 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 19:16:38,145 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/deans-council/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 19:16:40,146 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:19:45,652 - INFO - Logging configured successfully.
+2025-03-21 19:19:45,893 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:19:45,894 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:19:48,096 - INFO - Scraping sub-page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:19:50,302 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:19:52,547 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:19:54,798 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:19:57,311 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:20:00,427 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 19:20:00,566 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/business-communication-center/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 19:20:02,567 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/business-cards/
+2025-03-21 19:20:05,080 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-21 19:20:05,211 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/study-abroad-programs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/study-abroad-programs/
+2025-03-21 19:20:07,212 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/comet-closet/
+2025-03-21 19:20:07,385 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/comet-closet/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/comet-closet/
+2025-03-21 19:20:09,385 - INFO - Scraping sub-page: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 19:20:09,555 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/deans-council/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 19:20:11,556 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:26:08,547 - INFO - Logging configured successfully.
+2025-03-21 19:26:08,548 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:26:08,548 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:26:10,783 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:26:12,997 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:26:13,165 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/scholarships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:26:13,167 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:26:17,420 - INFO - Logging configured successfully.
+2025-03-21 19:26:17,420 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:26:17,420 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:26:19,609 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:26:21,829 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:26:24,031 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:33:33,986 - INFO - Logging configured successfully.
+2025-03-21 19:33:33,987 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:33:33,987 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:33:36,207 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:33:38,443 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:33:40,632 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:33:42,859 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:33:45,049 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:33:45,202 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/labs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:33:45,204 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:33:50,341 - INFO - Logging configured successfully.
+2025-03-21 19:33:50,341 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:33:50,341 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:33:50,488 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:33:50,489 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:33:50,613 - ERROR - Failed to fetch https://jindal.utdallas.edu/advising/: 599 Server Error:  for url: https://jindal.utdallas.edu/advising/
+2025-03-21 19:33:50,613 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:33:50,750 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/scholarships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:33:50,751 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:33:50,870 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/assistantships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:33:50,871 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:33:51,005 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/student-organizations/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:33:51,005 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:33:53,203 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:33:55,313 - INFO - Logging configured successfully.
+2025-03-21 19:33:55,314 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:33:55,314 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:33:55,451 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:33:55,452 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:33:57,650 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:33:59,830 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:33:59,980 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/assistantships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:33:59,981 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:34:00,117 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/student-organizations/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:34:00,118 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:34:00,243 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/labs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:34:00,244 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:34:02,472 - INFO - Logging configured successfully.
+2025-03-21 19:34:02,473 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:34:02,473 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:34:02,598 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:34:02,598 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:34:02,748 - ERROR - Failed to fetch https://jindal.utdallas.edu/advising/: 599 Server Error:  for url: https://jindal.utdallas.edu/advising/
+2025-03-21 19:34:02,748 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:34:02,873 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/scholarships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:34:02,874 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:34:02,998 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/assistantships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:34:02,999 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:34:03,127 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/student-organizations/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:34:03,127 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:34:03,247 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/labs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:34:03,248 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:34:05,708 - INFO - Logging configured successfully.
+2025-03-21 19:34:05,708 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:34:05,708 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:34:05,848 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:34:05,848 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:34:08,045 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:34:08,170 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/scholarships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:34:08,171 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:34:10,378 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:34:12,618 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:34:12,743 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/labs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:34:12,743 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:38:17,700 - INFO - Logging configured successfully.
+2025-03-21 19:38:17,930 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:38:17,930 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/#content
+2025-03-21 19:38:20,134 - INFO - Scraping page: https://utdallas.edu
+2025-03-21 19:38:20,571 - WARNING - No scraping function defined for URL: https://utdallas.edu
+2025-03-21 19:38:20,571 - INFO - Scraping page: https://jindal.utdallas.edu/staff-list/
+2025-03-21 19:38:20,707 - ERROR - Failed to fetch https://jindal.utdallas.edu/staff-list/: 599 Server Error:  for url: https://jindal.utdallas.edu/staff-list/
+2025-03-21 19:38:20,707 - INFO - Scraping page: https://galaxy.utdallas.edu/
+2025-03-21 19:38:21,306 - ERROR - Failed to fetch https://galaxy.utdallas.edu/: 599 Server Error:  for url: https://www.utdallas.edu/galaxy
+2025-03-21 19:38:21,307 - INFO - Scraping page: https://www.utdallas.edu/directory
+2025-03-21 19:38:21,433 - ERROR - Failed to fetch https://www.utdallas.edu/directory: 599 Server Error:  for url: https://www.utdallas.edu/directory
+2025-03-21 19:38:21,434 - INFO - Scraping page: https://elearning.utdallas.edu/
+2025-03-21 19:38:21,764 - WARNING - No scraping function defined for URL: https://elearning.utdallas.edu/
+2025-03-21 19:38:21,764 - INFO - Scraping page: https://map.concept3d.com/?id=1772#!m/435245?ce/42138?bm/
+2025-03-21 19:38:21,973 - WARNING - No scraping function defined for URL: https://map.concept3d.com/?id=1772#!m/435245?ce/42138?bm/
+2025-03-21 19:38:21,973 - INFO - Scraping page: https://www.utdallas.edu/academics/calendar/
+2025-03-21 19:38:22,242 - WARNING - No scraping function defined for URL: https://www.utdallas.edu/academics/calendar/
+2025-03-21 19:38:22,242 - INFO - Scraping page: https://coursebook.utdallas.edu/
+2025-03-21 19:38:22,955 - WARNING - No scraping function defined for URL: https://coursebook.utdallas.edu/
+2025-03-21 19:38:22,956 - INFO - Scraping page: https://jindal.utdallas.edu/admission-requirements/
+2025-03-21 19:38:23,094 - ERROR - Failed to fetch https://jindal.utdallas.edu/admission-requirements/: 599 Server Error:  for url: https://jindal.utdallas.edu/admission-requirements/
+2025-03-21 19:38:23,095 - INFO - Scraping page: https://jindal.utdallas.edu/request-information/
+2025-03-21 19:38:23,224 - ERROR - Failed to fetch https://jindal.utdallas.edu/request-information/: 599 Server Error:  for url: https://jindal.utdallas.edu/request-information/
+2025-03-21 19:38:23,225 - INFO - Scraping page: https://jindal.utdallas.edu                         
+2025-03-21 19:38:33,965 - INFO - Logging configured successfully.
+2025-03-21 19:38:33,966 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:38:33,966 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:38:34,111 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:38:34,111 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:38:36,326 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:38:38,539 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:38:38,668 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/assistantships/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:38:38,669 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:38:38,818 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/student-organizations/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:38:38,818 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:38:38,951 - ERROR - Failed to fetch https://jindal.utdallas.edu/student-resources/labs/: 599 Server Error:  for url: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:38:38,952 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 19:40:10,833 - INFO - Logging configured successfully.
+2025-03-21 19:40:10,835 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 19:40:10,835 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 19:40:13,038 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 19:40:15,253 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 19:40:17,450 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 19:40:19,716 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 19:40:21,930 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 19:40:24,193 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 21:28:20,311 - INFO - Logging configured successfully.
+2025-03-21 21:28:20,312 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 21:28:20,314 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 21:28:22,760 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 21:28:25,198 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 21:28:27,635 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 21:28:29,831 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 21:28:32,047 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 21:28:34,292 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 21:31:38,926 - INFO - Logging configured successfully.
+2025-03-21 21:31:38,927 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 21:31:38,927 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 21:31:41,360 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 21:31:43,855 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 21:31:46,376 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 21:31:48,565 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 21:31:50,771 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 21:31:53,001 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 21:33:50,390 - INFO - Logging configured successfully.
+2025-03-21 21:33:50,390 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 21:33:50,390 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 21:33:52,606 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 21:33:54,813 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 21:33:57,028 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 21:33:59,225 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 21:34:01,435 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 21:34:03,665 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 21:44:01,906 - INFO - Logging configured successfully.
+2025-03-21 21:44:01,906 - INFO - Opened file for writing: ../scraped_data\student_resources_data.txt
+2025-03-21 21:44:01,906 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/
+2025-03-21 21:44:04,147 - INFO - Scraping page: https://jindal.utdallas.edu/advising/
+2025-03-21 21:44:06,342 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/scholarships/
+2025-03-21 21:44:08,545 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/assistantships/
+2025-03-21 21:44:11,772 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/student-organizations/
+2025-03-21 21:44:14,476 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/labs/
+2025-03-21 21:44:16,722 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/business-communication-center/
+2025-03-21 21:44:18,928 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
+2025-03-21 21:44:21,195 - INFO - Scraping page: https://jindal.utdallas.edu/student-resources/deans-council/
+2025-03-21 21:44:23,404 - INFO - Data scraped successfully and saved to '../scraped_data\student_resources_data.txt'
+2025-03-21 21:52:51,419 - INFO - Logging configured successfully.
+2025-03-21 21:52:51,420 - INFO - Scraping page: https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-21 21:52:52,833 - INFO - Opened file for writing: ../scraped_data\centers_of_excellence_links.txt
+2025-03-21 21:52:52,834 - INFO - Data scraped successfully and saved to '../scraped_data\centers_of_excellence_links.txt'
+2025-03-21 21:54:34,594 - INFO - Logging configured successfully.
+2025-03-21 21:54:34,594 - INFO - Scraping page: https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-21 21:54:34,834 - INFO - Opened file for writing: ../scraped_data\centers_of_excellence_data.txt
+2025-03-21 21:54:34,834 - INFO - Data scraped successfully and saved to '../scraped_data\centers_of_excellence_data.txt'
+2025-03-21 21:58:52,891 - INFO - Logging configured successfully.
+2025-03-21 21:58:52,891 - INFO - Scraping page: https://jindal.utdallas.edu/centers-of-excellence/
+2025-03-21 21:58:53,105 - INFO - Scraped main heading.
+2025-03-21 21:58:53,106 - INFO - Scraped 1 wideblock sections.
+2025-03-21 21:58:53,107 - INFO - Scraped 3 stat-box sections.
+2025-03-21 21:58:53,108 - INFO - Opened file for writing: ../scraped_data\centers_of_excellence_data.txt
+2025-03-21 21:58:53,108 - INFO - Data scraped successfully and saved to '../scraped_data\centers_of_excellence_data.txt'
+2025-03-21 22:09:27,190 - INFO - Logging configured successfully.
+2025-03-21 22:09:27,190 - INFO - Scraping page: https://jindal.utdallas.edu/faculty/
+2025-03-21 22:09:27,425 - INFO - Opened file for writing: ../scraped_data\faculty_page_data.txt
+2025-03-21 22:09:27,425 - INFO - Data scraped successfully and saved to '../scraped_data\faculty_page_data.txt'
+2025-03-21 22:12:58,542 - INFO - Logging configured successfully.
+2025-03-21 22:12:58,542 - INFO - Scraping page: https://jindal.utdallas.edu/news/
+2025-03-21 22:12:58,769 - INFO - Opened file for writing: ../scraped_data\news_page_data.txt
+2025-03-21 22:12:58,769 - INFO - Data scraped successfully and saved to '../scraped_data\news_page_data.txt'
+2025-03-21 22:14:50,048 - INFO - Logging configured successfully.
+2025-03-21 22:14:50,049 - INFO - Scraping page: https://jindal.utdallas.edu/news/
+2025-03-21 22:14:50,273 - INFO - Opened file for writing: ../scraped_data\news_page_data.txt
+2025-03-21 22:14:50,274 - INFO - Data scraped successfully and saved to '../scraped_data\news_page_data.txt'
+2025-03-21 22:17:50,013 - INFO - Logging configured successfully.
+2025-03-21 22:17:50,013 - INFO - Scraping page: https://jindal.utdallas.edu/news/
+2025-03-21 22:17:50,587 - INFO - Opened file for writing: ../scraped_data\news_page_raw_data.txt
+2025-03-21 22:17:50,587 - INFO - Data scraped successfully and saved to '../scraped_data\news_page_raw_data.txt'
+2025-03-21 22:20:38,444 - INFO - Logging configured successfully.
+2025-03-21 22:20:38,445 - INFO - Scraping page: https://jindal.utdallas.edu/news/
+2025-03-21 22:20:38,666 - INFO - Opened file for writing: ../scraped_data\news_page_data.txt
+2025-03-21 22:21:22,469 - INFO - Logging configured successfully.
+2025-03-21 22:21:22,470 - INFO - Scraping page: https://jindal.utdallas.edu/news/
+2025-03-21 22:21:22,703 - INFO - Opened file for writing: ../scraped_data\news_page_data.txt
+2025-03-21 22:21:22,704 - INFO - Data scraped successfully and saved to '../scraped_data\news_page_data.txt'
+2025-03-21 22:25:55,190 - INFO - Logging configured successfully.
+2025-03-21 22:25:55,191 - INFO - Sending GET request to: https://jindal.utdallas.edu/news/
+2025-03-21 22:25:55,904 - INFO - Successfully retrieved the webpage.
+2025-03-21 22:25:55,926 - INFO - Opened file for writing: ../scraped_data\news_page_data.txt
+2025-03-21 22:25:55,926 - INFO - Scraping page: https://jindal.utdallas.edu/news/
+2025-03-21 22:25:55,926 - INFO - Sending GET request to: https://jindal.utdallas.edu/news/
+2025-03-21 22:25:56,425 - INFO - Successfully retrieved the webpage.
+2025-03-21 22:25:56,453 - INFO - Data scraped successfully and saved to '../scraped_data\news_page_data.txt'

@@ -1,0 +1,73 @@
+URL: https://jindal.utdallas.edu/centers-of-excellence/
+Title: Centers and Institutes of Excellence
+Content:
+Lists:
+Links:
+
+================================================================================
+URL: https://jindal.utdallas.edu/centers-of-excellence/
+Headings:
+- Leading in the Global Business Community
+Content:
+The Naveen Jindal School of Management’s centers and institutes blend academic research with real-world experience to expand students’ horizons beyond the classroom. The UT Dallas faculty, students and the business community all benefit from this exchange of ideas, experiences and research.
+The Centers of Excellence enhance the professional and personal lives of students and business leaders by expanding their knowledge and developing their understanding of today’s topical issues.
+Lists:
+Links:
+
+================================================================================
+URL: https://jindal.utdallas.edu/centers-of-excellence/
+Headings:
+- Centers
+Content:
+Lists:
+- Center and Laboratory for Behavioral Operations and Economics (LBOE)
+- Center for Finance Strategy and Innovation (CFSI)
+- Center for Global Business (CGB)
+- Center for Healthcare Leadership and Management (CHLM)
+- Center for Information Technology and Management (CITM)
+- Center for Intelligent Supply Networks (C4iSN)
+- Center for Internal Auditing Excellence (IAEP)
+- Center for the Management of Financial and Digital Asset Technologies (FD-Tech Center)
+- Center for Professional Sales
+- Center for Retail Innovation and Strategy Excellence (RISE)
+- International Center for Decision and Risk Analysis (ICDRiA)
+- Morris Hite Center
+Links:
+- Center and Laboratory for Behavioral Operations and Economics (LBOE) - /jindal/centers-of-excellence/lboe/
+- Center for Finance Strategy and Innovation (CFSI) - /jindal/centers-of-excellence/cfsi/
+- Center for Global Business (CGB) - /jindal/centers-of-excellence/cgb/
+- Center for Healthcare Leadership and Management (CHLM) - /jindal/centers-of-excellence/healthcare/
+- Center for Information Technology and Management (CITM) - /jindal/centers-of-excellence/citm
+- Center for Intelligent Supply Networks (C4iSN) - /jindal/centers-of-excellence/c4isn/
+- Center for Internal Auditing Excellence (IAEP) - /jindal/centers-of-excellence/iaep/
+- Center for the Management of Financial and Digital Asset Technologies (FD-Tech Center) - /jindal/centers-of-excellence/fd-tech-center/
+- Center for Professional Sales - /jindal/centers-of-excellence/pro-sales/
+- Center for Retail Innovation and Strategy Excellence (RISE) - /jindal/centers-of-excellence/retail-innovation-strategy-excellence/
+- International Center for Decision and Risk Analysis (ICDRiA) - /jindal/centers-of-excellence/icdria/
+- Morris Hite Center - /jindal/centers-of-excellence/morris-hite-center-for-marketing/
+
+================================================================================
+URL: https://jindal.utdallas.edu/centers-of-excellence/
+Headings:
+- Institutes
+Content:
+Lists:
+- Herbert D. Weitzman Institute for Real Estate
+- Institute for Excellence in Corporate Governance (IECG)
+- Institute for Innovation and Entrepreneurship (IIE)
+Links:
+- Herbert D. Weitzman Institute for Real Estate - /jindal/centers-of-excellence/weitzman-institute-real-estate/
+- Institute for Excellence in Corporate Governance (IECG) - /jindal/centers-of-excellence/iecg/
+- Institute for Innovation and Entrepreneurship (IIE) - https://innovation.utdallas.edu/
+
+================================================================================
+URL: https://jindal.utdallas.edu/centers-of-excellence/
+Headings:
+- Initiatives
+Content:
+Lists:
+- Sustainable Global Business Initiative (SGBI)
+Links:
+- Sustainable Global Business Initiative (SGBI) - /jindal/centers-of-excellence/cgb/sustainable-global-business-initiative/
+
+================================================================================
