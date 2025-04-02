@@ -1,127 +1,119 @@
 import logging
 import os
+import time
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-import time
-import pandas as pd
 
 # Import the logging configuration function
 from logging_config import configure_logging
 
-# Configure logging
-configure_logging(log_file="scraping.log", log_level=logging.INFO)
+def setup_driver(chrome_driver_path):
+    """Set up and return the Selenium WebDriver."""
+    service = Service(chrome_driver_path)
+    driver = webdriver.Chrome(service=service)
+    return driver
 
-# Set up Selenium WebDriver
-service = Service("../chrome/chromedriver.exe")  # Path to your ChromeDriver
-driver = webdriver.Chrome(service=service)  # Use the service parameter
-driver.get("https://www.utdallas.edu/costs-scholarships-aid/scholarships/listings/")
+def extract_main_heading(driver):
+    """Extract the main heading from the page."""
+    main_heading = driver.find_element(By.TAG_NAME, 'h1').text.strip()
+    filename = main_heading.replace(" ", "_") + ".csv"  # Convert spaces to underscores and add .csv
+    logging.info(f"Main heading extracted: {main_heading}")
+    return filename
 
-# Wait for the page to load
-driver.implicitly_wait(10)
-
-# Extract the main heading
-main_heading = driver.find_element(By.TAG_NAME, 'h1').text.strip()
-filename = main_heading.replace(" ", "_") + ".csv"  # Convert spaces to underscores and add .csv
-logging.info(f"Main heading extracted: {main_heading}")  # Log main heading
-
-# Initialize a list to store all rows
-all_rows = []
-
-# Extract table headers
-table = driver.find_element(By.ID, 'myTable')
-headers = [th.text.strip() for th in table.find_elements(By.TAG_NAME, 'th')]
-
-# Filter required headers (exclude the first empty header)
-required_headers = ['Scholarship name', 'School', 'Academic Program', 'Status', 'Deadline']
-headers = [header for header in headers if header in required_headers]
-
-# Add the new header for additional information
-# headers.append("Additional Information")
-logging.info(f"Filtered headers: {headers}")  # Log filtered headers
-logging.info(f"Number of headers: {len(headers)}")  # Log number of headers
-
-# Loop through all pages
-page_number = 1
-while True:
-    logging.info(f"Processing page {page_number}...")  # Log current page
-
-    # Find the table
+def extract_table_headers(driver):
+    """Extract and filter table headers."""
     table = driver.find_element(By.ID, 'myTable')
+    headers = [th.text.strip() for th in table.find_elements(By.TAG_NAME, 'th')]
+    required_headers = ['Scholarship name', 'School', 'Academic Program', 'Status', 'Deadline']
+    headers = [header for header in headers if header in required_headers]
+    logging.info(f"Filtered headers: {headers}")
+    logging.info(f"Number of headers: {len(headers)}")
+    return headers
 
-    # Extract rows from the current page
-    rows = table.find_elements(By.TAG_NAME, 'tr')
-    for row in rows:
-        # Extract all cells in the row
-        cells = [cell.text.strip() if cell.text.strip() else "" for cell in row.find_elements(By.TAG_NAME, 'td')]
+def extract_table_rows(driver, headers):
+    """Extract rows from the table across all pages."""
+    all_rows = []
+    page_number = 1
 
-        # Exclude the first column (the "+" button column)
-        if len(cells) > 1:  # Ensure there are enough columns
-            cells = cells[1:]  # Skip the first column
+    while True:
+        logging.info(f"Processing page {page_number}...")
 
-        # if cells:  # Skip empty rows (e.g., header row)
-        #     # Initialize additional information as empty
-        #     additional_info = ""
-        #
-        #     # Try to extract additional information
-        #     try:
-        #         # Find the "More Information" link
-        #         more_info_link = row.find_element(By.CLASS_NAME, 'more-information-text')
-        #         scholarship_id = more_info_link.get_attribute('href').split('#')[-1]
-        #
-        #         # Locate the corresponding more-information-text table
-        #         more_info_table = driver.find_element(By.ID, f'scholarship-more-information-{scholarship_id}')
-        #
-        #         # Extract text from <p> and <li> tags
-        #         paragraphs = more_info_table.find_elements(By.TAG_NAME, 'p')
-        #         lists = more_info_table.find_elements(By.TAG_NAME, 'li')
-        #         for p in paragraphs:
-        #             additional_info += p.text.strip() + " "
-        #         for li in lists:
-        #             additional_info += li.text.strip() + " "
-        #
-        #         # Clean up additional info
-        #         additional_info = additional_info.strip()
-        #     except Exception as e:
-        #         logging.warning(f"Error extracting additional information for row: {e}")
-        #         additional_info = ""  # Set to empty if extraction fails
-        #
-        #     # Append the additional information to the row
-        #     cells.append(additional_info)
+        table = driver.find_element(By.ID, 'myTable')
+        rows = table.find_elements(By.TAG_NAME, 'tr')
 
-            # Ensure the row has the same number of columns as headers
-            if len(cells) != len(headers):
-                logging.warning(f"Row has {len(cells)} columns, expected {len(headers)}. Padding with empty strings.")
-                cells += [""] * (len(headers) - len(cells))  # Pad with empty strings
+        for row in rows:
+            cells = [cell.text.strip() if cell.text.strip() else "" for cell in row.find_elements(By.TAG_NAME, 'td')]
+            if len(cells) > 1:  # Skip the first column (the "+" button column)
+                cells = cells[1:]
 
-            all_rows.append(cells)
+                # Ensure the row has the same number of columns as headers
+                if len(cells) != len(headers):
+                    logging.warning(f"Row has {len(cells)} columns, expected {len(headers)}. Padding with empty strings.")
+                    cells += [""] * (len(headers) - len(cells))
 
-    # Check for and click the "Next" button
+                all_rows.append(cells)
+
+        # Check for and click the "Next" button
+        try:
+            next_button = driver.find_element(By.XPATH, "//a[contains(text(), 'Next')]")
+            if "disabled" in next_button.get_attribute("class"):
+                logging.info("Reached the last page.")
+                break  # Exit loop if the "Next" button is disabled (last page)
+            next_button.click()
+            time.sleep(2)  # Wait for the next page to load
+            page_number += 1
+        except Exception as e:
+            logging.error(f"Error: {e}")
+            break  # Exit loop if no "Next" button is found
+
+    return all_rows
+
+def save_to_csv(data, headers, filename, output_dir):
+    """Save the extracted data to a CSV file."""
+    df = pd.DataFrame(data, columns=headers)
+    logging.info(f"Total rows extracted: {len(data)}")
+
+    os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
+    output_file = os.path.join(output_dir, filename)
+    df.to_csv(output_file, index=False)
+    logging.info(f"File saved successfully at: {output_file}")
+
+def main():
+    # Configure logging
+    configure_logging(log_file="scraping.log", log_level=logging.INFO)
+
+    # Set up WebDriver
+    chrome_driver_path = "../chrome/chromedriver.exe"
+    driver = setup_driver(chrome_driver_path)
+
     try:
-        next_button = driver.find_element(By.XPATH, "//a[contains(text(), 'Next')]")
-        if "disabled" in next_button.get_attribute("class"):
-            logging.info("Reached the last page.")  # Log last page
-            break  # Exit loop if the "Next" button is disabled (last page)
-        next_button.click()
-        time.sleep(2)  # Wait for the next page to load
-        page_number += 1  # Increment page number
+        # Navigate to the target URL
+        url = "https://www.utdallas.edu/costs-scholarships-aid/scholarships/listings/"
+        driver.get(url)
+        driver.implicitly_wait(10)
+
+        # Extract main heading and generate filename
+        filename = extract_main_heading(driver)
+
+        # Extract table headers
+        headers = extract_table_headers(driver)
+
+        # Extract table rows
+        all_rows = extract_table_rows(driver, headers)
+
+        # Save data to CSV
+        output_dir = "../tables"
+        save_to_csv(all_rows, headers, filename, output_dir)
+
     except Exception as e:
-        logging.error(f"Error: {e}")  # Log errors
-        break  # Exit loop if no "Next" button is found
+        logging.error(f"An error occurred: {e}")
 
-# Close the browser
-driver.quit()
+    finally:
+        # Close the browser
+        driver.quit()
+        logging.info("WebDriver closed.")
 
-# Create a DataFrame
-df = pd.DataFrame(all_rows, columns=headers)
-logging.info(f"Total rows extracted: {len(all_rows)}")  # Log total rows
-
-# Save to CSV
-output_dir = "../tables"
-os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
-output_file = os.path.join(output_dir, filename)  # Use the dynamic filename
-
-# Save the DataFrame to CSV (without index)
-df.to_csv(output_file, index=False)
-
-logging.info(f"File saved successfully at: {output_file}")  # Log file save location
+if __name__ == "__main__":
+    main()

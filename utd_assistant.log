@@ -1,0 +1,56 @@
+2025-03-26 16:18:08,231 - INFO - [START] Pinecone initialization operation 
+2025-03-26 16:18:09,777 - INFO - [SUCCESS] Pinecone initialization completed successfully | Metrics: {'index_name': 'utd-bot', 'dimension': 768, 'vector_count': 19}
+2025-03-26 16:18:09,777 - INFO - [START] Embedding model initialization operation 
+2025-03-26 16:18:10,382 - INFO - [SUCCESS] Embedding model initialization completed successfully
+2025-03-26 16:18:10,382 - INFO - [START] Chat session operation 
+2025-03-26 16:18:26,725 - INFO - [START] Context retrieval operation top_k=3
+2025-03-26 16:18:27,368 - INFO - [SUCCESS] Embedding generation completed successfully | Metrics: {'text_length': 13, 'duration_seconds': 0.641473, 'embedding_dimensions': 768}
+2025-03-26 16:18:27,488 - INFO - [SUCCESS] Context retrieval completed successfully | Metrics: {'matches_retrieved': 3, 'context_length': 10964, 'duration_seconds': 0.119146}
+2025-03-26 16:18:28,144 - ERROR - [ERROR] AIML API call failed: 401 Client Error: Unauthorized for url: https://api.aimlapi.com/v1/chat/completions
+Traceback (most recent call last):
+  File "C:\Users\pavan\PycharmProjects\PythonProject1\bot.py", line 221, in _call_aiml_api
+    response.raise_for_status()
+  File "C:\Users\pavan\PycharmProjects\PythonProject1\.venv\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://api.aimlapi.com/v1/chat/completions
+2025-03-26 16:21:05,099 - INFO - [START] Pinecone initialization operation 
+2025-03-26 16:21:08,902 - INFO - [SUCCESS] Pinecone initialization completed successfully | Metrics: {'index_name': 'utd-bot', 'dimension': 768, 'vector_count': 19}
+2025-03-26 16:21:08,903 - INFO - [START] Embedding model initialization operation 
+2025-03-26 16:21:09,797 - INFO - [SUCCESS] Embedding model initialization completed successfully
+2025-03-26 16:21:09,797 - INFO - [START] Chat session operation 
+2025-03-26 16:21:40,369 - INFO - [START] Context retrieval operation top_k=3
+2025-03-26 16:21:40,678 - INFO - [SUCCESS] Embedding generation completed successfully | Metrics: {'text_length': 29, 'duration_seconds': 0.307503, 'embedding_dimensions': 768}
+2025-03-26 16:21:40,824 - INFO - [SUCCESS] Context retrieval completed successfully | Metrics: {'matches_retrieved': 3, 'context_length': 10861, 'duration_seconds': 0.144642}
+2025-03-26 16:21:41,990 - INFO - [SUCCESS] AIML API call completed successfully | Metrics: {'prompt_length': 29, 'context_length': 10859, 'response_length': 133, 'duration_seconds': 1.165337}
+2025-03-26 16:22:15,981 - INFO - [START] Context retrieval operation top_k=3
+2025-03-26 16:22:16,075 - INFO - [SUCCESS] Embedding generation completed successfully | Metrics: {'text_length': 48, 'duration_seconds': 0.093396, 'embedding_dimensions': 768}
+2025-03-26 16:22:16,216 - INFO - [SUCCESS] Context retrieval completed successfully | Metrics: {'matches_retrieved': 3, 'context_length': 11100, 'duration_seconds': 0.13924}
+2025-03-26 16:22:18,240 - INFO - [SUCCESS] AIML API call completed successfully | Metrics: {'prompt_length': 48, 'context_length': 11098, 'response_length': 133, 'duration_seconds': 2.023286}
+2025-03-26 16:28:24,927 - INFO - [START] Pinecone initialization 
+2025-03-26 16:28:26,746 - INFO - [SUCCESS] Pinecone initialization | {"index": "utd-bot", "dimension": 768, "vectors": 19}
+2025-03-26 16:28:26,747 - INFO - [START] Embedding model initialization 
+2025-03-26 16:28:27,436 - INFO - [SUCCESS] Embedding model initialization
+2025-03-26 16:28:27,436 - INFO - [START] Chat session 
+2025-03-26 16:28:49,281 - INFO - [START] Context retrieval top_k=3
+2025-03-26 16:28:49,570 - INFO - [SUCCESS] Context retrieval | {"question": "details on Ruben Mesa EMBA \u201915 Memorial Fellowship...", "matches": 3, "relevant_matches": 0, "context_length": 0}
+2025-03-26 16:29:11,125 - INFO - [SUCCESS] Chat session completed
+2025-03-26 16:29:29,840 - INFO - [START] Pinecone initialization 
+2025-03-26 16:29:31,236 - INFO - [SUCCESS] Pinecone initialization | {"index": "utd-bot", "dimension": 768, "vectors": 19}
+2025-03-26 16:29:31,236 - INFO - [START] Embedding model initialization 
+2025-03-26 16:29:32,074 - INFO - [SUCCESS] Embedding model initialization
+2025-03-26 16:29:32,075 - INFO - [START] Chat session 
+2025-03-26 16:29:44,677 - INFO - [SUCCESS] Chat session completed
+2025-03-26 16:30:01,080 - INFO - [START] Pinecone initialization 
+2025-03-26 16:30:03,002 - INFO - [SUCCESS] Pinecone initialization | {"index": "utd-bot", "dimension": 768, "vectors": 19}
+2025-03-26 16:30:03,002 - INFO - [START] Embedding model initialization 
+2025-03-26 16:30:03,610 - INFO - [SUCCESS] Embedding model initialization
+2025-03-26 16:30:03,610 - INFO - [START] Chat session 
+2025-03-26 16:30:06,815 - INFO - [SUCCESS] Chat session completed
+2025-03-26 16:31:26,198 - INFO - [START] Pinecone initialization 
+2025-03-26 16:31:29,744 - INFO - [SUCCESS] Pinecone initialization | {"index": "utd-bot", "dimension": 768, "vectors": 19}
+2025-03-26 16:31:29,744 - INFO - [START] Embedding model initialization 
+2025-03-26 16:31:30,652 - INFO - [SUCCESS] Embedding model initialization
+2025-03-26 16:31:30,652 - INFO - [START] Chat session 
+2025-03-26 16:31:53,498 - INFO - [START] Context retrieval top_k=3
+2025-03-26 16:31:53,791 - INFO - [SUCCESS] Context retrieval | {"question": "Professional Certificates at UTD", "matches": 3, "relevant_matches": 0, "context_length": 0}
+2025-03-26 16:37:31,029 - INFO - [SUCCESS] Chat session completed

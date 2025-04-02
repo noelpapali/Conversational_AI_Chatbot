@@ -1,0 +1,26 @@
+2025-03-26 16:11:41,287 - INFO - Logging configured successfully.
+2025-03-26 16:11:41,288 - INFO - Starting Pinecone initialization operation 
+2025-03-26 16:11:42,827 - INFO - Pinecone initialization completed successfully | Metrics: {'index_name': 'utd-bot', 'dimension': 768, 'vector_count': 19, 'index_fullness': 0.0}
+2025-03-26 16:11:42,830 - INFO - 
+==================================================
+Fetching all embeddings
+==================================================
+2025-03-26 16:11:42,830 - INFO - Starting Fetch all embeddings operation 
+2025-03-26 16:11:42,883 - INFO - Index stats - Dimension: 768, Total vectors: 19
+2025-03-26 16:11:43,528 - INFO - Fetch all embeddings completed successfully | Metrics: {'vectors_retrieved': 19, 'duration_seconds': 0.587929, 'avg_vector_size_bytes': 26316.684210526317}
+2025-03-26 16:11:43,529 - INFO - 
+==================================================
+Running sample query
+==================================================
+2025-03-26 16:11:43,529 - INFO - Starting Query embeddings operation top_k=5, namespace=default, vector_size=768
+2025-03-26 16:11:43,588 - INFO - Query embeddings completed successfully | Metrics: {'query_duration_seconds': 0.059097, 'matches_returned': 5, 'top_score': -0.0435459614, 'avg_score': -0.047415649920000004}
+2025-03-26 16:11:43,589 - INFO - Match ID: chunk_3 | Score: -0.0435
+2025-03-26 16:11:43,589 - INFO - Metadata keys: ['text']
+2025-03-26 16:11:43,589 - INFO - Match ID: chunk_16 | Score: -0.0465
+2025-03-26 16:11:43,589 - INFO - Metadata keys: ['text']
+2025-03-26 16:11:43,590 - INFO - Match ID: chunk_17 | Score: -0.0480
+2025-03-26 16:11:43,591 - INFO - Metadata keys: ['text']
+2025-03-26 16:11:43,591 - INFO - Match ID: chunk_11 | Score: -0.0494
+2025-03-26 16:11:43,591 - INFO - Metadata keys: ['text']
+2025-03-26 16:11:43,591 - INFO - Match ID: chunk_10 | Score: -0.0496
+2025-03-26 16:11:43,591 - INFO - Metadata keys: ['text']
