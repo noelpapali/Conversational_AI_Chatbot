@@ -3,82 +3,123 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 import re
+from urllib.parse import urljoin
+
 
 def fetch_webpage(url):
-    """Fetch the webpage content."""
-    response = requests.get(url)
-    response.raise_for_status()  # Check for HTTP errors
-    return response.content
+    """Fetch the webpage content with error handling."""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        return response.content
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching webpage: {e}")
+        return None
+
 
 def parse_html(content):
     """Parse the HTML content using BeautifulSoup."""
     return BeautifulSoup(content, 'html.parser')
 
-def extract_tables(soup):
-    """Extract all tables with the specified class."""
-    return soup.find_all('figure', class_='wp-block-table is-style-stripes')
 
-def clean_heading(heading):
-    """Clean and format the heading text for use in filenames."""
-    if heading:
-        heading_text = heading.text.strip()
-        return re.sub(r'[^\w\s-]', '', heading_text).strip().replace(' ', '_').lower()
-    return None
+def clean_filename(text):
+    """Clean text to create valid filenames."""
+    text = re.sub(r'[^\w\s-]', '', text).strip()
+    return re.sub(r'[-\s]+', '_', text).lower()
 
-def save_table_to_csv(table, heading_text, output_folder, i):
-    """Extract and save a table to a CSV file."""
-    try:
-        # Extract table headers
-        headers = [header.text.strip() for header in table.find_all('th')]
 
-        # Extract table rows
-        rows = []
-        for row in table.find_all('tr')[1:]:  # Skip the header row
-            cells = row.find_all('td')
-            if len(cells) == len(headers):  # Ensure the row has the correct number of cells
-                rows.append([cell.text.strip() for cell in cells])
+def extract_tables_with_headings(soup):
+    """Extract tables along with their headings from the page."""
+    tables_data = []
 
-        # Convert the data into a DataFrame
-        df = pd.DataFrame(rows, columns=headers)
+    # Find all table containers (wp-block-columns)
+    table_containers = soup.find_all('div', class_='wp-block-columns')
 
-        # Define the output file name
-        heading_text_cleaned = clean_heading(heading_text) or f"table_{i + 1}"
-        output_file = f"{heading_text_cleaned}.csv"
-        output_path = os.path.join(output_folder, output_file)
+    for container in table_containers:
+        # Find all columns within the container
+        columns = container.find_all('div', class_='wp-block-column')
 
-        # Save the DataFrame to a CSV file
-        df.to_csv(output_path, index=False)
+        for column in columns:
+            # Extract the heading (h3) for the table
+            heading = column.find('h3', class_='wp-block-heading')
+            heading_text = heading.get_text(strip=True) if heading else "Unknown_Deadline"
 
-        print(f"Table '{heading_text_cleaned}' extracted and saved to {output_path}")
+            # Find the table within this column
+            table = column.find('figure', class_='wp-block-table')
+            if table:
+                table_element = table.find('table')
+                if table_element:
+                    tables_data.append({
+                        'heading': heading_text,
+                        'table': table_element
+                    })
 
-    except Exception as e:
-        print(f"Error processing table {i + 1}: {e}")
+    return tables_data
 
-def main():
-    # URL of the webpage
-    url = "https://finaid.utdallas.edu/deadlines/"
 
-    # Create a directory to save CSV files
-    output_folder = "../tables"
+def process_table(table_element):
+    """Process a table element and return data as a DataFrame."""
+    # Extract headers
+    headers = [th.get_text(strip=True) for th in table_element.find_all('th')]
+
+    # Extract rows
+    rows = []
+    for tr in table_element.find_all('tr'):
+        cells = [td.get_text(strip=True) for td in tr.find_all(['td', 'th'])]
+        if cells:
+            rows.append(cells)
+
+    # Create DataFrame (skip header row if it exists in the data)
+    if len(rows) > 1 and rows[0] == headers:
+        return pd.DataFrame(rows[1:], columns=headers)
+    return pd.DataFrame(rows, columns=headers)
+
+
+def save_tables_to_csv(tables_data, output_folder):
+    """Save extracted tables to CSV files."""
     os.makedirs(output_folder, exist_ok=True)
 
+    for i, table_info in enumerate(tables_data, start=1):
+        try:
+            df = process_table(table_info['table'])
+            if not df.empty:
+                filename = f"{clean_filename(table_info['heading'])}_{i}.csv"
+                filepath = os.path.join(output_folder, filename)
+                df.to_csv(filepath, index=False)
+                print(f"Saved: {filename}")
+            else:
+                print(f"Skipped empty table: {table_info['heading']}")
+        except Exception as e:
+            print(f"Error processing table {i}: {e}")
+
+
+def main():
+    # Configuration
+    base_url = "https://finaid.utdallas.edu"
+    deadlines_url = urljoin(base_url, "deadlines/")
+    output_folder = "../tables"
+
     # Fetch and parse the webpage
-    content = fetch_webpage(url)
+    content = fetch_webpage(deadlines_url)
+    if not content:
+        return
+
     soup = parse_html(content)
 
-    # Extract all tables
-    tables = extract_tables(soup)
+    # Extract tables with their headings
+    tables_data = extract_tables_with_headings(soup)
 
-    # Loop through each table and extract data
-    for i, table in enumerate(tables):
-        # Extract the heading of the table
-        heading = table.find_previous(['h2', 'h3'], class_='wp-block-heading')
-        heading_text = heading.text.strip() if heading else f"Table {i + 1}"
+    if not tables_data:
+        print("No tables found on the page.")
+        return
 
-        # Save the table to a CSV file
-        save_table_to_csv(table, heading_text, output_folder, i)
+    # Save tables to CSV files
+    save_tables_to_csv(tables_data, output_folder)
+    print(f"\nSuccessfully extracted {len(tables_data)} tables to '{output_folder}' directory.")
 
-    print("\nAll tables processed!")
 
 if __name__ == "__main__":
     main()

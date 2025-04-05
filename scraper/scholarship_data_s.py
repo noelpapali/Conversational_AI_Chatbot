@@ -104,7 +104,7 @@ def main():
         all_rows = extract_table_rows(driver, headers)
 
         # Save data to CSV
-        output_dir = "../tables"
+        output_dir = "../scraped_data"
         save_to_csv(all_rows, headers, filename, output_dir)
 
     except Exception as e:

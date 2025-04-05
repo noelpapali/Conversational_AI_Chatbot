@@ -6,10 +6,10 @@ input_folder = "../tables"
 
 # List of CSV files (assuming you have 4 tables)
 csv_files = [
-    "fall_2024_and_spring_2025financial_aid_priority_deadline.csv",
-    "fall_2025_and_spring_2026financial_aid_priority_deadline.csv",
-    "summer_2025_financial_aid_prioritydeadline.csv",
-    "summer_2026_financial_aid_prioritydeadline.csv"
+    "fall_2024_and_spring_2025financial_aid_priority_deadline_1.csv",
+    "fall_2025_and_spring_2026financial_aid_priority_deadline_2.csv",
+    "summer_2025_financial_aid_prioritydeadline_3.csv",
+    "summer_2026_financial_aid_prioritydeadline_4.csv"
 ]
 
 # Function to read and preprocess each table
@@ -41,7 +41,7 @@ print(deadlines_df.info())
 print(deadlines_df[["Date", "Classification"]].head(4))
 print(deadlines_df.head(4))
 
-output_file = os.path.join("../tables", "deadlines_table.csv")
+output_file = os.path.join("../scraped_data", "Financial_aid_deadlines_table.csv")
 
 # Save the DataFrame to CSV (without index)
 deadlines_df.to_csv(output_file, index=False)
