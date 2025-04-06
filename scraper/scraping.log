@@ -17212,3 +17212,41 @@ Stacktrace:
 2025-04-05 22:55:56,174 - INFO - Successfully scraped data for program: PHD
 2025-04-05 22:55:56,212 - INFO - Scraped data successfully written to ../scraped_data/utd_programs_data.json
 2025-04-05 22:55:58,680 - INFO - WebDriver closed.
+2025-04-05 23:28:05,738 - INFO - WebDriver initialized successfully
+2025-04-05 23:28:05,739 - INFO - Fetching main page: https://www.utdallas.edu/academics/degrees/
+2025-04-05 23:28:08,551 - INFO - Found 155 program links.
+2025-04-05 23:28:10,077 - INFO - Data successfully written to ../scraped_data/utd_programs_links.json
+2025-04-05 23:28:10,077 - INFO - Data successfully saved to ../scraped_data/utd_programs_links.json
+2025-04-05 23:28:12,248 - INFO - WebDriver closed
+2025-04-05 23:30:29,590 - INFO - WebDriver initialized successfully
+2025-04-05 23:30:29,591 - INFO - Loaded 155 program links from ../scraped_data/utd_programs_links.json
+2025-04-05 23:30:29,591 - INFO - Scraping data for program: BS
+2025-04-05 23:30:33,196 - INFO - Extracted program title: Bachelor of Science in Accounting
+2025-04-05 23:30:33,205 - INFO - Found 14 headings for program: BS
+2025-04-05 23:30:34,246 - INFO - Successfully scraped data for program: BS
+2025-04-05 23:30:34,246 - INFO - Scraping data for program: MS
+2025-04-05 23:30:35,664 - INFO - Extracted program title: Master of Science in Accounting and Analytics
+2025-04-05 23:30:35,670 - INFO - Found 11 headings for program: MS
+2025-04-05 23:30:36,500 - INFO - Successfully scraped data for program: MS
+2025-04-05 23:30:36,500 - INFO - Scraping data for program: BS
+2025-04-05 23:30:38,085 - INFO - Extracted program title: Bachelor of Science in Actuarial Science
+2025-04-05 23:30:38,092 - INFO - Found 16 headings for program: BS
+2025-04-05 23:30:39,192 - INFO - Successfully scraped data for program: BS
+2025-04-05 23:30:39,192 - INFO - Scraping data for program: MS
+2025-04-05 23:30:40,020 - INFO - Extracted program title: Master of Science in Actuarial Science
+2025-04-05 23:30:40,026 - INFO - Found 10 headings for program: MS
+2025-04-05 23:30:40,887 - INFO - Successfully scraped data for program: MS
+2025-04-05 23:30:40,887 - INFO - Scraping data for program: BA
+2025-04-05 23:30:41,770 - INFO - Extracted program title: Bachelor of Arts in American Studies
+2025-04-05 23:30:41,779 - INFO - Found 13 headings for program: BA
+2025-04-05 23:32:51,786 - INFO - Fetching webpage using Selenium: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-04-05 23:33:02,120 - INFO - Extracting content from 'card card-body' elements (excluding tables).
+2025-04-05 23:33:02,133 - INFO - Text content saved to '../scraped_data\tuition_rates_content.txt'.
+2025-04-05 23:43:25,626 - INFO - Successfully navigated to: https://www.utdallas.edu/costs-scholarships-aid/scholarships/listings/
+2025-04-05 23:43:25,675 - INFO - Main heading extracted: Scholarship Listings
+2025-04-05 23:43:25,915 - INFO - Filtered headers: ['Scholarship name', 'School', 'Academic Program', 'Status', 'Deadline']
+2025-04-05 23:43:25,915 - INFO - Number of headers: 5
+2025-04-05 23:43:25,916 - INFO - Processing page 1...
+2025-04-05 23:43:30,235 - INFO - Processing page 2...
+2025-04-05 23:43:32,610 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/8a74d74fcfdc52fab6ab15b9f0aa0635
+2025-04-05 23:43:36,722 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002954187C1A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8a74d74fcfdc52fab6ab15b9f0aa0635

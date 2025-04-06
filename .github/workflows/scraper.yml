@@ -1,52 +1,54 @@
-name: Daily Scraper
+name: Daily Scraper Execution
+
 on:
   schedule:
     - cron: '0 14 * * *'  # 2PM UTC daily
-  workflow_dispatch:
+  workflow_dispatch:       # Manual trigger option
 
 jobs:
-  run-scrapers:
+  execute-scrapers:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 30    # Prevent hanging
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run main scraper
         run: |
-          mkdir -p scraper_logs
+          pip install -r requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
+      - name: Execute main scraper controller
+        run: |
+          # Set GitHub Actions environment flag
+          echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
+          
+          # Run the main controller script with logging
           python run_scrapers.py 2>&1 | tee scraper_logs/run_$(date +'%Y%m%d_%H%M%S').log
 
-      - name: Upload logs
+      - name: Upload execution logs
         uses: actions/upload-artifact@v4
         with:
-          name: scraper-logs
-          path: scraper_logs/*.log
+          name: scraper-execution-logs
+          path: scraper_logs/run_*.log
           retention-days: 7
 
-      - name: Run main scraper
-        run: |
-          mkdir -p scraper_logs
-          LOGFILE=scraper_logs/run_$(date +'%Y%m%d_%H%M%S').log
-          python run_scrapers.py 2>&1 | tee $LOGFILE
-          echo "LOGFILE=${LOGFILE}" >> $GITHUB_ENV
-
-      - name: Notify success
-        if: success()
-        uses: actions/github-script@v6
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v4
         with:
-          script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '✅ Scraper completed successfully! [Download logs](${{ steps.upload.outputs.artifact-url }})'
-            })
+          name: scraped-data
+          path: scraped_data/*
+          retention-days: 7
+
+      - name: Final status notification
+        if: always()
+        run: |
+          echo "::notice::Scraper execution completed with status: ${{ job.status }}"
+          echo "View detailed logs: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
