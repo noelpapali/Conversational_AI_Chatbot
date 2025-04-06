@@ -10,13 +10,29 @@ from selenium.webdriver.support import expected_conditions as EC
 # Import the logging configuration function
 from logging_config import configure_logging
 
-def setup_driver(chrome_driver_path):
-    """Set up and return the Selenium WebDriver."""
-    service = Service(chrome_driver_path)
-    options = webdriver.ChromeOptions()
-    options.add_argument("--headless")  # Run in headless mode (remove for debugging)
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+import os
+
+
+def setup_driver():
+    """Set up and return the Selenium WebDriver with cross-environment support."""
+    options = Options()
+    options.add_argument("--headless=new")  # New headless mode
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
+
+    # Determine the environment
+    if os.getenv('GITHUB_ACTIONS'):
+        # GitHub Actions environment
+        service = Service(ChromeDriverManager().install())
+    else:
+        # Local development environment
+        chrome_driver_path = "../chrome/chromedriver.exe"
+        service = Service(executable_path=chrome_driver_path)
+
     return webdriver.Chrome(service=service, options=options)
 
 def fetch_program_links(driver, url):
@@ -49,28 +65,34 @@ def main():
     # Configure logging
     configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
-    # Set up WebDriver
-    chrome_driver_path = "../chrome/chromedriver.exe"
-    driver = setup_driver(chrome_driver_path)
-
     try:
-        # URL of the webpage
-        url = "https://www.utdallas.edu/academics/degrees/"
+        # Set up WebDriver
+        driver = setup_driver()
+        logging.info("WebDriver initialized successfully")
 
-        # Fetch program links
-        program_data = fetch_program_links(driver, url)
+        try:
+            # URL of the webpage
+            url = "https://www.utdallas.edu/academics/degrees/"
 
-        # Save data to JSON
-        output_file = "../scraped_data/utd_programs_links.json"
-        save_to_json(program_data, output_file)
+            # Fetch program links
+            program_data = fetch_program_links(driver, url)
+
+            # Save data to JSON
+            output_file = "../scraped_data/utd_programs_links.json"
+            save_to_json(program_data, output_file)
+            logging.info(f"Data successfully saved to {output_file}")
+
+        except Exception as e:
+            logging.error(f"Error during scraping: {str(e)}", exc_info=True)
+            raise  # Re-raise the exception after logging
 
     except Exception as e:
-        logging.error(f"Error occurred: {e}")
-
+        logging.error(f"Initialization error: {str(e)}", exc_info=True)
+        raise
     finally:
-        # Close the WebDriver
-        driver.quit()
-        logging.info("WebDriver closed.")
+        if 'driver' in locals():
+            driver.quit()
+            logging.info("WebDriver closed")
 
 if __name__ == "__main__":
     main()

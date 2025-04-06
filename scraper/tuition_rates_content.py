@@ -7,7 +7,10 @@ from configparser import ConfigParser
 import csv
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Import the logging configuration function
@@ -33,6 +36,25 @@ headers = {
 }
 
 
+def setup_driver():
+    """Set up and return a properly configured Chrome WebDriver."""
+    options = Options()
+    options.add_argument("--headless=new")  # New headless mode
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+
+    # Determine the environment
+    if os.getenv('GITHUB_ACTIONS'):
+        # GitHub Actions environment - use WebDriver Manager
+        service = Service(ChromeDriverManager().install())
+    else:
+        # Local development environment
+        chrome_driver_path = "../chrome/chromedriver.exe"
+        service = Service(executable_path=chrome_driver_path)
+
+    return webdriver.Chrome(service=service, options=options)
+
+
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
     if not os.path.exists(output_dir):
@@ -44,23 +66,20 @@ def fetch_webpage(url):
     """Fetch the webpage content using Selenium."""
     logging.info(f"Fetching webpage using Selenium: {url}")
 
-    # Set up Selenium WebDriver
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless')  # Run in headless mode
-    chrome_driver_path = "../chrome/chromedriver.exe"
-    service = Service(chrome_driver_path)  # Path to your ChromeDriver
-    driver = webdriver.Chrome(service=service, options=options)
-
+    driver = setup_driver()
     try:
         driver.get(url)
-        time.sleep(5)  # Wait for the page to load completely
+        # Use explicit wait instead of time.sleep()
+        WebDriverWait(driver, 10).until(
+            lambda d: d.execute_script('return document.readyState') == 'complete'
+        )
         page_source = driver.page_source
-        driver.quit()
         return page_source
     except Exception as e:
-        logging.error(f"Failed to fetch webpage using Selenium: {e}")
-        driver.quit()
+        logging.error(f"Failed to fetch webpage using Selenium: {e}", exc_info=True)
         return None
+    finally:
+        driver.quit()
 
 
 def extract_text_content(soup):
@@ -86,7 +105,6 @@ def extract_text_content(soup):
     return card_contents
 
 
-
 def save_text_content(text_content, file_path):
     """Save the extracted text content to a text file."""
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -109,6 +127,7 @@ def main():
     # Extract text content (headings, paragraphs, and lists)
     text_content = extract_text_content(soup)
     save_text_content(text_content, text_output_file)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Web Scraper for Tuition Plans and Rates")

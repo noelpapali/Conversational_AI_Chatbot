@@ -4,15 +4,34 @@ import time
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # Import the logging configuration function
 from logging_config import configure_logging
 
-def setup_driver(chrome_driver_path):
-    """Set up and return the Selenium WebDriver."""
-    service = Service(chrome_driver_path)
-    driver = webdriver.Chrome(service=service)
+
+def setup_driver():
+    """Set up and return a properly configured Chrome WebDriver."""
+    options = Options()
+    options.add_argument("--headless=new")  # New headless mode
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+
+    # Determine the environment
+    if os.getenv('GITHUB_ACTIONS'):
+        # GitHub Actions environment - use WebDriver Manager
+        service = Service(ChromeDriverManager().install())
+    else:
+        # Local development environment
+        chrome_driver_path = "../chrome/chromedriver.exe"
+        service = Service(executable_path=chrome_driver_path)
+
+    driver = webdriver.Chrome(service=service, options=options)
+    driver.set_page_load_timeout(30)
     return driver
 
 def extract_main_heading(driver):
@@ -84,15 +103,15 @@ def main():
     # Configure logging
     configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
-    # Set up WebDriver
-    chrome_driver_path = "../chrome/chromedriver.exe"
-    driver = setup_driver(chrome_driver_path)
-
+    driver = None
     try:
+        # Set up WebDriver
+        driver = setup_driver()
+
         # Navigate to the target URL
         url = "https://www.utdallas.edu/costs-scholarships-aid/scholarships/listings/"
         driver.get(url)
-        driver.implicitly_wait(10)
+        logging.info(f"Successfully navigated to: {url}")
 
         # Extract main heading and generate filename
         filename = extract_main_heading(driver)
@@ -108,12 +127,12 @@ def main():
         save_to_csv(all_rows, headers, filename, output_dir)
 
     except Exception as e:
-        logging.error(f"An error occurred: {e}")
-
+        logging.error(f"An error occurred in main: {e}", exc_info=True)
     finally:
         # Close the browser
-        driver.quit()
-        logging.info("WebDriver closed.")
+        if driver:
+            driver.quit()
+            logging.info("WebDriver closed.")
 
 if __name__ == "__main__":
     main()
