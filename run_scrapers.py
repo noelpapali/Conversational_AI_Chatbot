@@ -1,23 +1,25 @@
-import os
 import importlib.util
-import logging
 import time
 import sys
 import shutil
 import subprocess
+import logging
+import os
 from datetime import datetime
 
 # Set up logging
+os.makedirs('scraper_logs', exist_ok=True)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(f"scraper_run_all.log"),
+        logging.FileHandler(f'scraper_logs/run_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'),
         logging.StreamHandler()
     ]
 )
 
-logger = logging.getLogger("main_scraper")
+logger = logging.getLogger(__name__)
+logger.info("Scraper started")
 
 
 def ensure_chromedriver():

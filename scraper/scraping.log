@@ -16551,3 +16551,664 @@ Stacktrace:
 2025-04-05 18:31:01,124 - INFO - Total rows extracted: 99
 2025-04-05 18:31:01,128 - INFO - File saved successfully at: ../scraped_data\Scholarship_Listings.csv
 2025-04-05 18:31:03,380 - INFO - WebDriver closed.
+2025-04-05 22:47:44,099 - INFO - Fetching main page: https://www.utdallas.edu/academics/degrees/
+2025-04-05 22:47:46,897 - INFO - Found 155 program links.
+2025-04-05 22:47:48,429 - INFO - Data successfully written to ../scraped_data/utd_programs_links.json
+2025-04-05 22:47:50,582 - INFO - WebDriver closed.
+2025-04-05 22:47:59,185 - INFO - Main heading extracted: Scholarship Listings
+2025-04-05 22:47:59,503 - INFO - Filtered headers: ['Scholarship name', 'School', 'Academic Program', 'Status', 'Deadline']
+2025-04-05 22:47:59,503 - INFO - Number of headers: 5
+2025-04-05 22:47:59,503 - INFO - Processing page 1...
+2025-04-05 22:48:27,771 - INFO - Processing page 2...
+2025-04-05 22:48:53,309 - INFO - Processing page 3...
+2025-04-05 22:49:19,008 - INFO - Processing page 4...
+2025-04-05 22:49:42,151 - INFO - Reached the last page.
+2025-04-05 22:49:42,152 - INFO - Total rows extracted: 99
+2025-04-05 22:49:42,156 - INFO - File saved successfully at: ../scraped_data\Scholarship_Listings.csv
+2025-04-05 22:49:44,408 - INFO - WebDriver closed.
+2025-04-05 22:50:09,884 - INFO - Fetching webpage using Selenium: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-04-05 22:50:27,306 - INFO - Extracting content from 'card card-body' elements (excluding tables).
+2025-04-05 22:50:27,319 - INFO - Text content saved to '../scraped_data\tuition_rates_content.txt'.
+2025-04-05 22:50:29,163 - INFO - Loaded 155 program links from ../scraped_data/utd_programs_links.json
+2025-04-05 22:50:29,164 - INFO - Scraping data for program: BS
+2025-04-05 22:50:33,955 - INFO - Extracted program title: Bachelor of Science in Accounting
+2025-04-05 22:50:33,966 - INFO - Found 14 headings for program: BS
+2025-04-05 22:50:35,037 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:50:35,037 - INFO - Scraping data for program: MS
+2025-04-05 22:50:35,985 - INFO - Extracted program title: Master of Science in Accounting and Analytics
+2025-04-05 22:50:35,991 - INFO - Found 11 headings for program: MS
+2025-04-05 22:50:36,769 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:50:36,769 - INFO - Scraping data for program: BS
+2025-04-05 22:50:37,937 - INFO - Extracted program title: Bachelor of Science in Actuarial Science
+2025-04-05 22:50:37,942 - INFO - Found 16 headings for program: BS
+2025-04-05 22:50:38,842 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:50:38,842 - INFO - Scraping data for program: MS
+2025-04-05 22:50:40,090 - INFO - Extracted program title: Master of Science in Actuarial Science
+2025-04-05 22:50:40,095 - INFO - Found 10 headings for program: MS
+2025-04-05 22:50:40,778 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:50:40,778 - INFO - Scraping data for program: BA
+2025-04-05 22:50:42,018 - INFO - Extracted program title: Bachelor of Arts in American Studies
+2025-04-05 22:50:42,024 - INFO - Found 13 headings for program: BA
+2025-04-05 22:50:42,835 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:50:42,835 - INFO - Scraping data for program: MFA
+2025-04-05 22:50:44,192 - INFO - Extracted program title: Master of Fine Arts in Animation
+2025-04-05 22:50:44,200 - INFO - Found 10 headings for program: MFA
+2025-04-05 22:50:45,247 - INFO - Successfully scraped data for program: MFA
+2025-04-05 22:50:45,247 - INFO - Scraping data for program: BA
+2025-04-05 22:50:46,552 - INFO - Extracted program title: Bachelor of Arts in Animation and Games
+2025-04-05 22:50:46,557 - INFO - Found 13 headings for program: BA
+2025-04-05 22:50:47,509 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:50:47,509 - INFO - Scraping data for program: MS
+2025-04-05 22:50:48,777 - INFO - Extracted program title: Master of Science in Applied Cognition and Neuroscience
+2025-04-05 22:50:48,783 - INFO - Found 10 headings for program: MS
+2025-04-05 22:50:49,623 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:50:49,623 - INFO - Scraping data for program: MS
+2025-04-05 22:50:50,960 - INFO - Extracted program title: Master of Science in Applied Sociology
+2025-04-05 22:50:50,967 - INFO - Found 14 headings for program: MS
+2025-04-05 22:50:52,034 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:50:52,034 - INFO - Scraping data for program: MA
+2025-04-05 22:50:53,451 - INFO - Extracted program title: Master of Arts in Art History
+2025-04-05 22:50:53,459 - INFO - Found 10 headings for program: MA
+2025-04-05 22:50:54,174 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:50:54,175 - INFO - Scraping data for program: BA
+2025-04-05 22:50:54,738 - INFO - Extracted program title: Bachelor of Arts in Arts, Technology, and Emerging Communication
+2025-04-05 22:50:54,744 - INFO - Found 14 headings for program: BA
+2025-04-05 22:50:55,727 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:50:55,727 - INFO - Scraping data for program: MA
+2025-04-05 22:50:57,371 - INFO - Extracted program title: Master of Arts in Arts, Technology, and Emerging Communication
+2025-04-05 22:50:57,377 - INFO - Found 9 headings for program: MA
+2025-04-05 22:50:58,147 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:50:58,148 - INFO - Scraping data for program: MFA
+2025-04-05 22:50:58,700 - INFO - Extracted program title: Master of Fine Arts in Arts, Technology, and Emerging Communication
+2025-04-05 22:50:58,707 - INFO - Found 10 headings for program: MFA
+2025-04-05 22:50:59,555 - INFO - Successfully scraped data for program: MFA
+2025-04-05 22:50:59,555 - INFO - Scraping data for program: PHD
+2025-04-05 22:51:00,896 - INFO - Extracted program title: Doctor of Philosophy in Arts, Technology, and Emerging Communication
+2025-04-05 22:51:00,903 - INFO - Found 10 headings for program: PHD
+2025-04-05 22:51:01,618 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:51:01,618 - INFO - Scraping data for program: AUD
+2025-04-05 22:51:02,978 - INFO - Extracted program title: Doctor of Audiology
+2025-04-05 22:51:02,984 - INFO - Found 9 headings for program: AUD
+2025-04-05 22:51:03,699 - INFO - Successfully scraped data for program: AUD
+2025-04-05 22:51:03,699 - INFO - Scraping data for program: BS
+2025-04-05 22:51:04,887 - INFO - Extracted program title: Bachelor of Science in Biochemistry
+2025-04-05 22:51:04,892 - INFO - Found 14 headings for program: BS
+2025-04-05 22:51:05,752 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:05,752 - INFO - Scraping data for program: MS
+2025-04-05 22:51:06,319 - INFO - Extracted program title: Master of Science in Bioinformatics and Computational Biology
+2025-04-05 22:51:06,324 - INFO - Found 10 headings for program: MS
+2025-04-05 22:51:07,045 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:51:07,045 - INFO - Scraping data for program: BA
+2025-04-05 22:51:08,354 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Biology
+2025-04-05 22:51:08,361 - INFO - Found 14 headings for program: BA
+2025-04-05 22:51:09,277 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:51:09,277 - INFO - Scraping data for program: BS
+2025-04-05 22:51:10,526 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Biology
+2025-04-05 22:51:10,532 - INFO - Found 14 headings for program: BS
+2025-04-05 22:51:11,407 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:11,407 - INFO - Scraping data for program: BS
+2025-04-05 22:51:11,937 - INFO - Extracted program title: Bachelor of Science in Biomedical Engineering
+2025-04-05 22:51:11,943 - INFO - Found 12 headings for program: BS
+2025-04-05 22:51:12,838 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:12,838 - INFO - Scraping data for program: MS
+2025-04-05 22:51:13,366 - INFO - Extracted program title: Master of Science in Biomedical Engineering
+2025-04-05 22:51:13,371 - INFO - Found 9 headings for program: MS
+2025-04-05 22:51:13,994 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:51:13,994 - INFO - Scraping data for program: PHD
+2025-04-05 22:51:14,550 - INFO - Extracted program title: Doctor of Philosophy in Biomedical Engineering
+2025-04-05 22:51:14,556 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:51:15,162 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:51:15,162 - INFO - Scraping data for program: BS
+2025-04-05 22:51:16,437 - INFO - Extracted program title: Bachelor of Science in Biomedical Sciences
+2025-04-05 22:51:16,450 - INFO - Found 15 headings for program: BS
+2025-04-05 22:51:17,859 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:17,859 - INFO - Scraping data for program: MS
+2025-04-05 22:51:18,619 - INFO - Extracted program title: Master of Science in Biotechnology
+2025-04-05 22:51:18,632 - INFO - Found 10 headings for program: MS
+2025-04-05 22:51:19,739 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:51:19,739 - INFO - Scraping data for program: BS
+2025-04-05 22:51:20,984 - INFO - Extracted program title: Bachelor of Science in Business Administration
+2025-04-05 22:51:20,989 - INFO - Found 13 headings for program: BS
+2025-04-05 22:51:21,857 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:21,857 - INFO - Scraping data for program: MBA
+2025-04-05 22:51:22,408 - INFO - Extracted program title: Master of Business Administration
+2025-04-05 22:51:22,414 - INFO - Found 11 headings for program: MBA
+2025-04-05 22:51:23,237 - INFO - Successfully scraped data for program: MBA
+2025-04-05 22:51:23,237 - INFO - Scraping data for program: DBA
+2025-04-05 22:51:24,595 - INFO - Extracted program title: Doctor of Business Administration
+2025-04-05 22:51:24,602 - INFO - Found 8 headings for program: DBA
+2025-04-05 22:51:25,435 - INFO - Successfully scraped data for program: DBA
+2025-04-05 22:51:25,435 - INFO - Scraping data for program: BS
+2025-04-05 22:51:26,717 - INFO - Extracted program title: Bachelor of Science in Business Analytics and Artificial Intelligence
+2025-04-05 22:51:26,723 - INFO - Found 13 headings for program: BS
+2025-04-05 22:51:27,541 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:27,541 - INFO - Scraping data for program: MS
+2025-04-05 22:51:28,801 - INFO - Extracted program title: Master of Science in Business Analytics and Artificial Intelligence
+2025-04-05 22:51:28,807 - INFO - Found 11 headings for program: MS
+2025-04-05 22:51:29,638 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:51:29,638 - INFO - Scraping data for program: BA
+2025-04-05 22:51:30,172 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Chemistry
+2025-04-05 22:51:30,180 - INFO - Found 13 headings for program: BA
+2025-04-05 22:51:31,026 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:51:31,026 - INFO - Scraping data for program: BS
+2025-04-05 22:51:31,565 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Chemistry
+2025-04-05 22:51:31,571 - INFO - Found 13 headings for program: BS
+2025-04-05 22:51:32,424 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:32,424 - INFO - Scraping data for program: MS
+2025-04-05 22:51:33,857 - INFO - Extracted program title: Master of Science in Chemistry
+2025-04-05 22:51:33,866 - INFO - Found 10 headings for program: MS
+2025-04-05 22:51:34,973 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:51:34,973 - INFO - Scraping data for program: PHD
+2025-04-05 22:51:35,611 - INFO - Extracted program title: Doctor of Philosophy in Chemistry
+2025-04-05 22:51:35,618 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:51:36,236 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:51:36,236 - INFO - Scraping data for program: BS
+2025-04-05 22:51:37,502 - INFO - Extracted program title: Bachelor of Science in Child Learning and Development
+2025-04-05 22:51:37,508 - INFO - Found 13 headings for program: BS
+2025-04-05 22:51:38,381 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:38,381 - INFO - Scraping data for program: PHD
+2025-04-05 22:51:39,615 - INFO - Extracted program title: Doctor of Philosophy in Cognition and Neuroscience
+2025-04-05 22:51:39,620 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:51:40,428 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:51:40,429 - INFO - Scraping data for program: BS
+2025-04-05 22:51:41,718 - INFO - Extracted program title: Bachelor of Science in Cognitive Science
+2025-04-05 22:51:41,724 - INFO - Found 14 headings for program: BS
+2025-04-05 22:51:42,587 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:42,587 - INFO - Scraping data for program: BS
+2025-04-05 22:51:43,134 - INFO - Extracted program title: Bachelor of Science in Computer Engineering
+2025-04-05 22:51:43,139 - INFO - Found 12 headings for program: BS
+2025-04-05 22:51:43,995 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:43,995 - INFO - Scraping data for program: MS
+2025-04-05 22:51:45,288 - INFO - Extracted program title: Master of Science in Computer Engineering
+2025-04-05 22:51:45,294 - INFO - Found 10 headings for program: MS
+2025-04-05 22:51:46,004 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:51:46,004 - INFO - Scraping data for program: PHD
+2025-04-05 22:51:46,561 - INFO - Extracted program title: Doctor of Philosophy in Computer Engineering
+2025-04-05 22:51:46,568 - INFO - Found 10 headings for program: PHD
+2025-04-05 22:51:47,296 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:51:47,296 - INFO - Scraping data for program: BS
+2025-04-05 22:51:48,568 - INFO - Extracted program title: Bachelor of Science in Computer Information Systems and Technology
+2025-04-05 22:51:48,575 - INFO - Found 13 headings for program: BS
+2025-04-05 22:51:49,475 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:49,475 - INFO - Scraping data for program: BS
+2025-04-05 22:51:50,682 - INFO - Extracted program title: Bachelor of Science in Computer Science
+2025-04-05 22:51:50,692 - INFO - Found 12 headings for program: BS
+2025-04-05 22:51:51,966 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:51:51,966 - INFO - Scraping data for program: MSCS
+2025-04-05 22:51:52,691 - INFO - Extracted program title: Master of Science in Computer Science
+2025-04-05 22:51:52,702 - INFO - Found 10 headings for program: MSCS
+2025-04-05 22:51:53,753 - INFO - Successfully scraped data for program: MSCS
+2025-04-05 22:51:53,754 - INFO - Scraping data for program: PHD
+2025-04-05 22:51:55,081 - INFO - Extracted program title: Doctor of Philosophy in Computer Science
+2025-04-05 22:51:55,087 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:51:55,807 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:51:55,807 - INFO - Scraping data for program: BA
+2025-04-05 22:51:57,050 - INFO - Extracted program title: Bachelor of Arts in Criminology
+2025-04-05 22:51:57,056 - INFO - Found 13 headings for program: BA
+2025-04-05 22:51:58,004 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:51:58,004 - INFO - Scraping data for program: MS
+2025-04-05 22:51:59,533 - INFO - Extracted program title: Master of Science in Criminology
+2025-04-05 22:51:59,540 - INFO - Found 14 headings for program: MS
+2025-04-05 22:52:00,579 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:00,579 - INFO - Scraping data for program: PHD
+2025-04-05 22:52:01,915 - INFO - Extracted program title: Doctor of Philosophy in Criminology
+2025-04-05 22:52:01,921 - INFO - Found 13 headings for program: PHD
+2025-04-05 22:52:02,955 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:52:02,955 - INFO - Scraping data for program: MS
+2025-04-05 22:52:04,114 - INFO - Extracted program title: Master of Science in Cyber Security, Technology and Policy
+2025-04-05 22:52:04,120 - INFO - Found 13 headings for program: MS
+2025-04-05 22:52:05,045 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:05,045 - INFO - Scraping data for program: MS
+2025-04-05 22:52:06,185 - INFO - Extracted program title: Master of Science in Cyber Security, Technology and Policy
+2025-04-05 22:52:06,192 - INFO - Found 14 headings for program: MS
+2025-04-05 22:52:07,239 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:07,239 - INFO - Scraping data for program: BS
+2025-04-05 22:52:08,514 - INFO - Extracted program title: Bachelor of Science in Data Science
+2025-04-05 22:52:08,519 - INFO - Found 12 headings for program: BS
+2025-04-05 22:52:09,405 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:09,405 - INFO - Scraping data for program: BS
+2025-04-05 22:52:10,613 - INFO - Extracted program title: Bachelor of Science in Data Science
+2025-04-05 22:52:10,619 - INFO - Found 14 headings for program: BS
+2025-04-05 22:52:11,476 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:11,477 - INFO - Scraping data for program: MS
+2025-04-05 22:52:12,098 - INFO - Extracted program title: Master of Science in Data Science and Statistics
+2025-04-05 22:52:12,104 - INFO - Found 10 headings for program: MS
+2025-04-05 22:52:12,870 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:12,870 - INFO - Scraping data for program: PHD
+2025-04-05 22:52:14,353 - INFO - Extracted program title: Doctor of Philosophy in Data Science and Statistics
+2025-04-05 22:52:14,363 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:52:15,296 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:52:15,296 - INFO - Scraping data for program: BA
+2025-04-05 22:52:16,606 - INFO - Extracted program title: Bachelor of Arts in Economics
+2025-04-05 22:52:16,611 - INFO - Found 12 headings for program: BA
+2025-04-05 22:52:17,592 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:52:17,592 - INFO - Scraping data for program: BS
+2025-04-05 22:52:18,885 - INFO - Extracted program title: Bachelor of Science in Economics
+2025-04-05 22:52:18,890 - INFO - Found 12 headings for program: BS
+2025-04-05 22:52:19,823 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:19,824 - INFO - Scraping data for program: MS
+2025-04-05 22:52:21,102 - INFO - Extracted program title: Master of Science in Economics
+2025-04-05 22:52:21,109 - INFO - Found 14 headings for program: MS
+2025-04-05 22:52:22,208 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:22,208 - INFO - Scraping data for program: PHD
+2025-04-05 22:52:22,745 - INFO - Extracted program title: Doctor of Philosophy in Economics
+2025-04-05 22:52:22,753 - INFO - Found 8 headings for program: PHD
+2025-04-05 22:52:23,419 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:52:23,419 - INFO - Scraping data for program: BA
+2025-04-05 22:52:26,069 - INFO - Extracted program title: School of Interdisciplinary Studies
+2025-04-05 22:52:26,122 - INFO - Found 0 headings for program: BA
+2025-04-05 22:52:26,123 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:52:26,123 - INFO - Scraping data for program: BS
+2025-04-05 22:52:27,043 - INFO - Extracted program title: School of Interdisciplinary Studies
+2025-04-05 22:52:27,052 - INFO - Found 0 headings for program: BS
+2025-04-05 22:52:27,052 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:27,052 - INFO - Scraping data for program: BSEE
+2025-04-05 22:52:28,413 - INFO - Extracted program title: Bachelor of Science in Electrical Engineering
+2025-04-05 22:52:28,419 - INFO - Found 12 headings for program: BSEE
+2025-04-05 22:52:29,401 - INFO - Successfully scraped data for program: BSEE
+2025-04-05 22:52:29,401 - INFO - Scraping data for program: MSEE
+2025-04-05 22:52:30,649 - INFO - Extracted program title: Master of Science in Electrical Engineering
+2025-04-05 22:52:30,654 - INFO - Found 10 headings for program: MSEE
+2025-04-05 22:52:31,340 - INFO - Successfully scraped data for program: MSEE
+2025-04-05 22:52:31,340 - INFO - Scraping data for program: PHD
+2025-04-05 22:52:32,764 - INFO - Extracted program title: Doctor of Philosophy in Electrical Engineering
+2025-04-05 22:52:32,770 - INFO - Found 10 headings for program: PHD
+2025-04-05 22:52:33,513 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:52:33,514 - INFO - Scraping data for program: MS
+2025-04-05 22:52:34,767 - INFO - Extracted program title: Master of Science in Energy Management
+2025-04-05 22:52:34,774 - INFO - Found 11 headings for program: MS
+2025-04-05 22:52:35,572 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:35,572 - INFO - Scraping data for program: BS
+2025-04-05 22:52:36,750 - INFO - Extracted program title: Bachelor of Science in Finance
+2025-04-05 22:52:36,757 - INFO - Found 14 headings for program: BS
+2025-04-05 22:52:37,753 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:37,753 - INFO - Scraping data for program: MS
+2025-04-05 22:52:38,302 - INFO - Extracted program title: Master of Science in Finance
+2025-04-05 22:52:38,309 - INFO - Found 11 headings for program: MS
+2025-04-05 22:52:39,140 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:39,140 - INFO - Scraping data for program: MS
+2025-04-05 22:52:40,517 - INFO - Extracted program title: Master of Science in Financial Technology and Analytics
+2025-04-05 22:52:40,522 - INFO - Found 10 headings for program: MS
+2025-04-05 22:52:41,318 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:41,318 - INFO - Scraping data for program: MFA
+2025-04-05 22:52:41,863 - INFO - Extracted program title: Master of Fine Arts in Game Development
+2025-04-05 22:52:41,872 - INFO - Found 10 headings for program: MFA
+2025-04-05 22:52:42,593 - INFO - Successfully scraped data for program: MFA
+2025-04-05 22:52:42,593 - INFO - Scraping data for program: BS
+2025-04-05 22:52:43,943 - INFO - Extracted program title: Bachelor of Science in Geosciences
+2025-04-05 22:52:43,949 - INFO - Found 14 headings for program: BS
+2025-04-05 22:52:44,869 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:44,869 - INFO - Scraping data for program: MS
+2025-04-05 22:52:46,180 - INFO - Extracted program title: Master of Science in Geosciences
+2025-04-05 22:52:46,186 - INFO - Found 10 headings for program: MS
+2025-04-05 22:52:46,985 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:46,985 - INFO - Scraping data for program: PHD
+2025-04-05 22:52:48,384 - INFO - Extracted program title: Doctor of Philosophy in Geosciences
+2025-04-05 22:52:48,392 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:52:49,345 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:52:49,345 - INFO - Scraping data for program: BS
+2025-04-05 22:52:50,595 - INFO - Extracted program title: Bachelor of Science in Geospatial Information Sciences
+2025-04-05 22:52:50,605 - INFO - Found 12 headings for program: BS
+2025-04-05 22:52:51,552 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:51,552 - INFO - Scraping data for program: MS
+2025-04-05 22:52:52,105 - INFO - Extracted program title: Master of Science in Geospatial Information Sciences
+2025-04-05 22:52:52,110 - INFO - Found 13 headings for program: MS
+2025-04-05 22:52:53,089 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:52:53,089 - INFO - Scraping data for program: PHD
+2025-04-05 22:52:54,633 - INFO - Extracted program title: Doctor of Philosophy in Geospatial Information Sciences
+2025-04-05 22:52:54,643 - INFO - Found 13 headings for program: PHD
+2025-04-05 22:52:55,887 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:52:55,888 - INFO - Scraping data for program: BS
+2025-04-05 22:52:56,482 - INFO - Extracted program title: Bachelor of Science in Global Business
+2025-04-05 22:52:56,489 - INFO - Found 14 headings for program: BS
+2025-04-05 22:52:58,064 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:52:58,064 - INFO - Scraping data for program: MS
+2025-04-05 22:52:59,389 - INFO - Extracted program title: Master of Science in Healthcare Leadership and Management
+2025-04-05 22:52:59,397 - INFO - Found 11 headings for program: MS
+2025-04-05 22:53:00,331 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:00,331 - INFO - Scraping data for program: BS
+2025-04-05 22:53:01,522 - INFO - Extracted program title: Bachelor of Science in Healthcare Management
+2025-04-05 22:53:01,527 - INFO - Found 12 headings for program: BS
+2025-04-05 22:53:02,683 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:53:02,683 - INFO - Scraping data for program: BS
+2025-04-05 22:53:04,121 - INFO - Extracted program title: Bachelor of Science in Healthcare Studies
+2025-04-05 22:53:04,138 - INFO - Found 13 headings for program: BS
+2025-04-05 22:53:05,278 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:53:05,278 - INFO - Scraping data for program: BA
+2025-04-05 22:53:05,842 - INFO - Extracted program title: Bachelor of Arts in History
+2025-04-05 22:53:05,849 - INFO - Found 13 headings for program: BA
+2025-04-05 22:53:07,189 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:53:07,189 - INFO - Scraping data for program: MA
+2025-04-05 22:53:08,825 - INFO - Extracted program title: Master of Arts in History
+2025-04-05 22:53:08,840 - INFO - Found 10 headings for program: MA
+2025-04-05 22:53:10,325 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:53:10,326 - INFO - Scraping data for program: PHD
+2025-04-05 22:53:11,500 - INFO - Extracted program title: Harry W. Bass Jr. School of Arts, Humanities, and Technology
+2025-04-05 22:53:11,514 - INFO - Found 0 headings for program: PHD
+2025-04-05 22:53:11,515 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:53:11,515 - INFO - Scraping data for program: MS
+2025-04-05 22:53:13,075 - INFO - Extracted program title: Master of Science in Human Development and Early Childhood Disorders
+2025-04-05 22:53:13,084 - INFO - Found 10 headings for program: MS
+2025-04-05 22:53:14,109 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:14,109 - INFO - Scraping data for program: BS
+2025-04-05 22:53:15,746 - INFO - Extracted program title: Bachelor of Science in Human Resource Management
+2025-04-05 22:53:15,752 - INFO - Found 13 headings for program: BS
+2025-04-05 22:53:16,719 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:53:16,719 - INFO - Scraping data for program: MA
+2025-04-05 22:53:17,994 - INFO - Extracted program title: Master of Arts in Humanities
+2025-04-05 22:53:18,003 - INFO - Found 10 headings for program: MA
+2025-04-05 22:53:18,995 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:53:18,995 - INFO - Scraping data for program: PHD
+2025-04-05 22:53:19,557 - INFO - Extracted program title: Doctor of Philosophy in Humanities
+2025-04-05 22:53:19,562 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:53:20,201 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:53:20,201 - INFO - Scraping data for program: MS
+2025-04-05 22:53:20,751 - INFO - Extracted program title: Master of Science in Information Technology and Management
+2025-04-05 22:53:20,758 - INFO - Found 11 headings for program: MS
+2025-04-05 22:53:21,699 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:21,699 - INFO - Scraping data for program: MS
+2025-04-05 22:53:22,978 - INFO - Extracted program title: Master of Science in Innovation and Entrepreneurship
+2025-04-05 22:53:22,991 - INFO - Found 11 headings for program: MS
+2025-04-05 22:53:24,045 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:24,045 - INFO - Scraping data for program: BA
+2025-04-05 22:53:25,431 - INFO - Extracted program title: Bachelor of Arts and Bachelor of Science in Interdisciplinary Studies
+2025-04-05 22:53:25,441 - INFO - Found 12 headings for program: BA
+2025-04-05 22:53:26,587 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:53:26,587 - INFO - Scraping data for program: BS
+2025-04-05 22:53:27,918 - INFO - Extracted program title: Bachelor of Arts and Bachelor of Science in Interdisciplinary Studies
+2025-04-05 22:53:27,925 - INFO - Found 12 headings for program: BS
+2025-04-05 22:53:28,796 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:53:28,796 - INFO - Scraping data for program: MA
+2025-04-05 22:53:30,172 - INFO - Extracted program title: Master of Arts in Interdisciplinary Studies
+2025-04-05 22:53:30,178 - INFO - Found 10 headings for program: MA
+2025-04-05 22:53:31,206 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:53:31,207 - INFO - Scraping data for program: MS
+2025-04-05 22:53:32,506 - INFO - Extracted program title: Master of Science in International Management Studies
+2025-04-05 22:53:32,515 - INFO - Found 11 headings for program: MS
+2025-04-05 22:53:33,461 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:33,462 - INFO - Scraping data for program: PHD
+2025-04-05 22:53:35,244 - INFO - Extracted program title: Doctor of Philosophy in International Management Studies
+2025-04-05 22:53:35,251 - INFO - Found 10 headings for program: PHD
+2025-04-05 22:53:36,131 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:53:36,131 - INFO - Scraping data for program: BA
+2025-04-05 22:53:37,305 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in International Political Economy
+2025-04-05 22:53:37,315 - INFO - Found 12 headings for program: BA
+2025-04-05 22:53:38,978 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:53:38,978 - INFO - Scraping data for program: BS
+2025-04-05 22:53:40,341 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in International Political Economy
+2025-04-05 22:53:40,354 - INFO - Found 12 headings for program: BS
+2025-04-05 22:53:41,736 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:53:41,736 - INFO - Scraping data for program: MS
+2025-04-05 22:53:42,939 - INFO - Extracted program title: Master of Science in International Political Economy
+2025-04-05 22:53:42,946 - INFO - Found 14 headings for program: MS
+2025-04-05 22:53:44,059 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:44,059 - INFO - Scraping data for program: BA
+2025-04-05 22:53:45,369 - INFO - Extracted program title: Bachelor of Arts in Latin American Studies
+2025-04-05 22:53:45,375 - INFO - Found 13 headings for program: BA
+2025-04-05 22:53:46,299 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:53:46,299 - INFO - Scraping data for program: MA
+2025-04-05 22:53:47,954 - INFO - Extracted program title: Master of Arts in Latin American Studies
+2025-04-05 22:53:47,960 - INFO - Found 9 headings for program: MA
+2025-04-05 22:53:48,640 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:53:48,641 - INFO - Scraping data for program: MS
+2025-04-05 22:53:49,931 - INFO - Extracted program title: Master of Science in Leadership and Organizational Development
+2025-04-05 22:53:49,936 - INFO - Found 8 headings for program: MS
+2025-04-05 22:53:50,496 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:50,496 - INFO - Scraping data for program: BA
+2025-04-05 22:53:51,819 - INFO - Extracted program title: Bachelor of Arts in Literature
+2025-04-05 22:53:51,824 - INFO - Found 13 headings for program: BA
+2025-04-05 22:53:52,694 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:53:52,694 - INFO - Scraping data for program: MA
+2025-04-05 22:53:54,023 - INFO - Extracted program title: Master of Arts in Literature
+2025-04-05 22:53:54,029 - INFO - Found 10 headings for program: MA
+2025-04-05 22:53:54,853 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:53:54,853 - INFO - Scraping data for program: PHD
+2025-04-05 22:53:55,443 - INFO - Extracted program title: Doctor of Philosophy in Literature
+2025-04-05 22:53:55,449 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:53:56,084 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:53:56,085 - INFO - Scraping data for program: MS
+2025-04-05 22:53:57,378 - INFO - Extracted program title: Master of Science in Management Science
+2025-04-05 22:53:57,384 - INFO - Found 11 headings for program: MS
+2025-04-05 22:53:58,233 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:53:58,233 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:00,203 - INFO - Extracted program title: Doctor of Philosophy in Management Science
+2025-04-05 22:54:00,208 - INFO - Found 10 headings for program: PHD
+2025-04-05 22:54:01,051 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:01,051 - INFO - Scraping data for program: BS
+2025-04-05 22:54:02,485 - INFO - Extracted program title: Bachelor of Science in Marketing
+2025-04-05 22:54:02,491 - INFO - Found 14 headings for program: BS
+2025-04-05 22:54:03,468 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:03,468 - INFO - Scraping data for program: MS
+2025-04-05 22:54:04,012 - INFO - Extracted program title: Master of Science in Marketing
+2025-04-05 22:54:04,018 - INFO - Found 11 headings for program: MS
+2025-04-05 22:54:04,882 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:04,882 - INFO - Scraping data for program: MS
+2025-04-05 22:54:05,472 - INFO - Extracted program title: Master of Science in Materials Science and Engineering
+2025-04-05 22:54:05,478 - INFO - Found 10 headings for program: MS
+2025-04-05 22:54:06,199 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:06,199 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:06,793 - INFO - Extracted program title: Doctor of Philosophy in Materials Science and Engineering
+2025-04-05 22:54:06,799 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:54:07,881 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:07,881 - INFO - Scraping data for program: BA
+2025-04-05 22:54:08,601 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Mathematics
+2025-04-05 22:54:08,609 - INFO - Found 15 headings for program: BA
+2025-04-05 22:54:10,216 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:54:10,217 - INFO - Scraping data for program: BS
+2025-04-05 22:54:10,939 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Mathematics
+2025-04-05 22:54:10,947 - INFO - Found 15 headings for program: BS
+2025-04-05 22:54:11,931 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:11,931 - INFO - Scraping data for program: MS
+2025-04-05 22:54:13,215 - INFO - Extracted program title: Master of Science in Mathematics
+2025-04-05 22:54:13,221 - INFO - Found 10 headings for program: MS
+2025-04-05 22:54:13,943 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:13,943 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:15,188 - INFO - Extracted program title: Doctor of Philosophy in Mathematics
+2025-04-05 22:54:15,194 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:54:15,864 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:15,864 - INFO - Scraping data for program: MAT
+2025-04-05 22:54:16,566 - INFO - Extracted program title: Master of Arts in Teaching in Mathematics Education
+2025-04-05 22:54:16,575 - INFO - Found 10 headings for program: MAT
+2025-04-05 22:54:17,519 - INFO - Successfully scraped data for program: MAT
+2025-04-05 22:54:17,519 - INFO - Scraping data for program: BS
+2025-04-05 22:54:18,115 - INFO - Extracted program title: Bachelor of Science in Mechanical Engineering
+2025-04-05 22:54:18,122 - INFO - Found 12 headings for program: BS
+2025-04-05 22:54:19,064 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:19,064 - INFO - Scraping data for program: MS
+2025-04-05 22:54:20,349 - INFO - Extracted program title: Master of Science in Mechanical Engineering
+2025-04-05 22:54:20,355 - INFO - Found 10 headings for program: MS
+2025-04-05 22:54:21,057 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:21,057 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:21,607 - INFO - Extracted program title: Doctor of Philosophy in Mechanical Engineering
+2025-04-05 22:54:21,613 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:54:22,595 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:22,595 - INFO - Scraping data for program: MS
+2025-04-05 22:54:24,135 - INFO - Extracted program title: Master of Science in Molecular and Cell Biology
+2025-04-05 22:54:24,149 - INFO - Found 10 headings for program: MS
+2025-04-05 22:54:25,274 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:25,274 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:26,697 - INFO - Extracted program title: Doctor of Philosophy in Molecular and Cell Biology
+2025-04-05 22:54:26,703 - INFO - Found 10 headings for program: PHD
+2025-04-05 22:54:27,403 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:27,403 - INFO - Scraping data for program: BS
+2025-04-05 22:54:28,687 - INFO - Extracted program title: Bachelor of Science in Molecular Biology
+2025-04-05 22:54:28,692 - INFO - Found 14 headings for program: BS
+2025-04-05 22:54:29,610 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:29,610 - INFO - Scraping data for program: BS
+2025-04-05 22:54:30,910 - INFO - Extracted program title: Bachelor of Science in Neuroscience
+2025-04-05 22:54:30,918 - INFO - Found 13 headings for program: BS
+2025-04-05 22:54:31,759 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:31,759 - INFO - Scraping data for program: BA
+2025-04-05 22:54:33,060 - INFO - Extracted program title: Bachelor of Arts in Philosophy
+2025-04-05 22:54:33,066 - INFO - Found 13 headings for program: BA
+2025-04-05 22:54:33,910 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:54:33,910 - INFO - Scraping data for program: MA
+2025-04-05 22:54:35,194 - INFO - Extracted program title: Master of Arts in Philosophy
+2025-04-05 22:54:35,201 - INFO - Found 10 headings for program: MA
+2025-04-05 22:54:35,964 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:54:35,964 - INFO - Scraping data for program: BA
+2025-04-05 22:54:37,186 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Physics
+2025-04-05 22:54:37,191 - INFO - Found 14 headings for program: BA
+2025-04-05 22:54:38,042 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:54:38,043 - INFO - Scraping data for program: BS
+2025-04-05 22:54:39,385 - INFO - Extracted program title: Bachelor of Arts / Bachelor of Science in Physics
+2025-04-05 22:54:39,391 - INFO - Found 14 headings for program: BS
+2025-04-05 22:54:40,265 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:40,265 - INFO - Scraping data for program: MS
+2025-04-05 22:54:40,826 - INFO - Extracted program title: Master of Science in Physics
+2025-04-05 22:54:40,833 - INFO - Found 10 headings for program: MS
+2025-04-05 22:54:41,831 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:41,831 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:42,580 - INFO - Extracted program title: Doctor of Philosophy in Physics
+2025-04-05 22:54:42,589 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:54:43,506 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:43,507 - INFO - Scraping data for program: BA
+2025-04-05 22:54:44,073 - INFO - Extracted program title: Bachelor of Arts in Political Science
+2025-04-05 22:54:44,078 - INFO - Found 14 headings for program: BA
+2025-04-05 22:54:45,438 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:54:45,438 - INFO - Scraping data for program: MA
+2025-04-05 22:54:46,750 - INFO - Extracted program title: Master of Arts in Political Science
+2025-04-05 22:54:46,756 - INFO - Found 14 headings for program: MA
+2025-04-05 22:54:47,852 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:54:47,852 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:49,182 - INFO - Extracted program title: Doctor of Philosophy in Political Science
+2025-04-05 22:54:49,195 - INFO - Found 13 headings for program: PHD
+2025-04-05 22:54:50,192 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:50,192 - INFO - Scraping data for program: BS
+2025-04-05 22:54:52,215 - INFO - Extracted program title: Bachelor of Science in Psychology
+2025-04-05 22:54:52,221 - INFO - Found 14 headings for program: BS
+2025-04-05 22:54:53,134 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:53,134 - INFO - Scraping data for program: MS
+2025-04-05 22:54:55,479 - INFO - Extracted program title: Master of Science in Psychology
+2025-04-05 22:54:55,484 - INFO - Found 10 headings for program: MS
+2025-04-05 22:54:56,226 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:54:56,226 - INFO - Scraping data for program: PHD
+2025-04-05 22:54:56,802 - INFO - Extracted program title: Doctor of Philosophy in Psychology
+2025-04-05 22:54:56,808 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:54:57,483 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:54:57,483 - INFO - Scraping data for program: BS
+2025-04-05 22:54:58,035 - INFO - Extracted program title: Bachelor of Science in Public Affairs
+2025-04-05 22:54:58,043 - INFO - Found 12 headings for program: BS
+2025-04-05 22:54:59,320 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:54:59,320 - INFO - Scraping data for program: MPA
+2025-04-05 22:55:00,041 - INFO - Extracted program title: Master of Public Affairs
+2025-04-05 22:55:00,053 - INFO - Found 14 headings for program: MPA
+2025-04-05 22:55:01,564 - INFO - Successfully scraped data for program: MPA
+2025-04-05 22:55:01,564 - INFO - Scraping data for program: PHD
+2025-04-05 22:55:03,015 - INFO - Extracted program title: Doctor of Philosophy in Public Affairs
+2025-04-05 22:55:03,021 - INFO - Found 13 headings for program: PHD
+2025-04-05 22:55:04,047 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:55:04,047 - INFO - Scraping data for program: BA
+2025-04-05 22:55:05,290 - INFO - Extracted program title: Bachelor of Arts in Public Health
+2025-04-05 22:55:05,296 - INFO - Found 12 headings for program: BA
+2025-04-05 22:55:06,243 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:55:06,243 - INFO - Scraping data for program: BS
+2025-04-05 22:55:07,523 - INFO - Extracted program title: Bachelor of Science in Public Policy
+2025-04-05 22:55:07,530 - INFO - Found 13 headings for program: BS
+2025-04-05 22:55:08,503 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:55:08,503 - INFO - Scraping data for program: MPP
+2025-04-05 22:55:09,975 - INFO - Extracted program title: Master of Public Policy
+2025-04-05 22:55:09,981 - INFO - Found 14 headings for program: MPP
+2025-04-05 22:55:11,053 - INFO - Successfully scraped data for program: MPP
+2025-04-05 22:55:11,053 - INFO - Scraping data for program: PHD
+2025-04-05 22:55:12,249 - INFO - Extracted program title: Doctor of Philosophy in Public Policy and Political Economy
+2025-04-05 22:55:12,255 - INFO - Found 13 headings for program: PHD
+2025-04-05 22:55:13,233 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:55:13,233 - INFO - Scraping data for program: MAT
+2025-04-05 22:55:14,559 - INFO - Extracted program title: Master of Arts in Teaching in Science Education
+2025-04-05 22:55:14,566 - INFO - Found 10 headings for program: MAT
+2025-04-05 22:55:15,294 - INFO - Successfully scraped data for program: MAT
+2025-04-05 22:55:15,294 - INFO - Scraping data for program: MS
+2025-04-05 22:55:15,854 - INFO - Extracted program title: Master of Science in Social Data Analytics and Research
+2025-04-05 22:55:15,860 - INFO - Found 14 headings for program: MS
+2025-04-05 22:55:17,186 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:55:17,186 - INFO - Scraping data for program: BA
+2025-04-05 22:55:18,435 - INFO - Extracted program title: Bachelor of Arts in Sociology
+2025-04-05 22:55:18,446 - INFO - Found 12 headings for program: BA
+2025-04-05 22:55:19,958 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:55:19,959 - INFO - Scraping data for program: BS
+2025-04-05 22:55:21,416 - INFO - Extracted program title: Bachelor of Science in Software Engineering
+2025-04-05 22:55:21,429 - INFO - Found 12 headings for program: BS
+2025-04-05 22:55:22,349 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:55:22,349 - INFO - Scraping data for program: MS
+2025-04-05 22:55:23,635 - INFO - Extracted program title: Executive Master of Science in Software Engineering
+2025-04-05 22:55:23,645 - INFO - Found 11 headings for program: MS
+2025-04-05 22:55:24,392 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:55:24,393 - INFO - Scraping data for program: PHD
+2025-04-05 22:55:24,953 - INFO - Extracted program title: Doctor of Philosophy in Software Engineering
+2025-04-05 22:55:24,958 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:55:25,664 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:55:25,664 - INFO - Scraping data for program: BS
+2025-04-05 22:55:26,996 - INFO - Extracted program title: Bachelor of Science in Speech, Language, and Hearing Sciences
+2025-04-05 22:55:27,002 - INFO - Found 13 headings for program: BS
+2025-04-05 22:55:27,891 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:55:27,891 - INFO - Scraping data for program: PHD
+2025-04-05 22:55:29,191 - INFO - Extracted program title: Doctor of Philosophy in Speech, Language, And Hearing Sciences
+2025-04-05 22:55:29,199 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:55:29,898 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:55:29,898 - INFO - Scraping data for program: MS
+2025-04-05 22:55:31,153 - INFO - Extracted program title: Master of Science in Speech-Language Pathology
+2025-04-05 22:55:31,159 - INFO - Found 10 headings for program: MS
+2025-04-05 22:55:31,859 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:55:31,859 - INFO - Scraping data for program: MS
+2025-04-05 22:55:32,422 - INFO - Extracted program title: Master of Science in Supply Chain Management
+2025-04-05 22:55:32,428 - INFO - Found 11 headings for program: MS
+2025-04-05 22:55:33,847 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:55:33,847 - INFO - Scraping data for program: BS
+2025-04-05 22:55:35,272 - INFO - Extracted program title: Bachelor of Science in Supply Chain Management and Analytics
+2025-04-05 22:55:35,281 - INFO - Found 13 headings for program: BS
+2025-04-05 22:55:36,304 - INFO - Successfully scraped data for program: BS
+2025-04-05 22:55:36,305 - INFO - Scraping data for program: BS
+2025-04-05 22:55:36,306 - ERROR - Error scraping data for program BS: Message: invalid argument: 'url' must be a string
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAC36EE5+28773]
+	(No symbol) [0x00007FF6AABA25D0]
+	(No symbol) [0x00007FF6AAA38FAA]
+	(No symbol) [0x00007FF6AAAE0674]
+	(No symbol) [0x00007FF6AAAB724A]
+	(No symbol) [0x00007FF6AAADF6F3]
+	(No symbol) [0x00007FF6AAAB7023]
+	(No symbol) [0x00007FF6AAA7FF5E]
+	(No symbol) [0x00007FF6AAA811E3]
+	GetHandleVerifier [0x00007FF6AAF8422D+3490733]
+	GetHandleVerifier [0x00007FF6AAF9BA13+3586963]
+	GetHandleVerifier [0x00007FF6AAF9144D+3544525]
+	GetHandleVerifier [0x00007FF6AACFC9AA+838442]
+	(No symbol) [0x00007FF6AABAD01F]
+	(No symbol) [0x00007FF6AABA95E4]
+	(No symbol) [0x00007FF6AABA9786]
+	(No symbol) [0x00007FF6AAB98CB9]
+	BaseThreadInitThunk [0x00007FFB25CAE8D7+23]
+	RtlUserThreadStart [0x00007FFB26E114FC+44]
+
+2025-04-05 22:55:36,306 - INFO - Scraping data for program: MS
+2025-04-05 22:55:36,871 - INFO - Extracted program title: Master of Science in Systems Engineering and Management
+2025-04-05 22:55:36,877 - INFO - Found 10 headings for program: MS
+2025-04-05 22:55:37,593 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:55:37,593 - INFO - Scraping data for program: MS
+2025-04-05 22:55:39,107 - INFO - Extracted program title: Master of Science in Systems Engineering and Management
+2025-04-05 22:55:39,118 - INFO - Found 10 headings for program: MS
+2025-04-05 22:55:40,423 - INFO - Successfully scraped data for program: MS
+2025-04-05 22:55:40,423 - INFO - Scraping data for program: MSTE
+2025-04-05 22:55:41,079 - INFO - Extracted program title: Master of Science in Telecommunications Engineering
+2025-04-05 22:55:41,092 - INFO - Found 10 headings for program: MSTE
+2025-04-05 22:55:42,058 - INFO - Successfully scraped data for program: MSTE
+2025-04-05 22:55:42,059 - INFO - Scraping data for program: PHD
+2025-04-05 22:55:42,743 - INFO - Extracted program title: Doctor of Philosophy in Telecommunications Engineering
+2025-04-05 22:55:42,750 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:55:43,518 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:55:43,518 - INFO - Scraping data for program: BA
+2025-04-05 22:55:45,484 - INFO - Extracted program title: Bachelor of Arts in Visual and Performing Arts
+2025-04-05 22:55:45,509 - INFO - Found 13 headings for program: BA
+2025-04-05 22:55:47,861 - INFO - Successfully scraped data for program: BA
+2025-04-05 22:55:47,861 - INFO - Scraping data for program: MA
+2025-04-05 22:55:49,982 - INFO - Extracted program title: Master of Arts in Visual and Performing Arts
+2025-04-05 22:55:50,002 - INFO - Found 10 headings for program: MA
+2025-04-05 22:55:51,970 - INFO - Successfully scraped data for program: MA
+2025-04-05 22:55:51,970 - INFO - Scraping data for program: PHD
+2025-04-05 22:55:53,803 - INFO - Extracted program title: Doctor of Philosophy in Visual and Performing Arts
+2025-04-05 22:55:53,824 - INFO - Found 9 headings for program: PHD
+2025-04-05 22:55:56,174 - INFO - Successfully scraped data for program: PHD
+2025-04-05 22:55:56,212 - INFO - Scraped data successfully written to ../scraped_data/utd_programs_data.json
+2025-04-05 22:55:58,680 - INFO - WebDriver closed.

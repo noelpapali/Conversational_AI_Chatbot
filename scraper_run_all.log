@@ -1,4 +1,0 @@
-2025-04-05 18:09:01,736 - main_scraper - INFO - ChromeDriver already exists at: C:\Users\pavan\PycharmProjects\PythonProject1\chrome\chromedriver.exe
-2025-04-05 18:09:01,737 - main_scraper - INFO - Starting execution of all scrapers in: C:\Users\pavan\PycharmProjects\PythonProject1\scraper
-2025-04-05 18:09:01,737 - main_scraper - INFO - Found 19 scraper files
-2025-04-05 18:09:01,737 - main_scraper - INFO - Starting scraper: bursar_office.py
