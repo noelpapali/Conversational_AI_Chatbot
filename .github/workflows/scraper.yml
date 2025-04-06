@@ -2,7 +2,7 @@ name: Daily Scraper
 on:
   schedule:
     - cron: '0 14 * * *'  # 2PM UTC daily
-  workflow_dispatch:       # Manual trigger option
+  workflow_dispatch:
 
 jobs:
   run-scrapers:
@@ -26,7 +26,27 @@ jobs:
           python run_scrapers.py 2>&1 | tee scraper_logs/run_$(date +'%Y%m%d_%H%M%S').log
 
       - name: Upload logs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: scraper-logs
           path: scraper_logs/*.log
+          retention-days: 7
+
+      - name: Run main scraper
+        run: |
+          mkdir -p scraper_logs
+          LOGFILE=scraper_logs/run_$(date +'%Y%m%d_%H%M%S').log
+          python run_scrapers.py 2>&1 | tee $LOGFILE
+          echo "LOGFILE=${LOGFILE}" >> $GITHUB_ENV
+
+      - name: Notify success
+        if: success()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ Scraper completed successfully! [Download logs](${{ steps.upload.outputs.artifact-url }})'
+            })
