@@ -8,11 +8,13 @@ on:
 jobs:
   execute-scrapers:
     runs-on: ubuntu-latest
-    timeout-minutes: 30    # Prevent hanging
+    timeout-minutes: 45    # Increased timeout for long-running scrapers
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          path: 'chatbot'  # Explicit checkout path
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
@@ -21,30 +23,41 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r chatbot/requirements.txt
           sudo apt-get update
-          sudo apt-get install -y chromium-browser
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+
+      - name: Set up environment
+        run: |
+          echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
+          echo "CHROME_PATH=$(which chromium-browser)" >> $GITHUB_ENV
+          mkdir -p chatbot/scraper_logs
+          mkdir -p chatbot/scraped_data
+          mkdir -p chatbot/tables
+
+      - name: Install logging config module
+        run: |
+          cp chatbot/logging_config.py chatbot/scraper/
 
       - name: Execute main scraper controller
+        working-directory: ./chatbot
         run: |
-          # Set GitHub Actions environment flag
-          echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
-          
-          # Run the main controller script with logging
           python run_scrapers.py 2>&1 | tee scraper_logs/run_$(date +'%Y%m%d_%H%M%S').log
 
       - name: Upload execution logs
         uses: actions/upload-artifact@v4
         with:
           name: scraper-execution-logs
-          path: scraper_logs/run_*.log
+          path: chatbot/scraper_logs/*.log
           retention-days: 7
 
       - name: Upload scraped data
         uses: actions/upload-artifact@v4
         with:
           name: scraped-data
-          path: scraped_data/*
+          path: |
+            chatbot/scraped_data/*
+            chatbot/tables/*
           retention-days: 7
 
       - name: Final status notification
@@ -52,3 +65,4 @@ jobs:
         run: |
           echo "::notice::Scraper execution completed with status: ${{ job.status }}"
           echo "View detailed logs: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          echo "Failed scrapers (if any): program_links_utd_s.py, utd_programs_data_s.py, tuition_rates_content.py, scholarship_data_s.py"
