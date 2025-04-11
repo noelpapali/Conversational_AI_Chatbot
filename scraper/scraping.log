@@ -17915,3 +17915,33 @@ Stacktrace:
 2025-04-06 00:06:41,481 - INFO - Successfully scraped data for program: PHD
 2025-04-06 00:06:41,496 - INFO - Scraped data successfully written to ../scraped_data/utd_programs_data.json
 2025-04-06 00:06:43,800 - INFO - WebDriver closed
+2025-04-10 22:20:37,185 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-04-10 22:20:37,419 - INFO - Successfully retrieved the webpage.
+2025-04-10 22:20:37,473 - INFO - Opened file for writing: ../scraped_data\jindal_main_site.txt
+2025-04-10 22:20:37,473 - INFO - Scraping 'At a Glance' section.
+2025-04-10 22:20:37,475 - INFO - Found 'At a Glance' section.
+2025-04-10 22:20:37,476 - INFO - Processed 'At a Glance' section.
+2025-04-10 22:20:37,477 - INFO - Scraping headings and subheadings.
+2025-04-10 22:20:37,477 - INFO - Found 6 <h2> headings.
+2025-04-10 22:20:37,477 - INFO - Processing <h2> heading: The Future Demands Different
+2025-04-10 22:20:37,477 - INFO - Processing <h2> heading: Recent Rankings
+2025-04-10 22:20:37,478 - INFO - Processing <h2> heading: Academic Areas
+2025-04-10 22:20:37,478 - INFO - Processing <h2> heading: Degree Programs
+2025-04-10 22:20:37,479 - INFO - Processing <h2> heading: Request Information
+2025-04-10 22:20:37,479 - INFO - Scraping <li> and <a> tags with context.
+2025-04-10 22:20:37,534 - INFO - Data scraped successfully and saved to '../scraped_data\jindal_main_site.txt'
+2025-04-10 22:21:36,911 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-04-10 22:21:37,129 - INFO - Successfully retrieved the webpage.
+2025-04-10 22:21:37,165 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-04-10 22:21:37,165 - INFO - Scraping 'At a Glance' section.
+2025-04-10 22:21:37,166 - INFO - Found 'At a Glance' section.
+2025-04-10 22:21:37,167 - INFO - Processed 'At a Glance' section.
+2025-04-10 22:21:37,167 - INFO - Scraping headings and subheadings.
+2025-04-10 22:21:37,167 - INFO - Found 6 <h2> headings.
+2025-04-10 22:21:37,167 - INFO - Processing <h2> heading: The Future Demands Different
+2025-04-10 22:21:37,167 - INFO - Processing <h2> heading: Recent Rankings
+2025-04-10 22:21:37,167 - INFO - Processing <h2> heading: Academic Areas
+2025-04-10 22:21:37,167 - INFO - Processing <h2> heading: Degree Programs
+2025-04-10 22:21:37,167 - INFO - Processing <h2> heading: Request Information
+2025-04-10 22:21:37,167 - INFO - Scraping <li> and <a> tags with context.
+2025-04-10 22:21:37,194 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'

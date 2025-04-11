@@ -1,4 +1,4 @@
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain_pinecone import PineconeVectorStore
 import pinecone
@@ -8,7 +8,7 @@ from pinecone import Pinecone, ServerlessSpec
 PINECONE_API_KEY = "pcsk_6R2ucq_J4vEtoSvYHs21aTArmsRzqRpE6SSgYvV6DKtm3kDZCe6Bei8nVK8jUZoJmbL9f4"  # Replace with your Pinecone API key
 PINECONE_ENV = "us-east-1"           # e.g., "us-west1-gcp"
 PINECONE_INDEX_NAME = "chatbotv1"
-OPENAI_API_KEY = "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"  # Replace with your OpenAI API key"
+OPENAI_API_KEY = "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"  # Replace with your OpenAI API key"
 
 # Initialize Pinecone connection using the new API
 pc = Pinecone(
@@ -21,7 +21,7 @@ index = pc.Index(PINECONE_INDEX_NAME)
 embeddings_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # Initialize the ChatOpenAI model (the GPT model) for response generation
-llm = ChatOpenAI(temperature=0.2, model='gpt-4o-mini', openai_api_key=OPENAI_API_KEY)
+llm = ChatOpenAI(temperature=0.1, model='gpt-4o-mini', openai_api_key=OPENAI_API_KEY)
 print("Using gpt-4o-mini for the LLM.")
 
 # Create the Pinecone vector store and set up a retriever
