@@ -20,7 +20,7 @@ embedding_model = SentenceTransformer(model_name)
 logging.info(f"Loaded embedding model: {model_name}")
 
 # Pinecone configuration (replace with your actual key, environment, and index name)
-PINECONE_API_KEY = "pcsk_6R2ucq_J4vEtoSvYHs21aTArmsRzqRpE6SSgYvV6DKtm3kDZCe6Bei8nVK8jUZoJmbL9f4"  # Replace with your Pinecone API key
+PINECONE_API_KEY = "pcsk_6SHZxP_MazDP4PaSNokSMfNZvxeo37u4Y1j6KWYLPqj2jQysvLuLm7CbBuHnajYDaTanFA"  # Replace with your Pinecone API key
 PINECONE_ENV = "us-east-1"           # e.g., "us-west1-gcp"
 INDEX_NAME = "chatbotv2"               # Replace with your Pinecone index name
 

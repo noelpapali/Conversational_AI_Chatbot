@@ -13,10 +13,10 @@ if sys.platform.startswith("win"):
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 # === Configuration (update keys and parameters as needed) ===
-PINECONE_API_KEY = "pcsk_6R2ucq_J4vEtoSvYHs21aTArmsRzqRpE6SSgYvV6DKtm3kDZCe6Bei8nVK8jUZoJmbL9f4"
+PINECONE_API_KEY = "pcsk_6SHZxP_MazDP4PaSNokSMfNZvxeo37u4Y1j6KWYLPqj2jQysvLuLm7CbBuHnajYDaTanFA"
 PINECONE_ENV = "us-east-1"           # For example: "us-west1-gcp" if applicable
 PINECONE_INDEX_NAME = "chatbotv1"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # === Initialize Pinecone and the necessary models ===
 # Set up Pinecone (with the new API)
@@ -88,7 +88,7 @@ Provide a concise answer based only on the above knowledge.
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-st.title("The Bot 1.0 here!")
+st.title("Comet Bot 1.0")
 
 st.markdown("This is a chatbot that responds to your queries regarding the UT Dallas (JSOM).")
 

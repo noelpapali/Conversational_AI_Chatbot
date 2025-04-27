@@ -21,7 +21,7 @@ class PineconeQuerySystem:
         self.nlp.add_pipe("sentencizer")
 
         # Pinecone connection
-        self.pc = Pinecone(api_key="pcsk_6R2ucq_J4vEtoSvYHs21aTArmsRzqRpE6SSgYvV6DKtm3kDZCe6Bei8nVK8jUZoJmbL9f4")
+        self.pc = Pinecone(api_key="pcsk_6SHZxP_MazDP4PaSNokSMfNZvxeo37u4Y1j6KWYLPqj2jQysvLuLm7CbBuHnajYDaTanFA")
         self.index = self.pc.Index("chatbotv1")
 
         # Query configuration
