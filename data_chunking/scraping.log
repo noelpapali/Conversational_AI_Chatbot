@@ -120,3 +120,11 @@ Please note that you may need to restart your runtime after installation.
 2025-04-26 23:24:09,851 - INFO - Generated embeddings for all documents.
 2025-04-26 23:24:13,255 - INFO - Upserted 489 vectors into Pinecone.
 2025-04-26 23:24:13,257 - INFO - Pinecone upsert response: {'upserted_count': 489}
+2025-04-27 00:25:32,626 - INFO - Use pytorch device_name: cpu
+2025-04-27 00:25:32,626 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-27 00:25:33,645 - INFO - Loaded embedding model: all-MiniLM-L6-v2
+2025-04-27 00:25:34,306 - INFO - Connected to Pinecone index: chatbotv1
+2025-04-27 00:25:34,314 - INFO - Split text into 489 overlapping chunks.
+2025-04-27 00:25:49,285 - INFO - Generated embeddings for all documents.
+2025-04-27 00:25:53,040 - INFO - Upserted 489 vectors into Pinecone.
+2025-04-27 00:25:53,042 - INFO - Pinecone upsert response: {'upserted_count': 489}

@@ -41,7 +41,7 @@ print(deadlines_df.info())
 print(deadlines_df[["Date", "Classification"]].head(4))
 print(deadlines_df.head(4))
 
-output_file = os.path.join("../scraped_data", "Financial_aid_deadlines_table.csv")
+output_file = os.path.join("../processed_data", "Financial_aid_deadlines_table.csv")
 
 # Save the DataFrame to CSV (without index)
 deadlines_df.to_csv(output_file, index=False)
