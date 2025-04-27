@@ -1,0 +1,3 @@
+# ignore local secrets
+config.ini
+.env
