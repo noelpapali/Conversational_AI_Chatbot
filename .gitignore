@@ -1,3 +1,2 @@
-# ignore local secrets
+# local environment settings
 config.ini
-.env

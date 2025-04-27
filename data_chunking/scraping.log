@@ -96,3 +96,27 @@ Please note that you may need to restart your runtime after installation.
 2025-04-06 22:28:29,139 - INFO - Generated embeddings for all documents.
 2025-04-06 22:28:32,288 - INFO - Upserted 401 vectors into Pinecone.
 2025-04-06 22:28:32,291 - INFO - Pinecone upsert response: {'upserted_count': 401}
+2025-04-09 09:55:01,589 - INFO - Use pytorch device_name: cpu
+2025-04-09 09:55:01,591 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-09 09:55:36,421 - INFO - Loaded embedding model: all-MiniLM-L6-v2
+2025-04-09 09:55:40,820 - INFO - Connected to Pinecone index: chatbotv1
+2025-04-09 09:55:40,840 - INFO - Split text into 401 overlapping chunks.
+2025-04-09 09:56:03,303 - INFO - Generated embeddings for all documents.
+2025-04-09 09:56:06,260 - INFO - Upserted 401 vectors into Pinecone.
+2025-04-09 09:56:06,263 - INFO - Pinecone upsert response: {'upserted_count': 401}
+2025-04-10 23:03:50,244 - INFO - Use pytorch device_name: cpu
+2025-04-10 23:03:50,245 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-10 23:03:51,572 - INFO - Loaded embedding model: all-MiniLM-L6-v2
+2025-04-10 23:03:52,422 - INFO - Connected to Pinecone index: chatbotv1
+2025-04-10 23:03:52,434 - INFO - Split text into 489 overlapping chunks.
+2025-04-10 23:04:16,991 - INFO - Generated embeddings for all documents.
+2025-04-10 23:04:19,962 - INFO - Upserted 489 vectors into Pinecone.
+2025-04-10 23:04:19,965 - INFO - Pinecone upsert response: {'upserted_count': 489}
+2025-04-26 23:23:52,882 - INFO - Use pytorch device_name: cpu
+2025-04-26 23:23:52,882 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-26 23:23:53,811 - INFO - Loaded embedding model: all-MiniLM-L6-v2
+2025-04-26 23:23:54,304 - INFO - Connected to Pinecone index: chatbotv1
+2025-04-26 23:23:54,316 - INFO - Split text into 489 overlapping chunks.
+2025-04-26 23:24:09,851 - INFO - Generated embeddings for all documents.
+2025-04-26 23:24:13,255 - INFO - Upserted 489 vectors into Pinecone.
+2025-04-26 23:24:13,257 - INFO - Pinecone upsert response: {'upserted_count': 489}

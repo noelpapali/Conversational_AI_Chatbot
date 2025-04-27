@@ -20,7 +20,7 @@ url = config.get('DEFAULT', 'URL', fallback="https://jindal.utdallas.edu/")
 
 # Directory and file path
 output_dir = config.get('DEFAULT', 'OUTPUT_DIR', fallback="../scraped_data")
-output_file = os.path.join(output_dir, "jindal_main_site.txt")
+output_file = os.path.join(output_dir, "scraped_content.txt")
 
 # User-Agent header
 headers = {
