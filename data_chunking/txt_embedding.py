@@ -7,7 +7,7 @@ from logging_config import configure_logging
 from langchain.docstore.document import Document
 
 # Configure logging using your custom function
-configure_logging(log_file="scraping.log", log_level=logging.INFO)
+configure_logging(log_file="txt_embedding.py.log", log_level=logging.INFO)
 
 # Load configuration from config.ini
 config = ConfigParser()
