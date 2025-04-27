@@ -1,0 +1,4 @@
+2025-04-27 11:56:30,721 - ERROR - Failed to read CSV file ../scraped_data/tuition_rates_table.csv. Error: Error tokenizing data. C error: Expected 4 fields in line 13, saw 5
+
+2025-04-27 11:57:24,594 - ERROR - Failed to read CSV file ../scraped_data/tuition_rates_table.csv. Error: Error tokenizing data. C error: Expected 4 fields in line 13, saw 5
+
