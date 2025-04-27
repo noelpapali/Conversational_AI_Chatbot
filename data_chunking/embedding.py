@@ -9,26 +9,30 @@ from langchain.docstore.document import Document
 # Configure logging using your custom function
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
-# Load configuration from config.ini if needed
+# Load configuration from config.ini
 config = ConfigParser()
-config.read('config.ini')
+config.read('../config.ini')
+
+# Fetch embedding model name from config
+EMBEDDINGS_MODEL_NAME = config["embeddings"]["model_name"]
 
 # Initialize the SentenceTransformer model
-model_name = "all-MiniLM-L6-v2"
-embedding_model = SentenceTransformer(model_name)
-logging.info(f"Loaded embedding model: {model_name}")
+embedding_model = SentenceTransformer(EMBEDDINGS_MODEL_NAME)
+logging.info(f"Loaded embedding model: {EMBEDDINGS_MODEL_NAME}")
 
-# Pinecone configuration (replace with your actual key, environment, and index name)
-PINECONE_API_KEY = "pcsk_6R2ucq_J4vEtoSvYHs21aTArmsRzqRpE6SSgYvV6DKtm3kDZCe6Bei8nVK8jUZoJmbL9f4"
-PINECONE_ENV = "us-east-1"
-INDEX_NAME = "chatbotv1"
+# Fetch Pinecone settings from config
+PINECONE_API_KEY = config["pinecone"]["api_key"]
+PINECONE_ENV     = config["pinecone"]["env"]
+INDEX_NAME       = config["pinecone"]["index"]
 
 # Initialize Pinecone using the new interface
 from pinecone import Pinecone, ServerlessSpec
 pc = Pinecone(api_key=PINECONE_API_KEY, spec=ServerlessSpec(cloud='aws', region=PINECONE_ENV))
+
 if INDEX_NAME not in pc.list_indexes().names():
     logging.error(f"Index '{INDEX_NAME}' not found in Pinecone.")
     exit(1)
+
 index = pc.Index(INDEX_NAME)
 logging.info(f"Connected to Pinecone index: {INDEX_NAME}")
 
@@ -49,18 +53,12 @@ def split_text_into_overlapping_chunks(file_path, max_chunk_chars=2000, overlap_
 
     while i < len(paragraphs):
         para = paragraphs[i]
-        # If adding this paragraph (with separator) stays within the limit, add it.
-        if current_chunk:
-            tentative = current_chunk + "\n\n" + para
-        else:
-            tentative = para
+        tentative = current_chunk + "\n\n" + para if current_chunk else para
 
         if len(tentative) <= max_chunk_chars:
             current_chunk = tentative
             i += 1
         else:
-            # If current_chunk is empty (i.e. a single paragraph is too long),
-            # then split the paragraph itself.
             if not current_chunk:
                 for j in range(0, len(para), max_chunk_chars):
                     chunk_piece = para[j:j+max_chunk_chars]
@@ -68,11 +66,7 @@ def split_text_into_overlapping_chunks(file_path, max_chunk_chars=2000, overlap_
                 i += 1
             else:
                 chunks.append(current_chunk.strip())
-                # Start next chunk with overlap: last overlap_chars of the current chunk.
-                if len(current_chunk) > overlap_chars:
-                    current_chunk = current_chunk[-overlap_chars:]
-                else:
-                    current_chunk = ""
+                current_chunk = current_chunk[-overlap_chars:] if len(current_chunk) > overlap_chars else ""
     if current_chunk:
         chunks.append(current_chunk.strip())
 
@@ -103,7 +97,10 @@ def embed_and_upsert_documents(documents):
         vector = {
             "id": f"chunk_{doc.metadata['chunk_index']}",
             "values": embedding.tolist(),
-            "metadata": {"text": doc.page_content, "chunk_index": doc.metadata["chunk_index"]}
+            "metadata": {
+                "text": doc.page_content,
+                "chunk_index": doc.metadata["chunk_index"]
+            }
         }
         vectors.append(vector)
 
@@ -116,6 +113,7 @@ if __name__ == "__main__":
     if not os.path.exists(cleaned_file):
         logging.error(f"File {cleaned_file} does not exist.")
         exit(1)
+
     chunks = split_text_into_overlapping_chunks(cleaned_file, max_chunk_chars=2000, overlap_chars=400)
     documents = create_documents(chunks)
     response = embed_and_upsert_documents(documents)
