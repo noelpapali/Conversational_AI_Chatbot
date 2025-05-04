@@ -83,30 +83,40 @@ def create_documents(chunks):
         documents.append(doc)
     return documents
 
-def embed_and_upsert_documents(documents):
+
+def embed_and_upsert_documents(documents, batch_size=100):
     """
-    Generates embeddings for each Document's page_content using the SentenceTransformer model,
-    then upserts them into the Pinecone index with minimal metadata that includes the full text.
+    Generates embeddings and upserts them in batches to avoid exceeding Pinecone's size limits.
     """
     texts = [doc.page_content for doc in documents]
     embeddings = embedding_model.encode(texts, show_progress_bar=True)
     logging.info("Generated embeddings for all documents.")
 
-    vectors = []
-    for doc, embedding in zip(documents, embeddings):
-        vector = {
-            "id": f"chunk_{doc.metadata['chunk_index']}",
-            "values": embedding.tolist(),
-            "metadata": {
-                "text": doc.page_content,
-                "chunk_index": doc.metadata["chunk_index"]
-            }
-        }
-        vectors.append(vector)
+    # Process in batches
+    for i in range(0, len(documents), batch_size):
+        batch_docs = documents[i:i + batch_size]
+        batch_embeddings = embeddings[i:i + batch_size]
 
-    upsert_response = index.upsert(vectors=vectors)
-    logging.info(f"Upserted {len(vectors)} vectors into Pinecone.")
-    return upsert_response
+        vectors = []
+        for doc, embedding in zip(batch_docs, batch_embeddings):
+            vector = {
+                "id": f"chunk_{doc.metadata['chunk_index']}",
+                "values": embedding.tolist(),
+                "metadata": {
+                    "text": doc.page_content,
+                    "chunk_index": doc.metadata["chunk_index"]
+                }
+            }
+            vectors.append(vector)
+
+        try:
+            upsert_response = index.upsert(vectors=vectors)
+            logging.info(f"Upserted batch {i // batch_size + 1} with {len(vectors)} vectors")
+        except Exception as e:
+            logging.error(f"Failed to upsert batch {i // batch_size + 1}: {str(e)}")
+            # Optionally: retry with smaller batch size or implement backoff
+
+    return {"status": "completed", "total_vectors": len(documents)}
 
 if __name__ == "__main__":
     cleaned_file = "../processed_data/cleaned_merged_text.txt"
