@@ -32,7 +32,7 @@ jobs:
           echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
           echo "CHROME_PATH=$(which chromium-browser)" >> $GITHUB_ENV
           mkdir -p chatbot/scraper_logs
-          mkdir -p chatbot/scraped_data
+          mkdir -p chatbot/scraped_data_git  # Changed from scraped_data to scraped_data_git
           mkdir -p chatbot/tables
 
       - name: Install logging config module
@@ -56,7 +56,7 @@ jobs:
         with:
           name: scraped-data
           path: |
-            chatbot/scraped_data/*
+            chatbot/scraped_data_git/*  # Changed from scraped_data to scraped_data_git
             chatbot/tables/*
           retention-days: 7
 

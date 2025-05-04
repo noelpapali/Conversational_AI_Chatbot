@@ -5,11 +5,12 @@ import logging
 from bs4 import BeautifulSoup
 from configparser import ConfigParser
 
-# Import the logging configuration function
-from logging_config import configure_logging
-
-# Configure logging
-configure_logging(log_file="scraping.log", log_level=logging.INFO)
+# Configure logging to only display to console
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
 
 # Load configuration
 config = ConfigParser()
@@ -18,8 +19,19 @@ config.read('config.ini')
 # URL of the page to scrape
 page_url = "https://bursar.utdallas.edu/"
 
-# Output directory and file
-output_dir = "../scraped_data"
+# Output directories - local and git
+local_output_dir = "../scraped_data"  # For local use
+git_output_dir = "scraped_data_git"  # For GitHub Actions
+
+# Determine which output directory to use based on environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Log environment information
+logging.info(f"Running in {'GitHub Actions' if is_github_env else 'local'} environment")
+logging.info(f"Using output directory: {output_dir}")
+
+# Output file path
 output_file = os.path.join(output_dir, "bursar_data.txt")
 
 # User-Agent header
@@ -27,11 +39,13 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 }
 
+
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         logging.info(f"Created directory: {output_dir}")
+
 
 def fetch_webpage(url, retries=3):
     """Fetch the webpage content with retries."""
@@ -44,11 +58,11 @@ def fetch_webpage(url, retries=3):
                 return response.content
             else:
                 logging.error(f"Failed to retrieve the webpage. Status code: {response.status_code}")
-                logging.debug(f"Response content: {response.content}")
         except requests.exceptions.RequestException as e:
             logging.error(f"Attempt {attempt + 1} failed: {e}")
             if attempt == retries - 1:
                 return None
+
 
 def extract_content(soup):
     """Extract content from the page and return it as a structured string."""
@@ -70,7 +84,8 @@ def extract_content(soup):
         # Extract lists
         lists = main_content.find_all("ul")
         for lst in lists:
-            items = [f"  - {li.text.strip()} (URL: {li.a['href']})" if li.a else f"  - {li.text.strip()}" for li in lst.find_all("li")]
+            items = [f"  - {li.text.strip()} (URL: {li.a['href']})" if li.a else f"  - {li.text.strip()}" for li in
+                     lst.find_all("li")]
             content.append("List:\n" + "\n".join(items))
 
         # Extract tables
@@ -97,7 +112,8 @@ def extract_content(soup):
                     else:
                         content.append(f"  Paragraph: {paragraph_text}")
                 elif next_element.name == "ul":
-                    items = [f"    - {li.text.strip()} (URL: {li.a['href']})" if li.a else f"    - {li.text.strip()}" for li in next_element.find_all("li")]
+                    items = [f"    - {li.text.strip()} (URL: {li.a['href']})" if li.a else f"    - {li.text.strip()}"
+                             for li in next_element.find_all("li")]
                     content.append("  List:\n" + "\n".join(items))
                 elif next_element.name == "table":
                     rows = []
@@ -109,6 +125,7 @@ def extract_content(soup):
 
     return "\n".join(content)
 
+
 def scrape_page(url):
     """Scrape content from a page and return it as a string."""
     logging.info(f"Scraping page: {url}")
@@ -118,6 +135,7 @@ def scrape_page(url):
 
     soup = BeautifulSoup(content, "html.parser")
     return extract_content(soup)
+
 
 def main():
     """Main function to orchestrate the scraping process."""
@@ -132,7 +150,10 @@ def main():
     with open(output_file, "w", encoding="utf-8") as file:
         file.write(f"URL: {page_url}\n\n")
         file.write(page_content)
-        logging.info(f"Data scraped successfully and saved to '{output_file}'")
+    logging.info(f"Data scraped successfully and saved to '{output_file}'")
+
+    print(f"URL: {page_url}\n")
+
 
 if __name__ == "__main__":
     main()

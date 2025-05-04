@@ -21344,3 +21344,7 @@
 2025-05-04 13:18:46,552 - INFO - Line 57875 is empty after cleaning and was skipped.
 2025-05-04 13:18:46,552 - INFO - Line 57877 is empty after cleaning and was skipped.
 2025-05-04 13:18:46,552 - INFO - Cleaned text has been written to ../processed_data/cleaned_merged_text.txt.
+2025-05-04 17:58:15,077 - INFO - Cloning repository from https://github.com/PavanChandan29/chatbot.git...
+2025-05-04 17:58:17,046 - INFO - Repository cloned successfully.
+2025-05-04 17:58:17,047 - ERROR - Directory not found: scraped_data
+2025-05-04 18:01:32,532 - INFO - Merged files saved to ../processed_data/merged_text.txt
