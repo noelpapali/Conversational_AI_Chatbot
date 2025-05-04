@@ -3559,3 +3559,181 @@ Stacktrace:
 
 2025-04-06 00:06:47,926 - INFO - Completed scraper: utd_programs_data_s.py in 398.42 seconds
 2025-04-06 00:06:47,926 - INFO - Execution complete. Summary: 19 succeeded, 0 failed
+2025-05-04 18:53:01,205 - INFO - Sending GET request to: https://jindal.utdallas.edu/certificate-programs/
+2025-05-04 18:53:01,387 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:01,432 - INFO - Found menu link: https://jindal.utdallas.edu/certificate-programs/
+2025-05-04 18:53:01,432 - INFO - Found menu link: https://jindal.utdallas.edu/certificate-programs/academic/
+2025-05-04 18:53:01,432 - INFO - Found menu link: https://jindal.utdallas.edu/certificate-programs/professional/
+2025-05-04 18:53:01,433 - INFO - Opened file for writing: ../scraped_data\certificate_programs_data.txt
+2025-05-04 18:53:01,433 - INFO - Scraping page: https://jindal.utdallas.edu/certificate-programs/
+2025-05-04 18:53:01,433 - INFO - Sending GET request to: https://jindal.utdallas.edu/certificate-programs/
+2025-05-04 18:53:01,607 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:01,636 - INFO - Scraping page: https://jindal.utdallas.edu/certificate-programs/
+2025-05-04 18:53:01,636 - INFO - Sending GET request to: https://jindal.utdallas.edu/certificate-programs/
+2025-05-04 18:53:01,800 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:01,831 - INFO - Scraping page: https://jindal.utdallas.edu/certificate-programs/academic/
+2025-05-04 18:53:01,831 - INFO - Sending GET request to: https://jindal.utdallas.edu/certificate-programs/academic/
+2025-05-04 18:53:02,039 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:02,056 - INFO - Scraping page: https://jindal.utdallas.edu/certificate-programs/professional/
+2025-05-04 18:53:02,057 - INFO - Sending GET request to: https://jindal.utdallas.edu/certificate-programs/professional/
+2025-05-04 18:53:02,225 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:02,256 - INFO - Data scraped successfully and saved to '../scraped_data\certificate_programs_data.txt'
+2025-05-04 18:53:02,256 - INFO - Completed scraper: certificates_pg_jsom.py in 1.06 seconds
+2025-05-04 18:53:02,256 - INFO - Starting scraper: deadline_data_s.py
+2025-05-04 18:53:03,636 - INFO - Completed scraper: deadline_data_s.py in 1.38 seconds
+2025-05-04 18:53:03,636 - INFO - Starting scraper: events_jindal.py
+2025-05-04 18:53:03,639 - INFO - Sending GET request to: https://jindal.utdallas.edu/calendar/
+2025-05-04 18:53:03,814 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:03,855 - INFO - Opened file for writing: ../scraped_data\events.txt
+2025-05-04 18:53:03,856 - INFO - Scraping event data.
+2025-05-04 18:53:03,856 - INFO - Processing events for: May, 2025
+2025-05-04 18:53:03,858 - INFO - Processing events for: Jun, 2025
+2025-05-04 18:53:03,858 - INFO - Processing events for: Jul, 2025
+2025-05-04 18:53:03,859 - INFO - Processing events for: Aug, 2025
+2025-05-04 18:53:03,860 - INFO - Processing events for: Sep, 2025
+2025-05-04 18:53:03,860 - INFO - Processing events for: Oct, 2025
+2025-05-04 18:53:03,860 - INFO - Event data scraped successfully.
+2025-05-04 18:53:03,860 - INFO - Event data scraped successfully and saved to '../scraped_data\events.txt'
+2025-05-04 18:53:03,861 - INFO - Completed scraper: events_jindal.py in 0.22 seconds
+2025-05-04 18:53:03,861 - INFO - Starting scraper: executive_ed_admission.py
+2025-05-04 18:53:03,863 - INFO - Sending GET request to: https://execed.utdallas.edu/
+2025-05-04 18:53:04,075 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:04,109 - INFO - Found menu link: https://execed.utdallas.edu/
+2025-05-04 18:53:04,109 - INFO - Found menu link: https://execed.utdallas.edu/academic-programs/
+2025-05-04 18:53:04,109 - INFO - Found menu link: https://execed.utdallas.edu/certificate-programs/
+2025-05-04 18:53:04,109 - INFO - Found menu link: https://execed.utdallas.edu/scholarships-executive-education/
+2025-05-04 18:53:04,109 - INFO - Found menu link: https://execed.utdallas.edu/voices/
+2025-05-04 18:53:04,111 - INFO - Opened file for writing: ../scraped_data\exec_ed_data.txt
+2025-05-04 18:53:04,112 - INFO - Scraping page: https://execed.utdallas.edu/
+2025-05-04 18:53:04,112 - INFO - Sending GET request to: https://execed.utdallas.edu/
+2025-05-04 18:53:04,300 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:04,338 - INFO - Scraping page: https://execed.utdallas.edu/academic-programs/
+2025-05-04 18:53:04,338 - INFO - Sending GET request to: https://execed.utdallas.edu/academic-programs/
+2025-05-04 18:53:05,207 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:05,228 - INFO - Scraping page: https://execed.utdallas.edu/certificate-programs/
+2025-05-04 18:53:05,228 - INFO - Sending GET request to: https://execed.utdallas.edu/certificate-programs/
+2025-05-04 18:53:05,427 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:05,454 - INFO - Scraping page: https://execed.utdallas.edu/scholarships-executive-education/
+2025-05-04 18:53:05,454 - INFO - Sending GET request to: https://execed.utdallas.edu/scholarships-executive-education/
+2025-05-04 18:53:05,648 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:05,675 - INFO - Scraping page: https://execed.utdallas.edu/voices/
+2025-05-04 18:53:05,675 - INFO - Sending GET request to: https://execed.utdallas.edu/voices/
+2025-05-04 18:53:05,856 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:05,888 - INFO - Data scraped successfully and saved to '../scraped_data\exec_ed_data.txt'
+2025-05-04 18:53:05,888 - INFO - Completed scraper: executive_ed_admission.py in 2.03 seconds
+2025-05-04 18:53:05,888 - INFO - Starting scraper: faculty.py
+2025-05-04 18:53:05,894 - INFO - Scraping page: https://jindal.utdallas.edu/faculty/
+2025-05-04 18:53:06,128 - INFO - Opened file for writing: ../scraped_data\faculty_page_data.txt
+2025-05-04 18:53:06,128 - INFO - Data scraped successfully and saved to '../scraped_data\faculty_page_data.txt'
+2025-05-04 18:53:06,128 - INFO - Completed scraper: faculty.py in 0.24 seconds
+2025-05-04 18:53:06,128 - INFO - Starting scraper: freshman_admission.py
+2025-05-04 18:53:06,133 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/
+2025-05-04 18:53:06,340 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:06,360 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/criteria/
+2025-05-04 18:53:06,361 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/application-process/
+2025-05-04 18:53:06,361 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-05-04 18:53:06,361 - INFO - Found link in <h3>: https://enroll.utdallas.edu/freshman/timeline/
+2025-05-04 18:53:06,361 - INFO - Found link in <h3>: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-05-04 18:53:06,361 - INFO - Found link in <h3>: https://enroll.utdallas.edu/visit/
+2025-05-04 18:53:06,361 - INFO - Found link in <h3>: https://www.instagram.com/explore/tags/futurecomet/
+2025-05-04 18:53:06,362 - INFO - Opened file for writing: ../scraped_data\freshman_admission.txt
+2025-05-04 18:53:06,362 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/criteria/
+2025-05-04 18:53:06,362 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/criteria/
+2025-05-04 18:53:06,559 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:06,583 - INFO - Processing heading: 
+2025-05-04 18:53:06,583 - INFO - Processing heading: Freshman Admissions: Criteria
+2025-05-04 18:53:06,583 - INFO - Processing heading: 
+2025-05-04 18:53:06,583 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-05-04 18:53:06,583 - INFO - Processing heading: Admission Review Criteria
+2025-05-04 18:53:06,583 - INFO - Processing heading: Texas Top 10%
+2025-05-04 18:53:06,583 - INFO - Processing heading: Home-Schooled and GED
+2025-05-04 18:53:06,584 - INFO - Processing heading: Major-Specific Requirements
+2025-05-04 18:53:06,584 - INFO - Processing heading: International Applicants
+2025-05-04 18:53:06,584 - INFO - Processing heading: Admission Counseling
+2025-05-04 18:53:06,584 - INFO - Processing heading: Freshman Admissions
+2025-05-04 18:53:06,584 - INFO - Processing heading: 
+2025-05-04 18:53:06,584 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/application-process/
+2025-05-04 18:53:06,584 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/application-process/
+2025-05-04 18:53:06,794 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:06,816 - INFO - Processing heading: 
+2025-05-04 18:53:06,816 - INFO - Processing heading: Freshman Admissions: Application Process
+2025-05-04 18:53:06,816 - INFO - Processing heading: 
+2025-05-04 18:53:06,816 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-05-04 18:53:06,816 - INFO - Processing heading: Submit your admission application.
+2025-05-04 18:53:06,816 - INFO - Processing heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
+2025-05-04 18:53:06,817 - INFO - Processing heading: Pay the application fee or submit a fee waiver form.
+2025-05-04 18:53:06,817 - INFO - Processing heading: Submit your official transcripts.
+2025-05-04 18:53:06,817 - INFO - Processing heading: After Submission
+2025-05-04 18:53:06,817 - INFO - Processing heading: Submitting Supplementary Documentation
+2025-05-04 18:53:06,817 - INFO - Processing heading: International Students
+2025-05-04 18:53:06,817 - INFO - Processing heading: Veterans
+2025-05-04 18:53:06,817 - INFO - Processing heading: Admission Counseling
+2025-05-04 18:53:06,817 - INFO - Processing heading: Freshman Admissions
+2025-05-04 18:53:06,817 - INFO - Processing heading: 
+2025-05-04 18:53:06,817 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-05-04 18:53:06,817 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/deadlines-and-fees/
+2025-05-04 18:53:07,028 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:07,074 - INFO - Processing heading: 
+2025-05-04 18:53:07,074 - INFO - Processing heading: Freshman Admissions: Deadlines and Fees
+2025-05-04 18:53:07,074 - INFO - Processing heading: 
+2025-05-04 18:53:07,074 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-05-04 18:53:07,075 - INFO - Processing heading: Application Deadline (Domestic and International)
+2025-05-04 18:53:07,075 - INFO - Processing heading: Application Fees
+2025-05-04 18:53:07,075 - INFO - Processing heading: Submitting Fee Waivers
+2025-05-04 18:53:07,075 - INFO - Processing heading: Hold Review to Submit Additional Documents
+2025-05-04 18:53:07,075 - INFO - Processing heading: Admission Counseling
+2025-05-04 18:53:07,075 - INFO - Processing heading: Freshman Admissions
+2025-05-04 18:53:07,075 - INFO - Processing heading: 
+2025-05-04 18:53:07,075 - INFO - Scraping linked page: https://enroll.utdallas.edu/freshman/timeline/
+2025-05-04 18:53:07,075 - INFO - Sending GET request to: https://enroll.utdallas.edu/freshman/timeline/
+2025-05-04 18:53:07,290 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:07,311 - INFO - Processing heading: 
+2025-05-04 18:53:07,311 - INFO - Processing heading: Freshman Admissions: Timeline
+2025-05-04 18:53:07,311 - INFO - Processing heading: 
+2025-05-04 18:53:07,311 - INFO - Processing heading: Freshman Application Dates (Domestic & International)
+2025-05-04 18:53:07,312 - INFO - Processing heading: Submit your application and supporting documents.
+2025-05-04 18:53:07,312 - INFO - Processing heading: Your completed application will be reviewed.
+2025-05-04 18:53:07,312 - INFO - Processing heading: You will receive an admission decision.
+2025-05-04 18:53:07,312 - INFO - Processing heading: Admission Counseling
+2025-05-04 18:53:07,312 - INFO - Processing heading: Freshman Admissions
+2025-05-04 18:53:07,312 - INFO - Processing heading: 
+2025-05-04 18:53:07,312 - INFO - Scraping linked page: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-05-04 18:53:07,312 - INFO - Sending GET request to: https://enroll.utdallas.edu/contact/counselor-locator/
+2025-05-04 18:53:07,522 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:07,544 - INFO - Processing heading: 
+2025-05-04 18:53:07,544 - INFO - Processing heading: Counselor Locator
+2025-05-04 18:53:07,545 - INFO - Scraping linked page: https://enroll.utdallas.edu/visit/
+2025-05-04 18:53:07,545 - INFO - Sending GET request to: https://enroll.utdallas.edu/visit/
+2025-05-04 18:53:07,752 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:07,771 - INFO - Processing heading: 
+2025-05-04 18:53:07,771 - INFO - Processing heading: Visit UT Dallas
+2025-05-04 18:53:07,772 - INFO - Processing heading: Discover UTD Info Session
+2025-05-04 18:53:07,772 - INFO - Processing heading: Scholars’ Day
+2025-05-04 18:53:07,772 - INFO - Processing heading: Preview Friday
+2025-05-04 18:53:07,772 - INFO - Processing heading: Welcome to the Comet Family!
+2025-05-04 18:53:07,772 - INFO - Processing heading: #FutureComet  #Transfer2UTD
+2025-05-04 18:53:07,772 - INFO - Scraping linked page: https://www.instagram.com/explore/tags/futurecomet/
+2025-05-04 18:53:07,772 - INFO - Sending GET request to: https://www.instagram.com/explore/tags/futurecomet/
+2025-05-04 18:53:08,341 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:08,354 - INFO - Data scraped successfully and saved to '../scraped_data\freshman_admission.txt'
+2025-05-04 18:53:08,354 - INFO - Completed scraper: freshman_admission.py in 2.22 seconds
+2025-05-04 18:53:08,354 - INFO - Starting scraper: jindal_main.py
+2025-05-04 18:53:08,363 - INFO - Sending GET request to: https://jindal.utdallas.edu/
+2025-05-04 18:53:08,552 - INFO - Successfully retrieved the webpage.
+2025-05-04 18:53:08,579 - INFO - Opened file for writing: ../scraped_data\scraped_content.txt
+2025-05-04 18:53:08,579 - INFO - Scraping 'At a Glance' section.
+2025-05-04 18:53:08,579 - INFO - Found 'At a Glance' section.
+2025-05-04 18:53:08,580 - INFO - Processed 'At a Glance' section.
+2025-05-04 18:53:08,580 - INFO - Scraping headings and subheadings.
+2025-05-04 18:53:08,580 - INFO - Found 6 <h2> headings.
+2025-05-04 18:53:08,580 - INFO - Processing <h2> heading: The Future Demands Different
+2025-05-04 18:53:08,580 - INFO - Processing <h2> heading: Recent Rankings
+2025-05-04 18:53:08,580 - INFO - Processing <h2> heading: Academic Areas
+2025-05-04 18:53:08,580 - INFO - Processing <h2> heading: Degree Programs
+2025-05-04 18:53:08,581 - INFO - Processing <h2> heading: Request Information
+2025-05-04 18:53:08,581 - INFO - Scraping <li> and <a> tags with context.
+2025-05-04 18:53:08,597 - INFO - Data scraped successfully and saved to '../scraped_data\scraped_content.txt'
+2025-05-04 18:53:08,597 - INFO - Completed scraper: jindal_main.py in 0.24 seconds
+2025-05-04 18:53:08,597 - INFO - Starting scraper: jsom_grad_catalog.py
+2025-05-04 18:53:08,601 - INFO - Opened file for writing: ../scraped_data\jsom_grad_catalog_data.txt
+2025-05-04 18:53:08,601 - INFO - Scraping page: https://catalog.utdallas.edu/2024/graduate/programs/jsom

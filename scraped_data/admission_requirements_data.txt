@@ -3,7 +3,6 @@ Headings:
 - Admission Requirements and Tuition
 Content:
 Please review the requirements and tuition that are applicable for all degree-seeking programs. You need to complete the online application form and pay the application fee by the deadline date for the semester to which you are applying. Please visit theUT Dallas Bursars officefor more information on tuition and fees.
-Lists:
 Links:
 - UT Dallas Bursars office - http://www.utdallas.edu/bursar/
 
@@ -15,10 +14,9 @@ Content:
 All students interested in applying as an undergraduate must apply directly to UT Dallas via ApplyTexas or the Common Application. The application will be considered for both admission to UT Dallas and the Jindal School of Management.
 To learn more about the application process, deadlines, fees and financial aid, please visit:
 UT Dallas undergraduate admission officeorFuture Undergraduates page
-Lists:
 Links:
 - UT Dallas undergraduate admission office - http://www.utdallas.edu/enroll
-- Future Undergraduates page - /jindal/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
+- Future Undergraduates page - https://jindal.utdallas.edu/jindal/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
 
 ================================================================================
 URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
@@ -26,7 +24,6 @@ Headings:
 - Transfer Student – Admission Process
 Content:
 Applicants are considered a “transfer student” if they have previously completed college-level coursework at an accredited institution (excluding the summer following high school). Applicants can apply to UT Dallas through ApplyTexas or Common Application to start during the fall, spring and summer semesters.
-Lists:
 Links:
 - Transfer Student Application Process - https://enroll.utdallas.edu/transfer/
 
@@ -61,10 +58,6 @@ Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
-Headings:
-Content:
-Lists:
-Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
@@ -86,7 +79,6 @@ Congratulations on your admission to the Jindal School of Management! Ready to g
 FreshmanTransfer
 Orientation is the exciting first step to officially becoming a comet! You can learn more about signing up for orientation through the links below. Be sure to set up your UTD email address as well to receive key information from our Onboarding Office to prepare for orientation!
 Freshman Orientation RegistrationTransfer Orientation RegistrationJSOM Orientation Requirements
-Lists:
 Links:
 - Transfer Plans - https://enroll.utdallas.edu/transfer/transferring-credits/transfer-plans/
 - Transfer Credit Tool - https://transfercredit.utdallas.edu/
