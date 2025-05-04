@@ -1,8 +1,5 @@
 URL: https://jindal.utdallas.edu/centers-of-excellence/
 Title: Centers and Institutes of Excellence
-Content:
-Lists:
-Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/centers-of-excellence/
@@ -11,14 +8,11 @@ Headings:
 Content:
 The Naveen Jindal School of Management’s centers and institutes blend academic research with real-world experience to expand students’ horizons beyond the classroom. The UT Dallas faculty, students and the business community all benefit from this exchange of ideas, experiences and research.
 The Centers of Excellence enhance the professional and personal lives of students and business leaders by expanding their knowledge and developing their understanding of today’s topical issues.
-Lists:
-Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/centers-of-excellence/
 Headings:
 - Centers
-Content:
 Lists:
 - Center and Laboratory for Behavioral Operations and Economics (LBOE)
 - Center for Finance Strategy and Innovation (CFSI)
@@ -50,7 +44,6 @@ Links:
 URL: https://jindal.utdallas.edu/centers-of-excellence/
 Headings:
 - Institutes
-Content:
 Lists:
 - Herbert D. Weitzman Institute for Real Estate
 - Institute for Excellence in Corporate Governance (IECG)
@@ -64,7 +57,6 @@ Links:
 URL: https://jindal.utdallas.edu/centers-of-excellence/
 Headings:
 - Initiatives
-Content:
 Lists:
 - Sustainable Global Business Initiative (SGBI)
 Links:

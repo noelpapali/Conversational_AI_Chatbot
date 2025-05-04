@@ -7,6 +7,10 @@ import logging
 import os
 from datetime import datetime
 
+# Configure environment detection
+IS_GITHUB_ACTIONS = os.environ.get('GITHUB_ACTIONS') == 'true'
+OUTPUT_BASE_DIR = "chatbot/scraped_data_git" if IS_GITHUB_ACTIONS else "../scraped_data"
+
 # Set up logging
 os.makedirs('scraper_logs', exist_ok=True)
 logging.basicConfig(
@@ -19,7 +23,27 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
-logger.info("Scraper started")
+logger.info(f"Scraper started in {'GitHub Actions' if IS_GITHUB_ACTIONS else 'local'} environment")
+
+
+def ensure_output_directories():
+    """Ensure all required output directories exist."""
+    try:
+        # Create main output directory
+        os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)
+        logger.info(f"Output directory ready: {OUTPUT_BASE_DIR}")
+
+        # Create subdirectories if needed
+        subdirs = ["tables", "logs"]  # Add any other required subdirectories
+        for subdir in subdirs:
+            path = os.path.join(OUTPUT_BASE_DIR, subdir)
+            os.makedirs(path, exist_ok=True)
+            logger.info(f"Created subdirectory: {path}")
+
+        return True
+    except Exception as e:
+        logger.error(f"Failed to create output directories: {str(e)}", exc_info=True)
+        return False
 
 
 def ensure_chromedriver():
@@ -30,19 +54,24 @@ def ensure_chromedriver():
 
         # Create chrome directory if it doesn't exist
         chrome_dir = os.path.join(root_dir, "chrome")
-        if not os.path.exists(chrome_dir):
-            os.makedirs(chrome_dir)
-            logger.info(f"Created chrome directory at: {chrome_dir}")
+        os.makedirs(chrome_dir, exist_ok=True)
+        logger.info(f"Chrome directory ready: {chrome_dir}")
 
         # Path where the chromedriver should be
         chrome_driver_path = os.path.join(chrome_dir, "chromedriver.exe")
 
-        # Check if chromedriver already exists
+        # In GitHub Actions, we expect chromedriver to be installed system-wide
+        if IS_GITHUB_ACTIONS:
+            logger.info("Running in GitHub Actions - using system ChromeDriver")
+            return "/usr/bin/chromedriver"  # Standard GitHub Actions location
+
+        # For local development, check if chromedriver exists
         if os.path.exists(chrome_driver_path):
-            logger.info(f"ChromeDriver already exists at: {chrome_driver_path}")
+            logger.info(f"Using existing ChromeDriver at: {chrome_driver_path}")
             return chrome_driver_path
 
-        return chrome_driver_path
+        logger.warning(f"ChromeDriver not found at: {chrome_driver_path}")
+        return None
     except Exception as e:
         logger.error(f"Failed to setup ChromeDriver: {str(e)}", exc_info=True)
         return None
@@ -72,30 +101,38 @@ def run_scraper(file_path, is_selenium_scraper=False):
         start_time = time.time()
 
         if is_selenium_scraper:
-            # Run selenium scrapers in a separate process
-            logger.info(f"Running Selenium scraper {file_name} in separate process")
-            # Run the script in a separate process to isolate any WebDriver issues
-            result = subprocess.run([sys.executable, file_path],
-                                    capture_output=True,
-                                    text=True,
-                                    cwd=os.path.dirname(file_path))
+            # Set environment variables for Selenium scrapers
+            env = os.environ.copy()
+            if IS_GITHUB_ACTIONS:
+                env["CHROME_PATH"] = "/usr/bin/chromium-browser"
+                env["OUTPUT_DIR"] = OUTPUT_BASE_DIR
 
-            # Log the output from the subprocess
+            result = subprocess.run(
+                [sys.executable, file_path],
+                capture_output=True,
+                text=True,
+                cwd=os.path.dirname(file_path),
+                env=env
+            )
+
             if result.stdout:
                 logger.info(f"Output from {file_name}:\n{result.stdout}")
             if result.stderr:
                 logger.error(f"Errors from {file_name}:\n{result.stderr}")
 
-            # Check if the subprocess was successful
             if result.returncode != 0:
                 logger.error(f"Scraper {file_name} failed with return code {result.returncode}")
                 return False
         else:
-            # For non-selenium scrapers, import and run directly
+            # For non-selenium scrapers
             module = import_module_from_file(file_path)
-
-            # Try to execute the main function if it exists
             if hasattr(module, 'main'):
+                # Pass environment info to scrapers
+                if hasattr(module, 'IS_GITHUB_ACTIONS'):
+                    module.IS_GITHUB_ACTIONS = IS_GITHUB_ACTIONS
+                if hasattr(module, 'OUTPUT_DIR'):
+                    module.OUTPUT_DIR = OUTPUT_BASE_DIR
+
                 module.main()
 
         execution_time = time.time() - start_time
@@ -108,16 +145,32 @@ def run_scraper(file_path, is_selenium_scraper=False):
 
 def run_all_scrapers():
     """Run all scrapers in the 'scraper' directory."""
-    # Ensure ChromeDriver is available where the scrapers expect it
-    ensure_chromedriver()
+    # Ensure environment is properly set up
+    if not ensure_output_directories():
+        logger.error("Failed to setup output directories - aborting")
+        return {
+            'total': 0,
+            'success': 0,
+            'failed': 0,
+            'failed_scrapers': []
+        }
 
-    # Get the path to the scraper directory from the root of the repo
+    chrome_driver_path = ensure_chromedriver()
+    if chrome_driver_path:
+        os.environ["CHROME_DRIVER_PATH"] = chrome_driver_path
+
+    # Get the path to the scraper directory
     root_dir = os.path.dirname(os.path.abspath(__file__))
     scraper_dir = os.path.join(root_dir, 'scraper')
 
     if not os.path.exists(scraper_dir):
         logger.error(f"Scraper directory not found: {scraper_dir}")
-        return
+        return {
+            'total': 0,
+            'success': 0,
+            'failed': 0,
+            'failed_scrapers': []
+        }
 
     logger.info(f"Starting execution of all scrapers in: {scraper_dir}")
 
@@ -147,9 +200,6 @@ def run_all_scrapers():
     for file_path in py_files:
         file_name = os.path.basename(file_path)
         is_selenium_scraper = file_name in selenium_scrapers
-
-        if is_selenium_scraper:
-            logger.info(f"Identified {file_name} as a Selenium scraper")
 
         if run_scraper(file_path, is_selenium_scraper):
             results['success'] += 1
