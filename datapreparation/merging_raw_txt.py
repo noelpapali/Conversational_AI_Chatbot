@@ -3,69 +3,76 @@ import subprocess
 import logging
 from configparser import ConfigParser
 
-# Import the logging configuration function from your logging_config module
-from logging_config import configure_logging
+# Configure console-only logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
 
-# Configure logging with a specified log file and log level
-configure_logging(log_file="scraping.log", log_level=logging.INFO)
-
-# Load configuration from config.ini (if needed for further configuration)
 config = ConfigParser()
 config.read('config.ini')
 
 
 def clone_repo(repo_url, clone_dir):
-    """
-    Clones the repository if the directory does not already exist.
-    """
-    if not os.path.exists(clone_dir):
-        logging.info(f"Cloning repository from {repo_url}...")
-        result = subprocess.run(["git", "clone", repo_url], capture_output=True, text=True)
-        if result.returncode != 0:
-            logging.error("Error cloning repository:")
-            logging.error(result.stderr)
-            return False
-        logging.info("Repository cloned successfully.")
-    else:
-        logging.info("Repository already cloned.")
+    """GitHub-only clone function"""
+    logging.info(f"Cloning {repo_url}...")
+    result = subprocess.run(["git", "clone", repo_url], capture_output=True, text=True)
+    if result.returncode != 0:
+        logging.error(f"Clone failed: {result.stderr}")
+        return False
+    logging.info(f"Repository cloned to {clone_dir}")
     return True
 
 
 def merge_text_files(input_dir, output_file):
-    """
-    Reads all .txt files in input_dir (including subdirectories) and writes their contents
-    to output_file.
-    """
+    """Merge all .txt files with console progress"""
+    logging.info(f"Merging files from {os.path.abspath(input_dir)}")
+    file_count = 0
+
     try:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as outfile:
-            # Walk through all subdirectories of input_dir
-            for root, dirs, files in os.walk(input_dir):
+            for root, _, files in os.walk(input_dir):
                 for file in files:
                     if file.endswith('.txt'):
                         file_path = os.path.join(root, file)
-                        logging.info(f"Reading {file_path}...")
                         try:
                             with open(file_path, 'r', encoding='utf-8') as infile:
-                                outfile.write(infile.read())
-                                outfile.write("\n")  # Optional: add a newline between files
+                                outfile.write(infile.read() + "\n")
+                                file_count += 1
+                                logging.debug(f"Added: {file}")  # Only shows with DEBUG level
                         except Exception as e:
-                            logging.error(f"Error reading file {file_path}: {e}")
-        logging.info(f"All text files have been merged into {output_file}.")
+                            logging.warning(f"Skipped {file}: {str(e)}")
+
+        logging.info(f"Success! Merged {file_count} files into {output_file}")
+        return True
     except Exception as e:
-        logging.error(f"Error writing to output file {output_file}: {e}")
+        logging.error(f"Merge failed: {str(e)}")
+        return False
 
 
 if __name__ == "__main__":
-    # Repository information
-    repo_url = "https://github.com/PavanChandan29/chatbot.git"
-    clone_dir = "chatbot"
-    scraped_data_dir = os.path.join(clone_dir, "scraped_data")
-    output_file = "../processed_data/merged_text.txt"
+    # Configuration
+    PATHS = {
+        'local_data': "../scraped_data",
+        'repo_url': "https://github.com/PavanChandan29/chatbot.git",
+        'clone_dir': "chatbot",
+        'output': "../processed_data/merged_text.txt"
+    }
 
-    # Clone the repository if not already cloned
-    if clone_repo(repo_url, clone_dir):
-        # Check if the scraped_data directory exists
-        if os.path.exists(scraped_data_dir):
-            merge_text_files(scraped_data_dir, output_file)
-        else:
-            logging.error(f"The directory {scraped_data_dir} does not exist.")
+    # Execution flow
+    if os.path.exists(PATHS['local_data']):
+        logging.info("LOCAL MODE: Using existing data")
+        merge_text_files(PATHS['local_data'], PATHS['output'])
+    else:
+        logging.info("GITHUB MODE: Requires clone")
+        if clone_repo(PATHS['repo_url'], PATHS['clone_dir']):
+            repo_data = os.path.join(PATHS['clone_dir'], "scraped_data")
+            if os.path.exists(repo_data):
+                merge_text_files(repo_data, PATHS['output'])
+            else:
+                logging.error(f"Missing directory in repo: {repo_data}")
+                exit(1)
+
+    logging.info("Process completed")

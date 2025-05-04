@@ -9,7 +9,7 @@ Paragraph:
 Paragraph: Make a payment
 Paragraph: The Bursar Office is not open for in person transactions. Please take advantage of our online services to facilitate making payment or visit our webpages to obtain information. If you are unable to find the information you are seeking, we are certainly available for assistance by emailing bursar@utdallas.edu or calling us at 972-883-2612.
   Links: bursar@utdallas.edu (URL: mailto:bursar@utdallas.edu), 972-883-2612 (URL: tel:972-883-2612)
-Paragraph: Spring 2025 Payment Deadlines:
+Paragraph: Summer 2025 Payment Deadlines:
 Paragraph: Please make payment by the applicable deadlines above or set up a payment plan to avoid late fee assessment or possible cancellation of classes.
   Links: payment (URL: /bursar/tuition-payments/), payment plan (URL: /bursar/tuition-payments/#PaymentPlans), late fee (URL: https://www.utdallas.edu/finance/bursar/tuition/#accLateFees)
 Paragraph: 
@@ -18,7 +18,7 @@ Paragraph: Protect your investment in your higher education. Purchase tuition in
   Links: tuition insurance (URL: /bursar/tuition/tuition-insurance/)
 Paragraph: 
 Paragraph: 1098T Forms
-Paragraph: 1098T Forms for 2024 are available through the Heartland ECSI website .
+Paragraph: 1098T Forms for 2024 are available through EZPay or the Heartland ECSI website .
   Links: 1098T Forms (URL: /bursar/student-taxes/1098-t-education-tax-credits/), Heartland ECSI website (URL: https://heartland.ecsi.net/index.main.html#/access/signIn)
 Paragraph: 
 Paragraph: Tuition Statements
@@ -38,17 +38,21 @@ Paragraph:
 Paragraph: 
 Paragraph: 
 List:
-  - Wednesday, February 12, 2025 – 1st installment payment plan deadline
-  - Wednesday, March 12, 2025 
+  - Thursday, May 29, 2025 – The summer 2025 regular payment deadline for 11-week session and 1st 5-week sessions.  This deadline applies to all students not identified as financial aid or scholarship recipients.
+  - Thursday, June 5, 2025 – The payment deadline for the 8-week session.
+  - Wednesday, June 11, 2025
 
-2nd installment payment plan deadline
-Short term loan payment deadline
-  - 2nd installment payment plan deadline
-  - Short term loan payment deadline
-  - Wednesday, April 09, 2025 – 3rd installment payment plan deadline
+The extended payment deadline for the 1st 5 week and 11-week session. This applies to all students identified as financial aid or scholarship recipients. This extension of time is only to allow more time for the aid or scholarships to be posted and has no bearing on the refund calendar for dropping/withdrawing from classes.
+The payment deadline for housing and insurance charges.
+Any student enrolled in these classes must pay in full or enroll in a payment plan by this date.
+  - The extended payment deadline for the 1st 5 week and 11-week session. This applies to all students identified as financial aid or scholarship recipients. This extension of time is only to allow more time for the aid or scholarships to be posted and has no bearing on the refund calendar for dropping/withdrawing from classes.
+  - The payment deadline for housing and insurance charges.
+  - Any student enrolled in these classes must pay in full or enroll in a payment plan by this date.
+  - Wednesday, July 2, 2025 – The payment deadline for students enrolled in only the 2nd 5-week session classes.
 List:
-  - 2nd installment payment plan deadline
-  - Short term loan payment deadline
+  - The extended payment deadline for the 1st 5 week and 11-week session. This applies to all students identified as financial aid or scholarship recipients. This extension of time is only to allow more time for the aid or scholarships to be posted and has no bearing on the refund calendar for dropping/withdrawing from classes.
+  - The payment deadline for housing and insurance charges.
+  - Any student enrolled in these classes must pay in full or enroll in a payment plan by this date.
 Table:
  | 
 Table:
