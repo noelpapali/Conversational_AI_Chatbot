@@ -5,6 +5,9 @@ on:
     - cron: '0 14 * * *'  # 2PM UTC daily
   workflow_dispatch:       # Manual trigger option
 
+permissions:
+  contents: write  # Required for committing scraped data back to repo
+
 jobs:
   execute-scrapers:
     runs-on: ubuntu-latest
@@ -15,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: 'chatbot'  # Explicit checkout path
+          fetch-depth: 0   # Required for git operations
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
@@ -32,7 +36,7 @@ jobs:
           echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
           echo "CHROME_PATH=$(which chromium-browser)" >> $GITHUB_ENV
           mkdir -p chatbot/scraper_logs
-          mkdir -p chatbot/scraped_data_git  # Changed from scraped_data to scraped_data_git
+          mkdir -p chatbot/scraped_data_git
           mkdir -p chatbot/tables
 
       - name: Install logging config module
@@ -43,6 +47,30 @@ jobs:
         working-directory: ./chatbot
         run: |
           python run_scrapers.py 2>&1 | tee scraper_logs/run_$(date +'%Y%m%d_%H%M%S').log
+
+      - name: Verify scraped files
+        working-directory: ./chatbot
+        run: |
+          echo "=== SCRAPED DATA VERIFICATION ==="
+          echo "Directory structure:"
+          ls -l scraped_data_git/
+          echo -e "\nFile contents:"
+          find scraped_data_git/ -type f -print -exec cat {} \;
+
+      - name: Commit scraped data
+        if: success()
+        working-directory: ./chatbot
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add scraped_data_git/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update scraped data [skip ci]"
+            git push
+            echo "Changes committed successfully"
+          else
+            echo "No changes to commit"
+          fi
 
       - name: Upload execution logs
         uses: actions/upload-artifact@v4
@@ -56,7 +84,7 @@ jobs:
         with:
           name: scraped-data
           path: |
-            chatbot/scraped_data_git/*  # Changed from scraped_data to scraped_data_git
+            chatbot/scraped_data_git/*
             chatbot/tables/*
           retention-days: 7
 
