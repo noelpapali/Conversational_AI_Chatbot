@@ -1,21 +1,36 @@
 import os
 import json
 import logging
+from configparser import ConfigParser
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Import the logging configuration function
 from logging_config import configure_logging
 
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
-import os
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
 
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+
+
+# Output directories - local and git
+local_output_dir = "../scraped_data"
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
+output_file = os.path.join(output_dir, "utd_programs_links.json")
 
 def setup_driver():
     """Set up and return the Selenium WebDriver with cross-environment support."""
@@ -24,16 +39,14 @@ def setup_driver():
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
 
-    # Determine the environment
-    if os.getenv('GITHUB_ACTIONS'):
-        # GitHub Actions environment
+    try:
+        # For both local and GitHub environments, use ChromeDriverManager with version matching
         service = Service(ChromeDriverManager().install())
-    else:
-        # Local development environment
-        chrome_driver_path = "../chrome/chromedriver.exe"
-        service = Service(executable_path=chrome_driver_path)
-
-    return webdriver.Chrome(service=service, options=options)
+        driver = webdriver.Chrome(service=service, options=options)
+        return driver
+    except Exception as e:
+        logging.error(f"Failed to initialize WebDriver: {str(e)}")
+        raise
 
 def fetch_program_links(driver, url):
     """Fetch program links from the given URL."""
@@ -62,13 +75,11 @@ def save_to_json(data, output_file):
     logging.info(f"Data successfully written to {output_file}")
 
 def main():
-    # Configure logging
-    configure_logging(log_file="scraping.log", log_level=logging.INFO)
-
     try:
         # Set up WebDriver
         driver = setup_driver()
         logging.info("WebDriver initialized successfully")
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
 
         try:
             # URL of the webpage
@@ -78,7 +89,6 @@ def main():
             program_data = fetch_program_links(driver, url)
 
             # Save data to JSON
-            output_file = "../scraped_data/utd_programs_links.json"
             save_to_json(program_data, output_file)
             logging.info(f"Data successfully saved to {output_file}")
 

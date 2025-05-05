@@ -93,6 +93,7 @@ List:
   - Research Foundations in Accounting (Link: /accounting/masters-degree-options/graduate-certificate-research-foundations/)
   - Fintech (Link: /fin/program-resources/fintech-certificate/)
   - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
+  - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
 
 Healthcare:
 List:
@@ -248,6 +249,7 @@ List:
   - Research Foundations in Accounting (Link: /accounting/masters-degree-options/graduate-certificate-research-foundations/)
   - Fintech (Link: /fin/program-resources/fintech-certificate/)
   - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
+  - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
 
 Healthcare:
 List:
@@ -318,75 +320,10 @@ Process – Application and Graduation:
 Paragraph: Applies to Academic Certificates on the following page: https://jindal.utdallas.edu/certificate-programs/academic.
 For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/#academic for application requirements.
 
-Graduate Certificate Application Process:
-Paragraph: A prospect for an academic certificate must apply and must submit the documents listed below:
-
-Official Transcripts:
-Paragraph: Local applicants must submit official transcripts from all U.S.-based colleges and universities attended, including any graduate program in which the applicant was enrolled for admission. These transcripts must be certified, signed or stamped official by the university’s Registrar Office. Transcripts must be mailed to the Office of Admission and Enrollment Services at the address below or may be transferred electronically between the institutions and UT Dallas.
-Paragraph: International applicants and U.S. citizen and permanent resident applicants with an international degree must submit an official attested photocopy of academic documents, such as a transcript, diploma, mark sheets, provisional degree certificate and/or your final degree certificate, in a school-sealed envelope with the school seal stamped on the back side of the envelope (see a list of examples of required academic documents needed).
-Paragraph: The applicant’s overall GPA will be used as a part of the admission committee’s review for competitiveness for admission (the average admitted GPA is a 3.3).
-
-Resume:
-Paragraph: A detailed resume  of all work history. This may be submitted with the online application, or you  can submit a hard copy by mail or email. Work experience is not required for Graduate Certificate degrees; however, prior working experience is considered when reviewing applicants for MBA programs.
-
-Submitting Documents:
-Paragraph: To avoid processing delays, we recommend applying to UT Dallas with unofficial transcripts. Scanned unofficial copies of your documents can be uploaded using the online application.
-Paragraph: Official copies of your documents should be sent to UT Dallas after admission.
-Paragraph: If possible, we recommend you submit your official transcripts and diploma/degree certificates after admission using an electronic uploading system like CHESSIC and TrueCopy.
-Paragraph: File Requirements for Uploading Documents:
-
-Format: Scanned and saved as a PDF file (photos not acceptable)
-If your transcript is issued to you via hard-copy format in a sealed envelope, it is acceptable for you to open it and scan to a PDF for upload
-Scan in black and white only
-File size should be 10MB or less
-Files cannot be password-protected or have a digital signature
-Upload each document separately
-Resolution should be no more than 300dpi
-
-Mail Official Transcripts and Academic Documents:
-Paragraph: The University of Texas at Dallas 
-Admission and Enrollment Services 
-800 W Campbell Rd (SSB11)
-Richardson TX 75080-3021
-
-Graduate Certificate Deadlines for U.S. Citizens and International Applicants:
-Link: UT Dallas Deadlines (URL: https://www.utdallas.edu/admissions/graduate/steps-to-admission/fees-and-deadlines/#application-deadlines)
-
 Smallblocks:
 Executive Education Academic Certificates:
 Paragraph: If you are interested in an academic certificate not listed above, it may be offered by JSOM’s Executive Education program. Visit the Executive Education home page  to see all the academic certificates they offer.
 Link: See Executive Education Academic Certificates (URL: /execed/#academic)
-
-Official Transcripts:
-Paragraph: Local applicants must submit official transcripts from all U.S.-based colleges and universities attended, including any graduate program in which the applicant was enrolled for admission. These transcripts must be certified, signed or stamped official by the university’s Registrar Office. Transcripts must be mailed to the Office of Admission and Enrollment Services at the address below or may be transferred electronically between the institutions and UT Dallas.
-Paragraph: International applicants and U.S. citizen and permanent resident applicants with an international degree must submit an official attested photocopy of academic documents, such as a transcript, diploma, mark sheets, provisional degree certificate and/or your final degree certificate, in a school-sealed envelope with the school seal stamped on the back side of the envelope (see a list of examples of required academic documents needed).
-Paragraph: The applicant’s overall GPA will be used as a part of the admission committee’s review for competitiveness for admission (the average admitted GPA is a 3.3).
-
-Resume:
-Paragraph: A detailed resume  of all work history. This may be submitted with the online application, or you  can submit a hard copy by mail or email. Work experience is not required for Graduate Certificate degrees; however, prior working experience is considered when reviewing applicants for MBA programs.
-
-Submitting Documents:
-Paragraph: To avoid processing delays, we recommend applying to UT Dallas with unofficial transcripts. Scanned unofficial copies of your documents can be uploaded using the online application.
-Paragraph: Official copies of your documents should be sent to UT Dallas after admission.
-Paragraph: If possible, we recommend you submit your official transcripts and diploma/degree certificates after admission using an electronic uploading system like CHESSIC and TrueCopy.
-Paragraph: File Requirements for Uploading Documents:
-
-Format: Scanned and saved as a PDF file (photos not acceptable)
-If your transcript is issued to you via hard-copy format in a sealed envelope, it is acceptable for you to open it and scan to a PDF for upload
-Scan in black and white only
-File size should be 10MB or less
-Files cannot be password-protected or have a digital signature
-Upload each document separately
-Resolution should be no more than 300dpi
-
-Mail Official Transcripts and Academic Documents:
-Paragraph: The University of Texas at Dallas 
-Admission and Enrollment Services 
-800 W Campbell Rd (SSB11)
-Richardson TX 75080-3021
-
-Graduate Certificate Deadlines for U.S. Citizens and International Applicants:
-Link: UT Dallas Deadlines (URL: https://www.utdallas.edu/admissions/graduate/steps-to-admission/fees-and-deadlines/#application-deadlines)
 
 ==================================================
 

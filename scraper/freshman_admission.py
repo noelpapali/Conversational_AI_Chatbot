@@ -1,6 +1,5 @@
 import os
 from urllib.parse import urljoin
-
 import requests
 import logging
 from bs4 import BeautifulSoup
@@ -13,15 +12,22 @@ from logging_config import configure_logging
 # Configure logging
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+
 # Load configuration
 config = ConfigParser()
 config.read('config.ini')
 
 # URL of the main page to scrape
-main_url = "https://enroll.utdallas.edu/freshman/"
+main_url = config.get('DEFAULT', 'main_url', fallback="https://enroll.utdallas.edu/freshman/")
 
-# Output directory and file
-output_dir = "../scraped_data"
+# Output directories - local and git
+local_output_dir = config.get('DEFAULT', 'output_dir', fallback="../scraped_data")
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
 output_file = os.path.join(output_dir, "freshman_admission.txt")
 
 # User-Agent header
@@ -31,9 +37,13 @@ headers = {
 
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-        logging.info(f"Created directory: {output_dir}")
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            logging.info(f"Created output directory: {output_dir}")
+    except Exception as e:
+        logging.error(f"Failed to create directory {output_dir}: {e}")
+        raise
 
 def fetch_webpage(url, retries=3):
     """Fetch the webpage content with retries."""
@@ -148,28 +158,33 @@ def scrape_linked_page(url, file):
 
 def main():
     """Main function to orchestrate the scraping process."""
-    create_output_directory()
+    try:
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
+        create_output_directory()
 
-    # Fetch the main page content
-    main_page_content = fetch_webpage(main_url)
-    if not main_page_content:
-        return
+        # Fetch the main page content
+        main_page_content = fetch_webpage(main_url)
+        if not main_page_content:
+            return
 
-    # Parse the main page HTML
-    main_soup = BeautifulSoup(main_page_content, "html.parser")
+        # Parse the main page HTML
+        main_soup = BeautifulSoup(main_page_content, "html.parser")
 
-    # Extract links from <h3> tags
-    h3_links = extract_h3_links(main_soup, main_url)
+        # Extract links from <h3> tags
+        h3_links = extract_h3_links(main_soup, main_url)
 
-    # Open the output file to write the scraped data with UTF-8 encoding
-    with open(output_file, "w", encoding="utf-8") as file:
-        logging.info(f"Opened file for writing: {output_file}")
+        # Open the output file to write the scraped data with UTF-8 encoding
+        with open(output_file, "w", encoding="utf-8") as file:
+            logging.info(f"Writing output to: {output_file}")
 
-        # Scrape each linked page
-        for link in h3_links:
-            scrape_linked_page(link, file)
+            # Scrape each linked page
+            for link in h3_links:
+                scrape_linked_page(link, file)
 
-    logging.info(f"Data scraped successfully and saved to '{output_file}'")
+        logging.info(f"Data scraped successfully and saved to '{output_file}'")
+    except Exception as e:
+        logging.error(f"Fatal error in main process: {e}")
+        raise
 
 if __name__ == "__main__":
     main()

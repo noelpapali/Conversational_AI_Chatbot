@@ -1,310 +1,300 @@
-Month: Mar, 2025
+Month: May, 2025
 
-Date: Tuesday, March 11, 2025
-Time: 08:00 AM - 02:00 PM
-Title: 2025 Supply Chain Directors Conference
-Location: No Location
-Event URL: 48543796161257&instance=48543796165355
---------------------------------------------------
-Date: Tuesday, March 11, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrad Office Hours - LinkedIn and Networking Week
-Location: No Location
-Event URL: 49022729215217&instance=49022744321797
---------------------------------------------------
-Date: Tuesday, March 11, 2025
-Time: 03:30 PM - 04:30 PM
-Title: MSBA&AI Help Desk
-Location: No Location
-Event URL: 47914974979671&instance=47914974980696
---------------------------------------------------
-Date: Wednesday, March 12, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Info Session - International Students
-Location: No Location
-Event URL: 46332789475594&instance=48686062872877
---------------------------------------------------
-Date: Wednesday, March 12, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrad Office Hours - LinkedIn and Networking Week
-Location: No Location
-Event URL: 49022729215217&instance=49022744323846
---------------------------------------------------
-Date: Wednesday, March 12, 2025
-Time: 04:00 PM - 06:00 PM
-Title: 2025 Undergraduate Deans Conference - Welcome Reception
-Location: No Location
-Event URL: 48783067657185&instance=48783067658210
---------------------------------------------------
-Date: Wednesday, March 12, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
-Location: No Location
-Event URL: 48349871260956&instance=48349877122992
---------------------------------------------------
-Date: Thursday, March 13, 2025
-Time: 12:00 PM - 12:50 PM
-Title: JSOM PMBA Career Forum: Critical Thinking in the Era of AI
-Location: No Location
-Event URL: 48288237002316&instance=48288241471897
---------------------------------------------------
-Date: Thursday, March 13, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Virtual MS in International Management Studies Info Session - Domestic Students
-Location: No Location
-Event URL: 46332742735074&instance=48686047912902
---------------------------------------------------
-Date: Thursday, March 13, 2025
-Time: 06:00 PM - 08:00 PM
-Title: 2025 Undergraduate Deans Conference - Dinner
-Location: No Location
-Event URL: 48783227721990&instance=48783477732047
---------------------------------------------------
-Date: Monday, March 17, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115550347
---------------------------------------------------
-Date: Wednesday, March 19, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: No Location
-Event URL: 47040472425615&instance=47040472455325
---------------------------------------------------
-Date: Wednesday, March 19, 2025
-Time: 12:00 PM - 01:00 PM
-Title: MS Marketing Wednesday Information Session with Q & A Period
-Location: No Location
-Event URL: 48091827205273&instance=48091827206298
---------------------------------------------------
-Date: Wednesday, March 19, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Doctor of Business Administration Online Information Session
-Location: No Location
-Event URL: 48312977896610&instance=48312985842548
---------------------------------------------------
-Date: Thursday, March 20, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115555469
---------------------------------------------------
-Date: Monday, March 24, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrads - Internship & Job Expo Headshots & Resume Reviews
-Location: No Location
-Event URL: 49022680365464&instance=49022680366489
---------------------------------------------------
-Date: Tuesday, March 25, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrads - Internship & Job Expo Headshots & Resume Reviews
-Location: No Location
-Event URL: 49022680365464&instance=49022700045409
---------------------------------------------------
-Date: Tuesday, March 25, 2025
-Time: 02:00 PM - 03:30 PM
-Title: Crochet & Cookies
-Location: No Location
-Event URL: 49047203650967&instance=49047203651992
---------------------------------------------------
-Date: Tuesday, March 25, 2025
-Time: 05:00 PM - 06:00 PM
-Title: MS ITM Coffee Chat
-Location: No Location
-Event URL: 48525669202420&instance=48525669203445
---------------------------------------------------
-Date: Wednesday, March 26, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Info Session - International Students
-Location: No Location
-Event URL: 46332789475594&instance=48686062875950
---------------------------------------------------
-Date: Wednesday, March 26, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrads - Internship & Job Expo Headshots & Resume Reviews
-Location: No Location
-Event URL: 49022680365464&instance=49022700046434
---------------------------------------------------
-Date: Wednesday, March 26, 2025
-Time: 12:30 PM - 01:30 PM
-Title: CIS Tech Coffee Chat
-Location: No Location
-Event URL: 48721973155356&instance=48721973158430
---------------------------------------------------
-Date: Wednesday, March 26, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115560591
---------------------------------------------------
-Date: Thursday, March 27, 2025
-Time: 08:30 AM - 09:30 AM
-Title: Connect with the MS ITM Program Director
-Location: No Location
-Event URL: 48242681510764&instance=48242681511789
---------------------------------------------------
-Date: Thursday, March 27, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrads - Internship & Job Expo Headshots & Resume Reviews
-Location: No Location
-Event URL: 49022680365464&instance=49022700048483
---------------------------------------------------
-Date: Thursday, March 27, 2025
-Time: 12:30 PM - 01:30 PM
-Title: JSOM Undergrads - Job and Internship Search Strategies
-Location: No Location
-Event URL: 48907036424464&instance=48907040896354
---------------------------------------------------
-Date: Thursday, March 27, 2025
-Time: 03:30 PM - 04:00 PM
-Title: MS MKT Fast Track Online Information Session with Q & A for undergraduate students
-Location: No Location
-Event URL: 48799417450987&instance=48799417450988
---------------------------------------------------
-Date: Friday, March 28, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrads - Internship & Job Expo Headshots & Resume Reviews
-Location: No Location
-Event URL: 49022680365464&instance=49022700050532
---------------------------------------------------
-Date: Saturday, March 29, 2025
-Time: 08:00 AM - 05:00 PM
-Title: 2025 Biz AI Conference
-Location: No Location
-Event URL: 48783213451195&instance=48783213455293
---------------------------------------------------
-Date: Monday, March 31, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM Undergrads - Internship & Job Expo Headshots & Resume Reviews
-Location: No Location
-Event URL: 49022718756362&instance=49022723088894
---------------------------------------------------
-Date: Monday, March 31, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115565713
---------------------------------------------------
-Month: Apr, 2025
-
-Date: Wednesday, April 02, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Info Session - International Students
-Location: No Location
-Event URL: 46332789475594&instance=48686062877999
---------------------------------------------------
-Date: Wednesday, April 02, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Doctor of Business Administration Online Information Session
-Location: No Location
-Event URL: 48312986574344&instance=48312991579004
---------------------------------------------------
-Date: Wednesday, April 02, 2025
-Time: 12:00 PM - 01:00 PM
-Title: MS Accounting Flex Q&A Session
-Location: No Location
-Event URL: 48527473661042&instance=48527493598432
---------------------------------------------------
-Date: Wednesday, April 02, 2025
-Time: 10:00 PM - 11:00 PM
-Title: MSBA&AI Flex Virtual Late Night Advising Pod
-Location: No Location
-Event URL: 48048158301971&instance=48048158302996
---------------------------------------------------
-Date: Thursday, April 03, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Virtual MS in International Management Studies Info Session - Domestic Students
-Location: No Location
-Event URL: 46332742735074&instance=48686047924169
---------------------------------------------------
-Date: Thursday, April 03, 2025
-Time: 03:00 PM - 04:30 PM
-Title: MSBA&AI Flex Advising Pod
-Location: No Location
-Event URL: 48241885771931&instance=48241885772956
---------------------------------------------------
-Date: Saturday, April 05, 2025
-Time: 08:00 AM - 07:00 PM
-Title: FinHack 2025
-Location: No Location
-Event URL: 48898987889245&instance=48898987890270
---------------------------------------------------
-Date: Monday, April 07, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115573908
---------------------------------------------------
-Date: Tuesday, April 08, 2025
-Time: 11:00 AM - 11:30 AM
-Title: MS MKT Fast Track Online Information Session with Q & A for undergraduate students
-Location: No Location
-Event URL: 48799460300001&instance=48799460301026
---------------------------------------------------
-Date: Wednesday, April 09, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Accounting Flex Q&A Session
-Location: No Location
-Event URL: 48527502735766&instance=48527526153902
---------------------------------------------------
-Date: Wednesday, April 09, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Interested in an ONLINE MBA? Attend the Customized Online MBA Information Session to learn more.
-Location: No Location
-Event URL: 48365797377079&instance=48365823775121
---------------------------------------------------
-Date: Wednesday, April 09, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Professional Systems Engineering and Management Online Information Session
-Location: No Location
-Event URL: 48349885901758&instance=48349892346319
---------------------------------------------------
-Date: Thursday, April 10, 2025
+Date: Monday, May 05, 2025
 Time: 08:30 AM - 09:30 AM
 Title: MSBA&AI Flex Information Session for Prospective Students
-Location: No Location
-Event URL: 47852790154587&instance=48783637319804
+Location: 
+Event URL: 47852804762707&instance=47852804763732
 --------------------------------------------------
-Date: Thursday, April 10, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115579030
+Date: Monday, May 05, 2025
+Time: 01:30 PM - 02:30 PM
+Title: MS ITM Hangout: Panel Discussion Transition After Graduation
+Location: 
+Event URL: 49551721199810&instance=49551721202883
 --------------------------------------------------
-Date: Monday, April 14, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115581079
+Date: Monday, May 05, 2025
+Time: 05:00 PM - 06:00 PM
+Title: Cinco de Mayo - come learn more about our MBA programs!
+Location: 
+Event URL: 49313171246860&instance=49313212157732
 --------------------------------------------------
-Date: Tuesday, April 15, 2025
-Time: 03:00 PM - 05:00 PM
-Title: MSBA&AI Flex Mix and Mingle
-Location: No Location
-Event URL: 48048141883448&instance=48925089344280
+Date: Tuesday, May 06, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527502735766&instance=49410038060128
 --------------------------------------------------
-Date: Wednesday, April 16, 2025
+Date: Tuesday, May 06, 2025
+Time: 12:00 PM - 01:00 PM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 49451424006419&instance=49451436267835
+--------------------------------------------------
+Date: Tuesday, May 06, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
+Location: 
+Event URL: 48313019426274&instance=48313022622071
+--------------------------------------------------
+Date: Wednesday, May 07, 2025
+Time: 12:00 PM - 01:00 PM
+Title: JSOM Abroad Virtual Info Session
+Location: 
+Event URL: 49552159512985&instance=49552159514010
+--------------------------------------------------
+Date: Wednesday, May 07, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Take the next step in your career by earning an MBA 100% online. Attend the Customized Online MBA Information Session and gather the details on how to get started in Summer 2025!
+Location: 
+Event URL: 48365997432506&instance=48366032884040
+--------------------------------------------------
+Date: Thursday, May 08, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Virtual MS in International Management Studies Info Session - Domestic Students
+Location: 
+Event URL: 46332742735074&instance=48686047939534
+--------------------------------------------------
+Date: Monday, May 12, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Take Your Career to New Heights by Earning a Customized Online MBA.  Attend this Information Session to Find Out How.
+Location: 
+Event URL: 48366057101628&instance=48366096846418
+--------------------------------------------------
+Date: Tuesday, May 13, 2025
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Q&A Virtual Session with Ambassadors
+Location: 
+Event URL: 49312908901027&instance=49312950449635
+--------------------------------------------------
+Date: Tuesday, May 13, 2025
+Time: 12:00 PM - 01:00 PM
+Title: The UT Dallas Executive MBA (Webinar)
+Location: 
+Event URL: 48224364869121&instance=48224364870146
+--------------------------------------------------
+Date: Wednesday, May 14, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
-Location: No Location
-Event URL: 47040472425615&instance=47040472458399
+Location: 
+Event URL: 47040472425615&instance=47040472462497
 --------------------------------------------------
-Date: Wednesday, April 16, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115584152
+Date: Monday, May 19, 2025
+Time: 01:00 PM - 01:30 PM
+Title: Fast Track in MS Marketing Information Session
+Location: 
+Event URL: 49524872757865&instance=49524872758890
 --------------------------------------------------
-Date: Thursday, April 17, 2025
+Date: Tuesday, May 20, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527502735766&instance=49410038064225
+--------------------------------------------------
+Date: Thursday, May 22, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
+Location: 
+Event URL: 39581282702414&instance=49117424367888
+--------------------------------------------------
+Date: Tuesday, May 27, 2025
 Time: 12:00 PM - 01:00 PM
-Title: The UT Dallas Executive MBA Overview & Insights
-Location: No Location
-Event URL: 48156501414597&instance=48156510709925
+Title: JSOM CMC - Using AI is OK!
+Location: 
+Event URL: 49488876969118&instance=49488885994698
 --------------------------------------------------
-Date: Thursday, April 17, 2025
-Time: 02:00 PM - 04:00 PM
-Title: MS Supply Chain Management/MS Management Science Office Hours
-Location: No Location
-Event URL: 40599791396397&instance=48129115586201
+Date: Wednesday, May 28, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 47040472425615&instance=47040472463522
+--------------------------------------------------
+Date: Friday, May 30, 2025
+Time: 08:00 AM - 06:00 PM
+Title: 17th Annual UT Dallas  Project Management Symposium
+Location: 
+Event URL: 49454588509517&instance=49454588511566
+--------------------------------------------------
+Month: Jun, 2025
+
+Date: Tuesday, June 03, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527502735766&instance=49472619664647
+--------------------------------------------------
+Date: Wednesday, June 04, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Transform Your Professional Journey with our Customized Online MBA at UT Dallas.
+Location: 
+Event URL: 48366111281389&instance=48366140412589
+--------------------------------------------------
+Date: Wednesday, June 11, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
+Location: 
+Event URL: 39581282702414&instance=49481218313521
+--------------------------------------------------
+Date: Monday, June 16, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Accelerate Your Success with an MBA Degree. Learn About our Customized Online MBA at UT Dallas.
+Location: 
+Event URL: 47846077877975&instance=48366187013620
+--------------------------------------------------
+Date: Wednesday, June 18, 2025
+Time: 12:00 PM - 01:00 PM
+Title: JSOM CMC - Career Mapping
+Location: 
+Event URL: 49488847913296&instance=49488851606022
+--------------------------------------------------
+Date: Tuesday, June 24, 2025
+Time: 12:00 PM - 01:00 PM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527473661042&instance=49472564823999
+--------------------------------------------------
+Date: Wednesday, June 25, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 47040472425615&instance=47040472467620
+--------------------------------------------------
+Date: Friday, June 27, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
+Location: 
+Event URL: 49489051991308&instance=49489093038108
+--------------------------------------------------
+Month: Jul, 2025
+
+Date: Tuesday, July 01, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527502735766&instance=49472619668745
+--------------------------------------------------
+Date: Wednesday, July 02, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Unlock Your Career Potential with a 100% Customized Online MBA
+Location: 
+Event URL: 47598023869082&instance=48366263475719
+--------------------------------------------------
+Date: Wednesday, July 09, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 47040472425615&instance=47040472469669
+--------------------------------------------------
+Date: Monday, July 14, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Interested in an ONLINE MBA? Attend the Customized Online MBA Information Session to learn more.
+Location: 
+Event URL: 48366302927203&instance=48366330558288
+--------------------------------------------------
+Date: Tuesday, July 15, 2025
+Time: 12:00 PM - 01:00 PM
+Title: The UT Dallas Executive MBA (Webinar)
+Location: 
+Event URL: 48224458378308&instance=48224458379333
+--------------------------------------------------
+Date: Thursday, July 17, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552292388233&instance=49552292389258
+--------------------------------------------------
+Date: Monday, July 21, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM CMC - 3 Reasons Why You Need an Internship (And How to Get One)
+Location: 
+Event URL: 49489004054650&instance=49489006809898
+--------------------------------------------------
+Date: Wednesday, July 23, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
+Location: 
+Event URL: 39581282702414&instance=49117424375059
+--------------------------------------------------
+Date: Friday, July 25, 2025
+Time: 10:00 AM - 11:00 AM
+Title: JSOM CMC - Career Mapping
+Location: 
+Event URL: 49488858642592&instance=49488862654333
+--------------------------------------------------
+Date: Wednesday, July 30, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Last Chance to Attend the Customized Online Programs Information Session to Learn How to Get Started this Fall.
+Location: 
+Event URL: 48366353544621&instance=48366386986696
+--------------------------------------------------
+Month: Aug, 2025
+
+Date: Tuesday, August 05, 2025
+Time: 12:00 PM - 01:00 PM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527473661042&instance=49472564830146
+--------------------------------------------------
+Date: Thursday, August 07, 2025
+Time: 01:00 PM - 02:00 PM
+Title: JSOM CMC - 3 Reasons Why You Need an Internship (And How to Get One)
+Location: 
+Event URL: 49489015820876&instance=49489019685353
+--------------------------------------------------
+Date: Friday, August 15, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
+Location: 
+Event URL: 49489132474136&instance=49489136148859
+--------------------------------------------------
+Date: Tuesday, August 19, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489295635311
+--------------------------------------------------
+Date: Wednesday, August 20, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489295638384
+--------------------------------------------------
+Date: Thursday, August 21, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489295640433
+--------------------------------------------------
+Date: Friday, August 22, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489295642482
+--------------------------------------------------
+Month: Sep, 2025
+
+Date: Tuesday, September 02, 2025
+Time: 03:30 PM - 04:00 PM
+Title: MSBA&AI Help Desk
+Location: 
+Event URL: 49552370277255&instance=49552370280328
+--------------------------------------------------
+Month: Oct, 2025
+
+Date: Thursday, October 02, 2025
+Time: 08:15 AM - 05:00 PM
+Title: Fall ‘25 Pro Sales
+Location: 
+Event URL: 49216984242812&instance=49216991798278
+--------------------------------------------------
+Date: Monday, October 06, 2025
+Time: 03:00 PM - 04:00 PM
+Title: JSOM Undergrads - How to Make a Real Connection on LinkedIn
+Location: 
+Event URL: 47817338766387&instance=47817345204557
+--------------------------------------------------
+Date: Thursday, October 23, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552326633933&instance=49552326633934
 --------------------------------------------------
