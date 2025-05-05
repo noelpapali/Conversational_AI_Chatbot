@@ -12,60 +12,55 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()]
 )
 
-# Detect environment
-is_github = os.environ.get('GITHUB_ACTIONS') == 'true'
-
-# Set paths based on environment
-if is_github:
-    output_dir = os.path.join("chatbot", "scraped_data_git")  # GitHub path
-else:
-    output_dir = "../scraped_data"  # Local development path
-
-output_file = os.path.join(output_dir, "centers_of_excellence_data.txt")
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
 
 # Load configuration
 config = ConfigParser()
 config.read('config.ini')
 
-# URL to scrape
-url = "https://jindal.utdallas.edu/centers-of-excellence/"
+# URL of the page to scrape
+page_url = config.get('DEFAULT', 'page_url', fallback="https://jindal.utdallas.edu/centers-of-excellence/")
 
-# Configuration values
+# Output directories - local and git
+local_output_dir = config.get('DEFAULT', 'scraped_data', fallback="../scraped_data")
+git_output_dir = os.path.join("chatbot", "scraped_data_git")
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
+output_file = os.path.join(output_dir, "centers_of_excellence_data.txt")
+
+# Rate limiting delay
 REQUEST_DELAY = int(config.get('DEFAULT', 'request_delay', fallback=2))
+
+# User-Agent header to mimic a real browser
 HEADERS = {
-    "User-Agent": config.get(
-        'DEFAULT',
-        'user_agent',
-        fallback="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    )
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
-
 def create_output_directory():
-    """Create output directory, handling both local and GitHub paths."""
+    """Create the output directory if it doesn't exist."""
     try:
-        os.makedirs(output_dir, exist_ok=True)
-        logging.info(f"Output directory ready: {output_dir}")
-        logging.info(f"Running in {'GitHub Actions' if is_github else 'local'} environment")
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            logging.info(f"Created output directory: {output_dir}")
     except Exception as e:
         logging.error(f"Failed to create directory {output_dir}: {e}")
         raise
 
-
 def fetch_webpage(url):
-    """Fetch webpage content with robust error handling."""
+    """Fetch the content of a webpage with error handling."""
     try:
-        logging.info(f"Fetching: {url}")
+        logging.info(f"Fetching URL: {url}")
         response = requests.get(url, headers=HEADERS, timeout=30)
         response.raise_for_status()
         return response.content
     except requests.exceptions.RequestException as e:
-        logging.error(f"Request failed for {url}: {e}")
+        logging.error(f"Failed to fetch {url}: {e}")
         return None
 
-
 def scrape_main_heading(soup, url):
-    """Scrape the main heading from the page."""
+    """Scrape the main heading from the page - EXACTLY AS IN YOUR ORIGINAL CODE"""
     try:
         main_heading = soup.find("div", class_="entry-title")
         if main_heading:
@@ -81,9 +76,8 @@ def scrape_main_heading(soup, url):
         logging.error(f"Error scraping main heading: {e}")
         return None
 
-
 def scrape_wideblock_content(soup, url):
-    """Scrape content from wideblock overflow divs."""
+    """Scrape content from wideblock overflow divs - EXACTLY AS IN YOUR ORIGINAL CODE"""
     try:
         content = []
         wideblocks = soup.find_all("div", class_="wideblock overflow")
@@ -107,9 +101,8 @@ def scrape_wideblock_content(soup, url):
         logging.error(f"Error scraping wideblock content: {e}")
         return []
 
-
 def scrape_stat_boxes(soup, url):
-    """Scrape content from stat-box divs."""
+    """Scrape content from stat-box divs - EXACTLY AS IN YOUR ORIGINAL CODE"""
     try:
         content = []
         stat_boxes = soup.find_all("div", class_="stat-box")
@@ -133,9 +126,8 @@ def scrape_stat_boxes(soup, url):
         logging.error(f"Error scraping stat boxes: {e}")
         return []
 
-
 def write_to_txt(file, data):
-    """Write scraped data to a text file with proper formatting."""
+    """Write scraped data to a text file - EXACTLY AS IN YOUR ORIGINAL CODE"""
     try:
         file.write(f"URL: {data['url']}\n")
         if "title" in data:
@@ -160,52 +152,45 @@ def write_to_txt(file, data):
     except Exception as e:
         logging.error(f"Error writing data to file: {e}")
 
-
 def main():
-    """Main function to orchestrate the scraping process."""
+    """Main function - Following your template structure exactly"""
     try:
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
         create_output_directory()
-        logging.info(f"Scraping page: {url}")
 
         # Fetch the page content
-        page_content = fetch_webpage(url)
+        page_content = fetch_webpage(page_url)
         if not page_content:
             raise ValueError("Failed to fetch webpage content")
 
         # Parse the page HTML
         soup = BeautifulSoup(page_content, "html.parser")
 
-        # Scrape different sections
-        main_heading_data = scrape_main_heading(soup, url)
-        wideblock_data = scrape_wideblock_content(soup, url)
-        stat_box_data = scrape_stat_boxes(soup, url)
+        # Scrape different sections - EXACTLY AS IN YOUR ORIGINAL CODE
+        main_heading_data = scrape_main_heading(soup, page_url)
+        wideblock_data = scrape_wideblock_content(soup, page_url)
+        stat_box_data = scrape_stat_boxes(soup, page_url)
 
-        # Combine all scraped data
+        # Combine all scraped data - EXACTLY AS IN YOUR ORIGINAL CODE
         scraped_data = []
         if main_heading_data:
             scraped_data.append(main_heading_data)
         scraped_data.extend(wideblock_data)
         scraped_data.extend(stat_box_data)
 
-        # Write to file
-        try:
-            with open(output_file, "w", encoding="utf-8") as file:
-                logging.info(f"Writing output to: {output_file}")
-                for data in scraped_data:
-                    write_to_txt(file, data)
+        # Write to file - EXACTLY AS IN YOUR ORIGINAL CODE
+        with open(output_file, "w", encoding="utf-8") as file:
+            logging.info(f"Writing output to: {output_file}")
+            for data in scraped_data:
+                write_to_txt(file, data)
 
-            logging.info(f"Successfully saved data to {output_file}")
-            logging.info(f"Scraped {len(scraped_data)} sections total")
-            return True
-        except IOError as e:
-            logging.error(f"Failed to write output file: {e}")
-            return False
+        logging.info(f"Successfully saved data to {output_file}")
+        logging.info(f"Scraped {len(scraped_data)} sections total")
+        return True
 
     except Exception as e:
         logging.error(f"Fatal error in main process: {e}")
         return False
 
-
 if __name__ == "__main__":
-    success = main()
-    exit(0 if success else 1)
+    main()

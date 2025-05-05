@@ -366,7 +366,6 @@ Context: No Context
 Context: No Context
 	- JSOM Alumni
 	- Events and Programming
-	- Alumni Involvement
 	- Mentor & Volunteer Opportunities
 	- Alumni Chapters
 	- Contacts
@@ -486,7 +485,6 @@ Context: No Context
 Context: No Context
 	- JSOM Alumni
 	- Events and Programming
-	- Alumni Involvement
 	- Mentor & Volunteer Opportunities
 	- Alumni Chapters
 	- Contacts
@@ -987,7 +985,6 @@ Context: Alumni
 
 JSOM Alumni
 Events and Programming
-Alumni Involvement
 Mentor & Volunteer Opportunities
 Alumni Chapters
 Contacts
@@ -1002,10 +999,6 @@ Context: JSOM Alumni
 Context: Events and Programming
 	- Text: Events and Programming
 	  Href: https://jindal.utdallas.edu/alumni/alumni-events/
-
-Context: Alumni Involvement
-	- Text: Alumni Involvement
-	  Href: https://jindal.utdallas.edu/alumni/involvement/
 
 Context: Mentor & Volunteer Opportunities
 	- Text: Mentor & Volunteer Opportunities
@@ -1103,7 +1096,7 @@ Context: International Center for Decision and Risk Analysis
 
 Context: The Institute for Innovation & Entrepreneurship
 	- Text: The Institute for Innovation & Entrepreneurship
-	  Href: https://www.utdallas.edu/iie
+	  Href: https://innovation.utdallas.edu/
 
 Context: Morris Hite Center
 	- Text: Morris Hite Center
@@ -1474,7 +1467,6 @@ Context: Alumni
 
 JSOM Alumni
 Events and Programming
-Alumni Involvement
 Mentor & Volunteer Opportunities
 Alumni Chapters
 Contacts
@@ -1489,10 +1481,6 @@ Context: JSOM Alumni
 Context: Events and Programming
 	- Text: Events and Programming
 	  Href: https://jindal.utdallas.edu/alumni/alumni-events/
-
-Context: Alumni Involvement
-	- Text: Alumni Involvement
-	  Href: https://jindal.utdallas.edu/alumni/involvement/
 
 Context: Mentor & Volunteer Opportunities
 	- Text: Mentor & Volunteer Opportunities
@@ -1590,7 +1578,7 @@ Context: International Center for Decision and Risk Analysis
 
 Context: The Institute for Innovation & Entrepreneurship
 	- Text: The Institute for Innovation & Entrepreneurship
-	  Href: https://www.utdallas.edu/iie
+	  Href: https://innovation.utdallas.edu/
 
 Context: Morris Hite Center
 	- Text: Morris Hite Center
@@ -1705,17 +1693,17 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: Join us for the 2025 JSOM Reunion
-	- Text: Join us for the 2025 JSOM Reunion
-	  Href: https://jindal.utdallas.edu/alumni/jsomreunion/
+Context: UTDsolv Capstone Expo
+	- Text: UTDsolv Capstone Expo
+	  Href: https://jindal.utdallas.edu/calendar/49427352471182&instance=49427379003613/49427352471182&instance=49427379003613
 
-Context: 2025 Big Idea Competition Finale
-	- Text: 2025 Big Idea Competition Finale
-	  Href: https://jindal.utdallas.edu/calendar/48746699428015&instance=49207916564769
+Context: Spring 2025 Commencement Ceremony
+	- Text: Spring 2025 Commencement Ceremony
+	  Href: https://registrar.utdallas.edu/graduation/commencement-schedule/
 
-Context: OWLIE Awards 2025
-	- Text: OWLIE Awards 2025
-	  Href: https://jindal.utdallas.edu/calendar/49110674147542&instance=49110674148567
+Context: UT Dallas Project Management Symposium
+	- Text: UT Dallas Project Management Symposium
+	  Href: https://jindal.utdallas.edu/calendar/49427352471182&instance=49427379003613/49454588509517&instance=49454588511566
 
 Context: News
 	- Text: News

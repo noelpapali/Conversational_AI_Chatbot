@@ -10,7 +10,14 @@ import time
 from logging_config import configure_logging
 
 # Configure logging
-configure_logging(log_file="scraping.log", log_level=logging.INFO)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
+
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
 
 # Load configuration
 config = ConfigParser()
@@ -19,8 +26,12 @@ config.read('config.ini')
 # URL of the main page to scrape
 main_page_url = config.get('DEFAULT', 'main_page_url', fallback="https://jindal.utdallas.edu/student-resources/")
 
-# Output directory and file
-output_dir = config.get('DEFAULT', 'output_dir', fallback="../scraped_data")
+# Output directories - local and git
+local_output_dir = config.get('DEFAULT', 'output_dir', fallback="../scraped_data")
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
 output_file = os.path.join(output_dir, "student_resources_data.txt")
 
 # Rate limiting delay
@@ -31,17 +42,20 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
-
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-        logging.info(f"Created output directory: {output_dir}")
-
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            logging.info(f"Created output directory: {output_dir}")
+    except Exception as e:
+        logging.error(f"Failed to create directory {output_dir}: {e}")
+        raise
 
 def fetch_webpage(url):
     """Fetch the content of a webpage."""
     try:
+        logging.info(f"Fetching URL: {url}")
         response = requests.get(url, headers=HEADERS)
         response.raise_for_status()
         return response.content
@@ -323,52 +337,53 @@ def write_to_txt(file, data):
 
 def main():
     """Main function to orchestrate the scraping process."""
-    create_output_directory()
-
-    # List of pages to scrape
-    pages = [
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/",
-            "scrape_function": scrape_student_resources_page
-        },
-        {
-            "url": "https://jindal.utdallas.edu/advising/",
-            "scrape_function": scrape_advising_page
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/scholarships/",
-            "scrape_function": scrape_scholarships_page
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/assistantships/",
-            "scrape_function": scrape_assistantships_page
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/student-organizations/",
-            "scrape_function": scrape_student_organizations_page
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/labs/",
-            "scrape_function": scrape_labs_page
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/business-communication-center/",
-            "scrape_function": scrape_business_communication_center
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/",
-            "scrape_function": scrape_policies_faq
-        },
-        {
-            "url": "https://jindal.utdallas.edu/student-resources/deans-council/",
-            "scrape_function": scrape_deans_council
-        }
-    ]
-
-    # Open the output file to write the scraped data
     try:
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
+        create_output_directory()
+
+        # List of pages to scrape (same as original)
+        pages = [
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/",
+                "scrape_function": scrape_student_resources_page
+            },
+            {
+                "url": "https://jindal.utdallas.edu/advising/",
+                "scrape_function": scrape_advising_page
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/scholarships/",
+                "scrape_function": scrape_scholarships_page
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/assistantships/",
+                "scrape_function": scrape_assistantships_page
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/student-organizations/",
+                "scrape_function": scrape_student_organizations_page
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/labs/",
+                "scrape_function": scrape_labs_page
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/business-communication-center/",
+                "scrape_function": scrape_business_communication_center
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/",
+                "scrape_function": scrape_policies_faq
+            },
+            {
+                "url": "https://jindal.utdallas.edu/student-resources/deans-council/",
+                "scrape_function": scrape_deans_council
+            }
+        ]
+
+        # Open the output file to write the scraped data
         with open(output_file, "w", encoding="utf-8") as file:
-            logging.info(f"Opened file for writing: {output_file}")
+            logging.info(f"Writing output to: {output_file}")
 
             # Scrape each page
             for page in pages:
@@ -395,9 +410,9 @@ def main():
                 time.sleep(REQUEST_DELAY)
 
         logging.info(f"Data scraped successfully and saved to '{output_file}'")
-    except IOError as e:
-        logging.error(f"Failed to write to file {output_file}: {e}")
-
+    except Exception as e:
+        logging.error(f"Fatal error in main process: {e}")
+        raise
 
 if __name__ == "__main__":
     main()
