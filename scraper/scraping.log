@@ -18479,3 +18479,14 @@ Stacktrace:
 2025-05-04 23:16:28,898 - INFO - Sending GET request to: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 2025-05-04 23:16:29,089 - INFO - Successfully retrieved the webpage.
 2025-05-04 23:16:29,133 - INFO - Data scraped successfully and saved to '../scraped_data\phd_programs_data.txt'
+2025-05-04 23:45:48,379 - INFO - Starting scraping in local environment
+2025-05-04 23:45:48,380 - INFO - Fetching webpage using Selenium: https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+2025-05-04 23:45:48,380 - INFO - ====== WebDriver manager ======
+2025-05-04 23:45:54,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 23:45:54,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 23:45:54,596 - INFO - Driver [C:\Users\pavan\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 23:46:04,454 - INFO - Extracting content from 'card card-body' elements (excluding tables).
+2025-05-04 23:46:04,468 - INFO - Text content saved to '../scraped_data\tuition_rates_content.txt'.
+2025-05-04 23:46:04,468 - INFO - Scraping completed successfully
+2025-05-04 23:49:26,887 - INFO - Starting scraping in local environment
+2025-05-04 23:49:26,888 - INFO - ====== WebDriver manager ======
