@@ -18,7 +18,7 @@ Heading: Freshman Application Dates (Domestic & International)
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
-    May 1, Regular Application
+    May 1, Regular Application Deadline
 
 --------------------------------------------------
 
@@ -96,7 +96,7 @@ Heading: Freshman Application Dates (Domestic & International)
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
-    May 1, Regular Application
+    May 1, Regular Application Deadline
 
 --------------------------------------------------
 
@@ -190,7 +190,7 @@ Heading: Freshman Application Dates (Domestic & International)
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
-    May 1, Regular Application
+    May 1, Regular Application Deadline
 
 --------------------------------------------------
 
@@ -205,16 +205,15 @@ Heading: Application Fees
   Table (Stripes Style):
     , 
     Submitted on or before the regular application deadline, $50
-    Domestic applications submitted after the regular application deadline*, $125
-    International credential evaluation**, $50
+    International credential evaluation*, $50
   Paragraph: Payment instructions for applicants who do not qualify for a fee waiver:
   List:
     - Applying through Common Application: When submitting your application through Common Application, pay your $50 application fee inside the application.
     - Applying through ApplyTexas: After submitting your application through ApplyTexas, submit your $50 application fee through the UT Dallas Marketplace.
     - Applicants with international academic documents: If you owe the $50 international credential evaluation fee after submitting your application, submit your payment through the UT Dallas Marketplace.
-  Paragraph: Note: If you have already submitted your application and need to pay an application fee, late application fee or international credential evaluation fee, submit your payment through the UT Dallas Marketplace.
+  Paragraph: Note: If you have already submitted your application and need to pay an application fee or international credential evaluation fee, submit your payment through the UT Dallas Marketplace.
   Paragraph: All fees are non-refundable.
-  Paragraph: **Applicants with international academic documents will be assessed an additional international credential evaluation fee of $50.
+  Paragraph: *Applicants with international academic documents will be assessed an additional international credential evaluation fee of $50.
 
 --------------------------------------------------
 
@@ -266,7 +265,7 @@ Heading: Freshman Application Dates (Domestic & International)
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
-    May 1, Regular Application
+    May 1, Regular Application Deadline
 
 --------------------------------------------------
 

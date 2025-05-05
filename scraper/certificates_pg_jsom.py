@@ -11,6 +11,9 @@ from logging_config import configure_logging
 # Configure logging
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+
 # Load configuration
 config = ConfigParser()
 config.read('config.ini')
@@ -18,9 +21,16 @@ config.read('config.ini')
 # URL of the main page to scrape
 main_page_url = "https://jindal.utdallas.edu/certificate-programs/"
 
-# Output directory and file
-output_dir = "../scraped_data"
+# Output directories - local and git
+local_output_dir = config.get('DEFAULT', 'scraped_data', fallback="../scraped_data")
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
 output_file = os.path.join(output_dir, "certificate_programs_data.txt")
+
+# Rate limiting delay
+REQUEST_DELAY = int(config.get('DEFAULT', 'request_delay', fallback=2))
 
 # User-Agent header
 headers = {
@@ -29,9 +39,13 @@ headers = {
 
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-        logging.info(f"Created directory: {output_dir}")
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            logging.info(f"Created output directory: {output_dir}")
+    except Exception as e:
+        logging.error(f"Failed to create directory {output_dir}: {e}")
+        raise
 
 def fetch_webpage(url, retries=3):
     """Fetch the webpage content with retries."""
@@ -184,31 +198,36 @@ def scrape_page(url, file):
 
 def main():
     """Main function to orchestrate the scraping process."""
-    create_output_directory()
+    try:
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
+        create_output_directory()
 
-    # Fetch the main page content
-    main_page_content = fetch_webpage(main_page_url)
-    if not main_page_content:
-        return
+        # Fetch the main page content
+        main_page_content = fetch_webpage(main_page_url)
+        if not main_page_content:
+            return
 
-    # Parse the main page HTML
-    main_soup = BeautifulSoup(main_page_content, "html.parser")
+        # Parse the main page HTML
+        main_soup = BeautifulSoup(main_page_content, "html.parser")
 
-    # Extract links from the certificates menu
-    menu_links = extract_menu_links(main_soup, main_page_url)
+        # Extract links from the certificates menu
+        menu_links = extract_menu_links(main_soup, main_page_url)
 
-    # Open the output file to write the scraped data
-    with open(output_file, "w", encoding="utf-8") as file:
-        logging.info(f"Opened file for writing: {output_file}")
+        # Open the output file to write the scraped data
+        with open(output_file, "w", encoding="utf-8") as file:
+            logging.info(f"Writing output to: {output_file}")
 
-        # Scrape the main page
-        scrape_page(main_page_url, file)
+            # Scrape the main page
+            scrape_page(main_page_url, file)
 
-        # Scrape each linked page
-        for link in menu_links:
-            scrape_page(link, file)
+            # Scrape each linked page
+            for link in menu_links:
+                scrape_page(link, file)
 
-    logging.info(f"Data scraped successfully and saved to '{output_file}'")
+        logging.info(f"Data scraped successfully and saved to '{output_file}'")
+    except Exception as e:
+        logging.error(f"Fatal error in main process: {e}")
+        raise
 
 if __name__ == "__main__":
     main()

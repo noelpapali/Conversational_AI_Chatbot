@@ -10,6 +10,9 @@ from logging_config import configure_logging
 # Configure logging
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+
 # Load configuration
 config = ConfigParser()
 config.read('config.ini')
@@ -17,21 +20,28 @@ config.read('config.ini')
 # URL of the website to scrape
 url = config.get('DEFAULT', 'URL', fallback="https://jindal.utdallas.edu/calendar/")
 
-# Directory and file path
-output_dir = config.get('DEFAULT', 'OUTPUT_DIR', fallback="../scraped_data")
+# Output directories - local and git
+local_output_dir = config.get('DEFAULT', 'OUTPUT_DIR', fallback="../scraped_data")
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
 output_file = os.path.join(output_dir, "events.txt")
 
 # User-Agent header
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+}
 
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-        logging.info(f"Created directory: {output_dir}")
-
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            logging.info(f"Created output directory: {output_dir}")
+    except Exception as e:
+        logging.error(f"Failed to create directory {output_dir}: {e}")
+        raise
 
 def fetch_webpage(url, retries=3):
     """Fetch the webpage content with retries."""
@@ -49,7 +59,6 @@ def fetch_webpage(url, retries=3):
             logging.error(f"Attempt {attempt + 1} failed: {e}")
             if attempt == retries - 1:
                 return None
-
 
 def scrape_events(soup, file):
     """Scrape event data from the webpage."""
@@ -103,28 +112,31 @@ def scrape_events(soup, file):
 
     logging.info("Event data scraped successfully.")
 
-
 def main():
     """Main function to orchestrate the scraping process."""
-    create_output_directory()
+    try:
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
+        create_output_directory()
 
-    # Fetch the webpage content
-    webpage_content = fetch_webpage(url)
-    if not webpage_content:
-        return
+        # Fetch the webpage content
+        webpage_content = fetch_webpage(url)
+        if not webpage_content:
+            return
 
-    # Parse the HTML content using BeautifulSoup
-    soup = BeautifulSoup(webpage_content, 'html.parser')
+        # Parse the HTML content using BeautifulSoup
+        soup = BeautifulSoup(webpage_content, 'html.parser')
 
-    # Open the text file to write the scraped data
-    with open(output_file, 'w', encoding='utf-8') as file:
-        logging.info(f"Opened file for writing: {output_file}")
+        # Open the text file to write the scraped data
+        with open(output_file, 'w', encoding='utf-8') as file:
+            logging.info(f"Writing output to: {output_file}")
 
-        # Scrape event data
-        scrape_events(soup, file)
+            # Scrape event data
+            scrape_events(soup, file)
 
-    logging.info(f"Event data scraped successfully and saved to '{output_file}'")
-
+        logging.info(f"Event data scraped successfully and saved to '{output_file}'")
+    except Exception as e:
+        logging.error(f"Fatal error in main process: {e}")
+        raise
 
 if __name__ == "__main__":
     main()

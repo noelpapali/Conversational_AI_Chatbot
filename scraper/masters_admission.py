@@ -1,6 +1,5 @@
 import os
 from urllib.parse import urljoin
-
 import requests
 import logging
 from bs4 import BeautifulSoup
@@ -13,15 +12,22 @@ from logging_config import configure_logging
 # Configure logging
 configure_logging(log_file="scraping.log", log_level=logging.INFO)
 
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+
 # Load configuration
 config = ConfigParser()
 config.read('config.ini')
 
 # URL of the new page to scrape
-new_page_url = "https://jindal.utdallas.edu/admission-requirements/masters/"
+new_page_url = config.get('DEFAULT', 'new_page_url', fallback="https://jindal.utdallas.edu/admission-requirements/masters/")
 
-# Output directory and file
-output_dir = "../scraped_data"
+# Output directories - local and git
+local_output_dir = config.get('DEFAULT', 'scraped_data', fallback="../scraped_data")
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
+# Output file path
 output_file = os.path.join(output_dir, "masters_admission.txt")
 
 # User-Agent header
@@ -31,9 +37,13 @@ headers = {
 
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-        logging.info(f"Created directory: {output_dir}")
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            logging.info(f"Created output directory: {output_dir}")
+    except Exception as e:
+        logging.error(f"Failed to create directory {output_dir}: {e}")
+        raise
 
 def fetch_webpage(url, retries=3):
     """Fetch the webpage content with retries."""
@@ -141,16 +151,21 @@ def scrape_new_page(url, file):
 
 def main():
     """Main function to orchestrate the scraping process."""
-    create_output_directory()
+    try:
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
+        create_output_directory()
 
-    # Open the output file to write the scraped data with UTF-8 encoding
-    with open(output_file, "w", encoding="utf-8") as file:
-        logging.info(f"Opened file for writing: {output_file}")
+        # Open the output file to write the scraped data with UTF-8 encoding
+        with open(output_file, "w", encoding="utf-8") as file:
+            logging.info(f"Writing output to: {output_file}")
 
-        # Scrape the new page
-        scrape_new_page(new_page_url, file)
+            # Scrape the new page
+            scrape_new_page(new_page_url, file)
 
-    logging.info(f"Data scraped successfully and saved to '{output_file}'")
+        logging.info(f"Data scraped successfully and saved to '{output_file}'")
+    except Exception as e:
+        logging.error(f"Fatal error in main process: {e}")
+        raise
 
 if __name__ == "__main__":
     main()

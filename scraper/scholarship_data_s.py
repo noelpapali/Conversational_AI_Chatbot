@@ -14,25 +14,35 @@ from selenium.webdriver.support import expected_conditions as EC
 from logging_config import configure_logging
 
 
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
+
+# Determine environment
+is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
+
+# Output directories - local and git
+local_output_dir = "../scraped_data"
+git_output_dir = "scraped_data_git"
+output_dir = git_output_dir if is_github_env else local_output_dir
+
 def setup_driver():
-    """Set up and return a properly configured Chrome WebDriver."""
+    """Set up and return the Selenium WebDriver with cross-environment support."""
     options = Options()
     options.add_argument("--headless=new")  # New headless mode
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
 
-    # Determine the environment
-    if os.getenv('GITHUB_ACTIONS'):
-        # GitHub Actions environment - use WebDriver Manager
+    try:
+        # For both local and GitHub environments, use ChromeDriverManager with version matching
         service = Service(ChromeDriverManager().install())
-    else:
-        # Local development environment
-        chrome_driver_path = "../chrome/chromedriver.exe"
-        service = Service(executable_path=chrome_driver_path)
-
-    driver = webdriver.Chrome(service=service, options=options)
-    driver.set_page_load_timeout(30)
-    return driver
+        driver = webdriver.Chrome(service=service, options=options)
+        return driver
+    except Exception as e:
+        logging.error(f"Failed to initialize WebDriver: {str(e)}")
+        raise
 
 def extract_main_heading(driver):
     """Extract the main heading from the page."""
@@ -100,13 +110,11 @@ def save_to_csv(data, headers, filename, output_dir):
     logging.info(f"File saved successfully at: {output_file}")
 
 def main():
-    # Configure logging
-    configure_logging(log_file="scraping.log", log_level=logging.INFO)
-
     driver = None
     try:
         # Set up WebDriver
         driver = setup_driver()
+        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
 
         # Navigate to the target URL
         url = "https://www.utdallas.edu/costs-scholarships-aid/scholarships/listings/"
@@ -123,11 +131,11 @@ def main():
         all_rows = extract_table_rows(driver, headers)
 
         # Save data to CSV
-        output_dir = "../scraped_data"
         save_to_csv(all_rows, headers, filename, output_dir)
 
     except Exception as e:
         logging.error(f"An error occurred in main: {e}", exc_info=True)
+        raise
     finally:
         # Close the browser
         if driver:
