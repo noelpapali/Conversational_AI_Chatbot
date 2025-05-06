@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Team from Jindal School Tackles Tech Problem, Wins Third in Competition
+Title Link: https://jindal.utdallas.edu/news/team-from-jindal-school-tackles-tech-problem-wins-third-in-competition/
+Excerpt: A team of students from the Naveen Jindal School of Management traveled to the University of Minnesota recently to compete in CoMIS 2025, a student-run case competition presented by the Carlson School of Management. From left: Neawor Taha, Yash Varma, Safa Ashraf A team composed of Neawor (Niko) Taha and Yash Varma, both Computer Information […]
+Meta Details: May 6th, 2025 |Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2025/05/comis_2025_630x630.png
+
+==================================================
+
 Title: Huge Turnout as Jindal School Alumni Reunion Smashes Record
 Title Link: https://jindal.utdallas.edu/news/huge-turnout-as-jindal-school-alumni-reunion-smashes-record/
 Excerpt: More than 1,500 alumni of the Naveen Jindal School of Management, along with their families and friends, came together on April 26 to celebrate the second JSOM Alumni Reunion—a turnout that more than doubled last year’s numbers. Held in the Davidson-Gundy Alumni Center and much of the Jindal School, the event created a buzz that […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/05/jsom_alumni_reunion_2025_63
 Title: North Texas Quant Community Builds Momentum with Conference at Jindal School
 Title Link: https://jindal.utdallas.edu/news/north-texas-quant-community-builds-momentum-with-conference-at-jindal-school/
 Excerpt: The hallways of the Naveen Jindal School of Management were recently filled with an assembly of quants. The term, short for quantitative analyst, may sound futuristic, but it describes a growing profession in finance. Quants use mathematical models, statistics and computer programming to analyze markets, manage risk and build investment strategies. Nearly 200 people were […]
-Meta Details: April 29th, 2025 |Events,Featured
+Meta Details: April 29th, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/04/QQC2025_630x630.jpg
 
 ==================================================
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/04/QQC2025_630x630.jpg
 Title: Study by Jindal School Researcher Shows How Digitization Affects Print Book Sales
 Title Link: https://jindal.utdallas.edu/news/study-by-jindal-school-researcher-shows-how-digitization-affects-print-book-sales/
 Excerpt: Recently published research by a faculty member in the Naveen Jindal School of Management shows how the rise of digital channels is disrupting traditional print media markets. The study — “The Impact of Digitization on Print Book Sales: Analysis Using Genre Exposure Heterogeneity” — was co-authored by Dr. Alejandro Zentner, an associate professor in the […]
-Meta Details: April 25th, 2025 |Faculty/Research,Featured
+Meta Details: April 25th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/04/zentner_study_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/study-by-jindal-school-researcher-e
 Excerpt: When a hurricane or wildfire hits it can turn people’s lives completely upside down. That stark reality motivated a faculty member from the Naveen Jindal School of Management and his fellow researchers to examine whether government disaster loans truly serve those in need. Umit Gurun “Rebuilding takes money,” said Dr. Umit Gurun, Stan Liebowitz Professor […]
 Meta Details: January 23rd, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/01/adobestock_688246320_630x630.jpg
-
-==================================================
-
-Title: Jindal School Ranked No. 1 Online MBA Program in U.S.
-Title Link: https://jindal.utdallas.edu/news/jindal-school-ranked-no-1-online-mba-program-in-u-s/
-Excerpt: 
-Meta Details: January 15th, 2025 |Academics
-Image URL: https://jindal.utdallas.edu/files/2025/01/adobestock_484464043_630x630.jpg
 
 ==================================================
 

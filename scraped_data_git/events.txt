@@ -1,40 +1,28 @@
 Month: May, 2025
 
-Date: Monday, May 05, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Tuesday, May 06, 2025
+Time: 12:00 AM - 06:00 PM
+Title: Digital Prospecting Pulse Presentations (By Invite)
 Location: 
-Event URL: 47852804762707&instance=47852804763732
---------------------------------------------------
-Date: Monday, May 05, 2025
-Time: 01:30 PM - 02:30 PM
-Title: MS ITM Hangout: Panel Discussion Transition After Graduation
-Location: 
-Event URL: 49551721199810&instance=49551721202883
---------------------------------------------------
-Date: Monday, May 05, 2025
-Time: 05:00 PM - 06:00 PM
-Title: Cinco de Mayo - come learn more about our MBA programs!
-Location: 
-Event URL: 49313171246860&instance=49313212157732
+Event URL: 49216795487242&instance=49216817734529
 --------------------------------------------------
 Date: Tuesday, May 06, 2025
 Time: 09:00 AM - 10:00 AM
-Title: MS Accounting Flex Q&A Session
+Title: MS Supply Chain Management/MS Management Science Information Session
 Location: 
-Event URL: 48527502735766&instance=49410038060128
+Event URL: 39581282702414&instance=48127118290000
 --------------------------------------------------
 Date: Tuesday, May 06, 2025
-Time: 12:00 PM - 01:00 PM
-Title: MS Accounting Flex Q&A Session
+Time: 12:30 PM - 02:00 PM
+Title: Class of 2025 Graduation Luncheon
 Location: 
-Event URL: 49451424006419&instance=49451436267835
+Event URL: 49418259024791&instance=49418259025816
 --------------------------------------------------
-Date: Tuesday, May 06, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Doctor of Business Administration (DBA) in person meet & greet
+Date: Wednesday, May 07, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Info Session - International Students
 Location: 
-Event URL: 48313019426274&instance=48313022622071
+Event URL: 46332789475594&instance=48686062892340
 --------------------------------------------------
 Date: Wednesday, May 07, 2025
 Time: 12:00 PM - 01:00 PM
@@ -49,70 +37,70 @@ Location:
 Event URL: 48365997432506&instance=48366032884040
 --------------------------------------------------
 Date: Thursday, May 08, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Virtual MS in International Management Studies Info Session - Domestic Students
-Location: 
-Event URL: 46332742735074&instance=48686047939534
---------------------------------------------------
-Date: Monday, May 12, 2025
-Time: 07:00 PM - 08:00 PM
-Title: Take Your Career to New Heights by Earning a Customized Online MBA.  Attend this Information Session to Find Out How.
-Location: 
-Event URL: 48366057101628&instance=48366096846418
---------------------------------------------------
-Date: Tuesday, May 13, 2025
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Q&A Virtual Session with Ambassadors
-Location: 
-Event URL: 49312908901027&instance=49312950449635
---------------------------------------------------
-Date: Tuesday, May 13, 2025
-Time: 12:00 PM - 01:00 PM
-Title: The UT Dallas Executive MBA (Webinar)
-Location: 
-Event URL: 48224364869121&instance=48224364870146
---------------------------------------------------
-Date: Wednesday, May 14, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 47040472425615&instance=47040472462497
---------------------------------------------------
-Date: Monday, May 19, 2025
-Time: 01:00 PM - 01:30 PM
+Time: 11:30 AM - 12:00 PM
 Title: Fast Track in MS Marketing Information Session
 Location: 
-Event URL: 49524872757865&instance=49524872758890
+Event URL: 49524762544057&instance=49524762546106
 --------------------------------------------------
-Date: Tuesday, May 20, 2025
+Date: Friday, May 09, 2025
+Time: 01:00 PM - 03:00 PM
+Title: MS Information and Technology Management Graduation & Awards Celebration
+Location: 
+Event URL: 48976948084734&instance=48976948085759
+--------------------------------------------------
+Date: Tuesday, May 13, 2025
 Time: 09:00 AM - 10:00 AM
+Title: MS Marketing Tuesday Information Session with Q & A Period
+Location: 
+Event URL: 48092670524491&instance=48092670525516
+--------------------------------------------------
+Date: Tuesday, May 13, 2025
+Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48527502735766&instance=49410038064225
+Event URL: 48527473661042&instance=49409994687288
 --------------------------------------------------
-Date: Thursday, May 22, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
+Date: Tuesday, May 13, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM - Roadmap to Consulting for International Candidates
 Location: 
-Event URL: 39581282702414&instance=49117424367888
+Event URL: 49551377932489&instance=49551383853213
+--------------------------------------------------
+Date: Thursday, May 15, 2025
+Time: 04:00 PM - 06:00 PM
+Title: UTDsolv Capstone Expo
+Location: 
+Event URL: 49427352471182&instance=49427379003613
+--------------------------------------------------
+Date: Monday, May 19, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM CMC - Career Mapping
+Location: 
+Event URL: 49488825697145&instance=49488836047362
+--------------------------------------------------
+Date: Tuesday, May 20, 2025
+Time: 05:00 PM - 06:00 PM
+Title: UTD MBA In-person Information Session - MBA Lounge
+Location: 
+Event URL: 49313227008136&instance=49313253947266
+--------------------------------------------------
+Date: Friday, May 23, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
+Location: 
+Event URL: 49489110343353&instance=49489118849381
 --------------------------------------------------
 Date: Tuesday, May 27, 2025
 Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - Using AI is OK!
+Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 49488876969118&instance=49488885994698
+Event URL: 48527473661042&instance=49410005073601
 --------------------------------------------------
-Date: Wednesday, May 28, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Date: Thursday, May 29, 2025
+Time: 08:00 AM - 09:00 AM
+Title: Meet the Admissions Team for coffee next to campus!
 Location: 
-Event URL: 47040472425615&instance=47040472463522
---------------------------------------------------
-Date: Friday, May 30, 2025
-Time: 08:00 AM - 06:00 PM
-Title: 17th Annual UT Dallas  Project Management Symposium
-Location: 
-Event URL: 49454588509517&instance=49454588511566
+Event URL: 49312971106806&instance=49313106163493
 --------------------------------------------------
 Month: Jun, 2025
 

@@ -101,9 +101,9 @@ Heading: Freshman Application Dates (Domestic & International)
 --------------------------------------------------
 
 Heading: Submit your admission application.
-  Paragraph: Fall 2025 Applicants: Submit your fall 2025 application through Common App.
+  Paragraph: Complete and submit the online application through ApplyTexas. The Common App is closed for fall 2025 applicants.
+  Paragraph: Note: We will continue to review application files completed after the stated deadline. However, we cannot guarantee that your application will be processed in time for you to be able to enroll.
   Paragraph: After you submit your application, the Office of Admission and Enrollment will email you with your unique, 10-digit UTD-ID and confirmation that we have received it. You will also receive an additional email with your NetID and instructions on setting up your account for the first time. After creating your account, you will use your NetID and password to access the Orion Applicant Center inside Galaxy, where you can submit documentation and check your application status.
-  Paragraph: *UT Dallas also accepts applications submitted through ApplyTexas. Students should submit only one application (either through Common App or Apply Texas) for their anticipated start term.
 
 --------------------------------------------------
 

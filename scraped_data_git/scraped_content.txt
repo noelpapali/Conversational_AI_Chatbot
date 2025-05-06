@@ -97,6 +97,7 @@ The Jindal School of Management at the University of Texas at Dallas offers ten 
   BS Accounting 
   BS Business Administration 
 BS Business Analytics and Artificial Intelligence (STEM)
+BS Cybersecurity and Risk Management
   BS Finance 
   BS Global Business 
   BS Healthcare Management 
@@ -537,6 +538,7 @@ Context: The Jindal School of Management at the University of Texas at Dallas of
 	- BS Accounting
 	- BS Business Administration
 	- BS Business Analytics and Artificial Intelligence (STEM)
+	- BS Cybersecurity and Risk Management
 	- BS Finance
 	- BS Global Business
 	- BS Healthcare Management
@@ -1756,6 +1758,10 @@ Context: BS Business Administration
 Context: BS Business Analytics and Artificial Intelligence (STEM)
 	- Text: BS Business Analytics and Artificial Intelligence (STEM)
 	  Href: /infosystems/bs-business-analytics/
+
+Context: BS Cybersecurity and Risk Management
+	- Text: BS Cybersecurity and Risk Management
+	  Href: /osim/cybersecurity/
 
 Context: BS Finance
 	- Text: BS Finance
