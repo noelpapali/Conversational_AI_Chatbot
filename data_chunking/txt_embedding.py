@@ -7,7 +7,11 @@ from logging_config import configure_logging
 from langchain.docstore.document import Document
 
 # Configure logging using your custom function
-configure_logging(log_file="txt_embedding.py.log", log_level=logging.INFO)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
 
 # Load configuration from config.ini
 config = ConfigParser()

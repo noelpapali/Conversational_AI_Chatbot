@@ -1,41 +1,47 @@
-import os
-import requests
-import logging
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
-from configparser import ConfigParser
 import time
-
-# Import the logging configuration function
+import os
+import logging
 from logging_config import configure_logging
 
-# Configure logging
-configure_logging(log_file="scraping.log", log_level=logging.INFO)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler()]
+)
 
 # Determine environment
 is_github_env = os.environ.get('GITHUB_ACTIONS') == 'true'
 
-# Load configuration
-config = ConfigParser()
-config.read('config.ini')
-
-# URL of the page to scrape
-url = config.get('DEFAULT', 'faculty_url', fallback="https://jindal.utdallas.edu/faculty/")
-
-# Output directories - local and git
-local_output_dir = config.get('DEFAULT', 'output_dir', fallback="../scraped_data")
+# Directory and file paths - local and git
+local_output_dir = "../scraped_data"
 git_output_dir = "scraped_data_git"
 output_dir = git_output_dir if is_github_env else local_output_dir
 
 # Output file path
-output_file = os.path.join(output_dir, "faculty_page_data.txt")
+output_file = os.path.join(output_dir, "utd_jindal_faculty_page.txt")
 
-# Rate limiting delay
-REQUEST_DELAY = int(config.get('DEFAULT', 'request_delay', fallback=2))
 
-# User-Agent header to mimic a real browser
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-}
+def setup_driver():
+    """Set up and return the Selenium WebDriver with cross-environment support."""
+    options = Options()
+    options.add_argument("--headless=new")  # New headless mode
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+
+    try:
+        # For both local and GitHub environments, use ChromeDriverManager with version matching
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=options)
+        return driver
+    except Exception as e:
+        logging.error(f"Failed to initialize WebDriver: {str(e)}")
+        raise
+
 
 def create_output_directory():
     """Create the output directory if it doesn't exist."""
@@ -47,99 +53,113 @@ def create_output_directory():
         logging.error(f"Failed to create directory {output_dir}: {e}")
         raise
 
-def fetch_webpage(url):
-    """Fetch the content of a webpage."""
+
+def scrape_faculty_page(driver):
+    """Scrape faculty page content and return structured data."""
+    faculty_url = "https://jindal.utdallas.edu/faculty/"
+
     try:
-        logging.info(f"Fetching URL: {url}")
-        response = requests.get(url, headers=HEADERS)
-        response.raise_for_status()
-        return response.content
-    except requests.exceptions.RequestException as e:
-        logging.error(f"Failed to fetch {url}: {e}")
-        return None
+        logging.info(f"Fetching faculty page: {faculty_url}")
+        driver.get(faculty_url)
+        time.sleep(5)  # Allow time for dynamic content to load
 
-def scrape_faculty_page(soup, url):
-    """Scrape the Faculty page."""
-    content = []
+        faculty_soup = BeautifulSoup(driver.page_source, "html.parser")
+        logging.info("Page successfully loaded and parsed")
 
-    # Scrape tabbed content
-    tab_headers = soup.find_all("button", class_="tab-header")
-    tab_contents = soup.find_all("div", class_="tab-content")
+        # --- 1. Extract All Headings and Corresponding Body Content ---
+        headings_and_body = []
+        for heading in faculty_soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
+            heading_text = heading.get_text(strip=True)
+            body_content = []
 
-    for header, tab_content in zip(tab_headers, tab_contents):
-        # Extract tab title
-        title = header.get_text(strip=True) if header else "No Title"
+            next_sibling = heading.find_next_sibling()
+            while next_sibling and next_sibling.name not in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+                body_content.append(next_sibling.get_text(strip=True))
+                next_sibling = next_sibling.find_next_sibling()
 
-        # Extract paragraphs (p)
-        paragraphs = [p.get_text(strip=True) for p in tab_content.find_all("p")]
+            body_text = "\n".join(body_content).strip()
+            if heading_text and body_text:
+                headings_and_body.append(f"{heading_text}\n{body_text}\n")
 
-        # Extract lists (ul > li)
-        lists = [li.get_text(strip=True) for li in tab_content.find_all("li")]
+        # --- 2. Extract Faculty Cards ---
+        faculty_data = []
+        faculty_cards = faculty_soup.select(".faculty-list-item")
+        for card in faculty_cards:
+            name = card.select_one(".faculty-name")
+            title = card.select_one(".faculty-title")
+            dept = card.select_one(".faculty-dept")
+            link = card.select_one("a[href]")
 
-        # Extract links (a)
-        links = [a.get_text(strip=True) + " - " + a["href"] for a in tab_content.find_all("a", href=True)]
+            faculty_data.append(
+                f"{name.text.strip() if name else 'N/A'}\n"
+                f"{title.text.strip() if title else 'N/A'}\n"
+                f"{dept.text.strip() if dept else 'N/A'}\n"
+                f"{link['href'] if link else 'No Link'}\n"
+            )
 
-        # Append the scraped data
-        content.append({
-            "url": url,
-            "title": title,
-            "content": paragraphs,
-            "lists": lists,
-            "links": links
-        })
+        # --- 3. Extract .stat-box.white.left50 Profiles ---
+        profile_data = []
+        staff_boxes = faculty_soup.select("div.stat-box.white.left50")
+        for box in staff_boxes:
+            name = box.select_one("h3 a")
+            title = box.select_one("h4")
+            links = box.select("p a")
 
-    return content
+            email = next((a.text for a in links if a["href"].startswith("mailto:")), "Email not found")
+            phone = next((a.text for a in links if a["href"].startswith("tel:")), "Phone not found")
+            office = next((a.text for a in links if "locator" in a["href"]), "Office not found")
 
-def write_to_txt(file, data):
-    """Write scraped data to a text file."""
-    file.write(f"URL: {data['url']}\n")
-    if "title" in data:
-        file.write(f"Title: {data['title']}\n")
-    if "content" in data:
-        file.write("Content:\n")
-        for paragraph in data['content']:
-            file.write(f"{paragraph}\n")
-    if "lists" in data:
-        file.write("Lists:\n")
-        for item in data['lists']:
-            file.write(f"- {item}\n")
-    if "links" in data:
-        file.write("Links:\n")
-        for link in data['links']:
-            file.write(f"- {link}\n")
-    file.write("\n" + "=" * 80 + "\n")
+            profile_data.append(
+                f"{name.text.strip() if name else 'N/A'}\n"
+                f"{title.text.strip() if title else 'N/A'}\n"
+                f"{email}\n{phone}\n{office}\n"
+            )
+
+        # Combine all sections
+        full_output = (
+                "FACULTY PAGE CONTENT\n" + "\n".join(headings_and_body) + "\n\n"
+                                                                          "FACULTY LISTING\n" + "\n".join(
+            faculty_data) + "\n\n"
+                            "STAFF PROFILES (Gray Wide Block)\n" + "\n".join(profile_data)
+        )
+
+        return full_output
+
+    except Exception as e:
+        logging.error(f"Error scraping faculty page: {e}")
+        raise
+
+
+def save_output(content, file_path):
+    """Save scraped content to file."""
+    try:
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(content)
+        logging.info(f"Data successfully saved to: {file_path}")
+    except Exception as e:
+        logging.error(f"Failed to save output: {e}")
+        raise
+
 
 def main():
     """Main function to orchestrate the scraping process."""
     try:
-        logging.info(f"Starting scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
+        logging.info(f"Starting faculty scraping in {'GitHub Actions' if is_github_env else 'local'} environment")
         create_output_directory()
 
-        logging.info(f"Scraping page: {url}")
+        driver = setup_driver()
+        faculty_content = scrape_faculty_page(driver)
+        save_output(faculty_content, output_file)
 
-        # Fetch the page content
-        page_content = fetch_webpage(url)
-        if not page_content:
-            return
-
-        # Parse the page HTML
-        soup = BeautifulSoup(page_content, "html.parser")
-
-        # Scrape the page using the appropriate function
-        scraped_data = scrape_faculty_page(soup, url)
-
-        # Open the output file to write the scraped data
-        with open(output_file, "w", encoding="utf-8") as file:
-            logging.info(f"Writing output to: {output_file}")
-
-            # Write the scraped data to the file
-            for data in scraped_data:
-                write_to_txt(file, data)
-
-        logging.info(f"Data scraped successfully and saved to '{output_file}'")
+        logging.info("Faculty scraping completed successfully")
     except Exception as e:
-        logging.error(f"Fatal error in main process: {e}")
+        logging.error(f"Fatal error in faculty scraping: {e}")
         raise
+    finally:
+        if 'driver' in locals():
+            driver.quit()
+            logging.info("WebDriver closed")
+
 
 if __name__ == "__main__":
     main()
