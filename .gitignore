@@ -1,2 +1,4 @@
 # local environment settings
 config.ini
+/processed_data_git/
+/scraped_data_git/

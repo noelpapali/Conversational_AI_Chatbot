@@ -1,47 +1,32 @@
 import os
-import subprocess
 import logging
-from configparser import ConfigParser
+from pathlib import Path
 
-# Configure console-only logging
+# Configure logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[logging.StreamHandler()]
 )
 
-config = ConfigParser()
-config.read('config.ini')
-
-
-def clone_repo(repo_url, clone_dir):
-    """GitHub-only clone function"""
-    logging.info(f"Cloning {repo_url}...")
-    result = subprocess.run(["git", "clone", repo_url], capture_output=True, text=True)
-    if result.returncode != 0:
-        logging.error(f"Clone failed: {result.stderr}")
-        return False
-    logging.info(f"Repository cloned to {clone_dir}")
-    return True
-
 
 def merge_text_files(input_dir, output_file):
-    """Merge all .txt files with console progress"""
-    logging.info(f"Merging files from {os.path.abspath(input_dir)}")
+    """Merge all .txt files with progress logging"""
+    logging.info(f"Merging files from {input_dir.resolve()}")
     file_count = 0
 
     try:
-        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        output_file.parent.mkdir(parents=True, exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as outfile:
             for root, _, files in os.walk(input_dir):
                 for file in files:
                     if file.endswith('.txt'):
-                        file_path = os.path.join(root, file)
+                        file_path = Path(root) / file
                         try:
                             with open(file_path, 'r', encoding='utf-8') as infile:
                                 outfile.write(infile.read() + "\n")
                                 file_count += 1
-                                logging.debug(f"Added: {file}")  # Only shows with DEBUG level
+                                logging.debug(f"Added: {file}")
                         except Exception as e:
                             logging.warning(f"Skipped {file}: {str(e)}")
 
@@ -53,26 +38,25 @@ def merge_text_files(input_dir, output_file):
 
 
 if __name__ == "__main__":
-    # Configuration
-    PATHS = {
-        'local_data': "../scraped_data",
-        'repo_url': "https://github.com/PavanChandan29/chatbot.git",
-        'clone_dir': "chatbot",
-        'output': "../processed_data/merged_text.txt"
-    }
+    is_github = os.getenv('GITHUB_ACTIONS') == 'true'
+    logging.info(f"Starting merging text files in {'GitHub Actions' if is_github else 'local'} environment")
+    # Base configuration
+    BASE_DIR = Path(__file__).parent.parent
+    INPUT_DIR = BASE_DIR / "scraped_data"
 
-    # Execution flow
-    if os.path.exists(PATHS['local_data']):
-        logging.info("LOCAL MODE: Using existing data")
-        merge_text_files(PATHS['local_data'], PATHS['output'])
+    # Environment detection
+    OUTPUT_DIR = BASE_DIR / ("processed_data_git" if is_github else "processed_data")
+    OUTPUT_FILE = OUTPUT_DIR / "merged_text.txt"
+
+    # Ensure directories exist
+    OUTPUT_DIR.mkdir(exist_ok=True)
+
+    # Process files
+    if not INPUT_DIR.exists():
+        logging.error(f"Input directory not found: {INPUT_DIR}")
+        exit(1)
+
+    if merge_text_files(INPUT_DIR, OUTPUT_FILE):
+        logging.info(f"Processing complete. Output at: {OUTPUT_FILE}")
     else:
-        logging.info("GITHUB MODE: Requires clone")
-        if clone_repo(PATHS['repo_url'], PATHS['clone_dir']):
-            repo_data = os.path.join(PATHS['clone_dir'], "scraped_data")
-            if os.path.exists(repo_data):
-                merge_text_files(repo_data, PATHS['output'])
-            else:
-                logging.error(f"Missing directory in repo: {repo_data}")
-                exit(1)
-
-    logging.info("Process completed")
+        exit(1)

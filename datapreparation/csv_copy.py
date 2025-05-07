@@ -15,7 +15,7 @@ def configure_logging():
 
 def copy_specific_csvs(
         source_files: Union[str, List[str]],
-        dest_dir: str,
+        dest_dir: Path,
         overwrite: bool = False
 ) -> int:
     """
@@ -23,7 +23,7 @@ def copy_specific_csvs(
 
     Args:
         source_files: Single file path or list of file paths to copy
-        dest_dir: Destination directory path
+        dest_dir: Destination directory path (as Path object)
         overwrite: Whether to overwrite existing files (default: False)
 
     Returns:
@@ -33,9 +33,7 @@ def copy_specific_csvs(
     if isinstance(source_files, str):
         source_files = [source_files]
 
-    dest_path = Path(dest_dir)
-    dest_path.mkdir(parents=True, exist_ok=True)
-
+    dest_dir.mkdir(parents=True, exist_ok=True)
     copied_count = 0
 
     for source_file in source_files:
@@ -49,7 +47,7 @@ def copy_specific_csvs(
             logging.warning(f"Skipping non-CSV file: {source_file}")
             continue
 
-        dest_file = dest_path / source_path.name
+        dest_file = dest_dir / source_path.name
 
         if dest_file.exists() and not overwrite:
             logging.warning(f"Skipping {source_path.name} - already exists in destination")
@@ -67,15 +65,35 @@ def copy_specific_csvs(
 
 if __name__ == "__main__":
     configure_logging()
+    is_github = os.getenv('GITHUB_ACTIONS') == 'true'
+    logging.info(f"Starting csv copy etl in {'GitHub Actions' if is_github else 'local'} environment")
 
-    # Example usage - specify your exact files here:
+    # Base configuration
+    BASE_DIR = Path(__file__).parent.parent
+    INPUT_DIR = BASE_DIR / "scraped_data"
+
+    # Environment-aware output directory
+    OUTPUT_DIR = BASE_DIR / ("processed_data_git" if is_github else "processed_data")
+
+    # Files to process (using relative paths from input directory)
     CSV_FILES_TO_COPY = [
-        "../scraped_data/Scholarship_Listings.csv"
+        INPUT_DIR / "Scholarship_Listings.csv"
         # Add more files as needed
     ]
 
-    DESTINATION_DIR = "../processed_data"
     OVERWRITE_EXISTING = False
 
-    num_copied = copy_specific_csvs(CSV_FILES_TO_COPY, DESTINATION_DIR, OVERWRITE_EXISTING)
-    logging.info(f"Operation complete. {num_copied}/{len(CSV_FILES_TO_COPY)} files copied successfully.")
+    # Verify input files exist
+    missing_files = [str(f) for f in CSV_FILES_TO_COPY if not f.exists()]
+    if missing_files:
+        logging.error(f"Missing input files: {', '.join(missing_files)}")
+        exit(1)
+
+    # Process files
+    num_copied = copy_specific_csvs(CSV_FILES_TO_COPY, OUTPUT_DIR, OVERWRITE_EXISTING)
+
+    if num_copied == len(CSV_FILES_TO_COPY):
+        logging.info(f"Success! All {num_copied} files copied to {OUTPUT_DIR}")
+    else:
+        logging.warning(f"Partial success. Copied {num_copied}/{len(CSV_FILES_TO_COPY)} files to {OUTPUT_DIR}")
+        exit(1)
