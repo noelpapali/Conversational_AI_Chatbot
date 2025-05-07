@@ -1,10 +1,8 @@
 import os
 import logging
-import pinecone
 from pathlib import Path
 from configparser import ConfigParser
 from sentence_transformers import SentenceTransformer
-from logging_config import configure_logging
 from langchain.docstore.document import Document
 
 # Configure logging using your custom function
