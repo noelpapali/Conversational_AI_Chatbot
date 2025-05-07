@@ -1,7 +1,6 @@
 import os
 import logging
 import pandas as pd
-import numpy as np
 from tqdm import tqdm
 from typing import List, Dict
 from sentence_transformers import SentenceTransformer
