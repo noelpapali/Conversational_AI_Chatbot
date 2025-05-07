@@ -1,23 +1,17 @@
 import os
 import logging
 import pandas as pd
+from pathlib import Path
 from typing import Optional
 
 
-def configure_logging(log_level: int = logging.INFO) -> None:
-    """Configure logging to console."""
-    logger = logging.getLogger()
-    logger.setLevel(log_level)
-    for handler in logger.handlers[:]:
-        logger.removeHandler(handler)
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(log_level)
-    formatter = logging.Formatter(
-        "%(asctime)s - %(levelname)s - %(message)s",
-        datefmt="%Y-%m-%d %H:%M:%S"
+
+def configure_logging():
+    """Set up basic logging configuration"""
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s'
     )
-    console_handler.setFormatter(formatter)
-    logger.addHandler(console_handler)
 
 
 def read_csv_with_flexible_columns(file_path: str) -> Optional[pd.DataFrame]:
@@ -126,13 +120,20 @@ def split_csv_by_tables(
 if __name__ == "__main__":
     configure_logging()
 
-    # Use absolute paths
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    input_path = os.path.join(project_root, "scraped_data", "tuition_rates_table.csv")
-    output_dir = os.path.join(project_root, "processed_data", "tuition_tables")
+    # Set up environment-aware paths
+    BASE_DIR = Path(__file__).parent.parent
+    is_github = os.getenv('GITHUB_ACTIONS') == 'true'
+    logging.info(f"Running in {'GitHub Actions' if is_github else 'local'} environment")
+
+    # Input/output configuration
+    INPUT_FILE = BASE_DIR / "scraped_data" / "tuition_rates_table.csv"
+    OUTPUT_DIR = BASE_DIR / ("processed_data_git" if is_github else "processed_data") / "tuition_tables"
+
+    # Ensure output directory exists
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     split_csv_by_tables(
-        input_path,
-        output_dir,
+        input_filename=str(INPUT_FILE),
+        output_directory=str(OUTPUT_DIR),
         max_tables=8
     )

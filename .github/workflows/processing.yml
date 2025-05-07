@@ -1,0 +1,111 @@
+name: Daily Data Processing
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 3PM UTC daily (1 hour after scraping completes)
+  workflow_dispatch:       # Manual trigger option
+
+permissions:
+  contents: write  # Required for committing processed data back to repo
+
+jobs:
+  process-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    needs: execute-scrapers  # Wait for scraping to complete first
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Required for git operations
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install pandas
+
+      - name: Set up environment
+        run: |
+          echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
+          mkdir -p processed_data_git
+          mkdir -p processing_logs
+
+      - name: Run data processing scripts in order
+        run: |
+          echo "=== STARTING DATA PROCESSING ==="
+          
+          # 1. First processing script
+          echo "Running merging_raw_txt.py..."
+          python datapreparation/merging_raw_txt.py 2>&1 | tee processing_logs/merge_text_$(date +'%Y%m%d_%H%M%S').log
+          
+          # 2. Second processing script
+          echo "Running deadline_data_prep.py..."
+          python datapreparation/deadline_data_prep.py 2>&1 | tee processing_logs/clean_text_$(date +'%Y%m%d_%H%M%S').log
+          
+          # 3. Third processing script
+          echo "Running tuition_rates_data_prep.py..."
+          python datapreparation/tuition_rates_data_prep.py 2>&1 | tee processing_logs/tuition_tables_$(date +'%Y%m%d_%H%M%S').log
+          
+          # 4. Fourth processing script
+          echo "Running program_json_cleaning.py..."
+          python datapreparation/program_json_cleaning.py 2>&1 | tee processing_logs/financial_aid_$(date +'%Y%m%d_%H%M%S').log
+          
+          # 5. Fifth processing script
+          echo "Running tuition_tables_prep.py..."
+          python datapreparation/tuition_tables_prep.py 2>&1 | tee processing_logs/clean_json_$(date +'%Y%m%d_%H%M%S').log
+          
+          # 6. Sixth processing script
+          echo "Running csv_copy.py..."
+          python datapreparation/csv_copy.py 2>&1 | tee processing_logs/scholarship_tables_$(date +'%Y%m%d_%H%M%S').log
+          
+          # 7. Seventh processing script
+          echo "Running merged_data_cleaning.py..."
+          python datapreparation/merged_data_cleaning.py 2>&1 | tee processing_logs/merge_final_$(date +'%Y%m%d_%H%M%S').log
+
+      - name: Verify processed files
+        run: |
+          echo "=== PROCESSED DATA VERIFICATION ==="
+          echo "Directory structure:"
+          ls -l processed_data_git/
+          echo -e "\nFile sizes:"
+          find processed_data_git/ -type f -exec ls -lh {} \;
+
+      - name: Commit processed data
+        if: success()
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add processed_data_git/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update processed data [skip ci]"
+            git push
+            echo "Changes committed successfully"
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Upload processing logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-processing-logs
+          path: processing_logs/*.log
+          retention-days: 7
+
+      - name: Upload processed data
+        uses: actions/upload-artifact@v4
+        with:
+          name: processed-data
+          path: processed_data_git/*
+          retention-days: 7
+
+      - name: Final status notification
+        if: always()
+        run: |
+          echo "::notice::Data processing completed with status: ${{ job.status }}"
+          echo "View detailed logs: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
