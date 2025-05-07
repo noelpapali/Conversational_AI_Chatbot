@@ -1,6 +1,7 @@
 import os
 import logging
 import pinecone
+from pathlib import Path
 from configparser import ConfigParser
 from sentence_transformers import SentenceTransformer
 from logging_config import configure_logging
@@ -13,10 +14,17 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()]
 )
 
-# Load configuration from config.ini
-config = ConfigParser()
-config.read('../config.ini')
+# Detect environment
+IS_GITHUB = os.getenv('GITHUB_ACTIONS') == 'true'
 
+config = ConfigParser()
+
+# For GitHub, use the created config.ini in data_chunking folder
+if IS_GITHUB:
+    config.read('config.ini')
+else:
+    # Load configuration - keeps your local path handling
+    config.read('../config.ini')
 # Fetch embedding model name from config
 EMBEDDINGS_MODEL_NAME = config["embeddings"]["model_name"]
 
@@ -26,11 +34,12 @@ logging.info(f"Loaded embedding model: {EMBEDDINGS_MODEL_NAME}")
 
 # Fetch Pinecone settings from config
 PINECONE_API_KEY = config["pinecone"]["api_key"]
-PINECONE_ENV     = config["pinecone"]["env"]
-INDEX_NAME       = config["pinecone"]["index"]
+PINECONE_ENV = config["pinecone"]["env"]
+INDEX_NAME = config["pinecone"]["index"]
 
 # Initialize Pinecone using the new interface
 from pinecone import Pinecone, ServerlessSpec
+
 pc = Pinecone(api_key=PINECONE_API_KEY, spec=ServerlessSpec(cloud='aws', region=PINECONE_ENV))
 
 if INDEX_NAME not in pc.list_indexes().names():
@@ -39,6 +48,22 @@ if INDEX_NAME not in pc.list_indexes().names():
 
 index = pc.Index(INDEX_NAME)
 logging.info(f"Connected to Pinecone index: {INDEX_NAME}")
+
+
+def get_input_path():
+    """Resolve input file path for both local and GitHub environments"""
+    local_path = Path("../processed_data/cleaned_merged_text.txt")
+    github_path = Path(__file__).parent.parent / "processed_data" / "cleaned_merged_text.txt"
+
+    if local_path.exists():
+        return str(local_path)
+    elif github_path.exists():
+        return str(github_path)
+    else:
+        logging.error("Could not find input file in either location:")
+        logging.error(f"Local path: {local_path}")
+        logging.error(f"GitHub path: {github_path}")
+        exit(1)
 
 def split_text_into_overlapping_chunks(file_path, max_chunk_chars=2000, overlap_chars=400):
     """
@@ -123,7 +148,7 @@ def embed_and_upsert_documents(documents, batch_size=100):
     return {"status": "completed", "total_vectors": len(documents)}
 
 if __name__ == "__main__":
-    cleaned_file = "../processed_data/cleaned_merged_text.txt"
+    cleaned_file = get_input_path()  # Only changed this line
     if not os.path.exists(cleaned_file):
         logging.error(f"File {cleaned_file} does not exist.")
         exit(1)

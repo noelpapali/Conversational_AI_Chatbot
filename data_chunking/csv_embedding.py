@@ -7,6 +7,7 @@ from typing import List, Dict
 from sentence_transformers import SentenceTransformer
 from configparser import ConfigParser
 from pinecone import Pinecone, ServerlessSpec
+from pathlib import Path
 
 # Configure logging
 logging.basicConfig(
@@ -15,9 +16,15 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Detect environment
+IS_GITHUB = os.getenv('GITHUB_ACTIONS') == 'true'
+
 # Load configuration
 config = ConfigParser()
-config.read('../config.ini')
+if IS_GITHUB:
+    config.read('config.ini')  # Assuming config.ini is in the same directory in GitHub
+else:
+    config.read('../config.ini')
 
 # Initialize models and Pinecone
 EMBEDDINGS_MODEL_NAME = config["embeddings"]["model_name"]
@@ -105,20 +112,37 @@ def csv_to_text_chunks(
         logger.error(f"Error processing {csv_path}: {str(e)}")
         return []
 
-def process_all_csvs(base_dirs: List[str], batch_size: int = 100) -> None:
-    """Process all CSVs in given directories"""
+def get_processed_path(filename: str) -> str:
+    """Resolve processed file path for both local and GitHub environments"""
+    local_path = Path("../processed_data") / filename
+    github_path = Path(__file__).parent.parent / "processed_data" / filename
+
+    if local_path.exists():
+        return str(local_path)
+    elif github_path.exists():
+        return str(github_path)
+    else:
+        logger.error(f"Could not find processed file: {filename} in either location:")
+        logger.error(f"Local path: {local_path}")
+        logger.error(f"GitHub path: {github_path}")
+        exit(1)
+
+def process_all_csvs(batch_size: int = 100) -> None:
+    """Process all CSVs in the processed_data directory"""
     all_chunks = []
+    processed_dir = get_processed_path("")  # Get the processed_data directory path
 
-    # Find all CSV files
-    csv_files = []
-    for base_dir in base_dirs:
-        csv_files.extend(find_csv_files(base_dir))
-
-    if not csv_files:
-        logger.warning("No CSV files found")
+    if not os.path.exists(processed_dir):
+        logger.warning(f"Processed data directory not found: {processed_dir}")
         return
 
-    logger.info(f"Found {len(csv_files)} CSV files to process")
+    csv_files = find_csv_files(processed_dir)
+
+    if not csv_files:
+        logger.warning(f"No CSV files found in: {processed_dir}")
+        return
+
+    logger.info(f"Found {len(csv_files)} CSV files to process in: {processed_dir}")
 
     # Process files and collect chunks
     for csv_file in tqdm(csv_files, desc="Processing CSVs"):
@@ -164,10 +188,5 @@ if __name__ == "__main__":
         subprocess.check_call(["pip", "install", "tabulate"])
         import tabulate
 
-    # Define directories to search for CSVs
-    csv_dirs = [
-        "../processed_data"
-    ]
-
-    process_all_csvs(csv_dirs)
+    process_all_csvs()
     logger.info("CSV processing and embedding complete")

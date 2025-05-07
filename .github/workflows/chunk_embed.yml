@@ -1,0 +1,77 @@
+name: Data Chunking Pipeline
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # 6PM UTC daily
+  workflow_dispatch:
+
+jobs:
+  chunk-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install pinecone-client sentence-transformers langchain
+          pip install -r requirements.txt
+
+      - name: Set environment
+        run: echo "GITHUB_ACTIONS=true" >> $GITHUB_ENV
+
+      - name: Create config.ini
+        run: |
+          cat << EOF > data_chunking/config.ini
+          [pinecone]
+          api_key = ${{ secrets.PINECONE_API_KEY }}
+          env = ${{ secrets.PINECONE_ENV }}
+          index = ${{ secrets.PINECONE_INDEX }}
+          
+          [embeddings]
+          model_name = ${{ secrets.EMBEDDING_MODEL }}
+          
+          [openai]
+          api_key = ${{ secrets.OPENAI_API_KEY }}
+          model_name = gpt-4o-mini
+          temperature = 0.1
+          EOF
+
+      - name: Run chunking pipeline
+        working-directory: ./data_chunking
+        run: |
+          echo "=== STARTING CHUNKING PIPELINE ==="
+          
+          scripts=(
+            "txt_embedding.py"
+            "json_embedding.py"
+            "csv_embedding.py"
+          )
+          
+          for script in "${scripts[@]}"; do
+            echo "Running $script..."
+            if ! python "$script"; then
+              echo "::error::Failed to execute $script"
+              exit 1
+            fi
+            echo "Completed $script successfully"
+          done
+          
+          echo "=== CHUNKING PIPELINE COMPLETE ==="
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: chunking-data
+          path: |
+            data_chunking/*.log
+            data_chunking/outputs/*
+          retention-days: 3

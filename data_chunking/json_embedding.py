@@ -7,6 +7,7 @@ from sentence_transformers import SentenceTransformer
 from configparser import ConfigParser
 from pinecone import Pinecone, ServerlessSpec
 from transformers import AutoTokenizer
+from pathlib import Path
 
 # Configure logging
 logging.basicConfig(
@@ -15,9 +16,15 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Detect environment
+IS_GITHUB = os.getenv('GITHUB_ACTIONS') == 'true'
+
 # Load configuration
 config = ConfigParser()
-config.read('../config.ini')
+if IS_GITHUB:
+    config.read('config.ini')  # Assuming config.ini is in the same directory in GitHub
+else:
+    config.read('../config.ini')
 
 # Initialize models and Pinecone
 EMBEDDINGS_MODEL_NAME = config["embeddings"]["model_name"]
@@ -167,10 +174,7 @@ class JSONProcessor:
             if not isinstance(data, list):
                 data = [data]
 
-            if all(isinstance(item, dict) and set(item.keys()) == {'name', 'url'} for item in data):
-                return self.process_simple_format(data, file_path)
-            else:
-                return self.process_complex_format(data, file_path, metadata_fields)
+            return self.process_complex_format(data, file_path, metadata_fields)
 
         except Exception as e:
             logger.error(f"Error processing {file_path}: {str(e)}")
@@ -204,36 +208,83 @@ def embed_and_upsert(
             logger.error(f"Error upserting batch: {str(e)}")
 
 
-def process_all_jsons(json_files: List[str], metadata_fields: Optional[List[str]] = None) -> None:
+def get_input_path(filename: str) -> str:
+    """Resolve input file path for both local and GitHub environments"""
+    local_path = Path("../scraped_data") / filename
+    github_path = Path(__file__).parent.parent / "scraped_data" / filename
+
+    if local_path.exists():
+        return str(local_path)
+    elif github_path.exists():
+        return str(github_path)
+    else:
+        logger.error(f"Could not find input file: {filename} in either location:")
+        logger.error(f"Local path: {local_path}")
+        logger.error(f"GitHub path: {github_path}")
+        exit(1)
+
+def get_processed_path(filename: str) -> str:
+    """Resolve processed file path for both local and GitHub environments"""
+    local_path = Path("../processed_data") / filename
+    github_path = Path(__file__).parent.parent / "processed_data" / filename
+
+    if local_path.exists():
+        return str(local_path)
+    elif github_path.exists():
+        return str(github_path)
+    else:
+        logger.error(f"Could not find processed file: {filename} in either location:")
+        logger.error(f"Local path: {local_path}")
+        logger.error(f"GitHub path: {github_path}")
+        exit(1)
+
+
+def process_all_jsons(metadata_fields: Optional[List[str]] = None) -> None:
     """Process all JSON files and upsert to Pinecone"""
     processor = JSONProcessor(max_tokens=2000)
     all_chunks = []
 
-    for file_path in tqdm(json_files, desc="Processing JSON files"):
-        if not os.path.exists(file_path):
-            logger.warning(f"File not found: {file_path}")
-            continue
+    json_files = [
+        "utd_programs_links.json",
+        "cleaned_programs_data.json"
+    ]
 
-        chunks = processor.process_file(file_path, metadata_fields)
-        all_chunks.extend(chunks)
+    for filename in tqdm(json_files, desc="Processing JSON files"):
+        if "links" in filename:
+            file_path = get_input_path(filename)
+            if not os.path.exists(file_path):
+                logger.warning(f"File not found: {file_path}")
+                continue
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                if not isinstance(data, list):
+                    data = [data]
+                chunks = processor.process_simple_format(data, file_path)
+                all_chunks.extend(chunks)
+            except Exception as e:
+                logger.error(f"Error processing {file_path}: {str(e)}")
+        elif "data" in filename:
+            file_path = get_processed_path(filename)
+            if not os.path.exists(file_path):
+                logger.warning(f"File not found: {file_path}")
+                continue
+            chunks = processor.process_file(file_path, metadata_fields)
+            all_chunks.extend(chunks)
+        else:
+            logger.warning(f"Skipping unknown file: {filename}")
 
     if not all_chunks:
         logger.warning("No valid chunks found to process")
         return
 
-    logger.info(f"Processed {len(all_chunks)} chunks from {len(json_files)} files")
+    logger.info(f"Processed {len(all_chunks)} chunks")
     embed_and_upsert(all_chunks)
 
 
 if __name__ == "__main__":
-    # Example JSON files to process
-    json_files = [
-        "../scraped_data/utd_programs_links.json",
-        "../processed_data/cleaned_programs_data.json"
-    ]
-
     # Metadata fields to preserve
     metadata_fields = ["name", "url", "degreelevel", "program_name"]
 
-    process_all_jsons(json_files, metadata_fields)
+    process_all_jsons(metadata_fields)
     logger.info("JSON processing and embedding complete")
