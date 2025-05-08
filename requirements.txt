@@ -3,13 +3,13 @@ beautifulsoup4>=4.11.0
 selenium>=4.0.0
 webdriver-manager>=3.8.0
 pandas>=1.5.0
-streamlit==1.28.0
-langchain==0.0.340
-langchain-community==0.0.10
-langchain-openai==0.0.2
-langchain-pinecone==0.0.1
-pinecone-client==2.2.4
+streamlit==1.32.0
+langchain==0.1.5
+langchain-community==0.0.20
+langchain-openai==0.0.8
+langchain-pinecone==0.1.0
+pinecone-client==3.0.0
 sentence-transformers==2.2.2
-huggingface-hub==0.16.4
-openai==0.28.0
+huggingface-hub==0.19.4
+openai==1.12.0  # Must be >=1.6.1 for langchain-openai
 python-dotenv==1.0.0
