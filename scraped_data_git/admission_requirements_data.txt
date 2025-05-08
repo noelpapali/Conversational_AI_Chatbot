@@ -96,3 +96,13 @@ Links:
 - JSOM Orientation Requirements - https://jindal.utdallas.edu/undergraduate-programs/orientation/
 
 ================================================================================
+URL: https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
+Headings:
+- Undergraduate Recruitment & Onboarding Office
+Content:
+The Jindal SchoolThe University of Texas at Dallas(972) 883-5889jsomug@utdallas.edu
+Links:
+- (972) 883-5889 - tel:1-972-883-5889
+- jsomug@utdallas.edu - mailto:jsomug@utdallas.edu
+
+================================================================================
