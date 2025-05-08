@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""Enhanced JSOM Chatbot with Config + Guidelines"""
+import os
 from configparser import ConfigParser
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_openai import ChatOpenAI
@@ -8,9 +7,39 @@ import pinecone
 from pinecone import Pinecone, ServerlessSpec
 from typing import List, Dict, Optional
 
+
 # ====================== Configuration ======================
-config = ConfigParser()
-config.read("config.ini")
+def get_config():
+    """Get configuration from either config.ini or environment variables."""
+    config = ConfigParser()
+
+    # Try to read from config.ini first (local development)
+    config_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'config.ini'))
+    if os.path.exists(config_path):
+        config.read(config_path)
+        return config
+
+    # If config.ini doesn't exist, use environment variables (deployment)
+    config['pinecone'] = {
+        'api_key': os.environ.get('PINECONE_API_KEY', ''),
+        'env': os.environ.get('PINECONE_ENV', ''),
+        'index': os.environ.get('PINECONE_INDEX', '')
+    }
+
+    config['embeddings'] = {
+        'model_name': os.environ.get('EMBEDDING_MODEL', 'sentence-transformers/all-mpnet-base-v2')
+    }
+
+    config['openai'] = {
+        'api_key': os.environ.get('OPENAI_API_KEY', ''),
+        'model_name': os.environ.get('OPENAI_MODEL_NAME', 'gpt-3.5-turbo'),
+        'temperature': os.environ.get('TEMPERATURE', '0.1')
+    }
+
+    return config
+
+
+config = get_config()
 
 # Pinecone
 PINECONE_API_KEY = config["pinecone"]["api_key"]
@@ -32,34 +61,20 @@ class ChatbotGuidelines:
 
     def __init__(self):
         self.rules = """
-        You are a friendly and knowledgeable assistant for the Jindal School of Management at UT Dallas. 
-        With a strong background of over 20 years' experience in customer service, you specialize in helping 
-        students, parents, and prospective applicants find accurate and relevant information. Your primary goal 
-        is to provide clear, helpful, and well-structured answers based only on the retrieved Knowledge Base. 
-        You understand prior conversation context, ask clarifying questions if needed, and format responses 
-        in an engaging and helpful tone.
+        You are a friendly and knowledgeable assistant for the Jindal School of Management at UT Dallas.
+        With a strong background of over 20 years' experience in customer service, you specialize in helping
+        students, parents, and prospective applicants find accurate and relevant information. Your primary goal
+        is to provide clear, helpful, and well-structured answers based only on the retrieved Knowledge Base.
+        You understand prior conversation context and format responses in an engaging and helpful tone.
 
         Guidelines:
 
         1. Answer Only From the Retrieved Knowledge Base
             • Use only the information retrieved from the Knowledge Base.
             • Never invent or hallucinate facts.
-            • If there is no direct match:
-                - Ask a clarifying question to understand the user's intent.
-                - If still unclear, share any partially relevant or nearby information that may help and ask if that is what they meant.
-                - Do not say "I don't have enough information." Instead, guide the user toward helpful next steps or options.
+            • If there is no direct match, generate two follow-up questions related to UTD or JSOM.
 
-        2. Ask Clarifying Questions When Needed
-            If the user's question is vague, grammatically unclear, or not clearly specific to UT Dallas or JSOM:
-            • Politely ask a clarifying question before answering.
-            • If the question could refer to multiple topics, ask which one they meant.
-            • Wait for confirmation or additional details before proceeding.
-            Examples:
-                • "Just to confirm—are you asking about how to apply for the Business Analytics program or about getting started after admission?"
-                • "Could you clarify whether you're asking about course registration, tuition fees, or something else?"
-                • "Are you referring to a program at UT Dallas, or a different university?"
-
-        3. Structure the Answer for Clarity
+        2. Structure the Answer for Clarity
             • Use bullet points for grouped facts or options.
             • Use numbered lists for sequential steps or processes.
             • Use short paragraphs for summaries or general explanations.
@@ -68,45 +83,40 @@ class ChatbotGuidelines:
                 • Start with the exact answer (location, deadline, fee, etc.).
                 • Do not lead with general background unless the user explicitly asks.
 
-        4. Use a Friendly and Professional Tone
+        3. Use a Friendly and Professional Tone
             • Start with a friendly phrase like "Happy to help!" or "Great question!" (especially for first responses).
             • Keep follow-up responses polite, respectful, and to the point.
 
-        5. Include a Relevant URL
+        4. Include a Relevant URL
             • End with the most relevant single link from the Knowledge Base.
             • The URL must come from the part of the knowledge base where the answer was derived.
             • Do not guess or fabricate URLs.
 
-        6. Handle Misspellings or Grammar Errors Gracefully
+        5. Handle Misspellings or Grammar Errors Gracefully
             • If the user's question is unclear due to grammar or typos, politely confirm:
                 Example: "Just to clarify, did you mean: 'How do I apply for the BA program?'"
             • Wait for confirmation before answering.
 
-        7. End With a Helpful Wrap-Up (Simple Questions Only)
+        6. End With a Helpful Wrap-Up (Simple Questions Only)
             • If the user's question is straightforward (e.g., fact-based or procedural), end with:
                 "Let me know if you have any other questions. I'm happy to help!"
             • Do not use this wrap-up if follow-up questions are provided (see next).
 
-        8. Suggest Two Follow-Up Questions (Only for Complex Queries)
-            • Use this if the user's question is multi-part, complex, or likely to raise follow-up concerns.
-            • Provide two fully worded follow-up questions the user may logically ask next.
-            • The answer to each follow-up question must be available in the retrieved Knowledge Base.
-            • Do not suggest questions whose answers aren't supported by the current context.
+        7. Suggest Two Follow-Up Questions (Only when no direct answer is found)
+            • Use this if there is no direct match in the retrieved Knowledge Base.
+            • Provide two fully worded follow-up questions the user may logically ask next, related to UTD or JSOM.
+            • The answer to each follow-up question must be potentially available within a broader UTD/JSOM context.
             Example:
-                User: "How do I get a scholarship at JSOM?"
+                User: "What are the events in TEXAS?"
                 You might also be wondering:
-                    1. "How do I increase my chances of receiving the Dean's Excellence Scholarship?"
-                    2. "What are the application deadlines for JSOM scholarships?"
-
-        Core Principles (JSOM Chatbot Persona):
-        * You are a JSOM advisor chatbot. Strictly follow these instructions:
-            1. Knowledge Base Only – Use only Pinecone-retrieved documents. Never invent content.
-            2. Clarity & Structure – Use numbered or bulleted formats with key info first.
-            3. Unclear Queries – Ask a single clarifying question if needed.
-            4. Politeness & Tone – Use warm phrases. Avoid phrases like "I don't know."
-            5. Links – End with a relevant, valid URL from the Knowledge Base.
+                    1. "What are the events at UTD?"
+                    2. "What are the upcoming events at JSOM?"
+            Example:
+                User: "what are scholarships available in US for masters?"
+                You might also be wondering:
+                    1. "what are scholarships available at UTD?"
+                    2. "what are scholarships are offered at JSOM?"
         """
-
 
     def get_rules(self) -> str:
         return self.rules
@@ -143,24 +153,51 @@ class JSOMChatbot:
         )
         self.retriever = self.vector_store.as_retriever(search_kwargs={'k': 10})
 
-    def _retrieve_knowledge(self, query: str) -> str:
+    def _retrieve_knowledge(self, query: str) -> List:
         """Fetch relevant documents from Pinecone."""
         docs = self.retriever.invoke(query)
         print("\n=== Retrieved Documents ===")  # Debug preview
         for i, doc in enumerate(docs):
             print(f"[Doc {i + 1}]: {doc.page_content[:200]}...")
-        return "\n\n".join(doc.page_content for doc in docs)
+        return docs  # Return the actual documents
+
+    def generate_follow_up_questions(self, message: str) -> List[str]:
+        """Generate follow-up questions related to UTD or JSOM."""
+        prompt = f"""
+        The user asked a question that does not have a direct answer in the retrieved knowledge base.
+        The user's question was: '{message}'
+
+        Generate two follow-up questions that the user might be interested in that are specifically related to UT Dallas or the Jindal School of Management. These questions should explore related topics that a prospective or current student might ask. Ensure the questions are fully worded.
+        """
+        try:
+            response = self.llm.invoke(prompt)
+            follow_up_questions = [q.strip() for q in response.content.strip().split("\n") if q.strip()]
+            return follow_up_questions[:2]  # Return only the first two
+        except Exception as e:
+            print(f"Error generating follow-up questions: {str(e)}")
+            return []
 
     def get_answer(self, message: str) -> str:
         """Generate response following guidelines."""
-        # Greeting handling
-        if any(word in message.lower() for word in ["hello", "hi", "hey"]):
-            return "Hello! I'm your JSOM advisor. How can I assist you today?"
+        # Retrieve knowledge FIRST
+        docs = self._retrieve_knowledge(message)
 
-        # Retrieve knowledge
-        knowledge = self._retrieve_knowledge(message)
+        # Check if no relevant documents were retrieved
+        if not docs:
+            # Only generate follow-up questions if the initial greeting wasn't the sole input
+            if not any(word in message.lower() for word in ["hello", "hi", "hey"]):
+                follow_up_questions = self.generate_follow_up_questions(message)
+                if follow_up_questions:
+                    response = "I specialize in providing information about the Jindal School of Management at UT Dallas. Here are two follow-up questions you might be interested in:\n"
+                    for i, question in enumerate(follow_up_questions, 1):
+                        response += f"{i}. {question}\n"
+                    return {"response": response, "follow_ups": follow_up_questions, "needs_clarification": False}
+                else:
+                    return {"response": "I'm sorry, but I couldn't find any specific information related to your query within my knowledge base. Is there anything else about UT Dallas or JSOM I can help you with?", "follow_ups": [], "needs_clarification": False}
+            else:
+                return {"response": "Hello! I'm your JSOM advisor. How can I assist you today?", "follow_ups": [], "needs_clarification": False}
 
-        # Build RAG prompt
+        # If relevant documents were found, respond with those details
         prompt = f"""
         {self.guidelines.get_rules()}
 
@@ -171,15 +208,15 @@ class JSOMChatbot:
         {message}
 
         **Knowledge Base**:
-        {knowledge}
+        {''.join(doc.page_content for doc in docs)}
         """
 
         try:
             response = self.llm.invoke(prompt)
             self.history.append(f"User: {message}\nBot: {response.content}")
-            return response.content
+            return {"response": response.content, "follow_ups": [], "needs_clarification": False}
         except Exception as e:
-            return f"Error: {str(e)}"
+            return {"response": f"Error: {str(e)}", "follow_ups": [], "needs_clarification": False}
 
 
 # ====================== Main Execution ======================
