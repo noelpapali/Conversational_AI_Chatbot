@@ -22,8 +22,8 @@ def initialize_session_state():
 
 def setup_page_config():
     """Configure page settings."""
-    st.set_page_config(page_title="JSOM Expert Assistant", layout="wide")
-    st.title("JSOM Expert Assistant")
+    st.set_page_config(page_title="JSOM Assistant", layout="wide")
+    st.title("JSOM Assistant")
     st.markdown("""
         <style>
             .user-message-container {
