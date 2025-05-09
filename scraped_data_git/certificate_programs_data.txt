@@ -5,56 +5,6 @@ Advance with a Certificate:
 Paragraph: The Jindal School of Management offers certificates through its master’s degree programs, executive education programs and centers and institutes. Certificates are available in two formats: Academic and Professional (non-credit). Students with a university degree may pursue academic certificates for academic credit, and students with or without a college degree may pursue non-credit professional certificates.
 Paragraph: Below is a complete list of all Jindal School certificates — both Academic and Professional — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page below.
 
-Academic Certificates:
-
-Accounting and Finance:
-
-Healthcare:
-
-Information Systems:
-
-Innovation and Entrepreneurship:
-
-Operations and Supply Chain Management:
-
-Organizational Behavior, Coaching and Consulting:
-
-Professional Certificates (Non-Credit):
-Paragraph: The following professional certificates are available from the Jindal School:
-
-Aviation:
-
-Governance:
-
-Management:
-
-Academic Certificates:
-
-Accounting and Finance:
-
-Healthcare:
-
-Information Systems:
-
-Innovation and Entrepreneurship:
-
-Operations and Supply Chain Management:
-
-Organizational Behavior, Coaching and Consulting:
-
-Professional Certificates (Non-Credit):
-Paragraph: The following professional certificates are available from the Jindal School:
-
-Aviation:
-
-Governance:
-
-Management:
-
-Operations and Supply Chain Management:
-
-Organizational Behavior, Coaching and Consulting:
-
 Certificate Formats:
 
 JSOM Academic Certificates:
@@ -160,56 +110,6 @@ Wideblocks:
 Advance with a Certificate:
 Paragraph: The Jindal School of Management offers certificates through its master’s degree programs, executive education programs and centers and institutes. Certificates are available in two formats: Academic and Professional (non-credit). Students with a university degree may pursue academic certificates for academic credit, and students with or without a college degree may pursue non-credit professional certificates.
 Paragraph: Below is a complete list of all Jindal School certificates — both Academic and Professional — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page below.
-
-Academic Certificates:
-
-Accounting and Finance:
-
-Healthcare:
-
-Information Systems:
-
-Innovation and Entrepreneurship:
-
-Operations and Supply Chain Management:
-
-Organizational Behavior, Coaching and Consulting:
-
-Professional Certificates (Non-Credit):
-Paragraph: The following professional certificates are available from the Jindal School:
-
-Aviation:
-
-Governance:
-
-Management:
-
-Academic Certificates:
-
-Accounting and Finance:
-
-Healthcare:
-
-Information Systems:
-
-Innovation and Entrepreneurship:
-
-Operations and Supply Chain Management:
-
-Organizational Behavior, Coaching and Consulting:
-
-Professional Certificates (Non-Credit):
-Paragraph: The following professional certificates are available from the Jindal School:
-
-Aviation:
-
-Governance:
-
-Management:
-
-Operations and Supply Chain Management:
-
-Organizational Behavior, Coaching and Consulting:
 
 Certificate Formats:
 
@@ -334,7 +234,6 @@ Knowledge is Power in Programs:
 Paragraph: Professional certificate programs provide an avenue for the working professional to get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment. Academic credit cannot be earned by attending these programs.
 
 Professional Certificates (Non-Credit):
-Paragraph: The following professional certificates are available from the Jindal School:
 
 Aviation:
 

@@ -1,76 +1,70 @@
 Month: May, 2025
 
-Date: Thursday, May 08, 2025
-Time: 11:00 AM - 03:00 PM
-Title: Stress Less w/JSOM
+Date: Friday, May 09, 2025
+Time: 01:00 PM - 03:00 PM
+Title: MS Information and Technology Management Graduation & Awards Celebration
 Location: 
-Event URL: 49578907724483&instance=49578912495236
---------------------------------------------------
-Date: Thursday, May 08, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Virtual MS in International Management Studies Info Session - Domestic Students
-Location: 
-Event URL: 46332742735074&instance=48686047939534
---------------------------------------------------
-Date: Monday, May 12, 2025
-Time: 07:00 PM - 08:00 PM
-Title: Take Your Career to New Heights by Earning a Customized Online MBA.  Attend this Information Session to Find Out How.
-Location: 
-Event URL: 48366057101628&instance=48366096846418
+Event URL: 48976948084734&instance=48976948085759
 --------------------------------------------------
 Date: Tuesday, May 13, 2025
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Q&A Virtual Session with Ambassadors
-Location: 
-Event URL: 49312908901027&instance=49312950449635
---------------------------------------------------
-Date: Tuesday, May 13, 2025
-Time: 12:00 PM - 01:00 PM
-Title: The UT Dallas Executive MBA (Webinar)
-Location: 
-Event URL: 48224364869121&instance=48224364870146
---------------------------------------------------
-Date: Wednesday, May 14, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 47040472425615&instance=47040472462497
---------------------------------------------------
-Date: Monday, May 19, 2025
-Time: 01:00 PM - 01:30 PM
-Title: Fast Track in MS Marketing Information Session
-Location: 
-Event URL: 49524872757865&instance=49524872758890
---------------------------------------------------
-Date: Tuesday, May 20, 2025
 Time: 09:00 AM - 10:00 AM
+Title: MS Marketing Tuesday Information Session with Q & A Period
+Location: 
+Event URL: 48092670524491&instance=48092670525516
+--------------------------------------------------
+Date: Tuesday, May 13, 2025
+Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48527502735766&instance=49410038064225
+Event URL: 48527473661042&instance=49409994687288
 --------------------------------------------------
-Date: Thursday, May 22, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
+Date: Tuesday, May 13, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM - Roadmap to Consulting for International Candidates
 Location: 
-Event URL: 39581282702414&instance=49117424367888
+Event URL: 49551377932489&instance=49551383853213
+--------------------------------------------------
+Date: Thursday, May 15, 2025
+Time: 04:00 PM - 06:00 PM
+Title: UTDsolv Capstone Expo
+Location: 
+Event URL: 49427352471182&instance=49427379003613
+--------------------------------------------------
+Date: Monday, May 19, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM CMC - Career Mapping
+Location: 
+Event URL: 49488825697145&instance=49488836047362
+--------------------------------------------------
+Date: Tuesday, May 20, 2025
+Time: 05:00 PM - 06:00 PM
+Title: UTD MBA In-person Information Session - MBA Lounge
+Location: 
+Event URL: 49313227008136&instance=49313253947266
+--------------------------------------------------
+Date: Friday, May 23, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
+Location: 
+Event URL: 49489110343353&instance=49489118849381
 --------------------------------------------------
 Date: Tuesday, May 27, 2025
 Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - Using AI is OK!
+Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 49488876969118&instance=49488885994698
---------------------------------------------------
-Date: Wednesday, May 28, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 47040472425615&instance=47040472463522
+Event URL: 48527473661042&instance=49410005073601
 --------------------------------------------------
 Date: Thursday, May 29, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Joint Online MBA & MS in Leadership and Organizational Development Info Session
+Time: 08:00 AM - 09:00 AM
+Title: Meet the Admissions Team for coffee next to campus!
 Location: 
-Event URL: 49602980920873&instance=49602980921898
+Event URL: 49312971106806&instance=49313106163493
+--------------------------------------------------
+Date: Friday, May 30, 2025
+Time: 08:00 AM - 06:00 PM
+Title: 17th Annual UT Dallas  Project Management Symposium
+Location: 
+Event URL: 49454588509517&instance=49454588511566
 --------------------------------------------------
 Month: Jun, 2025
 
@@ -86,41 +80,47 @@ Title: Transform Your Professional Journey with our Customized Online MBA at UT 
 Location: 
 Event URL: 48366111281389&instance=48366140412589
 --------------------------------------------------
-Date: Wednesday, June 11, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
-Location: 
-Event URL: 39581282702414&instance=49481218313521
---------------------------------------------------
-Date: Wednesday, June 11, 2025
-Time: 07:00 PM - 08:00 PM
-Title: Joint Online MBA & MS in Leadership and Organizational Development Info Session
-Location: 
-Event URL: 49603097255636&instance=49603106140534
---------------------------------------------------
-Date: Tuesday, June 17, 2025
-Time: 09:00 AM - 10:00 AM
+Date: Tuesday, June 10, 2025
+Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48527502735766&instance=49472619666696
+Event URL: 48527473661042&instance=49472564821950
 --------------------------------------------------
-Date: Monday, June 23, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC - Using AI is OK!
+Date: Wednesday, June 11, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49488973053184&instance=49488981498128
+Event URL: 47040472425615&instance=47040472465571
 --------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Monday, June 16, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Accelerate Your Success with an MBA Degree. Learn About our Customized Online MBA at UT Dallas.
 Location: 
-Event URL: 49552274386956&instance=49552274387981
+Event URL: 47846077877975&instance=48366187013620
 --------------------------------------------------
-Date: Wednesday, June 25, 2025
+Date: Wednesday, June 18, 2025
 Time: 12:00 PM - 01:00 PM
-Title: EMBA Virtual Info Session: Application Tips & Program Overview
+Title: JSOM CMC - Career Mapping
 Location: 
-Event URL: 48224417122520&instance=48224417123545
+Event URL: 49488847913296&instance=49488851606022
+--------------------------------------------------
+Date: Tuesday, June 24, 2025
+Time: 12:00 PM - 01:00 PM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527473661042&instance=49472564823999
+--------------------------------------------------
+Date: Wednesday, June 25, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 47040472425615&instance=47040472467620
+--------------------------------------------------
+Date: Friday, June 27, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
+Location: 
+Event URL: 49489051991308&instance=49489093038108
 --------------------------------------------------
 Month: Jul, 2025
 
@@ -255,4 +255,12 @@ Time: 08:30 AM - 09:30 AM
 Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
 Event URL: 49552326633933&instance=49552326633934
+--------------------------------------------------
+Month: Nov, 2025
+
+Date: Tuesday, November 04, 2025
+Time: 03:30 PM - 04:00 PM
+Title: MSBA&AI Help Desk
+Location: 
+Event URL: 49552390646901&instance=49552390648950
 --------------------------------------------------

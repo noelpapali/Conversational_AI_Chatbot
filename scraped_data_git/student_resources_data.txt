@@ -16,9 +16,9 @@ For assistance, call:(972) 883-2750Office Location:JSOM 2.250Office Hours: Mon-T
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/scholarships/
 Headings:
-- The Jindal School offers merit and need-based scholarships to help new and current students pay for their education.
 - Search and Apply for Scholarships
 Content:
+The Jindal School offers merit and need-based scholarships to help new and current students pay for their education.
 The Jindal School is proud of the many donors who make these scholarships available to its bright and talented students.
 Our goal is to award scholarships that help students leverage the Texas-resident tuition rate for two consecutive semesters. Each scholarship has specific criteria. Applicants should read the requirements carefully.
 Links:
@@ -88,8 +88,9 @@ Links:
 URL: https://jindal.utdallas.edu/student-resources/labs/
 Title: No Title
 Headings:
-- The Naveen Jindal School of Management offers various labs to undergraduate and graduate students in JSOM.
 Content:
+The Naveen Jindal School of Management offers various labs to undergraduate and graduate students in JSOM.These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
+These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
 These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
 Lists:
 Links:
@@ -392,11 +393,11 @@ URL: https://jindal.utdallas.edu/student-resources/business-communication-center
 Headings:
 Content:
 Innovative Approach
-We integrate communication and artificial intelligence (AI), focusing on the fundamentals of effective business communication. In skills-based projects, students explore the AI Applicant Tracking Systems (ATS), resume optimization, interview strategies and presentations.
+We integrate communication and artificial intelligence (AI), emphasizing the fundamentals of effective business communication. Students explore the AI Applicant Tracking Systems (ATS), resume optimization, interview strategies and presentations in skills-based projects.
 Practical Takeaways
-Each student creates, refines and improves a LinkedIn profile optimized for job searching, a resume ready to pass online screening and a Personalized Portfolio (“POP”).
+Each student creates, refines and improves a LinkedIn profile optimized for job searching, a resume ready to pass online screening and a Personalized Portfolio (POP).
 Internship Preparation
-We actively prepare students for securing internships across a wide range of industries, ensuring they have valuable real-world experiences to enhance their career prospects.
+We prepare students to secure internships across a range of industries, ensuring they have valuable real-world experiences to enhance their career prospects.
 Lists:
 Links:
 
@@ -439,12 +440,12 @@ A: Although tutors ask students for the assignments parameters students do not a
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/deans-council/
 Headings:
-- Thank you for your interest in the Naveen Jindal School of Management Dean’s Council and for visiting the Council’s webpage.
+- Thank you for your interest in the Dean’s Council
 Content:
-The Dean’s Council is an extraordinary organization who sole mission is to enhance the school’s global reputation. For over a decade, the Council has helped build and grow awareness of our top-notch students, our highly-ranked degree programs, our research-prolific faculty and our overall accomplishments.
-Over the years, the Council has played a formidable role in showcasing the school’s accomplishments in the AnnualOWLIE Awardswhere students, faculty, employers and organizations are recognized for their outstanding leadership.
-The Council accepts applications twice a year from students who care deeply about the continued and future success of the Jindal School of Management; who are committed to giving back to the school that has made a difference in their lives and who are humble in their contribution and dedication. It is the unity, humbleness and professionalism that members possess that have delivered extraordinary results for many years.
-I encourage you to read the mission statement and core values listed below, and if you are called to serve, please apply for and support the Dean’s Council. I have high expectations that it will continue to enhance our school and our programs. I congratulate past Dean’s Council members for all they have done and achieved, and I look forward to the successes of future members.
+The Dean’s Council is an extraordinary organization with a sole mission to enhance the school’s global reputation. For over a decade, the Council has helped to build and grow awareness of our top-notch students, our highly-ranked degree programs, our research-prolific faculty and our overall accomplishments.
+Over the years, the Council has played a formidable role in showcasing the school’s accomplishments in the annualOWLIE Awardsduring which students, faculty, employers and organizations are recognized for outstanding leadership.
+The Council accepts applications twice a year from students who care deeply about the continued and future success of the Jindal School of Management, are committed to giving back to the school that has made a difference in their lives and are humble in their contribution and dedication. It is through the unity, humility and professionalism of members that have delivered extraordinary results for many years.
+I encourage you to read the mission statement and core values listed below, and if you feel called to serve, please apply for and support the Dean’s Council. I have high expectations that it will continue to enhance our school and our programs. I congratulate past Dean’s Council members for all they have done and achieved, and I look forward to the successes of future members.
 Lists:
 Links:
 - OWLIE Awards - /jindal/student-resources/deans-council/owlie-awards
