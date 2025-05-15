@@ -36,7 +36,7 @@ To get started with the project locally, follow these steps:
 git clone https://github.com/PavanChandan29/Conversational-AI-Bot-for-UTDallas-JSOM-
 cd Conversational-AI-Bot-for-UTDallas-JSOM-
 
-### 2. pip install -r requirements.txt
+pip install -r requirements.txt
 
-### 3. streamlit run webapp.py
+streamlit run webapp.py
 
