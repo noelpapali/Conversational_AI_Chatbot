@@ -1,5 +1,5 @@
 # Conversational AI Bot for UT Dallas JSOM 
-# https://jsom-botship.streamlit.app/
+  https://jsom-botship.streamlit.app/
 
 Welcome to the **Conversational AI Bot** project! This bot is designed to assist students, faculty, and staff at **UT Dallas Jindal School of Management (JSOM)** by providing answers to frequently asked questions (FAQs) about admissions, programs, scholarships, and general information related to JSOM.
 
