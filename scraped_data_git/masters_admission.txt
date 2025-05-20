@@ -7,11 +7,11 @@ Table: Master’s Application Deadlines
   Summer, March 1
 
 Paragraphs in entry-content:
-  Accelerate your career today
+  Accelerate Your Career Today
   
   * If applying after the regular application deadline, please review the late application deadline reminders available on this page.
   Graduate applicants must meet both The University of Texas at Dallas graduate school requirements as well as program-specific admission requirements.
-  We reserve the right to make an admission decision based on an incomplete application whereby the admission committee believes that the candidate is admissible.
+  We reserve the right to make an admission decision based on an incomplete application, whereby the admission committee believes that the candidate is admissible.
 
 Section: Application Requirements
 
@@ -20,11 +20,11 @@ Heading: Personal Objectives Statement
 
 --------------------------------------------------
 
-Heading: Resume
-  Paragraph: A detailed resume must be submitted with the online application, or you can upload a copy through the Admissions Forms folder in Galaxy. Our Admissions Committee regularly reviews candidates with no work experience on a regular basis, even though work experience is required.
+Heading: Résumé
+  Paragraph: A detailed résumé must be submitted with the online application, or you can upload a copy through the Admissions Forms folder in Galaxy. Our Admissions Committee regularly reviews candidates with no work experience on a regular basis, even though work experience is required.
   List:
     - Applicants with No Experience: Our programs accept a significant number of students without work experience. You can list your academic projects, internships and extra co-curricular achievements from your previous degrees; these can help the Admissions Committee evaluate your candidacy.
-    - Applicants with Work Experience: A detailed resume of all work history. Internship experiences can also be included here. Your resume can also list academic and extra co-curricular experiences from your previous degrees. Including details that can help the Admissions Committee evaluate your candidacy is recommended.
+    - Applicants with Work Experience: A detailed résumé with a complete work history. Internship experiences can also be included here. Your résumé can also list academic and extracurricular experiences from your previous degrees. Including details that can help the Admissions Committee evaluate your candidacy is recommended.
 
 --------------------------------------------------
 
@@ -55,7 +55,7 @@ Section: Additional Considerations
 
 Heading: Optional GRE/GMAT Test Score
   Paragraph: A GRE/GMAT test score is not required, and students have the option to submit a test score if desired. A GRE/GMAT test score will only be used for admission purposes if one is provided by the applicant.
-  Paragraph: To indicate where the official GMAT score should be sent, please follow the list of GMAT Program Codes or, if submitting the GRE, use our GRE School Code: R6897. (No department code is needed)
+  Paragraph: To indicate where the official GMAT score should be sent, please follow the list of GMAT Program Codes or, if submitting the GRE, use our GRE School Code: R6897. (No department code is needed.)
 
 --------------------------------------------------
 
@@ -70,7 +70,7 @@ Heading: Submitting Documents
   Paragraph: File Requirements for Uploading Documents:
   List:
     - Format: Scanned and saved as a PDF file (photos not acceptable).
-    - If your transcript is issued to you via hard-copy format in a sealed envelope, it is acceptable for you to open it and scan to PDF for upload.
+    - If your transcript is issued to you via hard-copy format in a sealed envelope, it is acceptable for you to open it and scan it to a PDF for upload.
     - File size should be 10MB or less.
     - Files cannot be password-protected or have a digital signature.
     - Upload each document separately.

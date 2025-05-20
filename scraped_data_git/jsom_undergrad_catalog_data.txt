@@ -6721,7 +6721,7 @@ Links:
 - search results - /searchresults
 - UT Dallas - https://www.utdallas.edu
 - OISDS - https://oisds.utdallas.edu
-- CourseBook Support - mailto:wat@utdallas.edu
+- CourseBook Support - mailto:wat@utdallas.edu?subject=CourseBook Support
 - Privacy Policy - https://www.utdallas.edu/privacy/
 
 ================================================================================
