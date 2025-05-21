@@ -1292,7 +1292,7 @@ MKT 6301Marketing Management
 MKT 6309Marketing Data Analysis and Research
 MKT 6336Pricing Analytics
 MKT 6343Social Media Marketing and Insights
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6347 Marketing Analytics Project
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -1603,6 +1603,7 @@ Links:
 - MKT 6309 - https://coursebook.utdallas.edu/search/now/mkt6309
 - MKT 6336 - https://coursebook.utdallas.edu/search/now/mkt6336
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
@@ -2633,7 +2634,7 @@ FIN 6308Regulation of Business and Financial Markets
 FIN 6310Investment Theory and Practice
 FIN 6314Fixed Income Securities
 FIN 6325Macroeconomics and Financial Markets
-FIN 6330 Behavioral Finance
+FIN 6330Behavioral Finance
 FIN 6353Financial Modeling for Investment Analysis (if not used in core)
 FIN 6362Corporate Risk Management
 FIN 6364Portfolio Analysis and Management
@@ -2650,7 +2651,7 @@ FIN 6316Private Equity Finance
 FIN 6335Energy Finance
 FIN 6350Advanced Corporate Finance
 FIN 6352Financial Modeling for Valuation (if not used in core)
-FIN 6355 Corporate Finance and Policy
+FIN 6355Corporate Finance and Policy
 FIN 6356Mergers and Acquisitions
 FIN 6357Digital Transformation and Value Creation
 FIN 6362Corporate Risk Management
@@ -2695,13 +2696,13 @@ FIN 6322Real Estate Finance and Investment
 FIN 6323Real Estate Market Analysis and Investment
 FIN 6325Macroeconomics and Financial Markets
 FIN 6326Real Estate Law and Contracts
-FIN 6330 Behavioral Finance
+FIN 6330Behavioral Finance
 FIN 6335Energy Finance
 FIN 6336Analysis of Financial Data in the Energy Industries
 FIN 6350Advanced Corporate Finance
 FIN 6352Financial Modeling for Valuation (if not used in core)
 FIN 6353Financial Modeling for Investment Analysis (if not used in core)
-FIN 6355 Corporate Finance and Policy
+FIN 6355Corporate Finance and Policy
 FIN 6356Mergers and Acquisitions
 FIN 6357Digital Transformation and Value Creation
 FIN 6362Corporate Risk Management
@@ -2710,7 +2711,7 @@ FIN 6366International Financial Management
 FIN 6368Financial Information and Analysis
 FIN 6370Advanced Theory of Finance and Its Applications
 FIN 6380Global Fund Management
-FIN 6381 Introductory Mathematical Finance
+FIN 6381Introductory Mathematical Finance
 FIN 6382Financial Applications and Statistical Methods
 FIN 6392Financial Technology and Blockchain
 FIN 6V90Individual Study in Finance
@@ -2814,6 +2815,7 @@ Links:
 - FIN 6310 - https://coursebook.utdallas.edu/search/now/fin6310
 - FIN 6314 - https://coursebook.utdallas.edu/search/now/fin6314
 - FIN 6325 - https://coursebook.utdallas.edu/search/now/fin6325
+- FIN 6330 - https://coursebook.utdallas.edu/search/now/fin6330
 - FIN 6353 - https://coursebook.utdallas.edu/search/now/fin6353
 - FIN 6362 - https://coursebook.utdallas.edu/search/now/fin6362
 - FIN 6364 - https://coursebook.utdallas.edu/search/now/fin6364
@@ -2827,6 +2829,7 @@ Links:
 - FIN 6335 - https://coursebook.utdallas.edu/search/now/fin6335
 - FIN 6350 - https://coursebook.utdallas.edu/search/now/fin6350
 - FIN 6352 - https://coursebook.utdallas.edu/search/now/fin6352
+- FIN 6355 - https://coursebook.utdallas.edu/search/now/fin6355
 - FIN 6356 - https://coursebook.utdallas.edu/search/now/fin6356
 - FIN 6357 - https://coursebook.utdallas.edu/search/now/fin6357
 - FIN 6362 - https://coursebook.utdallas.edu/search/now/fin6362
@@ -2877,11 +2880,13 @@ Links:
 - FIN 6323 - https://coursebook.utdallas.edu/search/now/fin6323
 - FIN 6325 - https://coursebook.utdallas.edu/search/now/fin6325
 - FIN 6326 - https://coursebook.utdallas.edu/search/now/fin6326
+- FIN 6330 - https://coursebook.utdallas.edu/search/now/fin6330
 - FIN 6335 - https://coursebook.utdallas.edu/search/now/fin6335
 - FIN 6336 - https://coursebook.utdallas.edu/search/now/fin6336
 - FIN 6350 - https://coursebook.utdallas.edu/search/now/fin6350
 - FIN 6352 - https://coursebook.utdallas.edu/search/now/fin6352
 - FIN 6353 - https://coursebook.utdallas.edu/search/now/fin6353
+- FIN 6355 - https://coursebook.utdallas.edu/search/now/fin6355
 - FIN 6356 - https://coursebook.utdallas.edu/search/now/fin6356
 - FIN 6357 - https://coursebook.utdallas.edu/search/now/fin6357
 - FIN 6362 - https://coursebook.utdallas.edu/search/now/fin6362
@@ -2890,6 +2895,7 @@ Links:
 - FIN 6368 - https://coursebook.utdallas.edu/search/now/fin6368
 - FIN 6370 - https://coursebook.utdallas.edu/search/now/fin6370
 - FIN 6380 - https://coursebook.utdallas.edu/search/now/fin6380
+- FIN 6381 - https://coursebook.utdallas.edu/search/now/fin6381
 - FIN 6382 - https://coursebook.utdallas.edu/search/now/fin6382
 - FIN 6392 - https://coursebook.utdallas.edu/search/now/fin6392
 - FIN 6V90 - https://coursebook.utdallas.edu/search/now/fin6v90
@@ -3296,9 +3302,9 @@ FTEC 6313Cloud Computing
 FTEC 6314Financial Applications of Web Technologies
 FTEC 6319Mathematics for Financial Analytics
 FTEC 6320Statistical Methods for Financial Analytics
-FTEC 6321 Advanced Statistical Methods for Financial Analytics
+FTEC 6321Advanced Statistical Methods for Financial Analytics
 FTEC 6324 Financial Applications of Natural Language Processing
-FTEC 6325 Algorithmic Trading and Robo-Advising
+FTEC 6325Algorithmic Trading and Robo-Advising
 FTEC 6331Risk Evaluation and Management
 FTEC 6334Financial Applications of Machine Learning
 FTEC 6V98Financial Technology and Analytics Internship
@@ -3318,7 +3324,7 @@ The Graduate Certificate in Financial Data Science focuses on the analytical tec
 Students interested in just the Graduate Certificate in Financial Data Science can enroll in the Master of Science of Financial Technology and Analytics program as a part-time student. However, they would need to identify this interest in their application. Students earn this certificate by completing the following courses with a "B" or better.
 FTEC 6310Financial Information and Analytics
 FTEC 6320Statistical Analysis for Financial Analysis
-FTEC 6321 Advanced Statistical Analysis for Financial Analysis
+FTEC 6321Advanced Statistical Analysis for Financial Analysis
 FTEC 6V99Special Topics in Financial Technology and Analytics (taken 2 times)
 Academic certification programs follow the same application and admission processes as graduate degree programs. All dates and deadlines can be located in the UTD Academic Calendar. Failure to register in advance and on-time results in a late fee. Students may contact the JSOM advising office for details.
 Lists:
@@ -3412,6 +3418,8 @@ Links:
 - FTEC 6314 - https://coursebook.utdallas.edu/search/now/ftec6314
 - FTEC 6319 - https://coursebook.utdallas.edu/search/now/ftec6319
 - FTEC 6320 - https://coursebook.utdallas.edu/search/now/ftec6320
+- FTEC 6321 - https://coursebook.utdallas.edu/search/now/ftec6321
+- FTEC 6325 - https://coursebook.utdallas.edu/search/now/ftec6325
 - FTEC 6331 - https://coursebook.utdallas.edu/search/now/ftec6331
 - FTEC 6334 - https://coursebook.utdallas.edu/search/now/ftec6334
 - FTEC 6V98 - https://coursebook.utdallas.edu/search/now/ftec6v98
@@ -3422,6 +3430,7 @@ Links:
 - FTEC 6314 - https://coursebook.utdallas.edu/search/now/ftec6314
 - FTEC 6310 - https://coursebook.utdallas.edu/search/now/ftec6310
 - FTEC 6320 - https://coursebook.utdallas.edu/search/now/ftec6320
+- FTEC 6321 - https://coursebook.utdallas.edu/search/now/ftec6321
 - FTEC 6V99 - https://coursebook.utdallas.edu/search/now/ftec6v99
 - About the 2024 Catalog - /2024/graduate/home
 - About UT Dallas - /2024/graduate/home/about-utdallas
@@ -5772,7 +5781,7 @@ FIN 6322Real Estate Finance and Investment
 FIN 6323Real Estate Market Analysis and Investment
 FIN 6325Macroeconomics and Financial Markets
 FIN 6326Real Estate Law and Contracts
-FIN 6330 Behavioral Finance
+FIN 6330Behavioral Finance
 FIN 6352(ENTP 6355) Financial Modeling For Valuation
 FIN 6356Mergers and Acquisitions
 FIN 6357Digital Transformation and Value Creation
@@ -5837,7 +5846,7 @@ ENTP 6375Technology and New Product Development
 ENTP 6380Market Entry Strategies
 ENTP 6388Managing Innovation within the Corporation
 ENTP 6390Business Model Innovation
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 OPRE 6301(SYSM 6303) Statistics and Data Analysis
 OPRE 6335Risk and Decision Analysis
 OPRE 6379Product Lifecycle Management
@@ -5872,7 +5881,7 @@ MKT 6352Marketing Web Analytics and Insights
 MKT 6353Customer Analytics and Insights
 MKT 6380Market Entry Strategies
 MKT 6384Advanced Marketing Web Analytics and Insights
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 OPRE 6301(SYSM 6303) Statistics and Data Analysis
 Supply Chain Management (9-18 semester credit hours)
 OPRE 6301(SYSM 6303) Statistics and Data Analysis
@@ -6028,6 +6037,7 @@ Links:
 - FIN 6323 - https://coursebook.utdallas.edu/search/now/fin6323
 - FIN 6325 - https://coursebook.utdallas.edu/search/now/fin6325
 - FIN 6326 - https://coursebook.utdallas.edu/search/now/fin6326
+- FIN 6330 - https://coursebook.utdallas.edu/search/now/fin6330
 - FIN 6352 - https://coursebook.utdallas.edu/search/now/fin6352
 - ENTP 6355 - https://coursebook.utdallas.edu/search/now/entp6355
 - FIN 6356 - https://coursebook.utdallas.edu/search/now/fin6356
@@ -6093,6 +6103,7 @@ Links:
 - ENTP 6380 - https://coursebook.utdallas.edu/search/now/entp6380
 - ENTP 6388 - https://coursebook.utdallas.edu/search/now/entp6388
 - ENTP 6390 - https://coursebook.utdallas.edu/search/now/entp6390
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - OPRE 6301 - https://coursebook.utdallas.edu/search/now/opre6301
 - SYSM 6303 - https://coursebook.utdallas.edu/search/now/sysm6303
 - OPRE 6335 - https://coursebook.utdallas.edu/search/now/opre6335
@@ -6126,6 +6137,7 @@ Links:
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
 - MKT 6380 - https://coursebook.utdallas.edu/search/now/mkt6380
 - MKT 6384 - https://coursebook.utdallas.edu/search/now/mkt6384
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - OPRE 6301 - https://coursebook.utdallas.edu/search/now/opre6301
 - SYSM 6303 - https://coursebook.utdallas.edu/search/now/sysm6303
 - OPRE 6301 - https://coursebook.utdallas.edu/search/now/opre6301
@@ -7119,7 +7131,7 @@ MKT 6334Digital Sales Strategy
 MKT 6336Pricing Analytics
 MKT 6340Marketing Projects
 MKT 6343Social Media Marketing and Insights3
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6346Marketing Retail Analytics
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -7153,7 +7165,7 @@ MKT 6V99Special Topics in Marketing
 MIS 6392Causal Analytics and A/B Testing
 Tier II Electives
 MKT 6340Marketing Projects
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6353Customer Analytics and Insights
 MKT 6V98Marketing Internship3
 IMS 6314Global E-Business Marketing
@@ -7162,7 +7174,7 @@ Choose any one three-semester credit hour MKT, BUAN, ENTP, IMS, MIS, or OPRE pre
 Marketing Analytics Track
 Marketing Analytics Core Courses (6 semester credit hours)
 MKT 6337Predictive Analytics for Data Science
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 Marketing Analytics Elective Courses (15 semester credit hours), at least six semester credit hours must have a MKT prefix.
 MKT 6336Pricing Analytics
 MKT 6340Marketing Projects
@@ -7206,7 +7218,7 @@ MIS 6393Foundations of Digital Product Management
 ENTP 6388Managing Innovation within the Corporation
 MIS 6360Agile Project Management
 MIS 6396User Experience Design
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6380Market Entry Strategies
 OPRE 6362Project Management in Engineering and Operations
 Tier II Electives
@@ -7234,7 +7246,7 @@ MKT 6336Pricing Analytics
 MKT 6337Predictive Analytics for Data Science
 MKT 6340Marketing Projects
 MKT 6343Social Media Marketing and Insights3
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6346Marketing Retail Analytics
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -7422,6 +7434,7 @@ Links:
 - MKT 6340 - https://coursebook.utdallas.edu/search/now/mkt6340
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
 - 3 - #footnote-3
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6346 - https://coursebook.utdallas.edu/search/now/mkt6346
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
@@ -7452,12 +7465,14 @@ Links:
 - MKT 6V99 - https://coursebook.utdallas.edu/search/now/mkt6v99
 - MIS 6392 - https://coursebook.utdallas.edu/search/now/mis6392
 - MKT 6340 - https://coursebook.utdallas.edu/search/now/mkt6340
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
 - MKT 6V98 - https://coursebook.utdallas.edu/search/now/mkt6v98
 - 3 - #footnote-3
 - IMS 6314 - https://coursebook.utdallas.edu/search/now/ims6314
 - MIS 6378 - https://coursebook.utdallas.edu/search/now/mis6378
 - MKT 6337 - https://coursebook.utdallas.edu/search/now/mkt6337
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6336 - https://coursebook.utdallas.edu/search/now/mkt6336
 - MKT 6340 - https://coursebook.utdallas.edu/search/now/mkt6340
 - MKT 6346 - https://coursebook.utdallas.edu/search/now/mkt6346
@@ -7496,6 +7511,7 @@ Links:
 - ENTP 6388 - https://coursebook.utdallas.edu/search/now/entp6388
 - MIS 6360 - https://coursebook.utdallas.edu/search/now/mis6360
 - MIS 6396 - https://coursebook.utdallas.edu/search/now/mis6396
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6380 - https://coursebook.utdallas.edu/search/now/mkt6380
 - OPRE 6362 - https://coursebook.utdallas.edu/search/now/opre6362
 - ENTP 6360 - https://coursebook.utdallas.edu/search/now/entp6360
@@ -7521,6 +7537,7 @@ Links:
 - MKT 6340 - https://coursebook.utdallas.edu/search/now/mkt6340
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
 - 3 - #footnote-3
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6346 - https://coursebook.utdallas.edu/search/now/mkt6346
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
@@ -12247,7 +12264,7 @@ MKT 6301Marketing Management
 MKT 6309Marketing Data Analysis and Research
 MKT 6336Pricing Analytics
 MKT 6343Social Media Marketing and Insights
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6347 Marketing Analytics Project
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -12558,6 +12575,7 @@ Links:
 - MKT 6309 - https://coursebook.utdallas.edu/search/now/mkt6309
 - MKT 6336 - https://coursebook.utdallas.edu/search/now/mkt6336
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
@@ -13089,7 +13107,7 @@ MKT 6301Marketing Management
 MKT 6309Marketing Data Analysis and Research
 MKT 6336Pricing Analytics
 MKT 6343Social Media Marketing and Insights
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6347 Marketing Analytics Project
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -13400,6 +13418,7 @@ Links:
 - MKT 6309 - https://coursebook.utdallas.edu/search/now/mkt6309
 - MKT 6336 - https://coursebook.utdallas.edu/search/now/mkt6336
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
@@ -13931,7 +13950,7 @@ MKT 6301Marketing Management
 MKT 6309Marketing Data Analysis and Research
 MKT 6336Pricing Analytics
 MKT 6343Social Media Marketing and Insights
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6347 Marketing Analytics Project
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -14242,6 +14261,7 @@ Links:
 - MKT 6309 - https://coursebook.utdallas.edu/search/now/mkt6309
 - MKT 6336 - https://coursebook.utdallas.edu/search/now/mkt6336
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
@@ -14773,7 +14793,7 @@ MKT 6301Marketing Management
 MKT 6309Marketing Data Analysis and Research
 MKT 6336Pricing Analytics
 MKT 6343Social Media Marketing and Insights
-MKT 6345 Quantitative Marketing Decision-Making
+MKT 6345Quantitative Marketing Decision-Making
 MKT 6347 Marketing Analytics Project
 MKT 6349MarTech Ecosystem
 MKT 6352Marketing Web Analytics and Insights
@@ -15084,6 +15104,7 @@ Links:
 - MKT 6309 - https://coursebook.utdallas.edu/search/now/mkt6309
 - MKT 6336 - https://coursebook.utdallas.edu/search/now/mkt6336
 - MKT 6343 - https://coursebook.utdallas.edu/search/now/mkt6343
+- MKT 6345 - https://coursebook.utdallas.edu/search/now/mkt6345
 - MKT 6349 - https://coursebook.utdallas.edu/search/now/mkt6349
 - MKT 6352 - https://coursebook.utdallas.edu/search/now/mkt6352
 - MKT 6353 - https://coursebook.utdallas.edu/search/now/mkt6353
@@ -19896,9 +19917,9 @@ FTEC 6313Cloud Computing
 FTEC 6314Financial Applications of Web Technologies
 FTEC 6319Mathematics for Financial Analytics
 FTEC 6320Statistical Methods for Financial Analytics
-FTEC 6321 Advanced Statistical Methods for Financial Analytics
+FTEC 6321Advanced Statistical Methods for Financial Analytics
 FTEC 6324 Financial Applications of Natural Language Processing
-FTEC 6325 Algorithmic Trading and Robo-Advising
+FTEC 6325Algorithmic Trading and Robo-Advising
 FTEC 6331Risk Evaluation and Management
 FTEC 6334Financial Applications of Machine Learning
 FTEC 6V98Financial Technology and Analytics Internship
@@ -19918,7 +19939,7 @@ The Graduate Certificate in Financial Data Science focuses on the analytical tec
 Students interested in just the Graduate Certificate in Financial Data Science can enroll in the Master of Science of Financial Technology and Analytics program as a part-time student. However, they would need to identify this interest in their application. Students earn this certificate by completing the following courses with a "B" or better.
 FTEC 6310Financial Information and Analytics
 FTEC 6320Statistical Analysis for Financial Analysis
-FTEC 6321 Advanced Statistical Analysis for Financial Analysis
+FTEC 6321Advanced Statistical Analysis for Financial Analysis
 FTEC 6V99Special Topics in Financial Technology and Analytics (taken 2 times)
 Academic certification programs follow the same application and admission processes as graduate degree programs. All dates and deadlines can be located in the UTD Academic Calendar. Failure to register in advance and on-time results in a late fee. Students may contact the JSOM advising office for details.
 Lists:
@@ -20012,6 +20033,8 @@ Links:
 - FTEC 6314 - https://coursebook.utdallas.edu/search/now/ftec6314
 - FTEC 6319 - https://coursebook.utdallas.edu/search/now/ftec6319
 - FTEC 6320 - https://coursebook.utdallas.edu/search/now/ftec6320
+- FTEC 6321 - https://coursebook.utdallas.edu/search/now/ftec6321
+- FTEC 6325 - https://coursebook.utdallas.edu/search/now/ftec6325
 - FTEC 6331 - https://coursebook.utdallas.edu/search/now/ftec6331
 - FTEC 6334 - https://coursebook.utdallas.edu/search/now/ftec6334
 - FTEC 6V98 - https://coursebook.utdallas.edu/search/now/ftec6v98
@@ -20022,6 +20045,7 @@ Links:
 - FTEC 6314 - https://coursebook.utdallas.edu/search/now/ftec6314
 - FTEC 6310 - https://coursebook.utdallas.edu/search/now/ftec6310
 - FTEC 6320 - https://coursebook.utdallas.edu/search/now/ftec6320
+- FTEC 6321 - https://coursebook.utdallas.edu/search/now/ftec6321
 - FTEC 6V99 - https://coursebook.utdallas.edu/search/now/ftec6v99
 - About the 2024 Catalog - /2024/graduate/home
 - About UT Dallas - /2024/graduate/home/about-utdallas
@@ -20424,9 +20448,9 @@ FTEC 6313Cloud Computing
 FTEC 6314Financial Applications of Web Technologies
 FTEC 6319Mathematics for Financial Analytics
 FTEC 6320Statistical Methods for Financial Analytics
-FTEC 6321 Advanced Statistical Methods for Financial Analytics
+FTEC 6321Advanced Statistical Methods for Financial Analytics
 FTEC 6324 Financial Applications of Natural Language Processing
-FTEC 6325 Algorithmic Trading and Robo-Advising
+FTEC 6325Algorithmic Trading and Robo-Advising
 FTEC 6331Risk Evaluation and Management
 FTEC 6334Financial Applications of Machine Learning
 FTEC 6V98Financial Technology and Analytics Internship
@@ -20446,7 +20470,7 @@ The Graduate Certificate in Financial Data Science focuses on the analytical tec
 Students interested in just the Graduate Certificate in Financial Data Science can enroll in the Master of Science of Financial Technology and Analytics program as a part-time student. However, they would need to identify this interest in their application. Students earn this certificate by completing the following courses with a "B" or better.
 FTEC 6310Financial Information and Analytics
 FTEC 6320Statistical Analysis for Financial Analysis
-FTEC 6321 Advanced Statistical Analysis for Financial Analysis
+FTEC 6321Advanced Statistical Analysis for Financial Analysis
 FTEC 6V99Special Topics in Financial Technology and Analytics (taken 2 times)
 Academic certification programs follow the same application and admission processes as graduate degree programs. All dates and deadlines can be located in the UTD Academic Calendar. Failure to register in advance and on-time results in a late fee. Students may contact the JSOM advising office for details.
 Lists:
@@ -20540,6 +20564,8 @@ Links:
 - FTEC 6314 - https://coursebook.utdallas.edu/search/now/ftec6314
 - FTEC 6319 - https://coursebook.utdallas.edu/search/now/ftec6319
 - FTEC 6320 - https://coursebook.utdallas.edu/search/now/ftec6320
+- FTEC 6321 - https://coursebook.utdallas.edu/search/now/ftec6321
+- FTEC 6325 - https://coursebook.utdallas.edu/search/now/ftec6325
 - FTEC 6331 - https://coursebook.utdallas.edu/search/now/ftec6331
 - FTEC 6334 - https://coursebook.utdallas.edu/search/now/ftec6334
 - FTEC 6V98 - https://coursebook.utdallas.edu/search/now/ftec6v98
@@ -20550,6 +20576,7 @@ Links:
 - FTEC 6314 - https://coursebook.utdallas.edu/search/now/ftec6314
 - FTEC 6310 - https://coursebook.utdallas.edu/search/now/ftec6310
 - FTEC 6320 - https://coursebook.utdallas.edu/search/now/ftec6320
+- FTEC 6321 - https://coursebook.utdallas.edu/search/now/ftec6321
 - FTEC 6V99 - https://coursebook.utdallas.edu/search/now/ftec6v99
 - About the 2024 Catalog - /2024/graduate/home
 - About UT Dallas - /2024/graduate/home/about-utdallas
