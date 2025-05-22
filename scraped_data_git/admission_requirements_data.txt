@@ -13,19 +13,46 @@ Headings:
 Content:
 All students interested in applying as an undergraduate must apply directly to UT Dallas via ApplyTexas or the Common Application. The application will be considered for both admission to UT Dallas and the Jindal School of Management.
 To learn more about the application process, deadlines, fees and financial aid, please visit:
-UT Dallas undergraduate admission officeorFuture Undergraduates page
 Links:
-- UT Dallas undergraduate admission office - http://www.utdallas.edu/enroll
+- Undergraduate admission office - http://www.utdallas.edu/enroll
 - Future Undergraduates page - https://jindal.utdallas.edu/jindal/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
 
 ================================================================================
 URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
 Headings:
-- Transfer Student – Admission Process
+- Admission Process
+- Freshman Student
+- Transfer Student
 Content:
+Applicants are considered a “first-time freshman” if the students’ first enrollment at a college or university, excluding summer, will occur at UT Dallas within two years of graduating from high school. Applicants are still considered a “first-time freshman” if they earn college credit before high school graduation (i.e., dual enrollment courses).
+Applicants are encouraged to apply to UT Dallas through ApplyTexas or Common Application during their senior year of high school in order to be considered for admission and scholarship opportunities.
 Applicants are considered a “transfer student” if they have previously completed college-level coursework at an accredited institution (excluding the summer following high school). Applicants can apply to UT Dallas through ApplyTexas or Common Application to start during the fall, spring and summer semesters.
 Links:
+- Freshman Student Application Process - https://enroll.utdallas.edu/freshman/
 - Transfer Student Application Process - https://enroll.utdallas.edu/transfer/
+
+================================================================================
+URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
+Headings:
+- Freshman Student
+- Transfer Student
+Content:
+Applicants are considered a “first-time freshman” if the students’ first enrollment at a college or university, excluding summer, will occur at UT Dallas within two years of graduating from high school. Applicants are still considered a “first-time freshman” if they earn college credit before high school graduation (i.e., dual enrollment courses).
+Applicants are encouraged to apply to UT Dallas through ApplyTexas or Common Application during their senior year of high school in order to be considered for admission and scholarship opportunities.
+Applicants are considered a “transfer student” if they have previously completed college-level coursework at an accredited institution (excluding the summer following high school). Applicants can apply to UT Dallas through ApplyTexas or Common Application to start during the fall, spring and summer semesters.
+Links:
+- Freshman Student Application Process - https://enroll.utdallas.edu/freshman/
+- Transfer Student Application Process - https://enroll.utdallas.edu/transfer/
+
+================================================================================
+URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
+Headings:
+- Questions or concerns regarding applying to UT Dallas and The Jindal School of Management?
+Content:
+Applicants are encouraged to meet with our staff and ask questions about applying to UT Dallas and the Jindal School of Management:
+Links:
+- jsomug@utdallas.edu - mailto:jsomug@utdallas.edu
+- admission@utdallas.edu - mailto:admission@utdallas.edu
 
 ================================================================================
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/

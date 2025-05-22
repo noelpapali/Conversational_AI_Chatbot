@@ -1695,10 +1695,6 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: UTDsolv Capstone Expo
-	- Text: UTDsolv Capstone Expo
-	  Href: https://jindal.utdallas.edu/calendar/49427352471182&instance=49427379003613/49427352471182&instance=49427379003613
-
 Context: Spring 2025 Commencement Ceremony
 	- Text: Spring 2025 Commencement Ceremony
 	  Href: https://registrar.utdallas.edu/graduation/commencement-schedule/
