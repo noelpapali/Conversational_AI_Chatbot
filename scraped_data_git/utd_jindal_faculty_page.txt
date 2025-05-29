@@ -282,7 +282,7 @@ Assistant Professor, Information Systems
 andrewlee@utdallas.edu||JSOM 4.427
 
 Professor, Organizations, Strategy and International Management
-sxl029100@utdallas.edu|(972) 883-6267|JSOM 4.409
+lee.1085@utdallas.edu|(972) 883-6267|JSOM 4.409
 
 Clinical Professor, Finance and Managerial Economics
 plewin@utdallas.edu|(972) 883-2729|JSOM 3.223
@@ -1305,7 +1305,7 @@ JSOM 4.427
 
 Seung-Hyun (Sean)  Lee
 Professor, Organizations, Strategy and International Management
-sxl029100@utdallas.edu
+lee.1085@utdallas.edu
 (972) 883-6267
 JSOM 4.409
 

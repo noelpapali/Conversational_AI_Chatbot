@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: New Certificate Program at Jindal School Offers Training in Mediation and Dispute Resolution
+Title Link: https://jindal.utdallas.edu/news/new-certificate-program-at-jindal-school-offers-training-in-mediation-and-dispute-resolution/
+Excerpt: In an era of rising workplace conflict and communication breakdowns, a new professional certificate from the Naveen Jindal School of Management equips professionals with the tools to resolve disputes with skill and empathy. Housed within the Organizational Behavior, Coaching and Consulting (OBCC) department in the Jindal School’s Executive Education division, the 40-hour, fully interactive Professional […]
+Meta Details: May 28th, 2025 |Academics,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/05/handshake-2_630x630.jpg
+
+==================================================
+
 Title: Jindal School Research Shows Patients Trust Fellow Patients More Than AI Accuracy
 Title Link: https://jindal.utdallas.edu/news/jindal-school-research-shows-patients-trust-fellow-patients-more-than-ai-accuracy-2/
 Excerpt: A study conducted by a researcher from the Naveen Jindal School of Management finds that when patients are presented with both algorithm accuracy and peer acceptance information in a medical artificial intelligence system, their decisions are more strongly influenced by what fellow patients have accepted — even when the accuracy of the AI algorithm is […]
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/05/fu_jen_catholic_university_
 Title: Study by Jindal School Researcher and PhD Alumni Shows How Digitization Is Transforming Startup Innovation
 Title Link: https://jindal.utdallas.edu/news/study-by-jindal-school-researcher-and-phd-alumni-shows-how-digitization-is-transforming-startup-innovation/
 Excerpt: A study by a researcher and two alumni from the Naveen Jindal School of Management examines how digitization has reshaped startup innovation over the past decade. H. Dennis Park Dr. H. Dennis Park, an associate professor in the Jindal School’s Organization, Strategy, and International Management Area, explores how a shift toward the digitization of inventive […]
-Meta Details: May 13th, 2025 |Alumni,Faculty/Research,Featured
+Meta Details: May 13th, 2025 |Alumni,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/05/statup_innovation_graphic_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/utd-comtech-explores-the-future-of-
 Excerpt: Will artificial intelligence replace bank tellers, accountants and financial analysts or will it become part of the team to make banking safer and faster than ever? The second Fintech & Digital Assets Workshop, also known as UTD COMTECH, answered these questions and more. Held Feb. 21 at the Davidson-Gundy Alumni Center, it was organized by […]
 Meta Details: March 4th, 2025 |Events,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/03/utd_comtech_2025_630x630.jpg
-
-==================================================
-
-Title: Jindal School Researchers Win Best Paper for Human-AI Sales Model
-Title Link: https://jindal.utdallas.edu/news/jindal-school-researchers-win-best-paper-for-human-ai-sales-model/
-Excerpt: A team of researchers, including two from the Naveen Jindal School of Management, has found a way to improve the hiring process for the sales profession by using artificial intelligence. Howard Dover Dr. Howard Dover and Dr. Khai Chiong, both from the Jindal School’s Marketing Area, and their co-authors won the Best Paper on AI […]
-Meta Details: February 28th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/02/AdobeStock_930092753_630x630.jpg
 
 ==================================================
 
