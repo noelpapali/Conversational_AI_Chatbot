@@ -451,3 +451,15 @@ Links:
 - OWLIE Awards - /jindal/student-resources/deans-council/owlie-awards
 
 ================================================================================
+URL: https://jindal.utdallas.edu/student-resources/deans-council/
+Headings:
+- Dean’s Council Details
+Content:
+Lists:
+Links:
+- Undergraduate Council - /jindal/student-resources/deans-council/undergraduate
+- Graduate Council - /jindal/student-resources/deans-council/graduate
+- OWLIE Awards - /jindal/student-resources/deans-council/owlie-awards
+- Reach Us - /jindal/student-resources/deans-council/reach-us
+
+================================================================================
