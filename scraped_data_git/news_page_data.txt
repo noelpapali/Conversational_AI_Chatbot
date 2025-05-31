@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Study Reveals Public Favors Chatbot Answers Over Those of Physicians
+Title Link: https://jindal.utdallas.edu/news/study-reveals-public-favors-chatbot-answers-over-those-of-physicians/
+Excerpt: A study by a team of researchers from the Naveen Jindal School of Management reveals that when laypeople compare answers from licensed physicians to those from AI chatbots like ChatGPT, they consistently prefer the AI — even when experts rate the chatbot’s answers as lower in clinical quality. The working paper — “What People Think […]
+Meta Details: May 30th, 2025 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/05/robot_vs_doctor_630x630.png
+
+==================================================
+
 Title: New Certificate Program at Jindal School Offers Training in Mediation and Dispute Resolution
 Title Link: https://jindal.utdallas.edu/news/new-certificate-program-at-jindal-school-offers-training-in-mediation-and-dispute-resolution/
 Excerpt: In an era of rising workplace conflict and communication breakdowns, a new professional certificate from the Naveen Jindal School of Management equips professionals with the tools to resolve disputes with skill and empathy. Housed within the Organizational Behavior, Coaching and Consulting (OBCC) department in the Jindal School’s Executive Education division, the 40-hour, fully interactive Professional […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/05/handshake-2_630x630.jpg
 Title: Jindal School Research Shows Patients Trust Fellow Patients More Than AI Accuracy
 Title Link: https://jindal.utdallas.edu/news/jindal-school-research-shows-patients-trust-fellow-patients-more-than-ai-accuracy-2/
 Excerpt: A study conducted by a researcher from the Naveen Jindal School of Management finds that when patients are presented with both algorithm accuracy and peer acceptance information in a medical artificial intelligence system, their decisions are more strongly influenced by what fellow patients have accepted — even when the accuracy of the AI algorithm is […]
-Meta Details: May 27th, 2025 |Faculty/Research,Featured
+Meta Details: May 27th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/05/featured_image_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/healthcare-emba-at-jindal-school-eq
 Excerpt: Some members of the Fall 2024 Healthcare Leadership and Management EMBA graduating class An educational partnership that began in 2011 between the Naveen Jindal School of Management at The University of Texas at Dallas and several prominent healthcare organizations in Texas has equipped more than 300 physicians and staff members from prominent organizations such as […]
 Meta Details: March 6th, 2025 |Academics
 Image URL: https://jindal.utdallas.edu/files/2025/03/fall2024_EMBA_Houston_Group_630X630.png
-
-==================================================
-
-Title: UTD COMTECH Explores the Future of Financial Technology
-Title Link: https://jindal.utdallas.edu/news/utd-comtech-explores-the-future-of-financial-technology/
-Excerpt: Will artificial intelligence replace bank tellers, accountants and financial analysts or will it become part of the team to make banking safer and faster than ever? The second Fintech & Digital Assets Workshop, also known as UTD COMTECH, answered these questions and more. Held Feb. 21 at the Davidson-Gundy Alumni Center, it was organized by […]
-Meta Details: March 4th, 2025 |Events,Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/03/utd_comtech_2025_630x630.jpg
 
 ==================================================
 
