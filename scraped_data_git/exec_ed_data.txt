@@ -25,59 +25,64 @@ Paragraph: Business professionals and corporations will recognize the Executive 
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
+Nickquolette Barrett – MS LOD Coaching:
 
-Denis Zub (EMBA 2022):
+Rob Stogsdill – MS LOD Coaching:
 
 Sean Seabrook, MS LOD:
 
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
-
-Ellie Shollenberger:
-
-Nickquolette Barrett – MS LOD Coaching:
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Curtis Clark:
-
 Esteban Santos, EMBA 2021:
 
-Bill Disario:
+David Gill:
 
-Erinn Marks, GLEMBA ’19:
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Denis Zub (EMBA 2022):
+
+Thomas Rodgers (EMBA 2022):
 
 Imraan Husain, GLEMBA ’17:
 Paragraph: Director, 
   Articulator Dental Management
 
-Mohammed Omer, GLEMBA ’19:
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
 
-Jacob Heller, MS LOD:
-
-Megan Lightfoot Metzger, MS LOD:
-
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
-
-Qiana Levy:
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
 
 Andrew Svatek, EMBA 2022:
 Paragraph: Director of Operations, 
   Svatek Consulting
 
-David Gill:
+Jacob Heller, MS LOD:
 
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
+Megan Lightfoot Metzger, MS LOD:
+
+Curtis Clark:
+
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
+
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
+
+Tamer Elshamy, GLEMBA ’19:
+Paragraph: Sales Director, 
+ Fawry Banking and Payment Technology Services
 
 Certificates:
 Paragraph: Below is a complete list of all Executive Education certificates — both Academic and Professional (non-credit) — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page.
@@ -116,19 +121,6 @@ Paragraph: We develop and continuously improve programs that incorporate a broad
 Executive Education Alumni Spotlights:
 Link: See all Executive Education Alumni Spotlights (URL: /execed/voices/alumni-spotlights)
 
-Will McIntosh, EMBA’06:
-Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
-Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
-
-Joseph James, MBA’10:
-Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
-
-Charles Gillis, MBA’04:
-Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
-
 Sarah Hagan, EMBA’11:
 Paragraph: CFO, 
  Omnitracs
@@ -138,8 +130,25 @@ Sid Keswani, MBA’09:
 Paragraph: President, Pandora Americas
 Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
 
+Charles Gillis, MBA’04:
+Paragraph: Executive Director, 
+ Munsch Hardt Kopf & Harr, PC
+Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
+
+Will McIntosh, EMBA’06:
+Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
+Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
+
+Joseph James, MBA’10:
+Paragraph: Entrepreneur
+Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
+
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
+
+What Makes a Good EMBA Candidate?:
+Paragraph: An Excellent Career Investment
+Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
 Difference Between EMBA and PMBA:
 Paragraph: What is the difference between EMBA and PMBA?
@@ -148,10 +157,6 @@ Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 c
 How to Write an Admissions Essay for an Executive MBA Program:
 Paragraph: The power of your personal story
 Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
-
-What Makes a Good EMBA Candidate?:
-Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
@@ -262,21 +267,21 @@ List:
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
 
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
-
 How to Write an Admissions Essay for an Executive MBA Program:
 Paragraph: The power of your personal story
 Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+
+What Makes a Good EMBA Candidate?:
+Paragraph: An Excellent Career Investment
+Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
 Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
-What Makes a Good EMBA Candidate?:
-Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 What Executive Education program are you interested in?:
 
@@ -365,61 +370,56 @@ List:
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Curtis Clark:
-
-Mohammed Omer, GLEMBA ’19:
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Ellie Shollenberger:
-
-David Gill:
-
-Qiana Levy:
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
-
-Megan Lightfoot Metzger, MS LOD:
-
 Daniel Hendrickson, EMBA 2022:
 Paragraph: VP, Sr. Financial Analyst,
   First United Bank
 
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
-
-Rob Stogsdill – MS LOD Coaching:
-
-Sean Seabrook, MS LOD:
-
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
+Erinn Marks, GLEMBA ’19:
 
 Holly Martin, GLEMBA ’19:
 Paragraph: Customer Experience Manager, 
  J.B. Hunt
 
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
+Thomas Rodgers (EMBA 2022):
 
 Tu Huynh:
 
 Jacob Heller, MS LOD:
 
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
+
+Nickquolette Barrett – MS LOD Coaching:
+
+Mohammed Omer, GLEMBA ’19:
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Alberto Gutierrez Algren:
+
 Denis Zub (EMBA 2022):
 
-Erinn Marks, GLEMBA ’19:
+Curtis Clark:
+
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
+
+Megan Lightfoot Metzger, MS LOD:
+
+David Gill:
+
+Qiana Levy:
+
+Ellie Shollenberger:
+
+Sean Seabrook, MS LOD:
 
 What Executive Education program are you interested in?:
 
@@ -543,32 +543,32 @@ Link: Click here to Apply (URL: https://forms.office.com/r/szFb5Zqajc)
 Student Testimonials:
 Link: See all Executive MBA Testimonials (URL: /execed/voices/executive-mba-testimonials)
 
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Thomas Rodgers (EMBA 2022):
-
 Khaled Hallak, EMBA 2021:
 Paragraph: Bank of America, Officer,
   Syndicated Loan Closer
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Denis Zub (EMBA 2022):
+
+Thomas Rodgers (EMBA 2022):
 
 Daniel Hendrickson, EMBA 2022:
 Paragraph: VP, Sr. Financial Analyst,
   First United Bank
 
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
 
-Denis Zub (EMBA 2022):
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
 
 Frequently Asked Questions:
 
@@ -704,90 +704,80 @@ Student Experiences:
 Paragraph: Current Executive Education students and alumni share their academic experiences, outcomes and insights. Read their stories and discover how Executive Education programs have made an impact on their professional and personal lives.
 Link: See all Student Experiences (URL: /execed/voices/student-experiences/)
 
-The Transition From Surviving To Thriving:
-Paragraph: The “reshaping” process
-Paragraph: The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
+My Experience Going Through the EMBA Program:
+Paragraph: What has your ROI been?
+Paragraph: I am able to make better strategic decisions, both professionally and personally.  I can clearly and critically assess problems and have found the courage to make the tough calls.  I now prioritize my work and can motivate the team towards a common goal.
 
 The Academic Experience of a Lifetime:
 Paragraph: Experiences as an EMBA student
 Paragraph: The classes expose students to many topics that you may not think about every day. I have been able to apply theories and practices from every class I have taken in this program to my job. I am very pleased with the program and the confidence it has given me.
 
-My Experience Going Through the EMBA Program:
-Paragraph: What has your ROI been?
-Paragraph: I am able to make better strategic decisions, both professionally and personally.  I can clearly and critically assess problems and have found the courage to make the tough calls.  I now prioritize my work and can motivate the team towards a common goal.
-
 How the Executive MBA Helped My Career:
 Paragraph: Investing in my future
 Paragraph: At work I’ve acquired a new professional certification and been allowed to completely re-write my job description into one that fits who I am and rewards me for all the effort I’ve put in, both at work and at school.  Next step – here I come!
+
+The Transition From Surviving To Thriving:
+Paragraph: The “reshaping” process
+Paragraph: The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
 
 Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
 
-Erinn Marks, GLEMBA ’19:
-
-Nickquolette Barrett – MS LOD Coaching:
-
-Megan Lightfoot Metzger, MS LOD:
-
-Veronica Sanchez, MS LOD:
+Ellie Shollenberger:
 
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
 
-Bill Disario:
-
-Esteban Santos, EMBA 2021:
-
-David Gill:
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
-
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
-
-Ellie Shollenberger:
-
-Alberto Gutierrez Algren:
-
-Sean Seabrook, MS LOD:
-
-Mohammed Omer, GLEMBA ’19:
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
+Curtis Clark:
 
 Ashwin Prakash, GLEMBA ’20:
 Paragraph: Head of Data Science and Analytics, 
  HCA Healthcare
 
-Tu Huynh:
+Esteban Santos, EMBA 2021:
+
+Mohammed Omer, GLEMBA ’19:
+
+Rob Stogsdill – MS LOD Coaching:
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Sean Seabrook, MS LOD:
+
+Dan Glasky:
+
+Denis Zub (EMBA 2022):
+
+David Gill:
+
+Qiana Levy:
+
+Megan Lightfoot Metzger, MS LOD:
+
+Veronica Sanchez, MS LOD:
+
+Thomas Rodgers (EMBA 2022):
+
+Erinn Marks, GLEMBA ’19:
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
 
 Executive Education Alumni Spotlights:
 Paragraph: Read the success stories from JSOM alumni who earned their degrees from the Jindal School of Management. These alumni are current professionals who share their insights about their experience and life after graduating from UT Dallas.
 Link: See all Executive Education Alumni Spotlights (URL: /execed/voices/alumni-spotlights)
-
-Charles Gillis, MBA’04:
-Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
 
 Will McIntosh, EMBA’06:
 Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
@@ -798,25 +788,30 @@ Paragraph: CFO,
  Omnitracs
 Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
 
-Sid Keswani, MBA’09:
-Paragraph: President, Pandora Americas
-Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
+Charles Gillis, MBA’04:
+Paragraph: Executive Director, 
+ Munsch Hardt Kopf & Harr, PC
+Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
 
 Joseph James, MBA’10:
 Paragraph: Entrepreneur
 Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
 
+Sid Keswani, MBA’09:
+Paragraph: President, Pandora Americas
+Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
+
 Executive Education Articles:
 Paragraph: Discover how Executive Education faculty are researching, publishing, speaking and engaging in the business community. The authors of these articles also include accounting students, staff and friends.
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
 
-What Makes a Good EMBA Candidate?:
-Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
-
 Difference Between EMBA and PMBA:
 Paragraph: What is the difference between EMBA and PMBA?
 Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+
+What Makes a Good EMBA Candidate?:
+Paragraph: An Excellent Career Investment
+Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
