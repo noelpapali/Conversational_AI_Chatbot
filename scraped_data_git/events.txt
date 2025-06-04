@@ -1,70 +1,70 @@
 Month: Jun, 2025
 
-Date: Tuesday, June 03, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - 3 Reasons Why You Need an Internship (And How to Get One)
-Location: 
-Event URL: 49488993900026&instance=49488998829745
---------------------------------------------------
 Date: Wednesday, June 04, 2025
-Time: 04:30 PM - 06:00 PM
-Title: MS ITM Welcome Mixer
+Time: 12:00 PM - 01:00 PM
+Title: Transform Your Professional Journey with our Customized Online MBA at UT Dallas.
 Location: 
-Event URL: 49799924317165&instance=49799924322286
+Event URL: 48366111281389&instance=48366140412589
 --------------------------------------------------
-Date: Tuesday, June 10, 2025
+Date: Saturday, June 07, 2025
+Time: 10:00 AM - 01:00 PM
+Title: UT Dallas Executive Education Open House
+Location: 
+Event URL: 49605602109983&instance=49605602112032
+--------------------------------------------------
+Date: Wednesday, June 11, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
+Location: 
+Event URL: 39581282702414&instance=49481218313521
+--------------------------------------------------
+Date: Wednesday, June 11, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Doctor of Business Administration Online Information Session
+Location: 
+Event URL: 49710714432229&instance=49710721682636
+--------------------------------------------------
+Date: Wednesday, June 11, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Joint Online MBA & MS in Leadership and Organizational Development Info Session
+Location: 
+Event URL: 49603097255636&instance=49603106140534
+--------------------------------------------------
+Date: Tuesday, June 17, 2025
+Time: 05:30 PM - 07:00 PM
+Title: Meet & Greet UTD MBA Admissions at Lazy Dog - Addison
+Location: 
+Event URL: 49791666964534&instance=49791699712139
+--------------------------------------------------
+Date: Thursday, June 19, 2025
+Time: 08:30 AM - 09:30 AM
+Title: Connect with the MSITM Program Director
+Location: 
+Event URL: 49800068748625&instance=49800068749650
+--------------------------------------------------
+Date: Tuesday, June 24, 2025
 Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48527473661042&instance=49472564821950
+Event URL: 48527473661042&instance=49472564823999
 --------------------------------------------------
-Date: Wednesday, June 11, 2025
+Date: Wednesday, June 25, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 47040472425615&instance=47040472465571
+Event URL: 47040472425615&instance=47040472467620
 --------------------------------------------------
-Date: Wednesday, June 11, 2025
+Date: Wednesday, June 25, 2025
 Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Title: Doctor of Business Administration (DBA) in person meet & greet
 Location: 
-Event URL: 49710746797208&instance=49710763214590
+Event URL: 49710724970070&instance=49710734067848
 --------------------------------------------------
-Date: Monday, June 16, 2025
-Time: 07:00 PM - 08:00 PM
-Title: Accelerate Your Success with an MBA Degree. Learn About our Customized Online MBA at UT Dallas.
+Date: Monday, June 30, 2025
+Time: 05:00 PM - 06:30 PM
+Title: Meet & Greet UTD MBA Admissions at Katy Trail Ice House - Plano
 Location: 
-Event URL: 47846077877975&instance=48366187013620
---------------------------------------------------
-Date: Wednesday, June 18, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - Career Mapping
-Location: 
-Event URL: 49488847913296&instance=49488851606022
---------------------------------------------------
-Date: Monday, June 23, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC - Using AI is OK!
-Location: 
-Event URL: 49488973053184&instance=49488981498128
---------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552274386956&instance=49552274387981
---------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Executive MBA Overview and Virtual Chat (Webinar)
-Location: 
-Event URL: 48224417122520&instance=48224417123545
---------------------------------------------------
-Date: Friday, June 27, 2025
-Time: 10:00 AM - 10:15 AM
-Title: JSOM CMC - 10AM Huddle on Instagram Live
-Location: 
-Event URL: 49489051991308&instance=49489093038108
+Event URL: 49791704103635&instance=49791726806724
 --------------------------------------------------
 Month: Jul, 2025
 
