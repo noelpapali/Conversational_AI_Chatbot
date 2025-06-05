@@ -54,9 +54,11 @@ Information Systems:
 List:
   - Applied Machine Learning (Link: /infosystems/certificate-programs/applied-machine-learning//)
   - Business Intelligence and Data Mining (Link: /infosystems/certificate-programs/sas-bi-data-mining/)
+  - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
   - Enterprise Systems (Link: /infosystems/certificate-programs/enterprise-systems/)
   - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
+  - Product Management (Link: https://infosystems.utdallas.edu/certificate-programs/product-management/)
 
 Innovation and Entrepreneurship:
 List:
@@ -161,9 +163,11 @@ Information Systems:
 List:
   - Applied Machine Learning (Link: /infosystems/certificate-programs/applied-machine-learning//)
   - Business Intelligence and Data Mining (Link: /infosystems/certificate-programs/sas-bi-data-mining/)
+  - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
   - Enterprise Systems (Link: /infosystems/certificate-programs/enterprise-systems/)
   - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
+  - Product Management (Link: https://infosystems.utdallas.edu/certificate-programs/product-management/)
 
 Innovation and Entrepreneurship:
 List:
