@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Research Balances Insights into Physician Recommendations for Dialysis Patients
+Title Link: https://jindal.utdallas.edu/news/jindal-school-research-balances-insights-into-physician-recommendations-for-dialysis-patients/
+Excerpt: A study conducted by a team of researchers from the Naveen Jindal School of Management highlights the need for smarter consumer protection in expert-driven markets like healthcare—showing that while transparency and oversight are important, restricting expert judgment without considering its benefits can unintentionally put consumers at greater risk. The study was done by Dr. Reza […]
+Meta Details: June 6th, 2025 |Alumni,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_510851992_630x630.jpg
+
+==================================================
+
 Title: Jindal School Faculty Member/Alumna Win Award for Long-term Contribution to Marketing
 Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-alumna-win-award-for-long-term-contribution-to-marketing/
 Excerpt: 
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_1006009886_squar
 Title: Study Reveals Public Favors Chatbot Answers Over Those of Physicians
 Title Link: https://jindal.utdallas.edu/news/study-reveals-public-favors-chatbot-answers-over-those-of-physicians/
 Excerpt: A study by a team of researchers from the Naveen Jindal School of Management reveals that when laypeople compare answers from licensed physicians to those from AI chatbots like ChatGPT, they consistently prefer the AI — even when experts rate the chatbot’s answers as lower in clinical quality. The working paper — “What People Think […]
-Meta Details: May 30th, 2025 |Faculty/Research,Featured
+Meta Details: May 30th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/05/robot_vs_doctor_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/advancing-marketing-science-key-dis
 Excerpt: The 19th annual Frank M. Bass – UT Dallas Frontiers of Research in Marketing Science Conference (UTD FORMS) attracted attendees from universities across the United States and internationally. The event was held Feb. 28-29 and presented by the Naveen Jindal School of Management. Frank Bass A wide range of topics were discussed in two-dozen, hour-long […]
 Meta Details: March 13th, 2025 |Events,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/03/frank_bass_630x630.jpg
-
-==================================================
-
-Title: Researcher Honors His Father Though His Healthcare Work
-Title Link: https://jindal.utdallas.edu/news/researcher-honors-his-father-though-his-healthcare-work/
-Excerpt: A faculty member in the Naveen Jindal School of Management has won an award from a prestigious professional organization for his work in management science research related to the healthcare industry. Mehmet Ayvaci presenting at the 2024 INFORMS Conference Dr. Mehmet Ayvaci, an associate professor in the Jindal School’s Information Systems Area, won the Sanjay […]
-Meta Details: March 11th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/03/mehmet_ayvaci_informs_presentation_oct_2024_630x630.jpg
 
 ==================================================
 
