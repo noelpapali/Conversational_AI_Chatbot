@@ -30,35 +30,29 @@ Title: Meet & Greet UTD MBA Admissions at Lazy Dog - Addison
 Location: 
 Event URL: 49791666964534&instance=49791699712139
 --------------------------------------------------
-Date: Thursday, June 19, 2025
+Date: Monday, June 23, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM CMC - Using AI is OK!
+Location: 
+Event URL: 49488973053184&instance=49488981498128
+--------------------------------------------------
+Date: Wednesday, June 25, 2025
 Time: 08:30 AM - 09:30 AM
-Title: Connect with the MSITM Program Director
+Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
-Event URL: 49800068748625&instance=49800068749650
+Event URL: 49552274386956&instance=49552274387981
 --------------------------------------------------
-Date: Tuesday, June 24, 2025
+Date: Wednesday, June 25, 2025
 Time: 12:00 PM - 01:00 PM
-Title: MS Accounting Flex Q&A Session
+Title: Executive MBA Overview and Virtual Chat (Webinar)
 Location: 
-Event URL: 48527473661042&instance=49472564823999
+Event URL: 48224417122520&instance=48224417123545
 --------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Date: Friday, June 27, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
 Location: 
-Event URL: 47040472425615&instance=47040472467620
---------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Doctor of Business Administration (DBA) in person meet & greet
-Location: 
-Event URL: 49710724970070&instance=49710734067848
---------------------------------------------------
-Date: Monday, June 30, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Meet & Greet UTD MBA Admissions at Katy Trail Ice House - Plano
-Location: 
-Event URL: 49791704103635&instance=49791726806724
+Event URL: 49489051991308&instance=49489093038108
 --------------------------------------------------
 Month: Jul, 2025
 
@@ -166,11 +160,11 @@ Title: JSOM - Trivia Connect with Undergraduate Student Services
 Location: 
 Event URL: 49489215950692&instance=49489222176631
 --------------------------------------------------
-Date: Tuesday, August 26, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
+Date: Friday, August 22, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 39581282702414&instance=49117424379157
+Event URL: 49489233277194&instance=49489295642482
 --------------------------------------------------
 Month: Sep, 2025
 
