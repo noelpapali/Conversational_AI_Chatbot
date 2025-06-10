@@ -80,41 +80,41 @@ Title: Interested in an ONLINE MBA? Attend the Customized Online MBA Information
 Location: 
 Event URL: 48366302927203&instance=48366330558288
 --------------------------------------------------
-Date: Wednesday, July 16, 2025
-Time: 10:00 AM - 11:00 AM
-Title: JSOM CMC - Using AI is OK!
-Location: 
-Event URL: 49488894882009&instance=49488916496673
---------------------------------------------------
-Date: Friday, July 18, 2025
-Time: 10:00 AM - 10:15 AM
-Title: JSOM CMC - 10AM Huddle on Instagram Live
-Location: 
-Event URL: 49489123110476&instance=49489128769924
---------------------------------------------------
-Date: Tuesday, July 22, 2025
+Date: Tuesday, July 15, 2025
 Time: 12:00 PM - 01:00 PM
-Title: MS Accounting Flex Q&A Session
+Title: UTD MBA Virtual Q & A Session with Admissions Team
 Location: 
-Event URL: 48527473661042&instance=49472564828097
+Event URL: 49889691435174&instance=49889722976674
+--------------------------------------------------
+Date: Thursday, July 17, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552292388233&instance=49552292389258
+--------------------------------------------------
+Date: Monday, July 21, 2025
+Time: 04:00 PM - 05:00 PM
+Title: JSOM CMC - 3 Reasons Why You Need an Internship (And How to Get One)
+Location: 
+Event URL: 49489004054650&instance=49489006809898
 --------------------------------------------------
 Date: Wednesday, July 23, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
 Location: 
-Event URL: 47040472425615&instance=47040472471718
+Event URL: 39581282702414&instance=49117424375059
 --------------------------------------------------
-Date: Friday, July 25, 2025
-Time: 10:00 AM - 11:00 AM
-Title: JSOM CMC - Career Mapping
+Date: Thursday, July 24, 2025
+Time: 08:30 AM - 09:30 AM
+Title: Connect with the MSITM Program Director
 Location: 
-Event URL: 49488858642592&instance=49488862654333
+Event URL: 49800100666278&instance=49800100667303
 --------------------------------------------------
-Date: Thursday, July 31, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Meet & Greet UTD MBA Admissions at Neighborhood Services -The Star
+Date: Wednesday, July 30, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Last Chance to Attend the Customized Online Programs Information Session to Learn How to Get Started this Fall.
 Location: 
-Event URL: 49791821036592&instance=49791848678731
+Event URL: 48366353544621&instance=48366386986696
 --------------------------------------------------
 Month: Aug, 2025
 
@@ -136,35 +136,41 @@ Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
 Event URL: 49552308057465&instance=49552308058490
 --------------------------------------------------
-Date: Monday, August 18, 2025
-Time: 10:00 AM - 04:00 PM
-Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Date: Friday, August 15, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
 Location: 
-Event URL: 49489233277194&instance=49489265905267
+Event URL: 49489132474136&instance=49489136148859
 --------------------------------------------------
 Date: Tuesday, August 19, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - First Semester Q&A w/Undergraduate Student Services & Sahiti Maturi
-Location: 
-Event URL: 49489027801895&instance=49489034651939
---------------------------------------------------
-Date: Wednesday, August 20, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - Career Mapping with Advika Sampath & Parthivi Nair
-Location: 
-Event URL: 49489202113231&instance=49489207854840
---------------------------------------------------
-Date: Thursday, August 21, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Trivia Connect with Undergraduate Student Services
-Location: 
-Event URL: 49489215950692&instance=49489222176631
---------------------------------------------------
-Date: Friday, August 22, 2025
 Time: 10:00 AM - 04:00 PM
 Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 49489233277194&instance=49489295642482
+Event URL: 49489233277194&instance=49489295635311
+--------------------------------------------------
+Date: Wednesday, August 20, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489295638384
+--------------------------------------------------
+Date: Thursday, August 21, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489295640433
+--------------------------------------------------
+Date: Thursday, August 21, 2025
+Time: 04:00 PM - 06:00 PM
+Title: Fall 2025 JSOM Graduate Orientation
+Location: 
+Event URL: 49862268462538&instance=49862268463563
+--------------------------------------------------
+Date: Tuesday, August 26, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
+Location: 
+Event URL: 39581282702414&instance=49117424379157
 --------------------------------------------------
 Month: Sep, 2025
 
@@ -173,6 +179,12 @@ Time: 03:30 PM - 04:00 PM
 Title: MSBA&AI Help Desk
 Location: 
 Event URL: 49552370277255&instance=49552370280328
+--------------------------------------------------
+Date: Wednesday, September 17, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552318051651&instance=49552318052676
 --------------------------------------------------
 Month: Oct, 2025
 
@@ -188,11 +200,11 @@ Title: JSOM Undergrads - How to Make a Real Connection on LinkedIn
 Location: 
 Event URL: 47817338766387&instance=47817345204557
 --------------------------------------------------
-Date: Thursday, October 23, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Tuesday, October 07, 2025
+Time: 03:30 PM - 04:00 PM
+Title: MSBA&AI Help Desk
 Location: 
-Event URL: 49552326633933&instance=49552326633934
+Event URL: 49552380800369&instance=49552380801394
 --------------------------------------------------
 Month: Nov, 2025
 
