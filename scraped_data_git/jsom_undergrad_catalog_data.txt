@@ -6944,14 +6944,14 @@ Lists:
 - Timeline
 - Transferring CreditsTransfer Plans
 - Transfer Plans
-- Pathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment Program
-- Collin College Academic Alliance
-- Select Transfer Enrollment Program
 - Comet Connection
+- Pathway ProgramsSelect Transfer Enrollment ProgramCollin College Academic Alliance
+- Select Transfer Enrollment Program
+- Collin College Academic Alliance
 - Steps After Admission
 - Transfer Plans
-- Collin College Academic Alliance
 - Select Transfer Enrollment Program
+- Collin College Academic Alliance
 - Cumulative GPA and overall academic coursework and performance.
 - Preparation for and ability to be successful in the intended major.
 - Information provided in optional supplemental materials, such as:A resumeLetter(s) of recommendation (limited to a maximum of three)ApplyTexas application essay (Option C)
@@ -6968,9 +6968,9 @@ Lists:
 - A Comet Connection member with a completed AA/AS/AAT.
 - A minimum cumulative GPA of 3.0 or greater on a 4.0 scale.
 - Applicant must be in good standing with the last college or university attended.
-- Undergraduate Admissions
 - Chatbox
 - Publications
+- Undergraduate Admissions
 - ApplyRequest InfoRMI ThanksSubmitting Official DocumentsInternational ApplicantsTOEFL Exempt Countries
 - Request Info
 - RMI Thanks
@@ -6983,17 +6983,17 @@ Lists:
 - Deadlines and Fees
 - Timeline
 - Steps After Admission
-- Transfer AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineTransferring CreditsTransfer PlansPathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment ProgramComet ConnectionSteps After Admission
+- Transfer AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineTransferring CreditsTransfer PlansComet ConnectionPathway ProgramsSelect Transfer Enrollment ProgramCollin College Academic AllianceSteps After Admission
 - Criteria
 - Application Process
 - Deadlines and Fees
 - Timeline
 - Transferring CreditsTransfer Plans
 - Transfer Plans
-- Pathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment Program
-- Collin College Academic Alliance
-- Select Transfer Enrollment Program
 - Comet Connection
+- Pathway ProgramsSelect Transfer Enrollment ProgramCollin College Academic Alliance
+- Select Transfer Enrollment Program
+- Collin College Academic Alliance
 - Steps After Admission
 - AffordabilityTransfer ScholarshipsFreshman ScholarshipsAcademic Excellence ScholarshipAES for Prospective FreshmenAES for Current Recipients
 - Transfer Scholarships
@@ -7001,15 +7001,13 @@ Lists:
 - Academic Excellence ScholarshipAES for Prospective FreshmenAES for Current Recipients
 - AES for Prospective Freshmen
 - AES for Current Recipients
-- ContactCounselor LocatorProfile-HoangProfile-CopeProfile-V-OchoaProfile-BevisProfile-NguyenProfile-BernalProfile-WoodliffProfile-SteaphenProfile-BernalProfile-Rios-LaraProfile-BowndsProfile-CastilloProfile-RiveraProfile-McDowell
+- ContactCounselor LocatorProfile-BernalProfile-BevisProfile-WoodliffProfile-V-OchoaProfile-HoangProfile-SteaphenProfile-BernalProfile-Rios-LaraProfile-BowndsProfile-CastilloProfile-RiveraProfile-McDowell
 - Counselor Locator
-- Profile-Hoang
-- Profile-Cope
-- Profile-V-Ochoa
-- Profile-Bevis
-- Profile-Nguyen
 - Profile-Bernal
+- Profile-Bevis
 - Profile-Woodliff
+- Profile-V-Ochoa
+- Profile-Hoang
 - Profile-Steaphen
 - Profile-Bernal
 - Profile-Rios-Lara
@@ -7047,14 +7045,14 @@ Lists:
 - Timeline
 - Transferring CreditsTransfer Plans
 - Transfer Plans
-- Pathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment Program
-- Collin College Academic Alliance
-- Select Transfer Enrollment Program
 - Comet Connection
+- Pathway ProgramsSelect Transfer Enrollment ProgramCollin College Academic Alliance
+- Select Transfer Enrollment Program
+- Collin College Academic Alliance
 - Steps After Admission
 - Transfer Plans
-- Collin College Academic Alliance
 - Select Transfer Enrollment Program
+- Collin College Academic Alliance
 - Transfer Scholarships
 - Freshman ScholarshipsAcademic Excellence ScholarshipAES for Prospective FreshmenAES for Current Recipients
 - Academic Excellence ScholarshipAES for Prospective FreshmenAES for Current Recipients
@@ -7066,13 +7064,11 @@ Lists:
 - AES for Prospective Freshmen
 - AES for Current Recipients
 - Counselor Locator
-- Profile-Hoang
-- Profile-Cope
-- Profile-V-Ochoa
-- Profile-Bevis
-- Profile-Nguyen
 - Profile-Bernal
+- Profile-Bevis
 - Profile-Woodliff
+- Profile-V-Ochoa
+- Profile-Hoang
 - Profile-Steaphen
 - Profile-Bernal
 - Profile-Rios-Lara
@@ -7191,17 +7187,17 @@ Links:
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
 - Transfer Plans - https://enroll.utdallas.edu/transfer/transferring-credits/transfer-plans/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
-- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
-- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
+- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
+- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - Additional Requirements - https://enroll.utdallas.edu/apply/international-applicants/
 - Contact us - https://enroll.utdallas.edu/contact/
 - counselor locator tool - https://enroll.utdallas.edu/contact/counselor-locator/
-- Undergraduate Admissions - https://enroll.utdallas.edu/
 - Chatbox - https://enroll.utdallas.edu/chatbox/
 - Publications - https://enroll.utdallas.edu/publications/
+- Undergraduate Admissions - https://enroll.utdallas.edu/
 - Apply - https://enroll.utdallas.edu/apply/
 - Request Info - https://enroll.utdallas.edu/apply/request-info/
 - RMI Thanks - https://enroll.utdallas.edu/apply/rmi-thanks/
@@ -7221,10 +7217,10 @@ Links:
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
 - Transfer Plans - https://enroll.utdallas.edu/transfer/transferring-credits/transfer-plans/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
-- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
-- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
+- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
+- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - Affordability - https://enroll.utdallas.edu/affordability/
 - Transfer Scholarships - https://enroll.utdallas.edu/affordability/transfer-scholarships/
@@ -7234,13 +7230,11 @@ Links:
 - AES for Current Recipients - https://enroll.utdallas.edu/affordability/freshman-scholarships/academic-excellence-scholarship/aes-for-current-recipients/
 - Contact - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
-- Profile-Hoang - https://enroll.utdallas.edu/contact/truong-hoang/
-- Profile-Cope - https://enroll.utdallas.edu/contact/sophie-cope/
-- Profile-V-Ochoa - https://enroll.utdallas.edu/contact/victoria-ochoa/
-- Profile-Bevis - https://enroll.utdallas.edu/contact/monyce-bevis/
-- Profile-Nguyen - https://enroll.utdallas.edu/contact/profile-nguyen/
 - Profile-Bernal - https://enroll.utdallas.edu/contact/profile-bernal/
+- Profile-Bevis - https://enroll.utdallas.edu/contact/monyce-bevis/
 - Profile-Woodliff - https://enroll.utdallas.edu/contact/profile-woodliff/
+- Profile-V-Ochoa - https://enroll.utdallas.edu/contact/victoria-ochoa/
+- Profile-Hoang - https://enroll.utdallas.edu/contact/truong-hoang/
 - Profile-Steaphen - https://enroll.utdallas.edu/contact/profile-steaphen/
 - Profile-Bernal - https://enroll.utdallas.edu/contact/joey-bernal/
 - Profile-Rios-Lara - https://enroll.utdallas.edu/contact/miguel-rios-lara/
