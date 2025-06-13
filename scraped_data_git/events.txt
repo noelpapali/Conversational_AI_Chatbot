@@ -12,6 +12,12 @@ Title: JSOM CMC - Career Mapping
 Location: 
 Event URL: 49488847913296&instance=49488851606022
 --------------------------------------------------
+Date: Sunday, June 22, 2025
+Time: 09:00 AM - 11:30 PM
+Title: MSBA&AI SQL Boot Camp
+Location: 
+Event URL: 49914224204646&instance=49914224205671
+--------------------------------------------------
 Date: Tuesday, June 24, 2025
 Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
@@ -35,6 +41,12 @@ Time: 10:00 AM - 10:15 AM
 Title: JSOM CMC - 10AM Huddle on Instagram Live
 Location: 
 Event URL: 49489051991308&instance=49489093038108
+--------------------------------------------------
+Date: Sunday, June 29, 2025
+Time: 09:00 AM - 11:30 AM
+Title: MSBA&AI R Boot Camp
+Location: 
+Event URL: 49914262643137&instance=49914262644162
 --------------------------------------------------
 Month: Jul, 2025
 
