@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Inaugural Competition at Jindal School Benefits Texas Society of CPAs
+Title Link: https://jindal.utdallas.edu/news/inaugural-competition-at-jindal-school-benefits-texas-society-of-cpas/
+Excerpt: The importance of understanding and applying sound accounting and business acumen for small businesses and nonprofits was highlighted at the inaugural ProConnect Competition at the Naveen Jindal School of Management. The May 13 event featured “Shark Tank” style presentations from students from the spring 2025 MS in Accounting and Analytics (STEM) degree program. Cash prizes […]
+Meta Details: June 13th, 2025 |Events,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2025/06/proconnect2025_first_place_630x630.jpg
+
+==================================================
+
 Title: Double Degree Programs at Jindal School Offer Key Advantages
 Title Link: https://jindal.utdallas.edu/news/double-degree-programs-at-jindal-school-offer-key-advantages/
 Excerpt: The academic experience at the Naveen Jindal School of Management is rich with opportunities for students looking to broaden their academic and professional horizons. Omer Ahmed Omer Ahmed is one of those students. He knows a degree from The University of Texas at Dallas will give him a competitive advantage in his career. As he […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/06/omer_ahmed_2_630x630.jpg
 Title: Jindal School Research Balances Insights into Physician Recommendations for Dialysis Patients
 Title Link: https://jindal.utdallas.edu/news/jindal-school-research-balances-insights-into-physician-recommendations-for-dialysis-patients/
 Excerpt: A study conducted by a team of researchers from the Naveen Jindal School of Management highlights the need for smarter consumer protection in expert-driven markets like healthcare—showing that while transparency and oversight are important, restricting expert judgment without considering its benefits can unintentionally put consumers at greater risk. The study was done by Dr. Reza […]
-Meta Details: June 6th, 2025 |Alumni,Faculty/Research,Featured
+Meta Details: June 6th, 2025 |Alumni,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_510851992_630x630.jpg
 
 ==================================================
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_510851992_630x63
 Title: Jindal School Faculty Member/Alumna Win Award for Long-term Contribution to Marketing
 Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-alumna-win-award-for-long-term-contribution-to-marketing/
 Excerpt: 
-Meta Details: June 3rd, 2025 |Alumni,Faculty/Research,Featured
+Meta Details: June 3rd, 2025 |Alumni,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_1006009886_square.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/undergraduate-deans-conference-at-j
 Excerpt: Academic leaders of business schools convened March 12-14 at the 2025 Undergraduate Deans Conference to explore the evolving landscape of higher education by discussing innovative solutions to design, implement and even reinvent undergraduate programs. Presented by the Naveen Jindal School of Management at The University of Texas at Dallas, the event provided a platform for […]
 Meta Details: April 1st, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/04/2025_undergraduate_deans_conference_2_630x630.jpg
-
-==================================================
-
-Title: 2025 UTD Top 100 Business School Research Rankings™
-Title Link: https://jindal.utdallas.edu/news/2025-utd-top-100-business-school-research-rankings/
-Excerpt: 
-Meta Details: March 25th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/03/UTD-Top-100-Business-School-Research-Rankings-Logo-630x630-1.png
 
 ==================================================
 

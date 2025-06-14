@@ -174,11 +174,17 @@ Title: MSBA&AI Help Desk
 Location: 
 Event URL: 49552370277255&instance=49552370280328
 --------------------------------------------------
-Date: Wednesday, September 17, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Monday, September 08, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Your MBA. Your Way. Learn How at Our Virtual Info Session
 Location: 
-Event URL: 49552318051651&instance=49552318052676
+Event URL: 49886962444087&instance=49886986251113
+--------------------------------------------------
+Date: Wednesday, September 24, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Discover the Customized Online MBA Made for Working Professionals
+Location: 
+Event URL: 49887106947812&instance=49887184966427
 --------------------------------------------------
 Month: Oct, 2025
 
