@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Competition Showcases Consulting Work Performed by Jindal School Seniors
+Title Link: https://jindal.utdallas.edu/news/competition-showcases-consulting-work-performed-by-jindal-school-seniors/
+Excerpt: An atmosphere of celebration permeated the UTDsolv Capstone Expo, a biannual student competition at the Naveen Jindal School of Management in which teams submit their senior capstone projects for consideration. This time around, 14 projects were selected to compete from among 144 entries. Student teams partnered with businesses and other organizations through the UTDsolv Capstone […]
+Meta Details: June 17th, 2025 |Events,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2025/06/mckessonteam_630x630.png
+
+==================================================
+
 Title: Inaugural Competition at Jindal School Benefits Texas Society of CPAs
 Title Link: https://jindal.utdallas.edu/news/inaugural-competition-at-jindal-school-benefits-texas-society-of-cpas/
 Excerpt: The importance of understanding and applying sound accounting and business acumen for small businesses and nonprofits was highlighted at the inaugural ProConnect Competition at the Naveen Jindal School of Management. The May 13 event featured “Shark Tank” style presentations from students from the spring 2025 MS in Accounting and Analytics (STEM) degree program. Cash prizes […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/06/proconnect2025_first_place_
 Title: Double Degree Programs at Jindal School Offer Key Advantages
 Title Link: https://jindal.utdallas.edu/news/double-degree-programs-at-jindal-school-offer-key-advantages/
 Excerpt: The academic experience at the Naveen Jindal School of Management is rich with opportunities for students looking to broaden their academic and professional horizons. Omer Ahmed Omer Ahmed is one of those students. He knows a degree from The University of Texas at Dallas will give him a competitive advantage in his career. As he […]
-Meta Details: June 10th, 2025 |Academics,Featured,Students
+Meta Details: June 10th, 2025 |Academics,Students
 Image URL: https://jindal.utdallas.edu/files/2025/06/omer_ahmed_2_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/new-student-led-event-at-ut-dallas-
 Excerpt: The enduring advice for business success, “identify a need and fill it,” remains valid, and presenters at the second annual Inter-Uni Pitch & Network event have created business concepts that do just that. The March 26 event at the Naveen Jindal School of Management was hosted by the Institute for Innovation and Entrepreneurship Leadership Council, […]
 Meta Details: April 4th, 2025 |Events,Students
 Image URL: https://jindal.utdallas.edu/files/2025/04/2025_inter-uni_pitch_and_network_event_630x630.jpg
-
-==================================================
-
-Title: Undergraduate Deans Conference at Jindal School Provides Forum for Solving Thorny Issues in Higher-Ed
-Title Link: https://jindal.utdallas.edu/news/undergraduate-deans-conference-at-jindal-school-provides-forum-for-solving-thorny-issues-in-higher-ed/
-Excerpt: Academic leaders of business schools convened March 12-14 at the 2025 Undergraduate Deans Conference to explore the evolving landscape of higher education by discussing innovative solutions to design, implement and even reinvent undergraduate programs. Presented by the Naveen Jindal School of Management at The University of Texas at Dallas, the event provided a platform for […]
-Meta Details: April 1st, 2025 |Events
-Image URL: https://jindal.utdallas.edu/files/2025/04/2025_undergraduate_deans_conference_2_630x630.jpg
 
 ==================================================
 

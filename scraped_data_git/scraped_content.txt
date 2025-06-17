@@ -1695,13 +1695,17 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: Spring 2025 Commencement Ceremony
-	- Text: Spring 2025 Commencement Ceremony
-	  Href: https://registrar.utdallas.edu/graduation/commencement-schedule/
+Context: Executive MBA Overview
+	- Text: Executive MBA Overview
+	  Href: https://jindal.utdallas.edu/calendar/48224417122520&instance=48224417123545
 
-Context: UT Dallas Project Management Symposium
-	- Text: UT Dallas Project Management Symposium
-	  Href: https://jindal.utdallas.edu/calendar/49427352471182&instance=49427379003613/49454588509517&instance=49454588511566
+Context: Doctor of Business Administration (DBA) meet & greet
+	- Text: Doctor of Business Administration (DBA) meet & greet
+	  Href: https://jindal.utdallas.edu/calendar/49710724970070&instance=49710734067848
+
+Context: MS Accounting and Analytics Cohort Info Session
+	- Text: MS Accounting and Analytics Cohort Info Session
+	  Href: https://jindal.utdallas.edu/calendar/49897078045703&instance=49897078046728
 
 Context: News
 	- Text: News
