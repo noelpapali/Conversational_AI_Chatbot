@@ -44,29 +44,35 @@ Event URL: 49791704103635&instance=49791726806724
 --------------------------------------------------
 Month: Jul, 2025
 
-Date: Wednesday, July 02, 2025
+Date: Tuesday, July 01, 2025
 Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
-Location: 
-Event URL: 39581282702414&instance=49117424371986
---------------------------------------------------
-Date: Tuesday, July 08, 2025
-Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48527473661042&instance=49472564826048
+Event URL: 48527502735766&instance=49472619668745
+--------------------------------------------------
+Date: Wednesday, July 02, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Unlock Your Career Potential with a 100% Customized Online MBA
+Location: 
+Event URL: 47598023869082&instance=48366263475719
 --------------------------------------------------
 Date: Wednesday, July 09, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Meet & Greet UTD MBA Admissions at HG Sply Co - Greenville Ave
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49791767428257&instance=49791788102289
+Event URL: 47040472425615&instance=47040472469669
 --------------------------------------------------
-Date: Monday, July 14, 2025
-Time: 07:00 PM - 08:00 PM
-Title: Interested in an ONLINE MBA? Attend the Customized Online MBA Information Session to learn more.
+Date: Saturday, July 12, 2025
+Time: 10:30 AM - 01:00 PM
+Title: EMBA Open House (In-Person Event)
 Location: 
-Event URL: 48366302927203&instance=48366330558288
+Event URL: 47170489255699&instance=47170497211859
+--------------------------------------------------
+Date: Tuesday, July 15, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527502735766&instance=49472619670794
 --------------------------------------------------
 Date: Tuesday, July 15, 2025
 Time: 12:00 PM - 01:00 PM
@@ -104,11 +110,17 @@ Title: Connect with the MSITM Program Director
 Location: 
 Event URL: 49800100666278&instance=49800100667303
 --------------------------------------------------
-Date: Wednesday, July 30, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Last Chance to Attend the Customized Online Programs Information Session to Learn How to Get Started this Fall.
+Date: Tuesday, July 29, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48366353544621&instance=48366386986696
+Event URL: 48527502735766&instance=49472619672843
+--------------------------------------------------
+Date: Thursday, July 31, 2025
+Time: 05:00 PM - 06:30 PM
+Title: Meet & Greet UTD MBA Admissions at Neighborhood Services -The Star
+Location: 
+Event URL: 49791821036592&instance=49791848678731
 --------------------------------------------------
 Month: Aug, 2025
 
