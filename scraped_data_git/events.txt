@@ -1,46 +1,40 @@
 Month: Jun, 2025
 
-Date: Saturday, June 21, 2025
-Time: 09:00 AM - 11:30 AM
-Title: MSBA&AI Statistics Boot Camp
+Date: Sunday, June 22, 2025
+Time: 09:00 AM - 11:30 PM
+Title: MSBA&AI SQL Boot Camp
 Location: 
-Event URL: 49914177489573&instance=49914177490598
+Event URL: 49914224204646&instance=49914224205671
 --------------------------------------------------
-Date: Monday, June 23, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC - Using AI is OK!
-Location: 
-Event URL: 49488973053184&instance=49488981498128
---------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552274386956&instance=49552274387981
---------------------------------------------------
-Date: Wednesday, June 25, 2025
+Date: Tuesday, June 24, 2025
 Time: 12:00 PM - 01:00 PM
-Title: Executive MBA Overview and Virtual Chat (Webinar)
+Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48224417122520&instance=48224417123545
+Event URL: 48527473661042&instance=49472564823999
 --------------------------------------------------
 Date: Wednesday, June 25, 2025
-Time: 06:00 PM - 07:00 PM
-Title: MS Accounting and Analytics Cohort Info Session
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49897078045703&instance=49897078046728
+Event URL: 47040472425615&instance=47040472467620
 --------------------------------------------------
-Date: Saturday, June 28, 2025
+Date: Wednesday, June 25, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
+Location: 
+Event URL: 49710724970070&instance=49710734067848
+--------------------------------------------------
+Date: Friday, June 27, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
+Location: 
+Event URL: 49489051991308&instance=49489093038108
+--------------------------------------------------
+Date: Sunday, June 29, 2025
 Time: 09:00 AM - 11:30 AM
-Title: MSBA&AI Python Boot Camp
+Title: MSBA&AI R Boot Camp
 Location: 
-Event URL: 49914247975145&instance=49914247976170
---------------------------------------------------
-Date: Monday, June 30, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Meet & Greet UTD MBA Admissions at Katy Trail Ice House - Plano
-Location: 
-Event URL: 49791704103635&instance=49791726806724
+Event URL: 49914262643137&instance=49914262644162
 --------------------------------------------------
 Month: Jul, 2025
 
