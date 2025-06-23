@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: UT Dallas Project Management Symposium Spotlights Leadership, Ethics and Innovation
+Title Link: https://jindal.utdallas.edu/news/ut-dallas-project-management-symposium-spotlights-leadership-ethics-and-innovation/
+Excerpt: The 17th Annual UT Dallas Project Management Symposium brought together industry leaders, academics and students on May 17 for a full day of presentations, dialogue and networking. Hosted by the Naveen Jindal School of Management in collaboration with PM World Journal, the 2025 symposium balanced timeless leadership lessons with timely conversations about technology, risk and […]
+Meta Details: June 23rd, 2025 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/06/2025_pm_symposium_630x630.jpg
+
+==================================================
+
 Title: Competition Showcases Consulting Work Performed by Jindal School Seniors
 Title Link: https://jindal.utdallas.edu/news/competition-showcases-consulting-work-performed-by-jindal-school-seniors/
 Excerpt: An atmosphere of celebration permeated the UTDsolv Capstone Expo, a biannual student competition at the Naveen Jindal School of Management in which teams submit their senior capstone projects for consideration. This time around, 14 projects were selected to compete from among 144 entries. Student teams partnered with businesses and other organizations through the UTDsolv Capstone […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/06/mckessonteam_630x630.png
 Title: Inaugural Competition at Jindal School Benefits Texas Society of CPAs
 Title Link: https://jindal.utdallas.edu/news/inaugural-competition-at-jindal-school-benefits-texas-society-of-cpas/
 Excerpt: The importance of understanding and applying sound accounting and business acumen for small businesses and nonprofits was highlighted at the inaugural ProConnect Competition at the Naveen Jindal School of Management. The May 13 event featured “Shark Tank” style presentations from students from the spring 2025 MS in Accounting and Analytics (STEM) degree program. Cash prizes […]
-Meta Details: June 13th, 2025 |Events,Featured,Students
+Meta Details: June 13th, 2025 |Events,Students
 Image URL: https://jindal.utdallas.edu/files/2025/06/proconnect2025_first_place_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/government-industry-and-academic-se
 Excerpt: A recent event at the Naveen Jindal School of Management proved that collisions do not necessarily have to be destructive — some can produce positive change. The inaugural Texas Cleantech Collisions event, held March 27 in the Executive Dining Room, brought together leaders from industry, government and academia for a panel discussion titled “Navigating the […]
 Meta Details: April 9th, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/04/texas_cleantech_collision_2025_630x630.jpg
-
-==================================================
-
-Title: New Student-Led Event at UT Dallas Focuses on Pitches for Budding Entrepreneurs
-Title Link: https://jindal.utdallas.edu/news/new-student-led-event-at-ut-dallas-focuses-on-pitches-for-budding-entrepreneurs/
-Excerpt: The enduring advice for business success, “identify a need and fill it,” remains valid, and presenters at the second annual Inter-Uni Pitch & Network event have created business concepts that do just that. The March 26 event at the Naveen Jindal School of Management was hosted by the Institute for Innovation and Entrepreneurship Leadership Council, […]
-Meta Details: April 4th, 2025 |Events,Students
-Image URL: https://jindal.utdallas.edu/files/2025/04/2025_inter-uni_pitch_and_network_event_630x630.jpg
 
 ==================================================
 
