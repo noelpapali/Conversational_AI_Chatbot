@@ -1,34 +1,34 @@
 Month: Jun, 2025
 
-Date: Tuesday, June 24, 2025
+Date: Wednesday, June 25, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552274386956&instance=49552274387981
+--------------------------------------------------
+Date: Wednesday, June 25, 2025
 Time: 12:00 PM - 01:00 PM
-Title: MS Accounting Flex Q&A Session
+Title: Executive MBA Overview and Virtual Chat (Webinar)
 Location: 
-Event URL: 48527473661042&instance=49472564823999
+Event URL: 48224417122520&instance=48224417123545
 --------------------------------------------------
 Date: Wednesday, June 25, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 06:00 PM - 07:00 PM
+Title: MS Accounting and Analytics Cohort Info Session
 Location: 
-Event URL: 47040472425615&instance=47040472467620
+Event URL: 49897078045703&instance=49897078046728
 --------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Doctor of Business Administration (DBA) in person meet & greet
-Location: 
-Event URL: 49710724970070&instance=49710734067848
---------------------------------------------------
-Date: Friday, June 27, 2025
-Time: 10:00 AM - 10:15 AM
-Title: JSOM CMC - 10AM Huddle on Instagram Live
-Location: 
-Event URL: 49489051991308&instance=49489093038108
---------------------------------------------------
-Date: Sunday, June 29, 2025
+Date: Saturday, June 28, 2025
 Time: 09:00 AM - 11:30 AM
-Title: MSBA&AI R Boot Camp
+Title: MSBA&AI Python Boot Camp
 Location: 
-Event URL: 49914262643137&instance=49914262644162
+Event URL: 49914247975145&instance=49914247976170
+--------------------------------------------------
+Date: Monday, June 30, 2025
+Time: 05:00 PM - 06:30 PM
+Title: Meet & Greet UTD MBA Admissions at Katy Trail Ice House - Plano
+Location: 
+Event URL: 49791704103635&instance=49791726806724
 --------------------------------------------------
 Month: Jul, 2025
 
@@ -80,29 +80,35 @@ Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
 Event URL: 49552292388233&instance=49552292389258
 --------------------------------------------------
-Date: Monday, July 21, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC - 3 Reasons Why You Need an Internship (And How to Get One)
+Date: Saturday, July 19, 2025
+Time: 09:30 AM - 12:30 PM
+Title: Doctor of Business Administration (DBA) Open House
 Location: 
-Event URL: 49489004054650&instance=49489006809898
+Event URL: 50021622410232&instance=50021643547212
+--------------------------------------------------
+Date: Tuesday, July 22, 2025
+Time: 12:00 PM - 01:00 PM
+Title: MS Accounting Flex Q&A Session
+Location: 
+Event URL: 48527473661042&instance=49472564828097
 --------------------------------------------------
 Date: Wednesday, July 23, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
-Location: 
-Event URL: 39581282702414&instance=49117424375059
---------------------------------------------------
-Date: Friday, July 25, 2025
 Time: 10:00 AM - 11:00 AM
-Title: JSOM CMC - Career Mapping
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49488858642592&instance=49488862654333
+Event URL: 47040472425615&instance=47040472471718
 --------------------------------------------------
-Date: Wednesday, July 30, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Last Chance to Attend the Customized Online Programs Information Session to Learn How to Get Started this Fall.
+Date: Tuesday, July 29, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Accounting Flex Q&A Session
 Location: 
-Event URL: 48366353544621&instance=48366386986696
+Event URL: 48527502735766&instance=49472619672843
+--------------------------------------------------
+Date: Thursday, July 31, 2025
+Time: 05:00 PM - 06:30 PM
+Title: Meet & Greet UTD MBA Admissions at Neighborhood Services -The Star
+Location: 
+Event URL: 49791821036592&instance=49791848678731
 --------------------------------------------------
 Month: Aug, 2025
 
