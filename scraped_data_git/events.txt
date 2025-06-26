@@ -1,34 +1,16 @@
 Month: Jun, 2025
 
-Date: Wednesday, June 25, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Friday, June 27, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
 Location: 
-Event URL: 49552274386956&instance=49552274387981
+Event URL: 49489051991308&instance=49489093038108
 --------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Executive MBA Overview and Virtual Chat (Webinar)
-Location: 
-Event URL: 48224417122520&instance=48224417123545
---------------------------------------------------
-Date: Wednesday, June 25, 2025
-Time: 06:00 PM - 07:00 PM
-Title: MS Accounting and Analytics Cohort Info Session
-Location: 
-Event URL: 49897078045703&instance=49897078046728
---------------------------------------------------
-Date: Saturday, June 28, 2025
+Date: Sunday, June 29, 2025
 Time: 09:00 AM - 11:30 AM
-Title: MSBA&AI Python Boot Camp
+Title: MSBA&AI R Boot Camp
 Location: 
-Event URL: 49914247975145&instance=49914247976170
---------------------------------------------------
-Date: Monday, June 30, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Meet & Greet UTD MBA Admissions at Katy Trail Ice House - Plano
-Location: 
-Event URL: 49791704103635&instance=49791726806724
+Event URL: 49914262643137&instance=49914262644162
 --------------------------------------------------
 Month: Jul, 2025
 
