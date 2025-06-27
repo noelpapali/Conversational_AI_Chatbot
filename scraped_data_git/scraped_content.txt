@@ -339,7 +339,7 @@ Context: No Context
 
 Context: No Context
 	- Student Resources
-	- Advising
+	- Academic Advising
 	- Business Cards
 	- Business Communication Center
 	- Business Competitions
@@ -457,7 +457,7 @@ Context: No Context
 
 Context: No Context
 	- Student Resources
-	- Advising
+	- Academic Advising
 	- Business Cards
 	- Business Communication Center
 	- Business Competitions
@@ -851,7 +851,7 @@ Context: Faculty Research
 Context: Students
 
 Student Resources
-Advising
+Academic Advising
 Business Cards
 Business Communication Center
 Business Competitions
@@ -885,8 +885,8 @@ Context: Student Resources
 	- Text: Student Resources
 	  Href: https://jindal.utdallas.edu/student-resources
 
-Context: Advising
-	- Text: Advising
+Context: Academic Advising
+	- Text: Academic Advising
 	  Href: https://jindal.utdallas.edu/advising/
 
 Context: Business Cards
@@ -1329,7 +1329,7 @@ Context: Faculty Research
 Context: Students
 
 Student Resources
-Advising
+Academic Advising
 Business Cards
 Business Communication Center
 Business Competitions
@@ -1363,8 +1363,8 @@ Context: Student Resources
 	- Text: Student Resources
 	  Href: https://jindal.utdallas.edu/student-resources
 
-Context: Advising
-	- Text: Advising
+Context: Academic Advising
+	- Text: Academic Advising
 	  Href: https://jindal.utdallas.edu/advising/
 
 Context: Business Cards
