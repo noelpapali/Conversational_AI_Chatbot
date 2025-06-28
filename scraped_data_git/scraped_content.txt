@@ -1685,17 +1685,17 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: Executive MBA Overview
-	- Text: Executive MBA Overview
-	  Href: https://jindal.utdallas.edu/calendar/48224417122520&instance=48224417123545
+Context: Meet & Greet UTD MBA Admissions
+	- Text: Meet & Greet UTD MBA Admissions
+	  Href: https://jindal.utdallas.edu/calendar/49791767428257&instance=49791788102289
 
-Context: Doctor of Business Administration (DBA) meet & greet
-	- Text: Doctor of Business Administration (DBA) meet & greet
-	  Href: https://jindal.utdallas.edu/calendar/49710724970070&instance=49710734067848
+Context: EMBA Open House (In-Person Event)
+	- Text: EMBA Open House (In-Person Event)
+	  Href: https://jindal.utdallas.edu/calendar/47170489255699&instance=47170497211859
 
-Context: MS Accounting and Analytics Cohort Info Session
-	- Text: MS Accounting and Analytics Cohort Info Session
-	  Href: https://jindal.utdallas.edu/calendar/49897078045703&instance=49897078046728
+Context: Doctor of Business Administration (DBA) Open House
+	- Text: Doctor of Business Administration (DBA) Open House
+	  Href: https://jindal.utdallas.edu/calendar/50021622410232&instance=50021643547212
 
 Context: News
 	- Text: News

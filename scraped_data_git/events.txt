@@ -1,16 +1,16 @@
 Month: Jun, 2025
 
-Date: Friday, June 27, 2025
-Time: 10:00 AM - 10:15 AM
-Title: JSOM CMC - 10AM Huddle on Instagram Live
-Location: 
-Event URL: 49489051991308&instance=49489093038108
---------------------------------------------------
-Date: Sunday, June 29, 2025
+Date: Saturday, June 28, 2025
 Time: 09:00 AM - 11:30 AM
-Title: MSBA&AI R Boot Camp
+Title: MSBA&AI Python Boot Camp
 Location: 
-Event URL: 49914262643137&instance=49914262644162
+Event URL: 49914247975145&instance=49914247976170
+--------------------------------------------------
+Date: Monday, June 30, 2025
+Time: 05:00 PM - 06:30 PM
+Title: Meet & Greet UTD MBA Admissions at Katy Trail Ice House - Plano
+Location: 
+Event URL: 49791704103635&instance=49791726806724
 --------------------------------------------------
 Month: Jul, 2025
 
