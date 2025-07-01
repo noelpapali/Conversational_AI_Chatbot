@@ -61,17 +61,9 @@ Heading: International Applicants
 
 --------------------------------------------------
 
-Heading: Admission Counseling
+Heading: Questions?
   Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
   Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
-Heading: Freshman Admissions
-
---------------------------------------------------
-
-Heading: 
 
 --------------------------------------------------
 
@@ -154,17 +146,9 @@ Heading: Veterans
 
 --------------------------------------------------
 
-Heading: Admission Counseling
+Heading: Questions?
   Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
   Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
-Heading: Freshman Admissions
-
---------------------------------------------------
-
-Heading: 
 
 --------------------------------------------------
 
@@ -228,17 +212,9 @@ Heading: Hold Review to Submit Additional Documents
 
 --------------------------------------------------
 
-Heading: Admission Counseling
+Heading: Questions?
   Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
   Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
-Heading: Freshman Admissions
-
---------------------------------------------------
-
-Heading: 
 
 --------------------------------------------------
 
@@ -290,17 +266,9 @@ Heading: You will receive an admission decision.
 
 --------------------------------------------------
 
-Heading: Admission Counseling
+Heading: Questions?
   Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
   Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
-Heading: Freshman Admissions
-
---------------------------------------------------
-
-Heading: 
 
 --------------------------------------------------
 
@@ -363,10 +331,6 @@ Heading: Welcome to the Comet Family!
 Heading: #FutureComet  #Transfer2UTD
 
 --------------------------------------------------
-
-==================================================
-
-URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 
