@@ -1,10 +1,10 @@
 URL: https://jindal.utdallas.edu/admission-requirements/masters/
 
 Table: Master’s Application Deadlines
-  Term, Deadline
-  Fall, May 1
-  Spring, October 1
-  Summer, March 1
+  Term, Application Opens, Deadline to SubmitComplete Application File, Application Closes
+  Fall, July 1 (year prior), May 1, August1
+  Spring, January 15 (year prior), October 1, December 1
+  Summer, July 1 (year prior), March 1, May 1
 
 Paragraphs in entry-content:
   Accelerate Your Career Today
