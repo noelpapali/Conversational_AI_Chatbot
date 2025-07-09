@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Study: Unfair Stakeholder Treatment Triggers Whistleblowing
+Title Link: https://jindal.utdallas.edu/news/study-unfair-stakeholder-treatment-triggers-whistleblowing/
+Excerpt: A study conducted by researchers at The University of Texas at Dallas’ Naveen Jindal School of Management sheds light on how perceived unfair treatment of different stakeholder groups within companies—such as employees, executives, or customers—can lead workers to report organizational wrongdoing to outside authorities. The paper — titled “Stakeholder Treatment Disparity and Employee Whistleblowing: A […]
+Meta Details: July 9th, 2025 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/07/whistleblower_graphic_630x630.jpg
+
+==================================================
+
 Title: Jindal School Faculty Member Named One of 40 Under 40 MBA Professors
 Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-named-one-of-40-under-40-mba-professors/
 Excerpt: A faculty member in the Naveen Jindal School of Management has been named to Poets&Quants’ 2025 list of Best 40-Under-40 MBA Professors. Ignacio Rios Uribe Dr. Ignacio Rios Uribe, Sydney Smith Hicks Faculty Fellow and an assistant professor in the Jindal School’s Operations and Supply Chain Management Area, was chosen from more than 1,700 nominees […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/06/ignacio_rios_with_students_
 Title: UT Dallas Project Management Symposium Spotlights Leadership, Ethics and Innovation
 Title Link: https://jindal.utdallas.edu/news/ut-dallas-project-management-symposium-spotlights-leadership-ethics-and-innovation/
 Excerpt: The 17th Annual UT Dallas Project Management Symposium brought together industry leaders, academics and students on May 17 for a full day of presentations, dialogue and networking. Hosted by the Naveen Jindal School of Management in collaboration with PM World Journal, the 2025 symposium balanced timeless leadership lessons with timely conversations about technology, risk and […]
-Meta Details: June 23rd, 2025 |Events,Featured
+Meta Details: June 23rd, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/06/2025_pm_symposium_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/professor-milind-dawande-remembered
 Excerpt: Milind Dawande Disheveled office, endless coffees in hand — those details were part of the story shared. But more, it was the smile, the empathy and love of family, friends and his work. Dr. Milind Dawande, former Mike Redeker Distinguished Professor and former coordinator of the Operations/Supply Chain Management Area of the Naveen Jindal School […]
 Meta Details: April 15th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2020/04/milind-dawande-630-630-featured.jpg
-
-==================================================
-
-Title: Jindal School Ranks No. 6 Worldwide in FT Research Productivity Rankings
-Title Link: https://jindal.utdallas.edu/news/jindal-school-ranks-no-6-worldwide-in-ft-research-productivity-rankings/
-Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas was ranked No. 6 worldwide for research productivity in the 2025 Financial Times Business School rankings. The five schools ranked ahead of Jindal School are Pennsylvania University Wharton School, which ranked No. 1, Columbia Business School at No. 2, the University of […]
-Meta Details: April 11th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2023/04/jsom_sign_630x630.jpg
 
 ==================================================
 
