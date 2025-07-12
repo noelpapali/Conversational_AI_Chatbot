@@ -1685,10 +1685,6 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: Meet & Greet UTD MBA Admissions
-	- Text: Meet & Greet UTD MBA Admissions
-	  Href: https://jindal.utdallas.edu/calendar/49791767428257&instance=49791788102289
-
 Context: EMBA Open House (In-Person Event)
 	- Text: EMBA Open House (In-Person Event)
 	  Href: https://jindal.utdallas.edu/calendar/47170489255699&instance=47170497211859
@@ -1696,6 +1692,10 @@ Context: EMBA Open House (In-Person Event)
 Context: Doctor of Business Administration (DBA) Open House
 	- Text: Doctor of Business Administration (DBA) Open House
 	  Href: https://jindal.utdallas.edu/calendar/50021622410232&instance=50021643547212
+
+Context: 2025 Party for Jindal School Summer Grads
+	- Text: 2025 Party for Jindal School Summer Grads
+	  Href: https://jindal.utdallas.edu/calendar/50092666524037&instance=50092666525062
 
 Context: News
 	- Text: News
