@@ -1685,10 +1685,6 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: EMBA Open House (In-Person Event)
-	- Text: EMBA Open House (In-Person Event)
-	  Href: https://jindal.utdallas.edu/calendar/47170489255699&instance=47170497211859
-
 Context: Doctor of Business Administration (DBA) Open House
 	- Text: Doctor of Business Administration (DBA) Open House
 	  Href: https://jindal.utdallas.edu/calendar/50021622410232&instance=50021643547212
@@ -1696,6 +1692,10 @@ Context: Doctor of Business Administration (DBA) Open House
 Context: 2025 Party for Jindal School Summer Grads
 	- Text: 2025 Party for Jindal School Summer Grads
 	  Href: https://jindal.utdallas.edu/calendar/50092666524037&instance=50092666525062
+
+Context: Free Professional Headshots
+	- Text: Free Professional Headshots
+	  Href: https://jindal.utdallas.edu/calendar/49489233277194&instance=49489265905267
 
 Context: News
 	- Text: News

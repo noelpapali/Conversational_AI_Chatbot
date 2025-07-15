@@ -93,7 +93,7 @@ Heading: Freshman Application Dates (Domestic & International)
 --------------------------------------------------
 
 Heading: Submit your admission application.
-  Paragraph: The Fall 2026 application for freshmen will open August 1st, 2025.
+  Paragraph: The fall 2026 application for freshmen will open August 1, 2025.
   Paragraph: After you submit your application, the Office of Admission and Enrollment will email you with your unique, 10-digit UTD-ID and confirmation that we have received it. You will also receive an additional email with your NetID and instructions on setting up your account for the first time. After creating your account, you will use your NetID and password to access the Orion Applicant Center inside Galaxy, where you can submit documentation and check your application status.
 
 --------------------------------------------------
