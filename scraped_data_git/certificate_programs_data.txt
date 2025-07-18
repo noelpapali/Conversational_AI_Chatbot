@@ -52,7 +52,10 @@ List:
 
 Information Systems:
 List:
+  - Analytics for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/analytics-for-managers/)
+  - Applied Data Engineering for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/applied-data-engineering-for-managers/)
   - Applied Machine Learning (Link: /infosystems/certificate-programs/applied-machine-learning//)
+  - Business Decision Analytics (Link: https://infosystems.utdallas.edu/certificate-programs/business-decision-analytics/)
   - Business Intelligence and Data Mining (Link: /infosystems/certificate-programs/sas-bi-data-mining/)
   - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
@@ -161,7 +164,10 @@ List:
 
 Information Systems:
 List:
+  - Analytics for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/analytics-for-managers/)
+  - Applied Data Engineering for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/applied-data-engineering-for-managers/)
   - Applied Machine Learning (Link: /infosystems/certificate-programs/applied-machine-learning//)
+  - Business Decision Analytics (Link: https://infosystems.utdallas.edu/certificate-programs/business-decision-analytics/)
   - Business Intelligence and Data Mining (Link: /infosystems/certificate-programs/sas-bi-data-mining/)
   - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
