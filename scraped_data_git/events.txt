@@ -1,11 +1,5 @@
 Month: Jul, 2025
 
-Date: Monday, July 21, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM - BS Healthcare Management - Info Session/Webinar for Prospective Students
-Location: 
-Event URL: 50081958563145&instance=50081978960238
---------------------------------------------------
 Date: Tuesday, July 22, 2025
 Time: 12:00 PM - 01:00 PM
 Title: MS Accounting Flex Q&A Session
@@ -156,11 +150,17 @@ Title: Discover the Customized 100% Online MBA Made for Working Professionals
 Location: 
 Event URL: 49957203374841&instance=49957216752800
 --------------------------------------------------
-Date: Wednesday, October 29, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Date: Friday, October 24, 2025
+Time: 07:00 AM - 05:00 PM
+Title: 2nd Annual UT Dallas Project Management Virtual Conference
 Location: 
-Event URL: 49967857852770&instance=49967864061079
+Event URL: 50258651623263&instance=50258661729405
+--------------------------------------------------
+Date: Friday, October 31, 2025
+Time: 08:30 AM - 06:00 PM
+Title: JSOM Day of Service
+Location: 
+Event URL: 50214894326227&instance=50214894327252
 --------------------------------------------------
 Month: Nov, 2025
 

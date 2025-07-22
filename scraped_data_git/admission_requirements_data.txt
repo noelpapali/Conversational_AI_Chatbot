@@ -14,14 +14,14 @@ Content:
 All students interested in applying as an undergraduate must apply directly to UT Dallas via ApplyTexas or the Common Application. The application will be considered for both admission to UT Dallas and the Jindal School of Management.
 To learn more about the application process, deadlines, fees and financial aid, please visit:
 Links:
-- Undergraduate admission office - http://www.utdallas.edu/enroll
-- Future Undergraduates page - https://jindal.utdallas.edu/jindal/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
+- Undergraduate Admission Office - http://www.utdallas.edu/enroll
+- Future Undergraduates - https://jindal.utdallas.edu/jindal/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
 
 ================================================================================
 URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
 Headings:
 - Admission Process
-- Freshman Student
+- Freshman
 - Transfer Student
 - Questions or concerns regarding applying to UT Dallas and The Jindal School of Management?
 - The Jindal School of Management Undergraduate Recruiting Office
@@ -34,7 +34,7 @@ Applicants are encouraged to meet with our staff and ask questions about applyin
 jsomug@utdallas.eduor (972) 883-5889
 admission@utdallas.eduor (972) 883-2270
 Links:
-- Freshman Student Application Process - https://enroll.utdallas.edu/freshman/
+- Freshman Application Process - https://enroll.utdallas.edu/freshman/
 - Transfer Student Application Process - https://enroll.utdallas.edu/transfer/
 - jsomug@utdallas.edu - mailto:jsomug@utdallas.edu
 - admission@utdallas.edu - mailto:admission@utdallas.edu
@@ -42,14 +42,14 @@ Links:
 ================================================================================
 URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
 Headings:
-- Freshman Student
+- Freshman
 - Transfer Student
 Content:
 Applicants are considered a “first-time freshman” if the students’ first enrollment at a college or university, excluding summer, will occur at UT Dallas within two years of graduating from high school. Applicants are still considered a “first-time freshman” if they earn college credit before high school graduation (i.e., dual enrollment courses).
 Applicants are encouraged to apply to UT Dallas through ApplyTexas or Common Application during their senior year of high school in order to be considered for admission and scholarship opportunities.
 Applicants are considered a “transfer student” if they have previously completed college-level coursework at an accredited institution (excluding the summer following high school). Applicants can apply to UT Dallas through ApplyTexas or Common Application to start during the fall, spring and summer semesters.
 Links:
-- Freshman Student Application Process - https://enroll.utdallas.edu/freshman/
+- Freshman Application Process - https://enroll.utdallas.edu/freshman/
 - Transfer Student Application Process - https://enroll.utdallas.edu/transfer/
 
 ================================================================================
@@ -82,62 +82,62 @@ Links:
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 Headings:
 - Alumni Testimonials
-- Oktay Urcan
-- Devendra Kale
-- Wei Chen
-- Bharadwaj Kadiyala
 - Xuying Zhao
-- Steve Sauerwald
 - Hasan Cavusoglu
-- Mina Ameri
-- Haibin Yang
+- Harish Guda
+- Steve Sauerwald
+- Devendra Kale
+- Tai-Yuan Chen
 - Blair Flicker
+- Bharadwaj Kadiyala
+- Wei Chen
 - Subodha Kumar
 - Jess Cornaggia
-- Aidin Namin
-- Zhengrui Jiang
+- Haibin Yang
 - Qi Annabelle Feng
-- Harish Guda
-- Tai-Yuan Chen
+- Mina Ameri
+- Aidin Namin
+- Oktay Urcan
+- Zhengrui Jiang
 Content:
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
+Associate Professor, Department of Managerial Studies, College of Business, University of Illinois at Chicago
 PhD in Management Science, Accounting
 Assistant Professor,University of Rhode Island
-Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
-Assistant Professor,Eccles School of Business, University of Utah
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
-Associate Professor, Department of Managerial Studies, College of Business, University of Illinois at Chicago
-Professor of Management Information SystemsSauder School of Business, The University of British Columbia
-Assistant ProfessorThe University of Pittsburgh
-Professor in Strategic Management,College of Business, City University of Hong Kong
-Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
-Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
-Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
-Associate Professor of Marketing Analytics, Loyola Marymount University
-Professor of Information Systems,School of Business,
-Nanjing University
-John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
-Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
 Alumni Professor of Finance,HKUST Business School,
 Hong Kong University of Science and Technology
+Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
+Assistant Professor,Eccles School of Business, University of Utah
+Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
+Professor in Strategic Management,College of Business, City University of Hong Kong
+John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
+Assistant ProfessorThe University of Pittsburgh
+Associate Professor of Marketing Analytics, Loyola Marymount University
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+Professor of Information Systems,School of Business,
+Nanjing University
 Links:
-- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
-- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
-- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
 - Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
-- Steve Sauerwald - https://jindal.utdallas.edu/testimonials/phd-testimonials/steve-sauerwald/
 - Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
-- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
-- Haibin Yang - https://jindal.utdallas.edu/testimonials/phd-testimonials/haibin-yang/
+- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
+- Steve Sauerwald - https://jindal.utdallas.edu/testimonials/phd-testimonials/steve-sauerwald/
+- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
+- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
 - Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
+- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
 - Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
 - Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
-- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
-- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
+- Haibin Yang - https://jindal.utdallas.edu/testimonials/phd-testimonials/haibin-yang/
 - Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
-- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
-- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
+- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
+- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
+- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================
