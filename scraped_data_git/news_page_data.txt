@@ -1,18 +1,26 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: UTD Entrepreneurial Ecosystem Helps Alumna Launch Ocean-Inspired Startup
+Title Link: https://jindal.utdallas.edu/news/utd-entrepreneurial-ecosystem-helps-alumna-launch-ocean-inspired-startup/
+Excerpt: An alumna of The University of Texas at Dallas who earned a double degree MBA and Master’s in Innovation and Entrepreneurship from the Naveen Jindal School of Management has started a company which she said has been directly powered by the University’s entrepreneurial ecosystem. Tamara Marshall with the R1 feeder Tamara Marshall, MBA’24, MS’24, has […]
+Meta Details: July 23rd, 2025 |Alumni,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/07/tamara_marshall_630x630.jpg
+
+==================================================
+
 Title: PhD Student, Professor at Jindal School Win Best Paper for Conflict Research
 Title Link: https://jindal.utdallas.edu/news/phd-student-professor-at-jindal-school-win-best-paper-for-conflict-research/
 Excerpt: A PhD student in the Naveen Jindal School of Management and his faculty adviser have won a Best Paper Award from the Eastern Academy of Management at the organization’s annual conference. Amirsalar Jafari Gorizi Amirsalar Jafari Gorizi, a student in the Jindal School’s International Management Studies PhD program; and Dr. Mike Peng, O.P. Jindal Distinguished Chair […]
 Meta Details: July 16th, 2025 |Faculty/Research,Featured,Students
-Image URL: N/A
+Image URL: https://jindal.utdallas.edu/files/2025/07/amirsalar_jafari_gorizi_630x630-1.jpg
 
 ==================================================
 
 Title: Study: Unfair Stakeholder Treatment Triggers Whistleblowing
 Title Link: https://jindal.utdallas.edu/news/study-unfair-stakeholder-treatment-triggers-whistleblowing/
 Excerpt: A study conducted by researchers at The University of Texas at Dallas’ Naveen Jindal School of Management sheds light on how perceived unfair treatment of different stakeholder groups within companies—such as employees, executives, or customers—can lead workers to report organizational wrongdoing to outside authorities. The paper — titled “Stakeholder Treatment Disparity and Employee Whistleblowing: A […]
-Meta Details: July 9th, 2025 |Faculty/Research,Featured
+Meta Details: July 9th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/07/whistleblower_graphic_630x630.jpg
 
 ==================================================
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/07/whistleblower_graphic_630x6
 Title: Jindal School Faculty Member Named One of 40 Under 40 MBA Professors
 Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-named-one-of-40-under-40-mba-professors/
 Excerpt: A faculty member in the Naveen Jindal School of Management has been named to Poets&Quants’ 2025 list of Best 40-Under-40 MBA Professors. Ignacio Rios Uribe Dr. Ignacio Rios Uribe, Sydney Smith Hicks Faculty Fellow and an assistant professor in the Jindal School’s Operations and Supply Chain Management Area, was chosen from more than 1,700 nominees […]
-Meta Details: June 26th, 2025 |Faculty/Research,Featured
+Meta Details: June 26th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/06/ignacio_rios_with_students_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/study-by-jindal-school-researcher-s
 Excerpt: Recently published research by a faculty member in the Naveen Jindal School of Management shows how the rise of digital channels is disrupting traditional print media markets. The study — “The Impact of Digitization on Print Book Sales: Analysis Using Genre Exposure Heterogeneity” — was co-authored by Dr. Alejandro Zentner, an associate professor in the […]
 Meta Details: April 25th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/04/zentner_study_630x630.jpg
-
-==================================================
-
-Title: Competition Challenges Undergraduate Students at Jindal School to Solve Real-World Problems
-Title Link: https://jindal.utdallas.edu/news/competition-challenges-undergraduate-students-at-jindal-school-to-solve-real-world-problems/
-Excerpt: Undergraduate students in the Naveen Jindal School of Management pitched their data-driven ideas for solving a supply chain problem during a recent competition. The April 11 event — the Out of the Box Undergraduate Supply Chain Case Competition — was presented by the Jindal School. Three faculty members from the Jindal School’s Operations and Supply […]
-Meta Details: April 18th, 2025 |Academics,Events,Students
-Image URL: https://jindal.utdallas.edu/files/2025/04/2025_out_of_the_box_competition_DD_nidhi_gelli_presenting_630x630.jpg
 
 ==================================================
 

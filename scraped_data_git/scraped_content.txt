@@ -1919,6 +1919,10 @@ Context: View All Certificate Programs
 	  Href: /jindal/certificate-programs/
 
 Context: Upcoming Events
+	- Text: 
+	  Href: https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link
+
+Context: Upcoming Events
 	- Text: View All Events
 	  Href: /jindal/calendar/
 
