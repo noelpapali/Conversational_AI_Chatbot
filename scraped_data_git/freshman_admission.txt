@@ -14,7 +14,7 @@ Heading:
 
 --------------------------------------------------
 
-Heading: Freshman Application Dates (Domestic & International)
+Heading: Important Dates
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
@@ -84,7 +84,7 @@ Heading:
 
 --------------------------------------------------
 
-Heading: Freshman Application Dates (Domestic & International)
+Heading: Important Dates
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
@@ -169,7 +169,7 @@ Heading:
 
 --------------------------------------------------
 
-Heading: Freshman Application Dates (Domestic & International)
+Heading: Important Dates
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
@@ -187,28 +187,19 @@ Heading: Application Deadline (Domestic and International)
 Heading: Application Fees
   Table (Stripes Style):
     , 
-    Submitted on or before the regular application deadline, $50
-    International credential evaluation*, $50
+    Submitted on or before the regular application deadline, $75
   Paragraph: Payment instructions for applicants who do not qualify for a fee waiver:
   List:
-    - Applying through Common Application: When submitting your application through Common Application, pay your $50 application fee inside the application.
-    - Applying through ApplyTexas: After submitting your application through ApplyTexas, submit your $50 application fee through the UT Dallas Marketplace.
-    - Applicants with international academic documents: If you owe the $50 international credential evaluation fee after submitting your application, submit your payment through the UT Dallas Marketplace.
-  Paragraph: Note: If you have already submitted your application and need to pay an application fee or international credential evaluation fee, submit your payment through the UT Dallas Marketplace.
+    - Applying through Common Application: When submitting your application through Common Application, pay your $75 application fee inside the application.
+    - Applying through ApplyTexas: After submitting your application through ApplyTexas, submit your $75 application fee through the UT Dallas Marketplace.
+  Paragraph: Note: If you have already submitted your application and need to pay an application fee, submit your payment through the UT Dallas Marketplace.
   Paragraph: All fees are non-refundable.
-  Paragraph: *Applicants with international academic documents will be assessed an additional international credential evaluation fee of $50.
 
 --------------------------------------------------
 
 Heading: Submitting Fee Waivers
   Paragraph: Submit qualifying application fee waivers (SAT, ACT, NACAC, and/or proof of military service) in the App Fee Waiver Submission folder in your Orion Applicant Center inside Galaxy.
   Paragraph: International students who attend high school in the U.S. and qualify for an SAT, ACT or NACAC fee waiver are encouraged to submit an application fee waiver form for consideration.
-
---------------------------------------------------
-
-Heading: Hold Review to Submit Additional Documents
-  Paragraph: Applicants can request a hold on reviewing their application file pending the submission of supplemental materials by submitting the ‘Applying Without Scores’ form through the Orion Applicant Center inside Galaxy. Please note that UTD reserves the right to admit applicants based on a completed application file (i.e., ApplyTexas or CommonApp application and official high school transcript).
-  Paragraph: 
 
 --------------------------------------------------
 
@@ -236,7 +227,7 @@ Heading:
 
 --------------------------------------------------
 
-Heading: Freshman Application Dates (Domestic & International)
+Heading: Important Dates
   Table (Regular Style):
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
