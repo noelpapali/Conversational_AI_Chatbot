@@ -1,11 +1,3 @@
-Month: Jul, 2025
-
-Date: Thursday, July 31, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Meet & Greet UTD MBA Admissions at Neighborhood Services -The Star
-Location: 
-Event URL: 49791821036592&instance=49791848678731
---------------------------------------------------
 Month: Aug, 2025
 
 Date: Friday, August 01, 2025
@@ -94,23 +86,23 @@ Title: Fast Track in MS Marketing Information Session
 Location: 
 Event URL: 49923649102143&instance=49923649103168
 --------------------------------------------------
-Date: Tuesday, September 09, 2025
-Time: 12:00 AM - 06:00 PM
+Date: Wednesday, September 10, 2025
+Time: 08:00 AM - 03:00 PM
 Title: RISE Retail Conference
 Location: 
-Event URL: 49959170778278&instance=49959170780327
+Event URL: 49959170778278&instance=49959170782376
 --------------------------------------------------
 Date: Wednesday, September 17, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49552318051651&instance=49552318052676
+Event URL: 50322144938712&instance=50322144941786
 --------------------------------------------------
 Date: Wednesday, September 24, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Discover the Customized Online MBA Made for Working Professionals
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 49887106947812&instance=49887184966427
+Event URL: 49967839697012&instance=49967847790504
 --------------------------------------------------
 Month: Oct, 2025
 
