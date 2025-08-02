@@ -255,7 +255,7 @@ Professor, Marketing
 nkumar@utdallas.edu|(972) 883-6426|JSOM 13.306
 
 Associate Professor of Practice, Executive Education
-anna.ladipo@utdallas.edu||JSOM 1.515A
+anna.ladipo@utdallas.edu|(972) 883-4957|JSOM 1.515A
 
 Associate Professor, Information Systems
 atanu.lahiri@utdallas.edu|(972) 883-5934|JSOM 3.809
@@ -1240,7 +1240,7 @@ JSOM 13.306
 Anna  Ladipo
 Associate Professor of Practice, Executive Education
 anna.ladipo@utdallas.edu
-
+(972) 883-4957
 JSOM 1.515A
 
 Atanu  Lahiri

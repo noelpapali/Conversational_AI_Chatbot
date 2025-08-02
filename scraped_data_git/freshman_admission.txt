@@ -28,15 +28,16 @@ Heading: Admission Review Criteria
     - Overall grades in academic coursework and trends in achievement.
     - Strength of high school curriculum, including the level of rigor (AP, IB, dual credit).
     - High school rank and GPA.
-    - SAT I or ACT scores, if available.
     - Preparation for and ability to be successful in the intended major.
     - Information is provided in optional supplemental materials. We encourage all applicants to submit supplemental materials, including:A resume.
 
 An application essay response.
 Letter(s) of recommendation (limited to a maximum of three).
+SAT I or ACT scores, if available.
     - A resume.
     - An application essay response.
     - Letter(s) of recommendation (limited to a maximum of three).
+    - SAT I or ACT scores, if available.
 
 --------------------------------------------------
 
@@ -106,7 +107,7 @@ Heading: Submit your SAT or ACT scores or indicate you elect to have your applic
 --------------------------------------------------
 
 Heading: Pay the application fee or submit a fee waiver form.
-  Paragraph: Pay the $50 non-refundable application fee. To qualify for a fee waiver, attend Scholars’ Day or submit an approved SAT/ACT fee waiver.
+  Paragraph: Pay the $75 non-refundable application fee. To qualify for a fee waiver, attend Scholars’ Day or submit an approved SAT/ACT fee waiver.
 
 --------------------------------------------------
 
@@ -131,6 +132,7 @@ Heading: Submitting Supplementary Documentation
     - Resume
     - Official college transcripts for dual credit courses
     - Official AP test scores
+    - Submit your official SAT or ACT scores: SAT Code 6897 | ACT Code 4243
   Paragraph: Submit your supplementary documentation through the Orion Applicant Center inside Galaxy using the “Submit Supplemental Docs” option in the Admissions Forms folder. Official transcripts and test scores must be sent from the college/testing agency.
   Paragraph: *UT Dallas also accepts applications submitted through ApplyTexas. Students should submit only one application (either through Common App or ApplyTexas) for their anticipated start term.
 
@@ -322,10 +324,6 @@ Heading: Welcome to the Comet Family!
 Heading: #FutureComet  #Transfer2UTD
 
 --------------------------------------------------
-
-==================================================
-
-URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 
