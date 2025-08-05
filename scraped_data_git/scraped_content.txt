@@ -377,7 +377,6 @@ Context: No Context
 	- JSOM Alumni
 	- Events and Programming
 	- Mentor & Volunteer Opportunities
-	- Alumni Chapters
 	- Contacts
 	- Connect with Jindal Alums
 
@@ -495,7 +494,6 @@ Context: No Context
 	- JSOM Alumni
 	- Events and Programming
 	- Mentor & Volunteer Opportunities
-	- Alumni Chapters
 	- Contacts
 	- Connect with Jindal Alums
 
@@ -992,7 +990,7 @@ Context: Alumni
 JSOM Alumni
 Events and Programming
 Mentor & Volunteer Opportunities
-Alumni Chapters
+
 Contacts
 Connect with Jindal Alums
 	- Text: Alumni
@@ -1009,10 +1007,6 @@ Context: Events and Programming
 Context: Mentor & Volunteer Opportunities
 	- Text: Mentor & Volunteer Opportunities
 	  Href: https://jindal.utdallas.edu/alumni/mentor-volunteer-opportunities/
-
-Context: Alumni Chapters
-	- Text: Alumni Chapters
-	  Href: https://jindal.utdallas.edu/alumni/alumni-chapters/
 
 Context: Contacts
 	- Text: Contacts
@@ -1470,7 +1464,7 @@ Context: Alumni
 JSOM Alumni
 Events and Programming
 Mentor & Volunteer Opportunities
-Alumni Chapters
+
 Contacts
 Connect with Jindal Alums
 	- Text: Alumni
@@ -1487,10 +1481,6 @@ Context: Events and Programming
 Context: Mentor & Volunteer Opportunities
 	- Text: Mentor & Volunteer Opportunities
 	  Href: https://jindal.utdallas.edu/alumni/mentor-volunteer-opportunities/
-
-Context: Alumni Chapters
-	- Text: Alumni Chapters
-	  Href: https://jindal.utdallas.edu/alumni/alumni-chapters/
 
 Context: Contacts
 	- Text: Contacts
@@ -1695,13 +1685,13 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://jindal.utdallas.edu/calendar
 
-Context: 2025 Party for Jindal School Summer Grads
-	- Text: 2025 Party for Jindal School Summer Grads
-	  Href: https://jindal.utdallas.edu/calendar/50092666524037&instance=50092666525062
+Context: Fall 2025 JSOM Graduate Orientation
+	- Text: Fall 2025 JSOM Graduate Orientation
+	  Href: https://jindal.utdallas.edu/calendar/49862268462538&instance=49862268463563
 
-Context: Free Professional Headshots
-	- Text: Free Professional Headshots
-	  Href: https://jindal.utdallas.edu/calendar/49489233277194&instance=49489265905267
+Context: RISE Retail Conference
+	- Text: RISE Retail Conference
+	  Href: https://jindal.utdallas.edu/calendar/49959170778278&instance=49959170782376
 
 Context: News
 	- Text: News

@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Preliminary Evidence from Jindal School Study: AI May Help Close Citation Gaps
+Title Link: https://jindal.utdallas.edu/news/preliminary-evidence-from-jindal-school-study-ai-may-help-close-citation-gaps/
+Excerpt: Although still early in the review process, a new working paper by researchers from the Naveen Jindal School of Management and the University of Rochester offers initial insights into how generative AI tools like ChatGPT may improve academic writing and narrow citation disparities. As these technologies gain ground in research settings, the study’s preliminary findings […]
+Meta Details: August 5th, 2025 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/08/AI_academic_writing_630x630.jpg
+
+==================================================
+
 Title: How Virtual Reality Reveals the Hidden Cost of Execution Errors
 Title Link: https://jindal.utdallas.edu/news/how-virtual-reality-reveals-the-hidden-cost-of-execution-errors/
 Excerpt: A new study conducted by a team of researchers that includes Naveen Jindal School of Management faculty members shows that retail execution failures can be analyzed and improved using virtual reality. The study — “Execution Failures in Retail Supply Chains – A Virtual Reality Experiment” — was published in the April 2025 issue of Production […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/07/vr_retail_study_utd_jsom_bl
 Title: UTD Entrepreneurial Ecosystem Helps Alumna Launch Ocean-Inspired Startup
 Title Link: https://jindal.utdallas.edu/news/utd-entrepreneurial-ecosystem-helps-alumna-launch-ocean-inspired-startup/
 Excerpt: An alumna of The University of Texas at Dallas who earned a double degree MBA and Master’s in Innovation and Entrepreneurship from the Naveen Jindal School of Management has started a company which she said has been directly powered by the University’s entrepreneurial ecosystem. Tamara Marshall with the R1 feeder Tamara Marshall, MBA’24, MS’24, has […]
-Meta Details: July 23rd, 2025 |Alumni,Featured
+Meta Details: July 23rd, 2025 |Alumni
 Image URL: https://jindal.utdallas.edu/files/2025/07/tamara_marshall_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/huge-turnout-as-jindal-school-alumn
 Excerpt: More than 1,500 alumni of the Naveen Jindal School of Management, along with their families and friends, came together on April 26 to celebrate the second JSOM Alumni Reunion—a turnout that more than doubled last year’s numbers. Held in the Davidson-Gundy Alumni Center and much of the Jindal School, the event created a buzz that […]
 Meta Details: May 2nd, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/05/jsom_alumni_reunion_2025_630x630.jpg
-
-==================================================
-
-Title: North Texas Quant Community Builds Momentum with Conference at Jindal School
-Title Link: https://jindal.utdallas.edu/news/north-texas-quant-community-builds-momentum-with-conference-at-jindal-school/
-Excerpt: The hallways of the Naveen Jindal School of Management were recently filled with an assembly of quants. The term, short for quantitative analyst, may sound futuristic, but it describes a growing profession in finance. Quants use mathematical models, statistics and computer programming to analyze markets, manage risk and build investment strategies. Nearly 200 people were […]
-Meta Details: April 29th, 2025 |Events
-Image URL: https://jindal.utdallas.edu/files/2025/04/QQC2025_630x630.jpg
 
 ==================================================
 
