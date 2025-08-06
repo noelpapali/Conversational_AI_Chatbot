@@ -683,7 +683,7 @@ Context: Careers
 
 Context: Calendar
 	- Text: Calendar
-	  Href: /jindal/calendar
+	  Href: https://calendar.utdallas.edu/department/jindal
 
 Context: External Relations
 	- Text: External Relations
@@ -1659,7 +1659,7 @@ Context: Careers
 
 Context: Calendar
 	- Text: Calendar
-	  Href: /jindal/calendar
+	  Href: https://calendar.utdallas.edu/department/jindal
 
 Context: External Relations
 	- Text: External Relations
