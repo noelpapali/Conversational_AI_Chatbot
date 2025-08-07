@@ -94,6 +94,10 @@ The world needs efficient and creative problem-solvers.
   Organizations, Strategy and International Management  
 Prepare yourself for managing in a dynamic global environment.
 
+ Interdisciplinary Areas 
+
+Healthcare Management
+
 ==================================================
 
 Heading (h2): Degree Programs
@@ -539,6 +543,9 @@ Context: No Context
 	- External Relations
 	- Community Engagement
 	- Make a Gift
+
+Context: Interdisciplinary Areas
+	- Healthcare Management
 
 Context: The Jindal School of Management at the University of Texas at Dallas offers ten Bachelor of Science degree programs and prepares students for the world of business and best practices. These ten Bachelor of Science programs are listed in the top navigation menus.
 	- BS Accounting
@@ -1732,6 +1739,10 @@ Context: Operations / Supply Chain Management
 Context: Organizations, Strategy and International Management
 	- Text: Organizations, Strategy and International Management
 	  Href: /osim/
+
+Context: Healthcare Management
+	- Text: Healthcare Management
+	  Href: https://jindal.utdallas.edu/healthcare-management/
 
 Context: BS Accounting
 	- Text: BS Accounting

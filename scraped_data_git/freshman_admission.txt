@@ -99,13 +99,6 @@ Heading: Submit your admission application.
 
 --------------------------------------------------
 
-Heading: Submit your SAT or ACT scores or indicate you elect to have your application reviewed without test scores.
-  Paragraph: Submit your official SAT or ACT scores: SAT Code 6897 | ACT Code 4243
-  Paragraph: OR
-  Paragraph: Answer ‘Yes’ to the statement ‘I request my application to be reviewedwithout SAT/ACT scores when completing the admission application onApplyTexas or Common App.
-
---------------------------------------------------
-
 Heading: Pay the application fee or submit a fee waiver form.
   Paragraph: Pay the $75 non-refundable application fee. To qualify for a fee waiver, attend Scholars’ Day or submit an approved SAT/ACT fee waiver.
 
@@ -133,6 +126,7 @@ Heading: Submitting Supplementary Documentation
     - Official college transcripts for dual credit courses
     - Official AP test scores
     - Submit your official SAT or ACT scores: SAT Code 6897 | ACT Code 4243
+  Paragraph: The university does not require test scores for admission or scholarship consideration. However, we strongly encourage applicants to submit official scores to meet Texas Success Initiative (TSI) requirements. Submitted test scores will be used solely to enhance an applicant’s admission or scholarship review and will never have a negative impact.
   Paragraph: Submit your supplementary documentation through the Orion Applicant Center inside Galaxy using the “Submit Supplemental Docs” option in the Admissions Forms folder. Official transcripts and test scores must be sent from the college/testing agency.
   Paragraph: *UT Dallas also accepts applications submitted through ApplyTexas. Students should submit only one application (either through Common App or ApplyTexas) for their anticipated start term.
 
