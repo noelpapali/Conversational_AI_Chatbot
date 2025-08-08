@@ -1,58 +1,58 @@
 Month: Aug, 2025
 
-Date: Thursday, August 07, 2025
-Time: 01:00 PM - 02:00 PM
-Title: JSOM CMC - 3 Reasons Why You Need an Internship (And How to Get One)
-Location: 
-Event URL: 49489015820876&instance=49489019685353
---------------------------------------------------
 Date: Monday, August 11, 2025
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA: Program Overview & Live Q&A
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
-Event URL: 49886843633209&instance=49886877735569
+Event URL: 49552308057465&instance=49552308058490
 --------------------------------------------------
-Date: Friday, August 15, 2025
-Time: 10:00 AM - 10:15 AM
-Title: JSOM CMC - 10AM Huddle on Instagram Live
+Date: Wednesday, August 13, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 49489132474136&instance=49489136148859
+Event URL: 49967796300865&instance=49967807420758
+--------------------------------------------------
+Date: Monday, August 18, 2025
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Location: 
+Event URL: 49489233277194&instance=49489265905267
 --------------------------------------------------
 Date: Tuesday, August 19, 2025
-Time: 10:00 AM - 04:00 PM
-Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Time: 12:00 PM - 01:00 PM
+Title: JSOM CMC - First Semester Q&A w/Undergraduate Student Services & Sahiti Maturi
 Location: 
-Event URL: 49489233277194&instance=49489295635311
+Event URL: 49489027801895&instance=49489034651939
 --------------------------------------------------
 Date: Wednesday, August 20, 2025
+Time: 12:00 PM - 01:00 PM
+Title: JSOM CMC - Career Mapping with Advika Sampath & Parthivi Nair
+Location: 
+Event URL: 49489202113231&instance=49489207854840
+--------------------------------------------------
+Date: Thursday, August 21, 2025
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Trivia Connect with Undergraduate Student Services
+Location: 
+Event URL: 49489215950692&instance=49489222176631
+--------------------------------------------------
+Date: Friday, August 22, 2025
 Time: 10:00 AM - 04:00 PM
 Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 49489233277194&instance=49489295638384
+Event URL: 49489233277194&instance=49489295642482
 --------------------------------------------------
-Date: Thursday, August 21, 2025
-Time: 10:00 AM - 04:00 PM
-Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
+Date: Wednesday, August 27, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49489233277194&instance=49489295640433
---------------------------------------------------
-Date: Thursday, August 21, 2025
-Time: 04:00 PM - 06:00 PM
-Title: Fall 2025 JSOM Graduate Orientation
-Location: 
-Event URL: 49862268462538&instance=49862268463563
---------------------------------------------------
-Date: Tuesday, August 26, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
-Location: 
-Event URL: 39581282702414&instance=49117424379157
+Event URL: 50322144938712&instance=50322144939737
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
 Time: 12:00 PM - 01:00 PM
-Title: Discover the Customized Online MBA Made for Working Professionals
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 49887001660341&instance=49887012877848
+Event URL: 49967812110761&instance=49967831356173
 --------------------------------------------------
 Month: Sep, 2025
 

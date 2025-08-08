@@ -287,6 +287,15 @@ Heading: Visit UT Dallas
 
 --------------------------------------------------
 
+Heading: UT Dallas Visitor Center
+  Paragraph: HoursMonday through Friday8 a.m.–5 p.m.
+  Paragraph: Address
+  Paragraph: 2830 Rutford Ave,
+  Paragraph: Richardson, TX 75080
+  Paragraph: Contactadmission@utdallas.edu972-883-6046
+
+--------------------------------------------------
+
 Heading: Discover UTD Info Session
   Paragraph: Join us for a one-hour virtual info session and learn about applying, campus life, financial aid, scholarships and more! Our admission staff will be available to answer your questions.
   Paragraph: There is no need to register; just click the button during the event.

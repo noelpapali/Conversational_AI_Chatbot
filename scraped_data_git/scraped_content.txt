@@ -2025,15 +2025,15 @@ Context:
 	- Text: 
 	  Href: https://www.youtube.com/channel/UCoUw4cCn3EFg2RIQKJt8aSA
 
-Context: Sitemap  |  Content Owners  |  Privacy Policy  |  Accessibility  |   Jessica Nikiel
+Context: Sitemap  |  Content Owners  |  Privacy Policy  |  Accessibility  |
 	- Text: Sitemap
 	  Href: https://jindal.utdallas.edu/sitemap/
 
-Context: Content Owners  |  Privacy Policy  |  Accessibility  |   Jessica Nikiel
+Context: Content Owners  |  Privacy Policy  |  Accessibility  |
 	- Text: Content Owners
 	  Href: https://jindal.utdallas.edu/content-owners/
 
-Context: Privacy Policy  |  Accessibility  |   Jessica Nikiel
+Context: Privacy Policy  |  Accessibility  |
 	- Text: Privacy Policy
 	  Href: https://jindal.utdallas.edu/privacy-policy/
 
