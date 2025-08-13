@@ -1,13 +1,15 @@
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 
-Hero Box: Fall 2026 applications are expected to open in August 2025
+Hero Box: The priority deadline for applicants is December 5
 
 Section: Required Application Materials
   Heading: Required Application Materials
   List:
     - Complete graduate application and application fee
           
-Fall 2026 applications are expected to open in August 2025. Please check back later for an application link.
+Fall 2026 applications are now open.
+
+Apply Now
     - All undergraduate and graduate transcripts should be uploaded and submitted electronically. DO NOT mail official/paper copies of your documents. Unofficial transcripts are sufficient for releasing an admissions decision. Admitted students must provide official documents prior to enrollment.
     - GMAT* or GRE scores. Students must have an excellent academic record and high scores on the GMAT or GRE. To be considered for admission, students must score 600 on the GMAT or above or receive comparable scores on the GRE. The mean GMAT score for students admitted to the Jindal School of Management PhD programs for Fall 2025 was 637. The mean GRE score (combined) for students admitted for Fall 2025 was 324. The institution code to report GMAT scores is ZTZ-PQ-18, and for GRE scores, it is 6897. Scores must be no older than 5 years, are not waived for any applicants, and must be submitted at the time of application. The Online GRE and Online GMAT will be accepted for Fall 2026 admissions.
     - A curriculum vitae (CV) or résumé. If you do not have professional work experience, still include a CV or résumé, which will give us an overview of your academic background and accomplishments.
@@ -20,7 +22,7 @@ What are your career goals after you obtain your PhD?
     - Three letters of recommendation, with at least two being from academic referees (see note below)**.
     - The ability to read, write, speak and understand English is essential for success in graduate studies at UT Dallas. If your native language is not English and you have been educated outside the United States, you must demonstrate English proficiency.
 Please review the requirements as outlined on the Graduate Admission at UT Dallas page for specifics on scores and potential waivers.
-  Paragraph: Fall 2026 applications are expected to open in August 2025. Please check back later for an application link.
+  Paragraph: Fall 2026 applications are now open.
   Paragraph: The ability to read, write, speak and understand English is essential for success in graduate studies at UT Dallas. If your native language is not English and you have been educated outside the United States, you must demonstrate English proficiency.
   Paragraph: Please review the requirements as outlined on the Graduate Admission at UT Dallas page for specifics on scores and potential waivers.
   Paragraph: For technical assistance with the graduate application, please contact gradapp@utdallas.edu.

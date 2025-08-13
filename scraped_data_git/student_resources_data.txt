@@ -215,16 +215,18 @@ Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/labs/
-Title: Jindal School Excel Lab
+Title: MIS Excelerate Lab – JSOM
 Headings:
 - Lab Hours:
 - Location:
 - Website:
 Content:
-Available for help with any questions regarding Excel and for assistance in becoming Microsoft-certified expert in ExcelOffers an online Excel course that provides further preparationLab Hours:Monday — Friday (11 a.m. — 7 p.m.)Location:JSOM 2.711Website:https://jindal.utdallas.edu/student-resources/mis-lab/
+Available for help with:Excel ExpertiseTableau,Power BI, andThink-CellProgramming–Java,Python, orSQLProfessional Growth– workshops powered by platforms likeDatacampand collaborations with theMicrosoft Learn Student Ambassadors ProgramLab Hours:Monday — Friday (11 a.m. — 7 p.m.)Location:JSOM 2.711Website:https://jindal.utdallas.edu/student-resources/mis-lab/
 Lists:
-- Available for help with any questions regarding Excel and for assistance in becoming Microsoft-certified expert in Excel
-- Offers an online Excel course that provides further preparation
+- Excel Expertise
+- Tableau,Power BI, andThink-Cell
+- Programming–Java,Python, orSQL
+- Professional Growth– workshops powered by platforms likeDatacampand collaborations with theMicrosoft Learn Student Ambassadors Program
 - Monday — Friday (11 a.m. — 7 p.m.)
 - JSOM 2.711
 - Monday — Friday (11 a.m. — 7 p.m.)
