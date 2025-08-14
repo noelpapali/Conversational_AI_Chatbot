@@ -1,46 +1,46 @@
 Month: Aug, 2025
 
-Date: Wednesday, August 13, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Date: Friday, August 15, 2025
+Time: 10:00 AM - 10:15 AM
+Title: JSOM CMC - 10AM Huddle on Instagram Live
 Location: 
-Event URL: 49967796300865&instance=49967807420758
+Event URL: 49489132474136&instance=49489136148859
 --------------------------------------------------
-Date: Monday, August 18, 2025
+Date: Tuesday, August 19, 2025
 Time: 10:00 AM - 04:00 PM
 Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 49489233277194&instance=49489265905267
---------------------------------------------------
-Date: Tuesday, August 19, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - First Semester Q&A w/Undergraduate Student Services & Sahiti Maturi
-Location: 
-Event URL: 49489027801895&instance=49489034651939
+Event URL: 49489233277194&instance=49489295635311
 --------------------------------------------------
 Date: Wednesday, August 20, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC - Career Mapping with Advika Sampath & Parthivi Nair
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 49489202113231&instance=49489207854840
+Event URL: 49489233277194&instance=49489295638384
 --------------------------------------------------
 Date: Thursday, August 21, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Trivia Connect with Undergraduate Student Services
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 49489215950692&instance=49489222176631
+Event URL: 49489233277194&instance=49489295640433
+--------------------------------------------------
+Date: Thursday, August 21, 2025
+Time: 04:00 PM - 06:00 PM
+Title: Fall 2025 JSOM Graduate Orientation
+Location: 
+Event URL: 49862268462538&instance=49862268463563
 --------------------------------------------------
 Date: Friday, August 22, 2025
-Time: 08:00 AM - 05:00 PM
-Title: JSOM UG Student Services New Student Kickoff
+Time: 10:00 AM - 04:00 PM
+Title: JSOM - Free Professional Headshot Photo Booth - No Appointment Necessary
 Location: 
-Event URL: 50455330682802&instance=50455330683827
+Event URL: 49489233277194&instance=49489295642482
 --------------------------------------------------
 Date: Monday, August 25, 2025
-Time: 11:00 AM - 06:00 PM
-Title: JSOM UG Programs Student Services - Welcome Back Week
+Time: 11:00 AM - 03:30 PM
+Title: JSOM Welcome Back Events: Dean’s Team Cookies
 Location: 
-Event URL: 50455466450241&instance=50455466450242
+Event URL: 50463027790661&instance=50463036595631
 --------------------------------------------------
 Date: Monday, August 25, 2025
 Time: 01:00 PM - 06:00 PM
@@ -55,34 +55,58 @@ Location:
 Event URL: 39581282702414&instance=49117424379157
 --------------------------------------------------
 Date: Tuesday, August 26, 2025
-Time: 01:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 12:30 PM - 03:00 PM
+Title: JSOM Welcome Back Events: Study Abroad Info Session
 Location: 
-Event URL: 50454943495618&instance=50454945896036
+Event URL: 50463074061947&instance=50463074062972
+--------------------------------------------------
+Date: Tuesday, August 26, 2025
+Time: 01:00 PM - 03:00 PM
+Title: JSOM UG Programs Student Services - Welcome Back Week
+Location: 
+Event URL: 50455466450241&instance=50455466456390
+--------------------------------------------------
+Date: Tuesday, August 26, 2025
+Time: 01:00 PM - 06:00 PM
+Title: JSOM Welcome Back Events: Survival Snacks
+Location: 
+Event URL: 50463050868082&instance=50463062195794
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 11:00 AM - 01:00 PM
+Title: JSOM UG Programs Student Services - Welcome Back Week
 Location: 
-Event URL: 50322144938712&instance=50322144939737
+Event URL: 50455466450241&instance=50455466458439
+--------------------------------------------------
+Date: Wednesday, August 27, 2025
+Time: 11:00 AM - 01:00 PM
+Title: JSOM Welcome Back Events: Resource Fair
+Location: 
+Event URL: 50463134679267&instance=50463143972384
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
 Time: 12:00 PM - 01:00 PM
-Title: Discover the Customized Online MBA Made for Working Professionals
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 49887001660341&instance=49887012877848
+Event URL: 49967812110761&instance=49967831356173
 --------------------------------------------------
-Date: Wednesday, August 27, 2025
-Time: 01:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Thursday, August 28, 2025
+Time: 02:00 PM - 03:00 PM
+Title: JSOM UG Programs Student Services - Welcome Back Week
 Location: 
-Event URL: 50454948667410&instance=50454951353098
+Event URL: 50455466450241&instance=50455466459464
 --------------------------------------------------
 Date: Friday, August 29, 2025
 Time: 10:00 AM - 06:00 PM
 Title: JSOM UG Programs Student Services - Welcome Back Week
 Location: 
 Event URL: 50455466450241&instance=50455466461513
+--------------------------------------------------
+Date: Friday, August 29, 2025
+Time: 12:00 PM - 03:30 PM
+Title: Welcome Back Event and JSOM Abroad Session
+Location: 
+Event URL: 50455594019993&instance=50455594021018
 --------------------------------------------------
 Month: Sep, 2025
 
@@ -98,17 +122,23 @@ Title: Fast Track in MS Marketing Information Session
 Location: 
 Event URL: 49923649102143&instance=49923649103168
 --------------------------------------------------
-Date: Friday, September 05, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Wednesday, September 03, 2025
+Time: 05:30 PM - 06:45 PM
+Title: Real Estate Club Welcome Back event
 Location: 
-Event URL: 50455043713764&instance=50455050431658
+Event URL: 50463312037288&instance=50463312038313
 --------------------------------------------------
-Date: Tuesday, September 09, 2025
-Time: 01:30 PM - 02:30 PM
-Title: MS ITM Hangout: Certificates
+Date: Monday, September 08, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Your MBA. Your Way. Learn How at Our Virtual Info Session - Customized Online MBA
 Location: 
-Event URL: 50383602019368&instance=50383602019369
+Event URL: 49886962444087&instance=49886986251113
+--------------------------------------------------
+Date: Wednesday, September 10, 2025
+Time: 08:00 AM - 03:00 PM
+Title: RISE Retail Conference
+Location: 
+Event URL: 49959170778278&instance=49959170782376
 --------------------------------------------------
 Date: Friday, September 12, 2025
 Time: 12:00 PM - 04:00 PM
@@ -134,23 +164,29 @@ Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 50455140006556&instance=50455151594375
 --------------------------------------------------
-Date: Wednesday, September 24, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Discover the Customized Online MBA Made for Working Professionals
+Date: Tuesday, September 23, 2025
+Time: 12:00 PM - 02:00 PM
+Title: Supply Chain Management and Analytics BS Program NACHO Average Major event
 Location: 
-Event URL: 49887106947812&instance=49887184966427
+Event URL: 50455653463456&instance=50455653464481
 --------------------------------------------------
-Date: Thursday, September 25, 2025
-Time: 08:30 AM - 09:30 AM
-Title: Connect with the MSITM Program Director
+Date: Wednesday, September 24, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 50383562012466&instance=50383562013491
+Event URL: 49967839697012&instance=49967847790504
 --------------------------------------------------
 Date: Friday, September 26, 2025
 Time: 01:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50455139704601&instance=50455155539962
+Event URL: 50455295344846&instance=50455302015275
+--------------------------------------------------
+Date: Tuesday, September 30, 2025
+Time: 12:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 50455139341233&instance=50455179586632
 --------------------------------------------------
 Month: Oct, 2025
 
@@ -190,23 +226,23 @@ Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 50455137491460&instance=50455192355611
 --------------------------------------------------
-Date: Thursday, October 23, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Wednesday, October 22, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Discover the Customized 100% Online MBA Made for Working Professionals
 Location: 
-Event URL: 49552326633933&instance=49552326633934
+Event URL: 49957203374841&instance=49957216752800
+--------------------------------------------------
+Date: Friday, October 24, 2025
+Time: 07:00 AM - 05:00 PM
+Title: 2nd Annual UT Dallas Project Management Virtual Conference
+Location: 
+Event URL: 50258651623263&instance=50258661729405
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144946908
---------------------------------------------------
-Date: Friday, October 31, 2025
-Time: 08:30 AM - 06:00 PM
-Title: JSOM Day of Service
-Location: 
-Event URL: 50214894326227&instance=50214894327252
+Event URL: 49967857852770&instance=49967864061079
 --------------------------------------------------
 Month: Nov, 2025
 
@@ -216,17 +252,23 @@ Title: Your MBA. Your Way. Customized Online MBA
 Location: 
 Event URL: 49957250163998&instance=49957259959015
 --------------------------------------------------
-Date: Wednesday, November 12, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Date: Tuesday, November 04, 2025
+Time: 03:30 PM - 04:00 PM
+Title: MSBA&AI Help Desk
 Location: 
-Event URL: 49967865044815&instance=49967869610120
+Event URL: 49552390646901&instance=49552390648950
+--------------------------------------------------
+Date: Monday, November 17, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552341340257&instance=49552341341282
 --------------------------------------------------
 Date: Wednesday, November 19, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 12:00 PM - 01:00 PM
+Title: Advance Your Career from Anywhere: Customized Online MBA Info Session
 Location: 
-Event URL: 50322144938712&instance=50322144948957
+Event URL: 49957272570560&instance=49957280351067
 --------------------------------------------------
 Month: Dec, 2025
 
@@ -236,17 +278,17 @@ Title: MBA Your Way: Customized. Flexible. 100% Online.
 Location: 
 Event URL: 49957293913530&instance=49957307233068
 --------------------------------------------------
-Date: Monday, December 08, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Wednesday, December 03, 2025
+Time: 08:00 PM - 09:00 PM
+Title: JSOM PhD Program Online Information Session
 Location: 
-Event URL: 49552349422129&instance=49552349423154
+Event URL: 50462554254793&instance=50462554260941
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Inside the Customized Online MBA: Program Info Session
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 49957312751743&instance=49957330615328
+Event URL: 50322144938712&instance=50322144952030
 --------------------------------------------------
 Month: Jan, 2026
 
