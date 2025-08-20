@@ -477,7 +477,7 @@ Clinical Associate Professor, Director, MS Finance, Finance and Managerial Econo
 carolyn@utdallas.edu|(972) 883-5854|JSOM 14.206
 
 Associate Professor of Instruction, Executive Education
-gary.reichmuth@utdallas.edu|(972) 883-4431|JSOM 1.515B
+gary.reichmuth@utdallas.edu|(972) 883-4432|JSOM 1.515B
 
 Assistant Professor, Finance and Managerial Economics
 christopher.reilly@utdallas.edu|(972) 883-5907|JSOM 14.407
@@ -1675,7 +1675,7 @@ JSOM 14.206
 Gary  Reichmuth
 Associate Professor of Instruction, Executive Education
 gary.reichmuth@utdallas.edu
-(972) 883-4431
+(972) 883-4432
 JSOM 1.515B
 
 Christopher  Reilly
