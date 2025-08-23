@@ -690,7 +690,7 @@ Context: Careers
 
 Context: Calendar
 	- Text: Calendar
-	  Href: https://calendar.utdallas.edu/department/jindal
+	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
 Context: External Relations
 	- Text: External Relations
@@ -1666,7 +1666,7 @@ Context: Careers
 
 Context: Calendar
 	- Text: Calendar
-	  Href: https://calendar.utdallas.edu/department/jindal
+	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
 Context: External Relations
 	- Text: External Relations
@@ -1690,11 +1690,15 @@ Context: Make a Gift
 
 Context: Upcoming Events
 	- Text: Upcoming Events
-	  Href: https://jindal.utdallas.edu/calendar
+	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: Fall 2025 JSOM Graduate Orientation
-	- Text: Fall 2025 JSOM Graduate Orientation
-	  Href: https://jindal.utdallas.edu/calendar/49862268462538&instance=49862268463563
+Context: JSOM Welcome Back Events: Dean’s Team Cookies
+	- Text: JSOM Welcome Back Events: Dean’s Team Cookies
+	  Href: https://calendar.utdallas.edu/event/copy-of-jsom-welcome-back-events-9454
+
+Context: JSOM UG Programs Student Services – Welcome Back Week
+	- Text: JSOM UG Programs Student Services – Welcome Back Week
+	  Href: https://calendar.utdallas.edu/event/jsom-ug-programs-student-services-welcome-back-week
 
 Context: RISE Retail Conference
 	- Text: RISE Retail Conference

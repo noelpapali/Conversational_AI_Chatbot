@@ -406,6 +406,16 @@ Lists:
 Links:
 
 ================================================================================
+URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
+Headings:
+Content:
+Lists:
+Links:
+- Workshops - https://jindal.utdallas.edu/student-resources/business-communication-center/workshops/
+- Policies and FAQ - https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
+- Additional Resources - https://jindal.utdallas.edu/student-resources/business-communication-center/additional-resources/
+
+================================================================================
 URL: https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
 Title: Information for Students
 Questions and Answers:
