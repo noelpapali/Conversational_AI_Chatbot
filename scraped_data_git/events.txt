@@ -1,88 +1,76 @@
 Month: Aug, 2025
 
-Date: Monday, August 25, 2025
-Time: 11:00 AM - 06:00 PM
-Title: JSOM UG Programs Student Services - Welcome Back Week
-Location: 
-Event URL: 50455466450241&instance=50455466450242
---------------------------------------------------
-Date: Monday, August 25, 2025
-Time: 01:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 50454921642104&instance=50454931150646
---------------------------------------------------
-Date: Monday, August 25, 2025
-Time: 03:00 PM - 06:00 PM
-Title: JSOM UG Programs Student Services - Welcome Back Week
-Location: 
-Event URL: 50455466450241&instance=50455466453316
---------------------------------------------------
 Date: Tuesday, August 26, 2025
-Time: 09:00 AM - 12:00 PM
-Title: MSBA&AI Flex Welcome Table for Fall 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS Supply Chain Management/MS Management Science Information Session
 Location: 
-Event URL: 50471958561056&instance=50471958562081
+Event URL: 39581282702414&instance=49117424379157
 --------------------------------------------------
 Date: Tuesday, August 26, 2025
 Time: 12:30 PM - 03:00 PM
-Title: JSOM Welcome Back Events: Study Abroad Info Session
+Title: JSOM UG Programs Student Services - Welcome Back Week
 Location: 
-Event URL: 50463074061947&instance=50463074062972
+Event URL: 50455466450241&instance=50455466455365
+--------------------------------------------------
+Date: Tuesday, August 26, 2025
+Time: 01:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 50454943495618&instance=50454945896036
 --------------------------------------------------
 Date: Tuesday, August 26, 2025
 Time: 01:00 PM - 03:00 PM
-Title: JSOM UG Programs Student Services - Welcome Back Week
+Title: JSOM Welcome Back Events: Retro in the Metro
 Location: 
-Event URL: 50455466450241&instance=50455466456390
---------------------------------------------------
-Date: Tuesday, August 26, 2025
-Time: 01:00 PM - 06:00 PM
-Title: JSOM Welcome Back Events: Survival Snacks
-Location: 
-Event URL: 50463050868082&instance=50463062195794
+Event URL: 50463104704322&instance=50463104705347
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144939737
+Event URL: 50321557610449&instance=50321557611474
+--------------------------------------------------
+Date: Wednesday, August 27, 2025
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 50507986560565&instance=50507986561590
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
 Time: 11:00 AM - 01:00 PM
-Title: JSOM UG Programs Student Services - Welcome Back Week
+Title: JSOM Welcome Back Events: CMC Open House
 Location: 
-Event URL: 50455466450241&instance=50455466458439
+Event URL: 50463184156738&instance=50463221657976
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
-Time: 11:00 AM - 01:00 PM
-Title: JSOM Welcome Back Events: Resource Fair
+Time: 12:00 PM - 01:00 PM
+Title: Discover the Customized Online MBA Made for Working Professionals
 Location: 
-Event URL: 50463134679267&instance=50463143972384
+Event URL: 49887001660341&instance=49887012877848
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
-Time: 12:00 PM - 03:00 PM
-Title: MSBA&AI Flex Welcome Table for Fall 2025
+Time: 12:00 PM - 01:00 PM
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 50471969391380&instance=50471969392405
---------------------------------------------------
-Date: Wednesday, August 27, 2025
-Time: 01:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 50454948667410&instance=50454951353098
+Event URL: 49967812110761&instance=49967831356173
 --------------------------------------------------
 Date: Thursday, August 28, 2025
 Time: 02:00 PM - 03:00 PM
-Title: JSOM Welcome Back Events: Mocktails & Trivia
+Title: JSOM UG Programs Student Services - Welcome Back Week
 Location: 
-Event URL: 50463150645096&instance=50463161074964
+Event URL: 50455466450241&instance=50455466459464
 --------------------------------------------------
 Date: Friday, August 29, 2025
 Time: 10:00 AM - 06:00 PM
-Title: JSOM Welcome Back Events: Brunch with the Dean
+Title: JSOM UG Programs Student Services - Welcome Back Week
 Location: 
-Event URL: 50463174904874&instance=50463179944018
+Event URL: 50455466450241&instance=50455466461513
+--------------------------------------------------
+Date: Friday, August 29, 2025
+Time: 12:00 PM - 03:30 PM
+Title: Welcome Back Event and JSOM Abroad Session
+Location: 
+Event URL: 50455594019993&instance=50455594021018
 --------------------------------------------------
 Month: Sep, 2025
 
@@ -307,4 +295,22 @@ Time: 08:00 PM - 09:00 PM
 Title: JSOM PhD Program Online Information Session
 Location: 
 Event URL: 50462554254793&instance=50462554260941
+--------------------------------------------------
+Date: Monday, December 08, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552349422129&instance=49552349423154
+--------------------------------------------------
+Date: Wednesday, December 10, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557623767
+--------------------------------------------------
+Date: Wednesday, December 10, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Inside the Customized Online MBA: Program Info Session
+Location: 
+Event URL: 49957312751743&instance=49957330615328
 --------------------------------------------------
