@@ -1,34 +1,10 @@
 Month: Aug, 2025
 
-Date: Tuesday, August 26, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS Supply Chain Management/MS Management Science Information Session
-Location: 
-Event URL: 39581282702414&instance=49117424379157
---------------------------------------------------
-Date: Tuesday, August 26, 2025
-Time: 12:30 PM - 03:00 PM
-Title: JSOM UG Programs Student Services - Welcome Back Week
-Location: 
-Event URL: 50455466450241&instance=50455466455365
---------------------------------------------------
-Date: Tuesday, August 26, 2025
-Time: 01:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 50454943495618&instance=50454945896036
---------------------------------------------------
-Date: Tuesday, August 26, 2025
-Time: 01:00 PM - 03:00 PM
-Title: JSOM Welcome Back Events: Retro in the Metro
-Location: 
-Event URL: 50463104704322&instance=50463104705347
---------------------------------------------------
 Date: Wednesday, August 27, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557611474
+Event URL: 50322144938712&instance=50322144939737
 --------------------------------------------------
 Date: Wednesday, August 27, 2025
 Time: 10:00 AM - 11:00 AM
@@ -168,7 +144,7 @@ Date: Friday, September 26, 2025
 Time: 01:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50455295344846&instance=50455302015275
+Event URL: 50455139704601&instance=50455155539962
 --------------------------------------------------
 Date: Monday, September 29, 2025
 Time: 10:00 PM - 11:00 PM
@@ -206,7 +182,7 @@ Date: Wednesday, October 08, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557616596
+Event URL: 50322144938712&instance=50322144943835
 --------------------------------------------------
 Date: Wednesday, October 08, 2025
 Time: 10:00 AM - 11:00 AM
@@ -313,4 +289,20 @@ Time: 12:00 PM - 01:00 PM
 Title: Inside the Customized Online MBA: Program Info Session
 Location: 
 Event URL: 49957312751743&instance=49957330615328
+--------------------------------------------------
+Month: Jan, 2026
+
+Date: Wednesday, January 21, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557625816
+--------------------------------------------------
+Month: Feb, 2026
+
+Date: Wednesday, February 11, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557628889
 --------------------------------------------------

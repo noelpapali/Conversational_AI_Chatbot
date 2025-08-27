@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Executive MBA Alumnus to Lead Private Equity at Grant Thornton
+Title Link: https://jindal.utdallas.edu/news/jindal-school-executive-mba-alumnus-to-lead-private-equity-at-grant-thornton/
+Excerpt: A graduate of the Naveen Jindal School of Management’s Executive MBA program has taken on a role that highlights his career success and the school’s growing alumni influence. Marc Chase Marc Chase, EMBA ’99, has been named leader of Grant Thornton’s Private Equity practice. He will lead strategy, growth and operations in a highly competitive […]
+Meta Details: August 27th, 2025 |Alumni,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/08/marc_chase_630x630.jpg
+
+==================================================
+
 Title: Students in Jindal School’s PPHM Gain Real-World Healthcare System Experience
 Title Link: https://jindal.utdallas.edu/news/students-in-jindal-schools-pphm-gain-real-world-healthcare-system-experience/
 Excerpt: PPHM students and Professor Karnuta with several Mercy leaders, including Dr. David Meiners, President of Mercy Hospital, St. Louis (back row, far left). Students from the Professional Program in Healthcare Management (PPHM) in the Naveen Jindal School of Management took a trip to St. Louis this past spring for a site visit to Mercy Health […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/08/pphm_mercy_health_system_gr
 Title: Jindal School Study Shows Why Online Retail Hasn’t Transformed Book Sales
 Title Link: https://jindal.utdallas.edu/news/jindal-school-study-shows-why-online-retail-hasnt-transformed-book-sales/
 Excerpt: A recently published study by researchers from the Naveen Jindal School of Management at The University of Texas at Dallas tempers the long-held idea that the rise of e-commerce would democratize book sales. The paper — Only a “Longish” Tail — was published in the August 2025 issue of Production and Operations Management, a peer-reviewed […]
-Meta Details: August 14th, 2025 |Faculty/Research,Featured
+Meta Details: August 14th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/08/laptop_library_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-research-shows-patien
 Excerpt: A study conducted by a researcher from the Naveen Jindal School of Management finds that when patients are presented with both algorithm accuracy and peer acceptance information in a medical artificial intelligence system, their decisions are more strongly influenced by what fellow patients have accepted — even when the accuracy of the AI algorithm is […]
 Meta Details: May 27th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/05/featured_image_630x630.png
-
-==================================================
-
-Title: New Endowment Celebrates Jindal School’s Partnership with Taiwanese University
-Title Link: https://jindal.utdallas.edu/news/new-endowment-celebrates-jindal-schools-partnership-with-taiwanese-university/
-Excerpt: A May 5 ceremony in the ECLAT Atrium announced the launch of an endowed fellowship program for graduate students in the Naveen Jindal School of Management. The new award deepens a growing relationship between the Jindal School and Fu Jen Catholic University in Taiwan, providing life-changing financial assistance to Jindal School students with a preference […]
-Meta Details: May 15th, 2025 |Development,Events,Students
-Image URL: https://jindal.utdallas.edu/files/2025/05/fu_jen_catholic_university_dedication_plaque_630x630.jpg
 
 ==================================================
 
