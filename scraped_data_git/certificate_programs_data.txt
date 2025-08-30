@@ -27,6 +27,8 @@ Operations and Supply Chain Management:
 
 Organizational Behavior, Coaching and Consulting:
 
+Real Estate:
+
 Aviation:
 
 Governance:
@@ -81,6 +83,10 @@ List:
   - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/academic-certificate/)
   - Strategic HR (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/academic-certificate/)
   - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+
+Real Estate:
+List:
+  - Real Estate (Link: https://fin.utdallas.edu/real-estate/graduate-certificate/.)
 
 Aviation:
 List:
@@ -139,6 +145,8 @@ Operations and Supply Chain Management:
 
 Organizational Behavior, Coaching and Consulting:
 
+Real Estate:
+
 Aviation:
 
 Governance:
@@ -193,6 +201,10 @@ List:
   - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/academic-certificate/)
   - Strategic HR (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/academic-certificate/)
   - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+
+Real Estate:
+List:
+  - Real Estate (Link: https://fin.utdallas.edu/real-estate/graduate-certificate/.)
 
 Aviation:
 List:

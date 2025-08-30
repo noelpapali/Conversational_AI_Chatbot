@@ -174,7 +174,7 @@ Professor, Operations Management
 dorothee.honhon@utdallas.edu|(972) 883-5947|JSOM 3.203
 
 Professor, Operations Management
-bin.hu@utdallas.edu|(972) 883-2736|JSOM 3.414
+bin.hu@utdallas.edu|(972) 883-2728|JSOM 3.414
 
 Associate Professor, Accounting
 ying.huang1@utdallas.edu|(972) 883-5989|JSOM 4.419
@@ -1069,7 +1069,7 @@ JSOM 3.203
 Bin  Hu
 Professor, Operations Management
 bin.hu@utdallas.edu
-(972) 883-2736
+(972) 883-2728
 JSOM 3.414
 
 Ying  Huang
