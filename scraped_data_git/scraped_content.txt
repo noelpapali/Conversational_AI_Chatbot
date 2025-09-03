@@ -1692,13 +1692,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: JSOM Welcome Back Events: Dean’s Team Cookies
-	- Text: JSOM Welcome Back Events: Dean’s Team Cookies
-	  Href: https://calendar.utdallas.edu/event/copy-of-jsom-welcome-back-events-9454
-
-Context: JSOM UG Programs Student Services – Welcome Back Week
-	- Text: JSOM UG Programs Student Services – Welcome Back Week
-	  Href: https://calendar.utdallas.edu/event/jsom-ug-programs-student-services-welcome-back-week
+Context: Microsoft Fabric Tour Dallas
+	- Text: Microsoft Fabric Tour Dallas
+	  Href: https://calendar.utdallas.edu/event/microsoft-fabric-tour-the-jindal-school
 
 Context: RISE Retail Conference
 	- Text: RISE Retail Conference
