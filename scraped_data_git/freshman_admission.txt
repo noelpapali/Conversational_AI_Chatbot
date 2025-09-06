@@ -95,7 +95,6 @@ Heading: Important Dates
 
 Heading: Submit your admission application.
   Paragraph: The applications for CommonApp and ApplyTexas are now open for fall 2026.
-  Paragraph: Please note, for both applications to our university, applicants will receive information on how to access their applicant portal in mid-August, when we begin receiving applications. All applications are marked as received based upon the date they are submitted through either CommonApp or ApplyTexas, not on the date UT Dallas receives the application.
 
 --------------------------------------------------
 
