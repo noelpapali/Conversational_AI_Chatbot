@@ -1706,13 +1706,13 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: Microsoft Fabric Tour Dallas
-	- Text: Microsoft Fabric Tour Dallas
-	  Href: https://calendar.utdallas.edu/event/microsoft-fabric-tour-the-jindal-school
-
 Context: RISE Retail Conference
 	- Text: RISE Retail Conference
 	  Href: https://jindal.utdallas.edu/calendar/49959170778278&instance=49959170782376
+
+Context: Cybersecurity Day
+	- Text: Cybersecurity Day
+	  Href: https://calendar.utdallas.edu/event/cybersecurity-day-2492?utm_campaign=widget&utm_medium=widget&utm_source=Comet+Calendar
 
 Context: News
 	- Text: News

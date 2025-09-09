@@ -234,20 +234,3 @@ List:
 
 ==================================================
 
-URL: https://jindal.utdallas.edu/certificate-programs/academic/
-
-Wideblocks:
-Build skills and earn academic credit.:
-Paragraph: Graduate certificate programs at the Jindal School of Management provide focused knowledge in specific areas of interest.  Students can earn academic credits in these programs that can be transferred to degree programs.
-
-Process – Application and Graduation:
-Paragraph: Applies to Academic Certificates on the following page: https://jindal.utdallas.edu/certificate-programs/academic.
-For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/#academic for application requirements.
-
-Smallblocks:
-Executive Education Academic Certificates:
-Paragraph: If you are interested in an academic certificate not listed above, it may be offered by JSOM’s Executive Education program. Visit the Executive Education home page  to see all the academic certificates they offer.
-Link: See Executive Education Academic Certificates (URL: /execed/#academic)
-
-==================================================
-
