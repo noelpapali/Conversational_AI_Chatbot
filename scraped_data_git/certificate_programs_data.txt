@@ -234,3 +234,78 @@ List:
 
 ==================================================
 
+URL: https://jindal.utdallas.edu/certificate-programs/academic/
+
+Wideblocks:
+Build skills and earn academic credit.:
+Paragraph: Graduate certificate programs at the Jindal School of Management provide focused knowledge in specific areas of interest.  Students can earn academic credits in these programs that can be transferred to degree programs.
+
+Process – Application and Graduation:
+Paragraph: Applies to Academic Certificates on the following page: https://jindal.utdallas.edu/certificate-programs/academic.
+For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/#academic for application requirements.
+
+Smallblocks:
+Executive Education Academic Certificates:
+Paragraph: If you are interested in an academic certificate not listed above, it may be offered by JSOM’s Executive Education program. Visit the Executive Education home page  to see all the academic certificates they offer.
+Link: See Executive Education Academic Certificates (URL: /execed/#academic)
+
+==================================================
+
+URL: https://jindal.utdallas.edu/certificate-programs/professional/
+
+Wideblocks:
+Knowledge is Power in Programs:
+Paragraph: Professional certificate programs provide an avenue for the working professional to get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment. Academic credit cannot be earned by attending these programs.
+
+Professional Certificates (Non-Credit):
+
+Aviation:
+
+Governance:
+
+Management:
+
+Operations and Supply Chain Management:
+
+Organizational Behavior, Coaching and Consulting:
+
+Smallblocks:
+Aviation:
+
+Governance:
+
+Management:
+
+Operations and Supply Chain Management:
+
+Organizational Behavior, Coaching and Consulting:
+
+Tabs:
+Aviation:
+List:
+  - Professional Certificate in Sustainability Strategy and Management in Aviation (Link: https://jindal.utdallas.edu/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
+
+Governance:
+List:
+  - Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
+  - Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
+
+Management:
+List:
+  - Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
+
+Operations and Supply Chain Management:
+List:
+  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
+  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/professional-certificate-supply-chain/)
+
+Organizational Behavior, Coaching and Consulting:
+List:
+  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
+  - Strategic HR (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
+  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+  - Mediation and Dispute Resolution (Link: https://obcc.utdallas.edu/mediation-dispute-resolution/)
+
+==================================================
+
