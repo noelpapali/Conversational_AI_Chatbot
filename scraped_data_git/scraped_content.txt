@@ -1710,6 +1710,10 @@ Context: RISE Retail Conference
 	- Text: RISE Retail Conference
 	  Href: https://jindal.utdallas.edu/calendar/49959170778278&instance=49959170782376
 
+Context: AI Day @TheJindalSchool
+	- Text: AI Day @TheJindalSchool
+	  Href: https://calendar.utdallas.edu/event/artificial-intelligence-ai-day-thejindalschool
+
 Context: Cybersecurity Day
 	- Text: Cybersecurity Day
 	  Href: https://calendar.utdallas.edu/event/cybersecurity-day-2492?utm_campaign=widget&utm_medium=widget&utm_source=Comet+Calendar
