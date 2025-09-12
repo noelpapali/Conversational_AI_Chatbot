@@ -1706,9 +1706,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: RISE Retail Conference
-	- Text: RISE Retail Conference
-	  Href: https://jindal.utdallas.edu/calendar/49959170778278&instance=49959170782376
+Context: JSOM Undergraduate Student Conference
+	- Text: JSOM Undergraduate Student Conference
+	  Href: https://calendar.utdallas.edu/event/jsom-undergraduate-student-conference?utm_campaign=widget&utm_medium=widget&utm_source=Comet+Calendar
 
 Context: AI Day @TheJindalSchool
 	- Text: AI Day @TheJindalSchool
