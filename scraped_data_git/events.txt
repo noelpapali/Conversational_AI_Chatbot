@@ -1,28 +1,28 @@
 Month: Sep, 2025
 
-Date: Friday, September 12, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Monday, September 15, 2025
+Time: 01:00 PM - 02:00 PM
+Title: MSBA&AI Flex Mix and Mingle
 Location: 
-Event URL: 50455056666802&instance=50455061920345
+Event URL: 50472020819093&instance=50472020820118
 --------------------------------------------------
 Date: Tuesday, September 16, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 03:00 PM - 05:00 PM
+Title: JSOM Student Organization Fair
 Location: 
-Event URL: 50455096067642&instance=50455100107024
---------------------------------------------------
-Date: Wednesday, September 17, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552318051651&instance=49552318052676
+Event URL: 50719162791891&instance=50719162792916
 --------------------------------------------------
 Date: Wednesday, September 17, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144941786
+Event URL: 50321557610449&instance=50321557614547
+--------------------------------------------------
+Date: Wednesday, September 17, 2025
+Time: 12:00 PM - 01:00 PM
+Title: JSOM CMC Resume Storytelling: Turning Everyday Experience into Career Gold
+Location: 
+Event URL: 50720776978212&instance=50720776979237
 --------------------------------------------------
 Date: Thursday, September 18, 2025
 Time: 01:00 PM - 04:00 PM
@@ -36,29 +36,35 @@ Title: Center of Professional Sales - Fellows of the Center Formal Induction
 Location: 
 Event URL: 50526178412190&instance=50526178412191
 --------------------------------------------------
-Date: Saturday, September 20, 2025
-Time: 10:00 AM - 03:00 PM
-Title: Finance Alumni Roundtable
+Date: Friday, September 19, 2025
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50542819321473&instance=50542819321474
+Event URL: 50455140006556&instance=50455151594375
 --------------------------------------------------
 Date: Monday, September 22, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Lunch and Learn: Entrepreneurial Success Series
+Time: 11:00 AM - 01:00 PM
+Title: Accounting Career Exploration with Baker Tilly
 Location: 
-Event URL: 50668711905402&instance=50668711908476
+Event URL: 50595560240398&instance=50595560241423
+--------------------------------------------------
+Date: Monday, September 22, 2025
+Time: 01:00 PM - 02:00 PM
+Title: Business of Healthcare Series:  Charlin Health Workshop
+Location: 
+Event URL: 50720409920335&instance=50720409921360
 --------------------------------------------------
 Date: Tuesday, September 23, 2025
-Time: 08:00 AM - 09:00 AM
-Title: JSOM PhD Program Online Information Session
+Time: 12:00 PM - 02:00 PM
+Title: Supply Chain Management and Analytics BS Program NACHO Average Major event
 Location: 
-Event URL: 50462554254793&instance=50462554254794
+Event URL: 50455653463456&instance=50455653464481
 --------------------------------------------------
 Date: Tuesday, September 23, 2025
 Time: 04:00 PM - 05:00 PM
-Title: JSOM - BS Healthcare Management - Info Session/Webinar for Current Students
+Title: JSOM CMC What Makes a Cover Letter Worth Reading- From a Former Campus Recruiter
 Location: 
-Event URL: 50656277245367&instance=50656392423334
+Event URL: 50720802586513&instance=50720802587538
 --------------------------------------------------
 Date: Wednesday, September 24, 2025
 Time: 09:00 AM - 10:00 AM
@@ -305,10 +311,4 @@ Time: 07:00 PM - 08:00 PM
 Title: MBA Your Way: Customized. Flexible. 100% Online.
 Location: 
 Event URL: 49957293913530&instance=49957307233068
---------------------------------------------------
-Date: Wednesday, December 03, 2025
-Time: 08:00 PM - 09:00 PM
-Title: JSOM PhD Program Online Information Session
-Location: 
-Event URL: 50462554254793&instance=50462554260941
 --------------------------------------------------

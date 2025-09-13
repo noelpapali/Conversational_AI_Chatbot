@@ -73,18 +73,6 @@ Yes, the TA/RA employment requires two specific orientations: 1)UTD Office of Gr
 Lists:
 
 ================================================================================
-URL: https://jindal.utdallas.edu/student-resources/student-organizations/
-Content:
-UT Dallas has over 300 registered student organizations. Inside the Jindal School, JSOM Student Organizations help provide assistance to undergraduate and graduate students in getting engaged in academic and curricular activities outside of the classroom. We encourage students to visit the organizations below and participate by becoming a member.Please visit the UT Dallasstudent organizationsite for more information.
-If you have any questions or wish to affiliate your organization with JSOM, please reach out to that specific organization or emailJSOM_StudentOrgs@utdallas.edu.
-Links:
-- student organization - https://soc.utdallas.edu/
-- JSOM_StudentOrgs@utdallas.edu - mailto:JSOM_StudentOrgs@utdallas.edu
-- JSOM Student Org Handbook - /jindal/files/2024/09/student-org-handbook-3_2024-ba8cd62bcf896537.pdf
-- Talent Release Form - /jindal/files/2021/10/student-org-talent-release.pdf
-- JSOM Student Organization Event Form - https://atlas.utdallas.edu/TDClient/30/Portal/Requests/TicketRequests/NewForm?ID=AbzvHdYIHzk_&RequestorType=ServiceOffering
-
-================================================================================
 URL: https://jindal.utdallas.edu/student-resources/labs/
 Title: No Title
 Headings:
