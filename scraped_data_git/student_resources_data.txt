@@ -379,29 +379,6 @@ Links:
 - utdsales@utdallas.edu - mailto:utdsales@utdallas.edu
 
 ================================================================================
-URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
-Headings:
-Content:
-Innovative Approach
-We integrate communication and artificial intelligence (AI), emphasizing the fundamentals of effective business communication. Students explore the AI Applicant Tracking Systems (ATS), resume optimization, interview strategies and presentations in skills-based projects.
-Practical Takeaways
-Each student creates, refines and improves a LinkedIn profile optimized for job searching, a resume ready to pass online screening and a Personalized Portfolio (POP).
-Internship Preparation
-We prepare students to secure internships across a range of industries, ensuring they have valuable real-world experiences to enhance their career prospects.
-Lists:
-Links:
-
-================================================================================
-URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
-Headings:
-Content:
-Lists:
-Links:
-- Workshops - https://jindal.utdallas.edu/student-resources/business-communication-center/workshops/
-- Policies and FAQ - https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
-- Additional Resources - https://jindal.utdallas.edu/student-resources/business-communication-center/additional-resources/
-
-================================================================================
 URL: https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
 Title: Information for Students
 Questions and Answers:
