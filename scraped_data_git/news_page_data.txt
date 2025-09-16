@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Marketing Sophomore Jane Burkhardt Takes Helm at UTD Mercury
+Title Link: https://jindal.utdallas.edu/news/jindal-school-marketing-sophomore-jane-burkhardt-takes-helm-at-utd-mercury/
+Excerpt: You might not think to look for a newspaper editor in the Naveen Jindal School of Management, but Jane Burkhardt, a marketing sophomore, takes over as editor-in-chief of The Mercury, The University of Texas at Dallas’ official student-run newspaper, this fall. Established in 1980, it had been silent for the past year. “While The Mercury […]
+Meta Details: September 16th, 2025 |Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2025/09/jane_burkhardt_630x630.jpg
+
+==================================================
+
 Title: Jindal School Alumnus Builds AI-Powered HR Framework to Predict Workforce Needs
 Title Link: https://jindal.utdallas.edu/news/jindal-school-alumnus-builds-ai-powered-hr-framework-to-predict-workforce-needs/
 Excerpt: A new platform and methodology that connects existing human resources information systems with artificial intelligence has been developed by a Naveen Jindal School of Management alumnus. It is poised to propel the field into the predictive analytics era — while creating opportunities for fellow Jindal School graduates to navigate today’s challenging job market. Sameer Ranjan […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2022/11/sameer_ranjan_630x630.jpg
 Title: Internships Help Shape Jindal School Students’ Career Futures
 Title Link: https://jindal.utdallas.edu/news/internships-help-shape-jindal-school-students-career-futures/
 Excerpt: Many students at the Naveen Jindal School of Management spent at least part of this past summer doing internships related to their majors. In doing so, they gained real-world, professional experience and had the opportunity to apply their academic learnings within corporate settings. Internships are so valuable that they are a requirement for graduation at […]
-Meta Details: September 3rd, 2025 |Featured,Students
+Meta Details: September 3rd, 2025 |Students
 Image URL: https://jindal.utdallas.edu/files/2025/09/summer_2025_internshipsx630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-alumna
 Excerpt: 
 Meta Details: June 3rd, 2025 |Alumni,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_1006009886_square.jpg
-
-==================================================
-
-Title: Study Reveals Public Favors Chatbot Answers Over Those of Physicians
-Title Link: https://jindal.utdallas.edu/news/study-reveals-public-favors-chatbot-answers-over-those-of-physicians/
-Excerpt: A study by a team of researchers from the Naveen Jindal School of Management reveals that when laypeople compare answers from licensed physicians to those from AI chatbots like ChatGPT, they consistently prefer the AI — even when experts rate the chatbot’s answers as lower in clinical quality. The working paper — “What People Think […]
-Meta Details: May 30th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/05/robot_vs_doctor_630x630.png
 
 ==================================================
 
