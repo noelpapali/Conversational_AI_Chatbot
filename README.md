@@ -1,46 +1,80 @@
-# Conversational AI Bot for UT Dallas JSOM 
-  https://jsom-botship.streamlit.app/
+# Conversational AI Chatbot for UT Dallas JSOM  
 
-Welcome to the **Conversational AI Bot** project! This bot is designed to assist students, faculty, and staff at **UT Dallas Jindal School of Management (JSOM)** by providing answers to frequently asked questions (FAQs) about admissions, programs, scholarships, and general information related to JSOM.
+[Live Demo](https://jsom-botship.streamlit.app/)  
 
-## Objective
-The goal of this project was to create a **go-to conversational bot** that can efficiently answer a wide range of FAQs related to **JSOM admissions**, **programs**, and **scholarships**. In addition, the bot is capable of handling questions that go beyond the scope of JSOM topics by expanding on the broader context of **UT Dallas**.
+## Introduction  
+This project is a **Conversational AI Chatbot** built for the **UT Dallas Jindal School of Management (JSOM)**. The bot is designed to help **students, faculty, and staff** by answering frequently asked questions (FAQs) related to **admissions, programs, scholarships, and general school information**.  
 
-## Features
-- **Answering FAQs**: The bot is equipped to respond to common queries about admissions, available programs, scholarship opportunities, and more.
-- **Context Expansion**: If the question is outside the scope of JSOM, the bot intelligently expands on the context, offering relevant information related to the university or the school.
-- **Interactive UI**: Built using **Streamlit**, providing an easy-to-use interface where users can interact with the bot.
-- **Web Scraping**: The bot uses **web scraping** techniques to extract relevant data from the **UT Dallas JSOM** website, ensuring that it provides up-to-date and accurate answers.
-- **Embedding for Fast Search**: The bot stores the data embeddings in **Pinecone**, enabling fast and efficient retrieval of information based on user queries.
+Unlike simple FAQ pages, the chatbot can:  
+- Provide **context-aware answers**  
+- Retain **conversation flow**  
+- Ask **clarifying questions** when queries are unclear  
+- Expand beyond JSOM to broader **UT Dallas topics** when necessary  
 
-## Tech Stack
-- **Web Scraping**: 
-  - `BeautifulSoup`, `requests`, and `Selenium` are used to scrape and collect data from relevant web pages.
-  
-- **Data Cleaning & Preprocessing**: 
-  - `pandas` for data manipulation and cleaning.
-  - `re` for regular expressions to clean up the data before embedding.
+---
 
-- **Chunking & Embedding**: 
-  - `sentence-transformers` with the **all-MiniLM-L6-v2** model for generating embeddings from the scraped text.
-  - **Pinecone** for storing and managing embeddings, enabling fast, real-time search capabilities.
+## Tech Stack  
 
-- **Conversational Bot**:
-  - **Streamlit** for the interactive web-based UI.
-  - **OpenAI GPT-4o-mini** for generating responses to user queries, including both direct answers and context expansion.
+### Web Scraping  
+- **BeautifulSoup**, **requests**, **Selenium** → for extracting information from JSOM webpages.  
 
-## Setup Instructions
-To get started with the project locally, follow these steps:
+### Data Cleaning & Preprocessing  
+- **pandas** → for organizing and cleaning scraped data  
+- **re (Regular Expressions)** → for text cleanup and formatting  
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/PavanChandan29/Conversational-AI-Bot-for-UTDallas-JSOM-
-cd Conversational-AI-Bot-for-UTDallas-JSOM-
+### Chunking & Embedding  
+- **sentence-transformers (all-MiniLM-L6-v2)** → to generate embeddings (numerical meaning-based representations of text)  
+- **Pinecone** → vector database for fast and semantic search  
 
-pip install -r requirements.txt
+### Conversational AI Layer  
+- **OpenAI GPT-4o-mini** → for generating context-aware, natural responses  
+- **Prompt Engineering** → to reduce hallucinations and guide conversations  
 
-streamlit run webapp.py
+### User Interface  
+- **Streamlit** → for building a simple, interactive, and shareable web application  
 
-"# Conversational_AI_Chatbot" 
-"# Conversational_AI_Chatbot" 
-"# Conversational_AI_Chatbot" 
+---
+
+## Motivation  
+I became curious and interested in learning more about **Large Language Models (LLMs)** after taking the **NLP course at UT Dallas**. During my exploration, I came across the concept of **Retrieval-Augmented Generation (RAG)**, which stood out as an exciting and practical approach to building smarter AI assistants. This project was my way of diving deeper into RAG, experimenting with how it works in practice, and applying it to a real-world use case at JSOM.  
+
+
+---
+
+## Overview  
+The chatbot follows a **RAG (Retrieval-Augmented Generation)** workflow:  
+
+1. **Scraping** → Collect content from JSOM web pages  
+2. **Cleaning** → Standardize and preprocess the data  
+3. **Chunking & Embedding** → Split into smaller pieces and generate embeddings  
+4. **Storage** → Save embeddings in Pinecone for fast retrieval  
+5. **Retrieval** → When a user asks a question, fetch the most relevant chunks  
+6. **Generation** → Pass both the question and retrieved text to GPT-4o-mini for a contextual answer  
+7. **Interaction** → Users chat via the Streamlit UI  
+
+![Architecture](./architecture.png)
+---
+
+## Key Learnings  
+
+1. **Data quality matters.** We found that cleaner, well-prepared, and properly chunked text directly improved the accuracy and reliability of the chatbot’s responses.  
+
+2. **Prompt design is powerful.** Even small adjustments in the way prompts were structured had a big impact on reducing vague or incorrect answers from the model.  
+
+3. **Context retention is tricky.** Using overlapping chunks allowed the chatbot to better remember and carry over information from one part of the conversation to the next.  
+
+4. **User experience is key.** A clear, friendly, and interactive UI made the chatbot far more approachable and encouraged people to actually use it.  
+
+---
+
+## Conclusion  
+The **Conversational AI Chatbot for JSOM** is more than just a demo project. It shows how **Retrieval-Augmented Generation (RAG)** can make domain-specific knowledge **accessible, interactive, and scalable**.  
+
+While this version is focused on UT Dallas JSOM, the same architecture can be applied to:  
+- **Education:** Course assistants, FAQ bots for other schools  
+- **Healthcare:** Patient support chatbots  
+- **Corporate:** Internal HR/IT knowledge assistants  
+- **Real Estate & Finance:** Smart advisors for clients
+- **Business Intelligence:** It can help with interpreting data and giving overview of dashboards
+
+This project was a rewarding experience in combining **data engineering, AI models, and user interface design** to solve a real-world problem at scale.  
