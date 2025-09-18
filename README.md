@@ -77,4 +77,3 @@ While this version is focused on UT Dallas JSOM, the same architecture can be ap
 - **Real Estate & Finance:** Smart advisors for clients
 - **Business Intelligence:** It can help with interpreting data and giving overview of dashboards
 
-This project was a rewarding experience in combining **data engineering, AI models, and user interface design** to solve a real-world problem at scale.  
