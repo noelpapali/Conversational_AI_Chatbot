@@ -11,71 +11,74 @@ from typing import List, Dict, Optional
 import streamlit as st
 
 def get_config():
-    """Get configuration from either config.ini, Streamlit secrets, or environment variables."""
-    config = ConfigParser()
+    """Load config in this priority: Streamlit secrets -> env vars -> config.ini (local only)."""
+    cfg = ConfigParser()
 
-    # Try to read from config.ini first (local development)
-    config_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'config.ini'))
-    if os.path.exists(config_path):
-        config.read(config_path)
-        return config
+    # 1) Streamlit secrets
+    if hasattr(st, "secrets") and st.secrets:
+        if "pinecone" in st.secrets:
+            cfg["pinecone"] = {
+                "api_key": st.secrets["pinecone"].get("api_key", ""),
+                "env":     st.secrets["pinecone"].get("env", ""),
+                "index":   st.secrets["pinecone"].get("index", "")
+            }
+        if "openai" in st.secrets:
+            cfg["openai"] = {
+                "api_key":     st.secrets["openai"].get("api_key", ""),
+                "model_name":  st.secrets["openai"].get("model_name", "gpt-4o-mini"),
+                "temperature": str(st.secrets["openai"].get("temperature", "0.2")),
+            }
+        if "embeddings" in st.secrets:
+            cfg["embeddings"] = {
+                "model_name": st.secrets["embeddings"].get(
+                    "model_name", "sentence-transformers/all-mpnet-base-v2"
+                )
+            }
 
-    # If config.ini doesn't exist, check Streamlit secrets (for Streamlit deployments)
-    if "pinecone" in st.secrets:
-        config['pinecone'] = {
-            'api_key': st.secrets["pinecone"]["api_key"],
-            'env': st.secrets["pinecone"]["env"],
-            'index': st.secrets["pinecone"]["index"]
+    # 2) Environment variables (fallback)
+    if "pinecone" not in cfg or not cfg["pinecone"].get("api_key"):
+        cfg["pinecone"] = {
+            "api_key": os.getenv("PINECONE_API_KEY", ""),
+            "env":     os.getenv("PINECONE_ENV", ""),
+            "index":   os.getenv("PINECONE_INDEX", "")
+        }
+    if "openai" not in cfg or not cfg["openai"].get("api_key"):
+        cfg["openai"] = {
+            "api_key":     os.getenv("OPENAI_API_KEY", ""),
+            "model_name":  os.getenv("OPENAI_MODEL_NAME", "gpt-4o-mini"),
+            "temperature": os.getenv("TEMPERATURE", "0.2"),
+        }
+    if "embeddings" not in cfg or not cfg["embeddings"].get("model_name"):
+        cfg["embeddings"] = {
+            "model_name": os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-mpnet-base-v2")
         }
 
-    if "embeddings" in st.secrets:
-        config['embeddings'] = {
-            'model_name': st.secrets["embeddings"]["model_name"]
-        }
+    # 3) config.ini (local-only fallback)
+    ini_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "config.ini"))
+    if os.path.exists(ini_path):
+        ini = ConfigParser()
+        ini.read(ini_path)
+        for sect in ("pinecone", "openai", "embeddings"):
+            if ini.has_section(sect):
+                for k, v in ini.items(sect):
+                    if not cfg.has_section(sect):
+                        cfg[sect] = {}
+                    if not cfg[sect].get(k):
+                        cfg[sect][k] = v
 
-    if "openai" in st.secrets:
-        config['openai'] = {
-            'api_key': st.secrets["openai"]["api_key"],
-            'model_name': st.secrets["openai"]["model_name"],
-            'temperature': st.secrets["openai"]["temperature"]
-        }
+    return cfg
 
-    # If Streamlit secrets are not available, fallback to environment variables
-    if not config.has_option('pinecone', 'api_key'):
-        config['pinecone'] = {
-            'api_key': os.environ.get('PINECONE_API_KEY', ''),
-            'env': os.environ.get('PINECONE_ENV', ''),
-            'index': os.environ.get('PINECONE_INDEX', '')
-        }
-
-    if not config.has_option('embeddings', 'model_name'):
-        config['embeddings'] = {
-            'model_name': os.environ.get('EMBEDDING_MODEL', 'sentence-transformers/all-mpnet-base-v2')
-        }
-
-    if not config.has_option('openai', 'api_key'):
-        config['openai'] = {
-            'api_key': os.environ.get('OPENAI_API_KEY', ''),
-            'model_name': os.environ.get('OPENAI_MODEL_NAME', 'gpt-3.5-turbo'),
-            'temperature': os.environ.get('TEMPERATURE', '0.1')
-        }
-
-    return config
-
-
+# ================= Load config values =================
 config = get_config()
 
-# Pinecone
-PINECONE_API_KEY = config["pinecone"]["api_key"]
-PINECONE_ENV = config["pinecone"]["env"]
-PINECONE_INDEX_NAME = config["pinecone"]["index"]
+PINECONE_API_KEY     = config["pinecone"]["api_key"]
+PINECONE_ENV         = config["pinecone"]["env"]
+PINECONE_INDEX_NAME  = config["pinecone"]["index"]
 
-# OpenAI
-OPENAI_API_KEY = config["openai"]["api_key"]
-LLM_MODEL_NAME = config["openai"]["model_name"]
-TEMPERATURE = float(config["openai"]["temperature"])
+OPENAI_API_KEY       = config["openai"]["api_key"]
+LLM_MODEL_NAME       = config["openai"]["model_name"]
+TEMPERATURE          = float(config["openai"]["temperature"])
 
-# Embeddings
 EMBEDDINGS_MODEL_NAME = config["embeddings"]["model_name"]
 
 
