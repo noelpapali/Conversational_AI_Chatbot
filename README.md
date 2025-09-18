@@ -52,7 +52,7 @@ The chatbot follows a **RAG (Retrieval-Augmented Generation)** workflow:
 
 ![Architecture](./architecture.png)
 
-[Live Demo](https://jsom-botship.streamlit.app/)  
+## [Live Demo](https://jsom-botship.streamlit.app/)  
 ---
 
 ## Key Learnings  
