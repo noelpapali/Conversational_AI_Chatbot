@@ -1,5 +1,7 @@
 # Conversational AI Chatbot for UT Dallas JSOM  
 
+## [Live Demo](https://jsomassistant.streamlit.app/)  
+
 ## Introduction  
 This project is a **Conversational AI Chatbot** built for the **UT Dallas Jindal School of Management (JSOM)**. The bot is designed to help **students, faculty, and staff** by answering frequently asked questions (FAQs) related to **admissions, programs, scholarships, and general school information**.  
 
@@ -51,8 +53,6 @@ The chatbot follows a **RAG (Retrieval-Augmented Generation)** workflow:
 7. **Interaction** → Users chat via the Streamlit UI  
 
 ![Architecture](./architecture.png)
-
-## [Live Demo](https://jsom-botship.streamlit.app/)  
 
 ---
 
