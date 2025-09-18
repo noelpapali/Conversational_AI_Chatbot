@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School MBA Surges in Bloomberg Businessweek Rankings
+Title Link: https://jindal.utdallas.edu/news/jindal-school-mba-surges-in-bloomberg-businessweek-rankings/
+Excerpt: Bloomberg Businessweek’s 2025-26 Best B-Schools rankings are in, and the Naveen Jindal School of Management’s Full-Time MBA program has surged upward, now ranking No. 12 among public universities and 32nd overall. Among U.S. public university programs, the ranking, released Sept. 12, shows that the Jindal School’s MBA moved up eight places among publics and 14 […]
+Meta Details: September 17th, 2025 |Academics,Featured
+Image URL: https://jindal.utdallas.edu/files/2023/04/jsom_sign_630x630.jpg
+
+==================================================
+
 Title: Jindal School Marketing Sophomore Jane Burkhardt Takes Helm at UTD Mercury
 Title Link: https://jindal.utdallas.edu/news/jindal-school-marketing-sophomore-jane-burkhardt-takes-helm-at-utd-mercury/
 Excerpt: You might not think to look for a newspaper editor in the Naveen Jindal School of Management, but Jane Burkhardt, a marketing sophomore, takes over as editor-in-chief of The Mercury, The University of Texas at Dallas’ official student-run newspaper, this fall. Established in 1980, it had been silent for the past year. “While The Mercury […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/09/jane_burkhardt_630x630.jpg
 Title: Jindal School Alumnus Builds AI-Powered HR Framework to Predict Workforce Needs
 Title Link: https://jindal.utdallas.edu/news/jindal-school-alumnus-builds-ai-powered-hr-framework-to-predict-workforce-needs/
 Excerpt: A new platform and methodology that connects existing human resources information systems with artificial intelligence has been developed by a Naveen Jindal School of Management alumnus. It is poised to propel the field into the predictive analytics era — while creating opportunities for fellow Jindal School graduates to navigate today’s challenging job market. Sameer Ranjan […]
-Meta Details: September 10th, 2025 |Alumni,Featured
+Meta Details: September 10th, 2025 |Alumni
 Image URL: https://jindal.utdallas.edu/files/2022/11/sameer_ranjan_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-research-balances-ins
 Excerpt: A study conducted by a team of researchers from the Naveen Jindal School of Management highlights the need for smarter consumer protection in expert-driven markets like healthcare—showing that while transparency and oversight are important, restricting expert judgment without considering its benefits can unintentionally put consumers at greater risk. The study was done by Dr. Reza […]
 Meta Details: June 6th, 2025 |Alumni,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_510851992_630x630.jpg
-
-==================================================
-
-Title: Jindal School Faculty Member/Alumna Win Award for Long-term Contribution to Marketing
-Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-alumna-win-award-for-long-term-contribution-to-marketing/
-Excerpt: 
-Meta Details: June 3rd, 2025 |Alumni,Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/06/AdobeStock_1006009886_square.jpg
 
 ==================================================
 

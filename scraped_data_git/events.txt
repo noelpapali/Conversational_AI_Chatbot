@@ -1,228 +1,216 @@
 Month: Sep, 2025
 
-Date: Wednesday, September 17, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552318051651&instance=49552318052676
---------------------------------------------------
-Date: Wednesday, September 17, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50322144938712&instance=50322144941786
---------------------------------------------------
-Date: Wednesday, September 17, 2025
-Time: 12:00 PM - 04:00 PM
+Date: Thursday, September 18, 2025
+Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50455141070665&instance=50455144613531
---------------------------------------------------
-Date: Thursday, September 18, 2025
-Time: 04:45 PM - 09:00 PM
-Title: Access MBA One-to-One MBA Event
-Location: 
-Event URL: 50595117343443&instance=50595117344468
+Event URL: 50455140492067&instance=50455148190538
 --------------------------------------------------
 Date: Friday, September 19, 2025
-Time: 10:30 AM - 03:30 PM
-Title: JSOM HR Ignite
+Time: 08:00 AM - 10:30 AM
+Title: Center of Professional Sales - Fellows of the Center Formal Induction
 Location: 
-Event URL: 50727412454678&instance=50727412455703
+Event URL: 50526178412190&instance=50526178412191
 --------------------------------------------------
-Date: Saturday, September 20, 2025
-Time: 10:00 AM - 03:00 PM
-Title: Finance Alumni Roundtable
+Date: Friday, September 19, 2025
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50542819321473&instance=50542819321474
+Event URL: 50455140006556&instance=50455151594375
 --------------------------------------------------
 Date: Monday, September 22, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Lunch and Learn: Entrepreneurial Success Series
+Time: 11:00 AM - 01:00 PM
+Title: Accounting Career Exploration with Baker Tilly
 Location: 
-Event URL: 50668711905402&instance=50668711908476
+Event URL: 50595560240398&instance=50595560241423
+--------------------------------------------------
+Date: Monday, September 22, 2025
+Time: 01:00 PM - 02:00 PM
+Title: Business of Healthcare Series:  Charlin Health Workshop
+Location: 
+Event URL: 50720409920335&instance=50720409921360
 --------------------------------------------------
 Date: Tuesday, September 23, 2025
-Time: 08:00 AM - 09:00 AM
-Title: JSOM PhD Program Online Information Session
+Time: 12:00 PM - 02:00 PM
+Title: Supply Chain Management and Analytics BS Program NACHO Average Major event
 Location: 
-Event URL: 50462554254793&instance=50462554254794
+Event URL: 50455653463456&instance=50455653464481
 --------------------------------------------------
 Date: Tuesday, September 23, 2025
 Time: 04:00 PM - 05:00 PM
-Title: JSOM - BS Healthcare Management - Info Session/Webinar for Current Students
+Title: JSOM CMC What Makes a Cover Letter Worth Reading- From a Former Campus Recruiter
 Location: 
-Event URL: 50656277245367&instance=50656392423334
---------------------------------------------------
-Date: Tuesday, September 23, 2025
-Time: 04:30 PM - 05:30 PM
-Title: MS ITM Coffee Chat
-Location: 
-Event URL: 50702850619992&instance=50702853800565
+Event URL: 50720802586513&instance=50720802587538
 --------------------------------------------------
 Date: Wednesday, September 24, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Discover the Customized Online MBA Made for Working Professionals
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 49887106947812&instance=49887184966427
+Event URL: 50605698757868&instance=50605698760942
 --------------------------------------------------
 Date: Wednesday, September 24, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Time: 05:00 PM - 06:30 PM
+Title: Resume Building Workshop
 Location: 
-Event URL: 49967839697012&instance=49967847790504
+Event URL: 50756380750709&instance=50756380751734
 --------------------------------------------------
 Date: Thursday, September 25, 2025
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
+Time: 08:30 AM - 09:30 AM
+Title: Connect with the MSITM Program Director
 Location: 
-Event URL: 50650235798180&instance=50650235799205
+Event URL: 50383562012466&instance=50383562013491
 --------------------------------------------------
 Date: Friday, September 26, 2025
 Time: 01:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50455295344846&instance=50455302015275
+Event URL: 50455139704601&instance=50455155539962
 --------------------------------------------------
 Date: Monday, September 29, 2025
-Time: 06:00 PM - 07:30 PM
-Title: Healthcare Data Analytics Association Panel
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 50649923335553&instance=50649923336578
+Event URL: 50508032521004&instance=50508032521005
 --------------------------------------------------
-Date: Tuesday, September 30, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Monday, September 29, 2025
+Time: 10:00 PM - 11:00 PM
+Title: MSBA&AI Flex Late Night Virtual Internship Panel
 Location: 
-Event URL: 50455139341233&instance=50455179586632
+Event URL: 50472010483558&instance=50523382026368
 --------------------------------------------------
 Month: Oct, 2025
 
 Date: Wednesday, October 01, 2025
-Time: 11:30 AM - 12:00 PM
-Title: Info Session - New Cybersecurity and Risk Management Program
+Time: 11:30 AM - 01:00 PM
+Title: Fast-Track Event For All Graduate Programs
 Location: 
-Event URL: 50595109156227&instance=50595109156228
+Event URL: 50773015421139&instance=50773015422164
 --------------------------------------------------
 Date: Thursday, October 02, 2025
-Time: 07:00 PM - 08:30 PM
-Title: Speaker Event with Ken Hutchenrider
+Time: 08:15 AM - 05:00 PM
+Title: Fall ‘25 Pro Sales
 Location: 
-Event URL: 50649792150805&instance=50649792151830
+Event URL: 49216984242812&instance=49216991798278
 --------------------------------------------------
 Date: Friday, October 03, 2025
 Time: 07:15 AM - 02:30 PM
 Title: Fall ‘25 Pro Sales
 Location: 
-Event URL: 50534681050294&instance=50534681051319
+Event URL: 49216984242812&instance=49216991800327
+--------------------------------------------------
+Date: Friday, October 03, 2025
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 50455139025825&instance=50455183750969
 --------------------------------------------------
 Date: Monday, October 06, 2025
+Time: 03:00 PM - 04:00 PM
+Title: JSOM Undergrads - How to Make a Real Connection on LinkedIn
+Location: 
+Event URL: 47817338766387&instance=47817345204557
+--------------------------------------------------
+Date: Monday, October 06, 2025
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA: Program Overview & Live Q&A
+Location: 
+Event URL: 49887030651075&instance=49887116521983
+--------------------------------------------------
+Date: Tuesday, October 07, 2025
+Time: 12:30 PM - 01:30 PM
+Title: MS ITM Hangout: Internship Q & A
+Location: 
+Event URL: 50383633412312&instance=50383633412313
+--------------------------------------------------
+Date: Wednesday, October 08, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
+Location: 
+Event URL: 50605698757868&instance=50605698762991
+--------------------------------------------------
+Date: Wednesday, October 08, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144943835
+--------------------------------------------------
+Date: Wednesday, October 08, 2025
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
+Location: 
+Event URL: 50710448937928&instance=50710459310211
+--------------------------------------------------
+Date: Wednesday, October 08, 2025
+Time: 12:00 PM - 01:00 PM
+Title: Professional Systems Engineering and Management Online Information Session
+Location: 
+Event URL: 49967851870285&instance=49967857039741
+--------------------------------------------------
+Date: Friday, October 10, 2025
+Time: 01:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 50455137491460&instance=50455192355611
+--------------------------------------------------
+Date: Tuesday, October 14, 2025
+Time: 04:30 PM - 05:30 PM
+Title: MS ITM Coffee Chat
+Location: 
+Event URL: 50693822270624&instance=50693822270625
+--------------------------------------------------
+Date: Wednesday, October 15, 2025
+Time: 08:00 PM - 09:00 PM
+Title: JSOM PhD Program Online Information Session
+Location: 
+Event URL: 50462554254793&instance=50462554256843
+--------------------------------------------------
+Date: Friday, October 17, 2025
+Time: 09:00 AM - 04:00 PM
+Title: JSOM Undergraduate Student Conference
+Location: 
+Event URL: 50718806371589&instance=50718806372614
+--------------------------------------------------
+Date: Monday, October 20, 2025
 Time: 12:00 PM - 01:00 PM
 Title: Lunch and Learn: Entrepreneurial Success Series
 Location: 
-Event URL: 50668711905402&instance=50668711910525
---------------------------------------------------
-Date: Monday, October 06, 2025
-Time: 05:00 PM - 08:30 PM
-Title: QS Discover MBA Fair in Dallas
-Location: 
-Event URL: 50595143880189&instance=50595143881214
---------------------------------------------------
-Date: Tuesday, October 07, 2025
-Time: 09:30 AM - 10:30 AM
-Title: MS Marketing Information Session with Q & A Period
-Location: 
-Event URL: 50596371385687&instance=50596385034621
---------------------------------------------------
-Date: Tuesday, October 07, 2025
-Time: 03:30 PM - 04:00 PM
-Title: MSBA&AI Help Desk
-Location: 
-Event URL: 49552380800369&instance=49552380801394
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50321557610449&instance=50321557616596
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
-Location: 
-Event URL: 50508046891367&instance=50508046892392
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 50455138700342&instance=50455188692800
---------------------------------------------------
-Date: Thursday, October 09, 2025
-Time: 12:00 PM - 01:00 PM
-Title: MS Marketing Information Session with Q & A Period
-Location: 
-Event URL: 50596387593679&instance=50596392950374
---------------------------------------------------
-Date: Tuesday, October 14, 2025
-Time: 04:30 PM - 05:30 PM
-Title: MS ITM Coffee Chat
-Location: 
-Event URL: 50383678945486&instance=50383678946511
---------------------------------------------------
-Date: Tuesday, October 14, 2025
-Time: 04:30 PM - 05:30 PM
-Title: MS ITM Coffee Chat
-Location: 
-Event URL: 50702850619992&instance=50702850619993
---------------------------------------------------
-Date: Friday, October 17, 2025
-Time: 09:00 AM - 10:00 AM
-Title: Coffee with our MBA Admissions Team
-Location: 
-Event URL: 50718599651675&instance=50718599652700
---------------------------------------------------
-Date: Saturday, October 18, 2025
-Time: 08:30 AM - 01:00 PM
-Title: UTD MBA Preview Day
-Location: 
-Event URL: 50701773617453&instance=50701773618478
---------------------------------------------------
-Date: Tuesday, October 21, 2025
-Time: 10:00 PM - 11:00 PM
-Title: MSBA&AI Flex Virtual Late Night Advising Pod
-Location: 
-Event URL: 50472033547621&instance=50472033548646
+Event URL: 50668711905402&instance=50668711912574
 --------------------------------------------------
 Date: Wednesday, October 22, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Discover the Customized 100% Online MBA Made for Working Professionals
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 49957203374841&instance=49957216752800
+Event URL: 50605698757868&instance=50605698764016
 --------------------------------------------------
 Date: Thursday, October 23, 2025
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
-Event URL: 50650300695627&instance=50650306052334
+Event URL: 49552326633933&instance=49552326633934
 --------------------------------------------------
-Date: Friday, October 24, 2025
-Time: 07:00 AM - 05:00 PM
-Title: 2nd Annual UT Dallas Project Management Virtual Conference
+Date: Thursday, October 23, 2025
+Time: 07:30 PM - 08:30 PM
+Title: MS ITM Hangout - Course Preview Spring 2026
 Location: 
-Event URL: 50258651623263&instance=50258661729405
+Event URL: 50647815759399&instance=50647828433030
+--------------------------------------------------
+Date: Tuesday, October 28, 2025
+Time: 09:00 AM - 05:00 PM
+Title: Artificial Intelligence (AI) Day @TheJindalSchool
+Location: 
+Event URL: 50712051087388&instance=50712051088413
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557618645
+Event URL: 50322144938712&instance=50322144946908
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
+Time: 12:00 PM - 01:00 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 50508064086950&instance=50508064086951
+Event URL: 50771474995707&instance=50771490772081
 --------------------------------------------------
 Date: Friday, October 31, 2025
 Time: 08:00 AM - 06:00 PM
@@ -298,11 +286,11 @@ Title: Master of Science in Finance Online Information Session
 Location: 
 Event URL: 50322144938712&instance=50322144948957
 --------------------------------------------------
-Date: Monday, November 24, 2025
-Time: 12:00 PM - 01:00 PM
-Title: UTD MBA Virtual Q&A Information Session
+Date: Wednesday, November 19, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 50508086939871&instance=50508086939872
+Event URL: 50771491728972&instance=50771499743809
 --------------------------------------------------
 Month: Dec, 2025
 
@@ -317,4 +305,10 @@ Time: 08:00 PM - 09:00 PM
 Title: JSOM PhD Program Online Information Session
 Location: 
 Event URL: 50462554254793&instance=50462554260941
+--------------------------------------------------
+Date: Monday, December 08, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552349422129&instance=49552349423154
 --------------------------------------------------
