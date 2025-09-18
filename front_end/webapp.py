@@ -20,11 +20,16 @@ def main():
     handle_follow_up()
 
     # Clear chat button
-    st.button("🧹 Clear Conversation",
-              on_click=clear_chat,
-              key="clear_chat",
-              use_container_width=True,
-              help="Start a new conversation")
+    # Clear chat button (INLINE handling — not a callback)
+    if st.button(
+        "🧹 Clear Conversation",
+        key="clear_chat",
+        use_container_width=True,
+        help="Start a new conversation"
+    ):
+        clear_chat()      # just reset state
+        st.rerun()        # rerun is safe here
+
 
     # Chat display
     display_chat()
