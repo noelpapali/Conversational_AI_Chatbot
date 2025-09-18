@@ -136,9 +136,11 @@ def display_chat():
                             key=unique_key,
                             help="Click to ask this question",
                             type="primary",
-                            use_container_width=False  # Ensure button width adjusts to content
+                            use_container_width=False
                     ):
                         st.session_state.pending_follow_up = follow_up_text
+                        st.rerun()  # safe here (not in a callback)
+
 
                 st.markdown('</div>', unsafe_allow_html=True)
             else:
@@ -149,7 +151,7 @@ def clear_chat():
     """Clear chat history and reset chatbot."""
     st.session_state.messages = []
     st.session_state.chatbot = JSOMChatbot()
-    st.rerun()
+    # no st.rerun() here
 
 
 def handle_user_input(user_input):
