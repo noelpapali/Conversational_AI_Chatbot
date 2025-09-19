@@ -30,7 +30,7 @@ Poets & Quants Online MBA Rankings 2025
 
 
 No.2
-The UTD Top 100 Business School Research Rankings™, 2024
+The UT Dallas Top 100 Business School Research Rankings™, 2024
 research contributions, worldwide and in North America, 2019-2023
 
 
@@ -61,12 +61,8 @@ Learn to practice accounting professionally and ethically.
 
 
 
-
-
   Finance  
 Master the specialized training and skills for your finance career.
-
-
 
 
 
@@ -75,19 +71,13 @@ Make a career by connecting people and technology.
 
 
 
-
-
   Marketing  
 Marketing is fundamental to the success of any business.
 
 
 
-
-
   Operations / Supply Chain Management  
 The world needs efficient and creative problem-solvers.
-
-
 
 
 
@@ -1122,12 +1112,12 @@ Context: Sustainable Global Business Initiative
 	- Text: Sustainable Global Business Initiative
 	  Href: https://jindal.utdallas.edu/centers-of-excellence/cgb/sustainable-global-business-initiative/
 
-Context: UTD Top 100™
+Context: UT Dallas Top 100™
 
 UTD Top 100™ Research Rankings
 North American Rankings
 Worldwide Rankings
-	- Text: UTD Top 100™
+	- Text: UT Dallas Top 100™
 	  Href: https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/
 
 Context: UTD Top 100™ Research Rankings
@@ -1601,12 +1591,12 @@ Context: Sustainable Global Business Initiative
 	- Text: Sustainable Global Business Initiative
 	  Href: https://jindal.utdallas.edu/centers-of-excellence/cgb/sustainable-global-business-initiative/
 
-Context: UTD Top 100™
+Context: UT Dallas Top 100™
 
 UTD Top 100™ Research Rankings
 North American Rankings
 Worldwide Rankings
-	- Text: UTD Top 100™
+	- Text: UT Dallas Top 100™
 	  Href: https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/
 
 Context: UTD Top 100™ Research Rankings

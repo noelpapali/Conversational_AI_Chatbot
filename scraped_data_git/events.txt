@@ -1,11 +1,5 @@
 Month: Sep, 2025
 
-Date: Thursday, September 18, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 50455140492067&instance=50455148190538
---------------------------------------------------
 Date: Friday, September 19, 2025
 Time: 08:00 AM - 10:30 AM
 Title: Center of Professional Sales - Fellows of the Center Formal Induction
@@ -159,64 +153,64 @@ Location:
 Event URL: 50693822270624&instance=50693822270625
 --------------------------------------------------
 Date: Wednesday, October 15, 2025
-Time: 08:00 PM - 09:00 PM
-Title: JSOM PhD Program Online Information Session
+Time: 09:00 AM - 09:30 AM
+Title: Virtual Info Session - Cybersecurity and Risk Management Program
 Location: 
-Event URL: 50462554254793&instance=50462554256843
+Event URL: 50782101788499&instance=50782101788500
 --------------------------------------------------
 Date: Friday, October 17, 2025
-Time: 09:00 AM - 04:00 PM
-Title: JSOM Undergraduate Student Conference
+Time: 09:00 AM - 10:00 AM
+Title: Coffee with our MBA Admissions Team
 Location: 
-Event URL: 50718806371589&instance=50718806372614
+Event URL: 50718599651675&instance=50718599652700
 --------------------------------------------------
-Date: Monday, October 20, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Lunch and Learn: Entrepreneurial Success Series
+Date: Saturday, October 18, 2025
+Time: 08:30 AM - 01:00 PM
+Title: UTD MBA Preview Day
 Location: 
-Event URL: 50668711905402&instance=50668711912574
+Event URL: 50701773617453&instance=50701773618478
+--------------------------------------------------
+Date: Tuesday, October 21, 2025
+Time: 10:00 PM - 11:00 PM
+Title: MSBA&AI Flex Virtual Late Night Advising Pod
+Location: 
+Event URL: 50472033547621&instance=50472033548646
 --------------------------------------------------
 Date: Wednesday, October 22, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Information Session
+Time: 12:00 PM - 01:00 PM
+Title: Discover the Customized 100% Online MBA Made for Working Professionals
 Location: 
-Event URL: 50605698757868&instance=50605698764016
+Event URL: 49957203374841&instance=49957216752800
 --------------------------------------------------
 Date: Thursday, October 23, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
 Location: 
-Event URL: 49552326633933&instance=49552326633934
+Event URL: 50650300695627&instance=50650306052334
 --------------------------------------------------
-Date: Thursday, October 23, 2025
-Time: 07:30 PM - 08:30 PM
-Title: MS ITM Hangout - Course Preview Spring 2026
+Date: Friday, October 24, 2025
+Time: 07:00 AM - 05:00 PM
+Title: 2nd Annual UT Dallas Project Management Virtual Conference
 Location: 
-Event URL: 50647815759399&instance=50647828433030
---------------------------------------------------
-Date: Tuesday, October 28, 2025
-Time: 09:00 AM - 05:00 PM
-Title: Artificial Intelligence (AI) Day @TheJindalSchool
-Location: 
-Event URL: 50712051087388&instance=50712051088413
+Event URL: 50258651623263&instance=50258661729405
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144946908
+Event URL: 50321557610449&instance=50321557618645
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Doctor of Business Administration (DBA) Online Information Session
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 50771474995707&instance=50771490772081
+Event URL: 50508064086950&instance=50508064086951
 --------------------------------------------------
-Date: Friday, October 31, 2025
-Time: 08:00 AM - 06:00 PM
-Title: JSOM Day of Service
+Date: Wednesday, October 29, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
 Location: 
-Event URL: 50214894326227&instance=50214894327252
+Event URL: 49967857852770&instance=49967864061079
 --------------------------------------------------
 Month: Nov, 2025
 
