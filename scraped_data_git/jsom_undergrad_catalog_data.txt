@@ -6942,10 +6942,10 @@ Lists:
 - Timeline
 - Transferring CreditsTransfer Plans
 - Transfer Plans
+- Comet Connection
 - Pathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment Program
 - Collin College Academic Alliance
 - Select Transfer Enrollment Program
-- Comet Connection
 - Steps After Admission
 - Applicant Types
 - Transfer Plans
@@ -7060,10 +7060,10 @@ Links:
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
 - Transfer Plans - https://enroll.utdallas.edu/transfer/transferring-credits/transfer-plans/
+- Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
 - Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
 - Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
-- Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - Applicant Types - https://enroll.utdallas.edu/apply/
 - Additional Requirements - https://enroll.utdallas.edu/apply/international-applicants/
