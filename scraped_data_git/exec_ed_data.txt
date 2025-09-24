@@ -25,56 +25,55 @@ Paragraph: Business professionals and corporations will recognize the Executive 
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+Denis Zub (EMBA 2022):
 
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Qiana Levy:
-
-David Gill:
+Nicole Roettele – MS LOD Executive and Professional Coaching:
 
 Tu Huynh:
-
-Megan Lightfoot Metzger, MS LOD:
-
-Esteban Santos, EMBA 2021:
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
-
-Mohammed Omer, GLEMBA ’19:
-
-Ellie Shollenberger:
-
-Jacob Heller, MS LOD:
-
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
 
 Darrick Fitzgerald, GLEMBA ’18:
 Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
  Verizon Wireless
 
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Bill Disario:
-
-Nicole Roettele – MS LOD Executive and Professional Coaching:
-
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Alberto Gutierrez Algren:
+Mohammed Omer, GLEMBA ’19:
 
 Ashwin Prakash, GLEMBA ’20:
 Paragraph: Head of Data Science and Analytics, 
  HCA Healthcare
 
+David Gill:
+
+Bill Disario:
+
+Erinn Marks, GLEMBA ’19:
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Ellie Shollenberger:
+
+Emily Elizarde – MS LOD Transformational Leadership:
+
+Thomas Rodgers (EMBA 2022):
+
+Jacob Heller, MS LOD:
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+
+Megan Lightfoot Metzger, MS LOD:
+
+Esteban Santos, EMBA 2021:
+
 Tamer Elshamy, GLEMBA ’19:
 Paragraph: Sales Director, 
  Fawry Banking and Payment Technology Services
+
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
+
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
 
 Certificates:
 Paragraph: Below is a complete list of all Executive Education certificates — both Academic and Professional (non-credit) — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page.
@@ -113,10 +112,13 @@ Paragraph: We develop and continuously improve programs that incorporate a broad
 Executive Education Alumni Spotlights:
 Link: See all Executive Education Alumni Spotlights (URL: /execed/voices/alumni-spotlights)
 
-Sarah Hagan, EMBA’11:
-Paragraph: CFO, 
- Omnitracs
-Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
+Joseph James, MBA’10:
+Paragraph: Entrepreneur
+Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
+
+Will McIntosh, EMBA’06:
+Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
+Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
 
 Sid Keswani, MBA’09:
 Paragraph: President, Pandora Americas
@@ -127,20 +129,17 @@ Paragraph: Executive Director,
  Munsch Hardt Kopf & Harr, PC
 Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
 
-Joseph James, MBA’10:
-Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
-
-Will McIntosh, EMBA’06:
-Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
-Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
+Sarah Hagan, EMBA’11:
+Paragraph: CFO, 
+ Omnitracs
+Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
 
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
 
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+How to Write an Admissions Essay for an Executive MBA Program:
+Paragraph: The power of your personal story
+Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
 
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
@@ -150,9 +149,9 @@ The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
 Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 Executive Education Programs at the Jindal School:
 
@@ -260,9 +259,9 @@ List:
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
 
-The Importance of a Relevant Curriculum:
-Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 How to Write an Admissions Essay for an Executive MBA Program:
 Paragraph: The power of your personal story
@@ -272,9 +271,9 @@ What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
 Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+The Importance of a Relevant Curriculum:
+Paragraph: Curriculum is Key for Students
+Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
 What Executive Education program are you interested in?:
 
@@ -363,59 +362,57 @@ List:
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Tu Huynh:
+Nicole Roettele – MS LOD Executive and Professional Coaching:
 
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
+Megan Lightfoot Metzger, MS LOD:
 
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+Jacob Heller, MS LOD:
 
-David Gill:
+Thomas Rodgers (EMBA 2022):
 
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
+Qiana Levy:
 
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
-
-Mohammed Omer, GLEMBA ’19:
-
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
+Emily Elizarde – MS LOD Transformational Leadership:
 
 Jake Henne, EMBA 2021:
 Paragraph: World Wide Technology, Client Manager
   SLED
 
-Thomas Rodgers (EMBA 2022):
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
 
-Emily Elizarde – MS LOD Transformational Leadership:
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
 
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
+Tu Huynh:
 
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
 
-Nicole Roettele – MS LOD Executive and Professional Coaching:
+Esteban Santos, EMBA 2021:
 
-Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
 
-Bill Disario:
+Mohammed Omer, GLEMBA ’19:
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Ellie Shollenberger:
+
+Alberto Gutierrez Algren:
+
+Sean Seabrook, MS LOD:
 
 Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Denis Zub (EMBA 2022):
 
 What Executive Education program are you interested in?:
 
@@ -453,56 +450,9 @@ Paragraph: The Executive Education area offers scholarships and fellowships to h
 Paragraph: The 
   Executive Education scholarship application links can be found below, along with application descriptions.
 
-Scholarship Applications are Currently Closed.:
+Selected Applications will be Open from October 1 – October 31, 2025:
 
 Executive Education Scholarships:
-
-EMBA Class of 2018 Endowed Veteran’s Scholarship:
-Paragraph: In 2018, the Executive MBA Class of 2018 and the Global Leadership Executive MBA Class of 2018 created an endowed scholarship for veterans in the Global Leadership MBA/Customized Online MBA program to provide financial assistance while enrolled.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be current or future UT Dallas Executive MBA or Global Leadership MBA/Customized Online MBA students.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants must be serving or have served in the U.S. military.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:  In 400 words or less, describe how the EMBA or Global Leadership MBA/Customized Online MBA curriculum is helping you achieve your professional goals.
-Link: Click Here to Apply (URL: https://forms.office.com/r/P090uCSKqC)
-
-Jasper H. Arnold III Endowed Fellowship:
-Paragraph: This fellowship was established in 2009 in memory of Dr. Jasper Arnold III, Director of the Jindal School of Management Executive MBA program.  Dr. Arnold worked to enhance the quality of business education available at a public state university.  His efforts to increase enrollment, improve curriculum and put in place high-quality faculty, elevated the reputation of the Executive MBA program to one of the most recognized and distinguished programs of its kind in the nation.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be enrolled in the UT Dallas Executive MBA program.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants may be U.S. citizens, permanent residents or international students.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:  In 400 words or less, describe how the EMBA curriculum is helping you achieve your professional goals.
-Link: Click Here to Apply (URL: https://forms.office.com/r/kbT196P8Cr)
-
-Duggirala Endowed Executive MBA Fellowship:
-Paragraph: This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
-  - Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
-  - Applicants may be US citizens, permanent residents, or international students.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-  - Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
-  - Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:
-Paragraph: In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-Link: Click here to Apply (URL: https://forms.office.com/r/3kwGNMbPc5)
 
 Ruben Mesa EMBA ’15 Memorial Fellowship:
 Paragraph: The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
@@ -540,24 +490,12 @@ Link: Click here to Apply (URL: https://forms.office.com/r/szFb5Zqajc)
 Student Testimonials:
 Link: See all Executive MBA Testimonials (URL: /execed/voices/executive-mba-testimonials)
 
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
 Khaled Hallak, EMBA 2021:
 Paragraph: Bank of America, Officer,
   Syndicated Loan Closer
 
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Thomas Rodgers (EMBA 2022):
-
-Denis Zub (EMBA 2022):
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
 
 Andrew Svatek, EMBA 2022:
 Paragraph: Director of Operations, 
@@ -566,6 +504,18 @@ Paragraph: Director of Operations,
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
+
+Denis Zub (EMBA 2022):
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Thomas Rodgers (EMBA 2022):
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
 Frequently Asked Questions:
 
@@ -582,50 +532,6 @@ Who can I contact with any additional questions or concerns?:
 How can I learn more about other scholarships offered within the Naveen Jindal School of Management?:
 
 Tabs:
-EMBA Class of 2018 Endowed Veteran’s Scholarship:
-Paragraph: In 2018, the Executive MBA Class of 2018 and the Global Leadership Executive MBA Class of 2018 created an endowed scholarship for veterans in the Global Leadership MBA/Customized Online MBA program to provide financial assistance while enrolled.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:  In 400 words or less, describe how the EMBA or Global Leadership MBA/Customized Online MBA curriculum is helping you achieve your professional goals.
-List:
-  - Applicants must be current or future UT Dallas Executive MBA or Global Leadership MBA/Customized Online MBA students.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants must be serving or have served in the U.S. military.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-
-Jasper H. Arnold III Endowed Fellowship:
-Paragraph: This fellowship was established in 2009 in memory of Dr. Jasper Arnold III, Director of the Jindal School of Management Executive MBA program.  Dr. Arnold worked to enhance the quality of business education available at a public state university.  His efforts to increase enrollment, improve curriculum and put in place high-quality faculty, elevated the reputation of the Executive MBA program to one of the most recognized and distinguished programs of its kind in the nation.
-Paragraph: Award: $1,500 (one-time) tuition credit during the scholarship award period. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:  In 400 words or less, describe how the EMBA curriculum is helping you achieve your professional goals.
-List:
-  - Applicants must be enrolled in the UT Dallas Executive MBA program.
-  - Applicants must have at least a 3.0 minimum cumulative GPA at UT Dallas.
-  - Applicants may be U.S. citizens, permanent residents or international students.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-
-Duggirala Endowed Executive MBA Fellowship:
-Paragraph: This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:
-Paragraph: In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-List:
-  - Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
-  - Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
-  - Applicants may be US citizens, permanent residents, or international students.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-  - Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
-  - Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-
 Ruben Mesa EMBA ’15 Memorial Fellowship:
 Paragraph: The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
 Paragraph: Award: $2,500 (2) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
@@ -702,10 +608,6 @@ Student Experiences:
 Paragraph: Current Executive Education students and alumni share their academic experiences, outcomes and insights. Read their stories and discover how Executive Education programs have made an impact on their professional and personal lives.
 Link: See all Student Experiences (URL: /execed/voices/student-experiences/)
 
-The Transition From Surviving To Thriving:
-Paragraph: The “reshaping” process
-Paragraph: The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
-
 My Experience Going Through the EMBA Program:
 Paragraph: What has your ROI been?
 Paragraph: I am able to make better strategic decisions, both professionally and personally.  I can clearly and critically assess problems and have found the courage to make the tough calls.  I now prioritize my work and can motivate the team towards a common goal.
@@ -718,64 +620,61 @@ The Academic Experience of a Lifetime:
 Paragraph: Experiences as an EMBA student
 Paragraph: The classes expose students to many topics that you may not think about every day. I have been able to apply theories and practices from every class I have taken in this program to my job. I am very pleased with the program and the confidence it has given me.
 
+The Transition From Surviving To Thriving:
+Paragraph: The “reshaping” process
+Paragraph: The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
+
 Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Ellie Shollenberger:
 
 Mohammed Omer, GLEMBA ’19:
 
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
+Thomas Rodgers (EMBA 2022):
 
-Jacob Heller, MS LOD:
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
 
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
+Curtis Clark:
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+
+Esteban Santos, EMBA 2021:
+
+Sean Seabrook, MS LOD:
 
 Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
 
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
 
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
+Emily Elizarde – MS LOD Transformational Leadership:
 
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+Denis Zub (EMBA 2022):
 
-Sean Seabrook, MS LOD:
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
+
+Qiana Levy:
+
+Megan Lightfoot Metzger, MS LOD:
+
+Jacob Heller, MS LOD:
+
+Alberto Gutierrez Algren:
 
 Ashwin Prakash, GLEMBA ’20:
 Paragraph: Head of Data Science and Analytics, 
  HCA Healthcare
 
 David Gill:
-
-Veronica Sanchez, MS LOD:
-
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
-
-Qiana Levy:
-
-Erinn Marks, GLEMBA ’19:
-
-Tu Huynh:
-
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
 
 Executive Education Alumni Spotlights:
 Paragraph: Read the success stories from JSOM alumni who earned their degrees from the Jindal School of Management. These alumni are current professionals who share their insights about their experience and life after graduating from UT Dallas.
@@ -785,35 +684,27 @@ Will McIntosh, EMBA’06:
 Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
 Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
 
-Charles Gillis, MBA’04:
-Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
-
-Sid Keswani, MBA’09:
-Paragraph: President, Pandora Americas
-Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
-
-Joseph James, MBA’10:
-Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
-
 Sarah Hagan, EMBA’11:
 Paragraph: CFO, 
  Omnitracs
 Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
 
+Sid Keswani, MBA’09:
+Paragraph: President, Pandora Americas
+Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
+
+Charles Gillis, MBA’04:
+Paragraph: Executive Director, 
+ Munsch Hardt Kopf & Harr, PC
+Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
+
+Joseph James, MBA’10:
+Paragraph: Entrepreneur
+Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
+
 Executive Education Articles:
 Paragraph: Discover how Executive Education faculty are researching, publishing, speaking and engaging in the business community. The authors of these articles also include accounting students, staff and friends.
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
-
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
-
-The Importance of a Relevant Curriculum:
-Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
@@ -822,6 +713,14 @@ Paragraph: When I am asked what makes a good executive MBA candidate, several th
 Difference Between EMBA and PMBA:
 Paragraph: What is the difference between EMBA and PMBA?
 Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+
+The Importance of a Relevant Curriculum:
+Paragraph: Curriculum is Key for Students
+Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
+
+How to Write an Admissions Essay for an Executive MBA Program:
+Paragraph: The power of your personal story
+Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
 
 What Executive Education program are you interested in?:
 
