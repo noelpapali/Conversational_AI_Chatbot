@@ -1,11 +1,5 @@
 Month: Sep, 2025
 
-Date: Saturday, September 27, 2025
-Time: 11:00 AM - 12:00 AM
-Title: Tableau & PowerBI Workshop
-Location: 
-Event URL: 50789211579933&instance=50789211580958
---------------------------------------------------
 Date: Sunday, September 28, 2025
 Time: 11:00 AM - 04:00 PM
 Title: Two-Day Tableau Workshop with Envision
@@ -303,4 +297,10 @@ Time: 12:00 PM - 01:00 PM
 Title: Lunch and Learn: Entrepreneurial Success Series
 Location: 
 Event URL: 50668711905402&instance=50668711915648
+--------------------------------------------------
+Date: Wednesday, November 19, 2025
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
+Location: 
+Event URL: 50605698757868&instance=50605698771186
 --------------------------------------------------
