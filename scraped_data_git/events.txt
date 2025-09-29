@@ -1,22 +1,22 @@
 Month: Sep, 2025
 
-Date: Sunday, September 28, 2025
-Time: 11:00 AM - 04:00 PM
-Title: Two-Day Tableau Workshop with Envision
+Date: Monday, September 29, 2025
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 50852361787697&instance=50852361789747
+Event URL: 50508032521004&instance=50508032521005
 --------------------------------------------------
 Date: Monday, September 29, 2025
-Time: 06:00 PM - 07:30 PM
-Title: Healthcare Data Analytics Association Panel
+Time: 10:00 PM - 11:00 PM
+Title: MSBA&AI Flex Late Night Virtual Internship Panel
 Location: 
-Event URL: 50649923335553&instance=50649923336578
+Event URL: 50472010483558&instance=50523382026368
 --------------------------------------------------
 Date: Tuesday, September 30, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 50455139341233&instance=50455179586632
+Event URL: 50789804793197&instance=50789835189667
 --------------------------------------------------
 Month: Oct, 2025
 
@@ -303,4 +303,10 @@ Time: 09:00 AM - 10:00 AM
 Title: MS in International Management Studies Information Session
 Location: 
 Event URL: 50605698757868&instance=50605698771186
+--------------------------------------------------
+Date: Wednesday, November 19, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144948957
 --------------------------------------------------
