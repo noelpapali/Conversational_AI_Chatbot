@@ -1,52 +1,40 @@
 Month: Oct, 2025
 
-Date: Wednesday, October 01, 2025
-Time: 11:30 AM - 01:00 PM
-Title: Fast-Track Event For All Graduate Programs
+Date: Thursday, October 02, 2025
+Time: 08:15 AM - 05:00 PM
+Title: Fall ‘25 Pro Sales
 Location: 
-Event URL: 50773015421139&instance=50773015422164
---------------------------------------------------
-Date: Wednesday, October 01, 2025
-Time: 11:45 AM - 01:15 PM
-Title: From Blueprint to Building:  The Journey of  JSOM III (Session III:  Design Development and Detailed Planning)
-Location: 
-Event URL: 50888408605450&instance=50888408606475
---------------------------------------------------
-Date: Wednesday, October 01, 2025
-Time: 05:00 PM - 06:30 PM
-Title: SVN Verus Rotational Event
-Location: 
-Event URL: 50888478709873&instance=50888478709874
+Event URL: 49216984242812&instance=49216991798278
 --------------------------------------------------
 Date: Thursday, October 02, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
+Time: 04:00 PM - 05:00 PM
+Title: JSOM CMC LinkedIn That Gets You Found: Optimizing Your Profile for Recruiter Searches
 Location: 
-Event URL: 50789860812880&instance=50789878353867
+Event URL: 50790095634801&instance=50790105266636
 --------------------------------------------------
 Date: Thursday, October 02, 2025
-Time: 05:30 PM - 07:30 PM
-Title: Real Estate Alumni Leaders (REAL) Happy Hour Event
+Time: 06:00 PM - 08:30 PM
+Title: Inside the Boardroom: A Fireside Chat on Current Trends in Corporate Governance
 Location: 
-Event URL: 50888579077904&instance=50888579078929
---------------------------------------------------
-Date: Thursday, October 02, 2025
-Time: 07:00 PM - 08:30 PM
-Title: Speaker Event with Ken Hutchenrider
-Location: 
-Event URL: 50649792150805&instance=50649792151830
+Event URL: 50790411578080&instance=50790411578081
 --------------------------------------------------
 Date: Friday, October 03, 2025
 Time: 07:15 AM - 02:30 PM
 Title: Fall ‘25 Pro Sales
 Location: 
-Event URL: 50534681050294&instance=50534681051319
+Event URL: 49216984242812&instance=49216991800327
 --------------------------------------------------
 Date: Friday, October 03, 2025
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 10:00 AM - 01:00 PM
+Title: Building with Snowflake - Mini workshop
 Location: 
-Event URL: 50455139025825&instance=50455183750969
+Event URL: 50853877782690&instance=50853877783715
+--------------------------------------------------
+Date: Friday, October 03, 2025
+Time: 01:00 PM - 05:00 PM
+Title: TechFlow.AI Seminar
+Location: 
+Event URL: 50844226334357&instance=50844226335382
 --------------------------------------------------
 Date: Monday, October 06, 2025
 Time: 12:00 PM - 01:00 PM
@@ -301,4 +289,16 @@ Time: 09:00 AM - 10:00 AM
 Title: MS in International Management Studies Information Session
 Location: 
 Event URL: 50605698757868&instance=50605698771186
+--------------------------------------------------
+Date: Wednesday, November 19, 2025
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144948957
+--------------------------------------------------
+Date: Wednesday, November 19, 2025
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
+Location: 
+Event URL: 50771491728972&instance=50771499743809
 --------------------------------------------------
