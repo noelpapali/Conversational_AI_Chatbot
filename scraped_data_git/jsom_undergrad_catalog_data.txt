@@ -6942,15 +6942,15 @@ Lists:
 - Timeline
 - Transferring CreditsTransfer Plans
 - Transfer Plans
-- Pathway ProgramsSelect Transfer Enrollment ProgramCollin College Academic Alliance
-- Select Transfer Enrollment Program
-- Collin College Academic Alliance
 - Comet Connection
+- Pathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment Program
+- Collin College Academic Alliance
+- Select Transfer Enrollment Program
 - Steps After Admission
 - Applicant Types
 - Transfer Plans
-- Select Transfer Enrollment Program
 - Collin College Academic Alliance
+- Select Transfer Enrollment Program
 - Cumulative GPA and overall academic coursework and performance.
 - Preparation for and ability to be successful in the intended major.
 - Information provided in optional supplemental materials, such as:ResumeLetter(s) of recommendation (limited to a maximum of three)ApplyTexas application essay (Option C)
@@ -7060,10 +7060,10 @@ Links:
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
 - Transfer Plans - https://enroll.utdallas.edu/transfer/transferring-credits/transfer-plans/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
-- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
-- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
+- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
+- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - Applicant Types - https://enroll.utdallas.edu/apply/
 - Additional Requirements - https://enroll.utdallas.edu/apply/international-applicants/

@@ -1,23 +1,5 @@
 Month: Oct, 2025
 
-Date: Thursday, October 02, 2025
-Time: 08:15 AM - 05:00 PM
-Title: Fall ‘25 Pro Sales
-Location: 
-Event URL: 49216984242812&instance=49216991798278
---------------------------------------------------
-Date: Thursday, October 02, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC LinkedIn That Gets You Found: Optimizing Your Profile for Recruiter Searches
-Location: 
-Event URL: 50790095634801&instance=50790105266636
---------------------------------------------------
-Date: Thursday, October 02, 2025
-Time: 06:00 PM - 08:30 PM
-Title: Inside the Boardroom: A Fireside Chat on Current Trends in Corporate Governance
-Location: 
-Event URL: 50790411578080&instance=50790411578081
---------------------------------------------------
 Date: Friday, October 03, 2025
 Time: 07:15 AM - 02:30 PM
 Title: Fall ‘25 Pro Sales
@@ -301,4 +283,24 @@ Time: 05:30 PM - 06:30 PM
 Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
 Event URL: 50771491728972&instance=50771499743809
+--------------------------------------------------
+Month: Dec, 2025
+
+Date: Monday, December 01, 2025
+Time: 07:00 PM - 08:00 PM
+Title: MBA Your Way: Customized. Flexible. 100% Online.
+Location: 
+Event URL: 49957293913530&instance=49957307233068
+--------------------------------------------------
+Date: Wednesday, December 03, 2025
+Time: 08:00 PM - 09:00 PM
+Title: JSOM PhD Program Online Information Session
+Location: 
+Event URL: 50462554254793&instance=50462554260941
+--------------------------------------------------
+Date: Monday, December 08, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
+Location: 
+Event URL: 49552349422129&instance=49552349423154
 --------------------------------------------------
