@@ -7094,7 +7094,6 @@ Headings:
 - 
 - 
 - Freshman Admissions
-- Join us for a one-hour Discover UTD Info Session!
 - Criteria
 - Application Process
 - Deadlines and Fees
@@ -7109,7 +7108,7 @@ Headings:
 Content:
 If you are a senior in high school or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
-Learn about the application process, campus life, scholarships, financial aid and more. Our admission staff will be online to answer your questions. No registration needed — learn more atDiscover UTD Info Session.
+During the week of October 13–19, 2025, The University of Texas at Dallas is participating in Free College Application Week. During this time,Texas residentscan apply for undergraduate admission without paying an application fee.  Please visitApplyTexas.orgorMyTexasFuture.orgto complete your application. UT Dallas continues to acceptCommon Appfor our first-time-in-college applicants, and the fee waivers through this application continue to be accepted.
 Learn about what it takes to gain admission as a freshman student.
 Are you ready to apply? We’ve laid out a handy guide to outline all the steps needed to complete your freshman application.
 Already applied? Check yourapplication status.
@@ -7340,7 +7339,10 @@ Links:
 - Contact a Counselor - https://enroll.utdallas.edu/contact/counselor-locator/
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
-- Discover UTD Info Session - https://enroll.utdallas.edu/visit/events/discover-utd/
+- Texas residents - https://www.highered.texas.gov/texas-residency/
+- ApplyTexas.org - https://www.applytexas.org/
+- MyTexasFuture.org - https://www.mytexasfuture.org/
+- Common App - https://www.commonapp.org/
 - Criteria - https://enroll.utdallas.edu/freshman/criteria/
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - application status - https://www.utdallas.edu/status/

@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Celebrates Golden Age of Artificial Intelligence with Inaugural AI Day
+Title Link: https://jindal.utdallas.edu/news/jindal-school-celebrates-golden-age-of-artificial-intelligence-with-inaugural-ai-day/
+Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas will present its inaugural Artificial Intelligence (AI) Day Oct. 28, bringing together industry leaders, researchers and students for a daylong look at how AI is reshaping business, technology, education and society. Hasan Pirkul  “The rise of AI is one of the most […]
+Meta Details: October 3rd, 2025 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/10/ai_day_graphic_with_text_630x630.jpg
+
+==================================================
+
 Title: Jain Family Foundation Supports 50 UT Dallas Graduate Students with New Fellowship
 Title Link: https://jindal.utdallas.edu/news/jain-family-foundation-supports-50-ut-dallas-graduate-students-with-new-fellowship/
 Excerpt: The financial load for 50 graduate students in the Naveen Jindal School of Management has been lightened thanks to a generous gift from Anurag and Gunjan Jain. Dr. Hasan Pirkul, Caruth Chair and Jindal School dean, held a reception Sept. 10 in the Jindal School’s Executive Dining Room to celebrate the gift and introduce the […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/09/anurag_jain_630x630.jpg
 Title: Jindal School MBA Surges in Bloomberg Businessweek Rankings
 Title Link: https://jindal.utdallas.edu/news/jindal-school-mba-surges-in-bloomberg-businessweek-rankings/
 Excerpt: Bloomberg Businessweek’s 2025-26 Best B-Schools rankings are in, and the Naveen Jindal School of Management’s Full-Time MBA program has surged upward, now ranking No. 12 among public universities and 32nd overall. Among U.S. public university programs, the ranking, released Sept. 16, shows that the Jindal School’s MBA moved up eight places among publics and 14 […]
-Meta Details: September 17th, 2025 |Academics,Featured
+Meta Details: September 17th, 2025 |Academics
 Image URL: https://jindal.utdallas.edu/files/2023/04/jsom_sign_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/inaugural-competition-at-jindal-sch
 Excerpt: The importance of understanding and applying sound accounting and business acumen for small businesses and nonprofits was highlighted at the inaugural ProConnect Competition at the Naveen Jindal School of Management. The May 13 event featured “Shark Tank” style presentations from students from the spring 2025 MS in Accounting and Analytics (STEM) degree program. Cash prizes […]
 Meta Details: June 13th, 2025 |Events,Students
 Image URL: https://jindal.utdallas.edu/files/2025/06/proconnect2025_first_place_630x630.jpg
-
-==================================================
-
-Title: Double Degree Programs at Jindal School Offer Key Advantages
-Title Link: https://jindal.utdallas.edu/news/double-degree-programs-at-jindal-school-offer-key-advantages/
-Excerpt: The academic experience at the Naveen Jindal School of Management is rich with opportunities for students looking to broaden their academic and professional horizons. Omer Ahmed Omer Ahmed is one of those students. He knows a degree from The University of Texas at Dallas will give him a competitive advantage in his career. As he […]
-Meta Details: June 10th, 2025 |Academics,Students
-Image URL: https://jindal.utdallas.edu/files/2025/06/omer_ahmed_2_630x630.jpg
 
 ==================================================
 
