@@ -1,17 +1,5 @@
 Month: Oct, 2025
 
-Date: Monday, October 06, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Lunch and Learn: Entrepreneurial Success Series
-Location: 
-Event URL: 50668711905402&instance=50668711910525
---------------------------------------------------
-Date: Monday, October 06, 2025
-Time: 05:00 PM - 08:30 PM
-Title: QS Discover MBA Fair in Dallas
-Location: 
-Event URL: 50595143880189&instance=50595143881214
---------------------------------------------------
 Date: Tuesday, October 07, 2025
 Time: 09:30 AM - 10:30 AM
 Title: MS Marketing Information Session with Q & A Period
@@ -82,19 +70,19 @@ Date: Tuesday, October 14, 2025
 Time: 04:30 PM - 05:30 PM
 Title: MS ITM Coffee Chat
 Location: 
-Event URL: 50693822270624&instance=50693822270625
+Event URL: 50702850619992&instance=50702850619993
 --------------------------------------------------
 Date: Wednesday, October 15, 2025
-Time: 09:00 AM - 09:30 AM
-Title: Virtual Info Session - Cybersecurity and Risk Management Program
+Time: 12:00 PM - 01:00 PM
+Title: JSOM CMC Interview Power Hour: Practice, Feedback, and Real-Time Coaching
 Location: 
-Event URL: 50782101788499&instance=50782101788500
+Event URL: 50790095103749&instance=50790122910566
 --------------------------------------------------
 Date: Wednesday, October 15, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
+Time: 08:00 PM - 09:00 PM
+Title: JSOM PhD Program Online Information Session
 Location: 
-Event URL: 50789861968282&instance=50789966916465
+Event URL: 50462554254793&instance=50462554256843
 --------------------------------------------------
 Date: Thursday, October 16, 2025
 Time: 01:00 PM - 04:00 PM
@@ -303,4 +291,18 @@ Time: 12:00 PM - 01:00 PM
 Title: Inside the Customized Online MBA: Program Info Session
 Location: 
 Event URL: 49957312751743&instance=49957330615328
+--------------------------------------------------
+Date: Thursday, December 11, 2025
+Time: 12:00 PM - 01:00 PM
+Title: MS Marketing Information Session with Q & A Period
+Location: 
+Event URL: 50596420933593&instance=50596424582042
+--------------------------------------------------
+Month: Jan, 2026
+
+Date: Wednesday, January 21, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557625816
 --------------------------------------------------

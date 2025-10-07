@@ -123,7 +123,7 @@ Professor of Practice, Director, MS Marketing, Marketing
 alexander.edsel@utdallas.edu|(972) 883-4421|JSOM 13.316
 
 Associate Professor of Instruction, Information Systems
-gasan.elkhodari@utdallas.edu|(972) 883-4779|JSOM 3.428
+gasan.elkhodari@utdallas.edu|(972) 883-4743|JSOM 3.428
 
 Associate Professor of Instruction, Operations Management
 negin@utdallas.edu|(972) 883-5115|JSOM 14.409
@@ -994,7 +994,7 @@ JSOM 13.316
 Gasan  Elkhodari
 Associate Professor of Instruction, Information Systems
 gasan.elkhodari@utdallas.edu
-(972) 883-4779
+(972) 883-4743
 JSOM 3.428
 
 Negin  Enayaty Ahangar
