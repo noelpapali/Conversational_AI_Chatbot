@@ -1,23 +1,5 @@
 Month: Oct, 2025
 
-Date: Tuesday, October 07, 2025
-Time: 09:30 AM - 10:30 AM
-Title: MS Marketing Information Session with Q & A Period
-Location: 
-Event URL: 50596371385687&instance=50596385034621
---------------------------------------------------
-Date: Tuesday, October 07, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 50789861151111&instance=50789879503370
---------------------------------------------------
-Date: Tuesday, October 07, 2025
-Time: 03:30 PM - 04:00 PM
-Title: MSBA&AI Help Desk
-Location: 
-Event URL: 49552380800369&instance=49552380801394
---------------------------------------------------
 Date: Wednesday, October 08, 2025
 Time: 09:00 AM - 10:00 AM
 Title: MS in International Management Studies Information Session
@@ -305,4 +287,24 @@ Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
 Event URL: 50321557610449&instance=50321557625816
+--------------------------------------------------
+Date: Saturday, January 24, 2026
+Time: 10:15 AM - 01:30 PM
+Title: EMBA Open House
+Location: 
+Event URL: 50650111472190&instance=50650127190188
+--------------------------------------------------
+Month: Feb, 2026
+
+Date: Wednesday, February 11, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557628889
+--------------------------------------------------
+Date: Thursday, February 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650376599666&instance=50650381391183
 --------------------------------------------------
