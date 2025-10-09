@@ -1,35 +1,5 @@
 Month: Oct, 2025
 
-Date: Wednesday, October 08, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Information Session
-Location: 
-Event URL: 50605698757868&instance=50605698762991
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50322144938712&instance=50322144943835
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 10:00 AM - 01:00 PM
-Title: Virtual Forté Executive and Professional MBA Forum
-Location: 
-Event URL: 50818383825033&instance=50818383825034
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 50455138700342&instance=50455188692800
---------------------------------------------------
-Date: Wednesday, October 08, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 50789861466670&instance=50789880003656
---------------------------------------------------
 Date: Thursday, October 09, 2025
 Time: 12:00 PM - 01:00 PM
 Title: MS Marketing Information Session with Q & A Period
@@ -52,7 +22,7 @@ Date: Tuesday, October 14, 2025
 Time: 04:30 PM - 05:30 PM
 Title: MS ITM Coffee Chat
 Location: 
-Event URL: 50702850619992&instance=50702850619993
+Event URL: 50383678945486&instance=50383678946511
 --------------------------------------------------
 Date: Wednesday, October 15, 2025
 Time: 12:00 PM - 01:00 PM
@@ -198,7 +168,7 @@ Date: Tuesday, November 11, 2025
 Time: 04:30 PM - 05:30 PM
 Title: MS ITM Coffee Chat
 Location: 
-Event URL: 50693822270624&instance=50693829015927
+Event URL: 50702850619992&instance=50702850623066
 --------------------------------------------------
 Date: Wednesday, November 12, 2025
 Time: 12:00 PM - 12:30 PM
@@ -266,7 +236,7 @@ Date: Wednesday, December 10, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144952030
+Event URL: 50321557610449&instance=50321557623767
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
 Time: 12:00 PM - 01:00 PM
@@ -286,7 +256,7 @@ Date: Wednesday, January 21, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557625816
+Event URL: 50322144938712&instance=50322144954079
 --------------------------------------------------
 Date: Saturday, January 24, 2026
 Time: 10:15 AM - 01:30 PM
@@ -300,11 +270,43 @@ Date: Wednesday, February 11, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557628889
+Event URL: 50322144938712&instance=50322144957152
 --------------------------------------------------
 Date: Thursday, February 26, 2026
 Time: 12:00 PM - 01:00 PM
 Title: EMBA Webinar
 Location: 
 Event URL: 50650376599666&instance=50650381391183
+--------------------------------------------------
+Date: Saturday, February 28, 2026
+Time: 12:00 AM - 06:00 PM
+Title: 2026 Early-Career Sustainable Operations Workshop
+Location: 
+Event URL: 50640410094882&instance=50640410095908
+--------------------------------------------------
+Month: Mar, 2026
+
+Date: Sunday, March 01, 2026
+Time: 12:00 AM - 06:00 PM
+Title: 2026 Early-Career Sustainable Operations Workshop
+Location: 
+Event URL: 50640410094882&instance=50640410096933
+--------------------------------------------------
+Date: Wednesday, March 04, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144960225
+--------------------------------------------------
+Date: Wednesday, March 25, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557632987
+--------------------------------------------------
+Date: Thursday, March 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650387211292&instance=50650393088658
 --------------------------------------------------
