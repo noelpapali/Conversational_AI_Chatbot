@@ -1,156 +1,109 @@
 URL: https://execed.utdallas.edu/
 
 Wideblocks:
-Mission:
-Paragraph: We strive to serve the global business community — individuals and organizations — by providing advanced, contemporary executive development programs and opportunities to acquire the essential knowledge, skills and abilities for continuous personal and professional improvement and sustainable business success.
-Paragraph: We develop and continuously improve programs that incorporate a broad range of management disciplines to address the challenges of managing and leading in the rapidly evolving, dynamic, global society.
+Sharpen your Business Acumen.:
+
+Degree Programs:
+Paragraph: Earn your Executive MBA, Executive Master’s or Doctorate degree. Online, in-person and hybrid options are available. No GRE or GMAT required.
 
 Executive MBA:
+Paragraph: Enhance your leadership skills and advance your career with our flexible MBA programs, available in both in person and online formats. Achieve the perfect balance between work, life and MBA, all while preparing yourself to navigate the demands of tomorrow’s leadership.
 
-Executive Master’s:
+Doctor of Business Administration:
+Paragraph: Enhance your career with our DBA program, which combines the application of an EMBA with the advanced analytics of a PhD to tackle complex business problems.
 
-Doctorate:
+Executive MS:
+Paragraph: Set yourself up for success with our MS specializations designed for full-time professionals. Enhance your essential competencies, business acumen and soft skills to navigate a dynamic and constantly changing environment through our flexible coursework.
 
-Sharpen your business acumen:
-Paragraph: Our Executive Education programs are designed for individuals and organizations ready to drive change
+Online MBA:
+Paragraph: Customize your MBA with online options, flexible scheduling, and opportunities to pursue multiple concentrations and certifications.
 
-Build your network and promote yourself:
-Paragraph: Business is about both what and who you know
+Certificate Programs:
+Paragraph: Gain a professional advantage through credit and noncredit certifications to excel in your field. These credentials enhance your expertise
+and showcase your dedication to continuous learning and adaptability in a rapidly changing industry landscape.
 
-Flexible Formats:
-Paragraph: Leaders know the power of meeting people where they are
+Academic Certificates:
+Paragraph: Enhance your expertise with our academic certificates,
+offering focused knowledge in key areas. These credit bearing, graded courses can be applied toward your
+degree program, helping you earn academic credits as
+you advance your education.
 
-Faculty with industry experience:
-Paragraph: Executive Education faculty members are prolific researchers, dedicated educators and top-level corporate executives
+Professional Certificate:
+Paragraph: Stay ahead in your field with our noncredit courses
+designed for full-time professionals. Gain knowledge on
+cutting-edge topics that are in high demand in today’s
+work environment. No university degree is required for
+admission.
 
-Vision for Executive Education:
-Paragraph: Business professionals and corporations will recognize the Executive Education program as a global leader in business management, leadership education and executive development. We will support the Jindal School of Management and UT Dallas in achieving marketplace dominance as an innovative executive education entity that offers leading-edge, highly differentiated programs.
+Corporate Programs:
+Paragraph: Executive Education at UT Dallas is proud to offer corporate partnerships that provide substantial savings on graduate degrees and
+certifications, supporting career advancement and fostering a culture of continuous learning.
+
+Corporate Partnership:
+Paragraph: Taught by UT Dallas subject matter experts and
+tailored to your organization s unique needs,
+our courses are designed to equip the next
+generation of leaders with essential skills for
+success.
 
 Student Testimonials:
+Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
-
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
-
-Sean Seabrook, MS LOD:
-
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
-
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
-
-Erinn Marks, GLEMBA ’19:
-
-Curtis Clark:
-
-Veronica Sanchez, MS LOD:
-
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
-
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
 
 Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
+Sean Seabrook, MS LOD:
+
+Emily Elizarde – MS LOD Transformational Leadership:
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
 
 Nicole Roettele – MS LOD Executive and Professional Coaching:
 
+Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
+
+Veronica Sanchez, MS LOD:
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Jacob Heller, MS LOD:
+
 Alberto Gutierrez Algren:
 
-Ellie Shollenberger:
+David Gill:
 
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
+Curtis Clark:
+
+Erinn Marks, GLEMBA ’19:
 
 Andy Miller, GLEMBA ’16:
 Paragraph: IT Operations Manager, 
  Splunk
 
-Certificates:
-Paragraph: Below is a complete list of all Executive Education certificates — both Academic and Professional (non-credit) — sorted by discipline. For more information about a particular certificate, including admission requirements and how to apply, please visit its dedicated web page.
+Denis Zub (EMBA 2022):
 
-Academic Certificates:
-List:
-  - Product Lifecycle and Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Project Management (Link: /execed/project-management/degree-programs/#certificate)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-List:
-  - Executive and Professional Coaching (Academic)
-  - Organizational Consulting (Academic) (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/academic-certificate/)
-  - Strategic HR (Academic) (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/academic-certificate/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
 
-Professional Certificates (non-credit):
-List:
-  - Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
-  - Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
-List:
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Sourcing Management (Link: /jindal/centers-of-excellence/c4isn/#05-online-sourcing-management-training)
-  - Supply Chain Management (Link: /jindal/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-List:
-  - Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
-  - Executive and Professional Coaching (Professional)
-  - Organizational Consulting (Professional) (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic HR (Professional) (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
-  - Mediation and Dispute Resolution (Professional) (Link: https://obcc.utdallas.edu/mediation-dispute-resolution/)
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
 
-Mission:
-Paragraph: We strive to serve the global business community — individuals and organizations — by providing advanced, contemporary executive development programs and opportunities to acquire the essential knowledge, skills and abilities for continuous personal and professional improvement and sustainable business success.
-Paragraph: We develop and continuously improve programs that incorporate a broad range of management disciplines to address the challenges of managing and leading in the rapidly evolving, dynamic, global society.
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Executive Education Alumni Spotlights:
-Link: See all Executive Education Alumni Spotlights (URL: /execed/voices/alumni-spotlights)
+Qiana Levy:
 
-Will McIntosh, EMBA’06:
-Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
-Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
-
-Joseph James, MBA’10:
-Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
-
-Sid Keswani, MBA’09:
-Paragraph: President, Pandora Americas
-Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
-
-Sarah Hagan, EMBA’11:
-Paragraph: CFO, 
- Omnitracs
-Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
-
-Charles Gillis, MBA’04:
-Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
+Megan Lightfoot Metzger, MS LOD:
 
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
 
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
@@ -160,298 +113,383 @@ What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
 Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+How to Write an Admissions Essay for an Executive MBA Program:
+Paragraph: The power of your personal story
+Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
 
-Executive Education Programs at the Jindal School:
+ExecEd Request for Information:
 
-Executive MBA Programs:
-Paragraph: Get your MBA in a classroom setting with other working professionals.
-List:
-  - Executive MBA (EMBA) (Link: /execed/emba/)
-  - Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
-  - EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
-  - Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+ExecEd Request for Information:
 
-Executive Master’s Programs:
-Paragraph: Pursue your master’s degree alongside other working professionals.
-List:
-  - MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-  - MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
-  - Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
-  - MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
+==================================================
 
-Academic Certificates:
-Paragraph: Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
-List:
-  - Executive and Professional Coaching
-  - Project Management (Link: https://execed.utdallas.edu/project-management/)
-  - Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+URL: https://execed.utdallas.edu/executive-mba/
 
-Professional Certificates:
-Paragraph: Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
-List:
-  - Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
-  - Mediation and Dispute Resolution (Link: https://obcc.utdallas.edu/mediation-dispute-resolution/)
+Wideblocks:
+General:
+
+Executive MBA:
+Paragraph: Benefit from personalized executive coaching, thrive within a close-knit cohort community and receive premium support services, all enhanced by an international immersion experience. 
+
+
+
+Format: In-Person
+
+
+Avg. Duration: 21 months
+
+
+Cost: $90,000
+
+
+Minimum Years of Experience: 8 years
+
+Credit Hours: 53
+
+Customized Online MBA:
+Paragraph: Benefit from personalized executive coaching, thrive within a close-knit cohort community and receive premium support services, all enhanced by an international immersion experience.
+
+Healthcare:
+
+EMBA with emphasis in Healthcare Organizational Leadership:
+Paragraph: Gain healthcare-focused academics with practical, project-based learning, earn a Transformational Leadership Certificate, study 100% online from anywhere and engage in collaborative learning with regular instructor-student interaction.
+
+EMBA with emphasis in Healthcare Leadership and Management for Physicians:
+Paragraph: Designed for senior physicians in or aspiring to leadership roles, the program blends academic rigor with hands-on learning. Participants thrive in a supportive culture rooted in shared values and professional excellence, with residential four-day classes held every other month.
+
+Operational:
+
+EMBA with emphasis in Project Management:
+Paragraph: Achieve more with a PMI-accredited program that’s fully online and accessible from anywhere. Enhance your degree with electives and gain additional academic certificates built into your journey.
+
+EMBA with emphasis in Product Lifecycle and Supply Chain Management:
+Paragraph: This fully online program connects product development with supply chain strategy, giving you the flexibility to study from anywhere. Expand your network across the U.S. and worldwide, and gain academic certificates as part of your degree.
+
+Student Testimonials:
+Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
+
+Qiana Levy:
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Esteban Santos, EMBA 2021:
+
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
+
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
+
+Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
+
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
+
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
+
+Sean Seabrook, MS LOD:
+
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
+
+Curtis Clark:
+
+Alberto Gutierrez Algren:
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Jacob Heller, MS LOD:
+
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
+Mohammed Omer, GLEMBA ’19:
+
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
+
+Upcoming Events:
+Paragraph: See Executive Education Events
+
+ExecEd Request for Information:
+
+==================================================
+
+URL: https://execed.utdallas.edu/executive-ms/
+
+Wideblocks:
+Management:
+
+Executive MS in Management Science:
+Paragraph: Customize your program with concentrations or certifications, gain data-driven strategies, and expand your network alongside executive professionals. Engage directly with subject matter experts through our dynamic Speaker Series.
+
+Executive MS in Management Science with emphasis in Project Management:
+Paragraph: Designed for professionals seeking to strengthen their expertise in project management, including PMP exam preparation. This program includes a PMI-accredited Project Management certificate and offers customizable concentrations.
+
+Operational:
+
+Executive MS in Supply Chain Management:
+Paragraph: Includes a Product Lifecycle & Supply Chain certificate and can be combined with an EMBA in Project Management for an even broader skill set. Alongside your studies, you will expand your professional network with executive peers and gain insights from industry experts through our Speaker Series.
+
+Leadership:
+
+MS in Healthcare Leadership and Management for Physicians:
+Paragraph: Designed for senior physicians in or aspiring to leadership roles, the program blends academic rigor with hands-on learning. Participants thrive in a supportive culture rooted in shared values and professional excellence, with residential four-day classes held every other month.
+
+MS in Leadership and Organizational Development:
+Paragraph: Advance your education with concentration credits that count toward both your degree and certificate. Study from anywhere with our fully online format, take part in expert forums at no cost and enjoy the flexibility to progress at a pace that works for your busy lifestyle.
+
+Student Testimonials:
+Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
+
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
+
+Megan Lightfoot Metzger, MS LOD:
+
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
+
+Esteban Santos, EMBA 2021:
+
+Ellie Shollenberger:
+
+Emily Elizarde – MS LOD Transformational Leadership:
+
+Jacob Heller, MS LOD:
+
+Nicole Roettele – MS LOD Executive and Professional Coaching:
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+David Gill:
+
+Denis Zub (EMBA 2022):
+
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
+
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Mohammed Omer, GLEMBA ’19:
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+
+Tu Huynh:
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Thomas Rodgers (EMBA 2022):
+
+Upcoming Events:
+Paragraph: See Executive Education Events
+
+ExecEd Request for Information:
 
 ==================================================
 
 URL: https://execed.utdallas.edu/academic-programs/
 
 Wideblocks:
-Find the perfect program and take your next step:
-Paragraph: Master the knowledge, skills and tools required to lead in our increasingly competitive global economy.
-Paragraph: The Executive Education area at UT Dallas has the faculty expertise to help you become a global leader in business management, leadership education and executive development.
+Project Management:
+Paragraph: Accredited through PMI GAC and taught by world-class faculty, our program is aligned to PMBOK standards and offers credits that may be applied toward an MBA or MS degree.
 
-Executive Education Programs at the Jindal School:
+Product Lifecycle and Supply Chain Management:
+Paragraph: This program integrates product lifecycle with supply chain management while highlighting the impact of AI. Through industry expert–led web conferences and case studies with real-world applications, you’ll gain practical insights into how emerging technologies are reshaping operations.
 
-Executive MBA Programs:
-Paragraph: Get your MBA in a classroom setting with other working professionals.
-List:
-  - Executive MBA (EMBA) (Link: /execed/emba/)
-  - Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
-  - EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
-  - Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+Global Marketing:
+Paragraph: With a focus on digital marketing, customer insights and AI, this program allows you to enroll alongside MBA students and expand your professional network. Taught by experienced marketing executives and UTD faculty, the courses blend academic rigor with practical application.
 
-Executive Master’s Programs:
-Paragraph: Pursue your master’s degree alongside other working professionals.
-List:
-  - MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-  - MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
-  - Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
-  - MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
+Organizational Consulting:
+Paragraph: Earn credits that can be applied toward an MS degree. Through our flexible 100% online format and small class sizes that promote interactive learning and complimentary access to expert forums, you will gain valuable knowledge while expanding your professional network.
 
-Academic Certificates:
-Paragraph: Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
-List:
-  - Executive and Professional Coaching
-  - Project Management (Link: https://execed.utdallas.edu/project-management/)
-  - Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
+Strategic Human Resources:
+Paragraph: Explore business dynamics through a human capital lens, and benefit from small class sizes that foster meaningful, interactive online learning. Credits can be applied toward an MS degree.
 
-Professional Certificates:
-Paragraph: Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
-List:
-  - Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
-  - Mediation and Dispute Resolution (Link: https://obcc.utdallas.edu/mediation-dispute-resolution/)
+Transformational Leadership:
+Paragraph: Gain the skills to address leadership challenges and build effective strategies. With a 100% online format, you can tailor the program’s pace to fit your schedule and professional goals.
 
-Executive Education Articles:
-Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
+Executive & Professional Coaching:
+Paragraph: Gain the training and certification required for ICF Level II while earning credits that may be applied toward an MS degree. With a fully online format and complimentary access to expert forums, you can advance your coaching career from anywhere.
 
-What Makes a Good EMBA Candidate?:
-Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+Healthcare Informatics Leadership:
+Paragraph: Network with fellow physicians while learning from industry experts and physician executives in a hybrid format that combines two residential classes with one online course. This program is available exclusively to current APL students or those eligible for admission.
 
-The Importance of a Relevant Curriculum:
-Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
+Student Testimonials:
+Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+Erinn Marks, GLEMBA ’19:
 
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
 
-What Executive Education program are you interested in?:
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
 
-Executive MBA Programs:
-Paragraph: 
-Link: Executive MBA (EMBA) (URL: /execed/emba/)
-Link: Customized Online MBA (URL: /execed/global-leadership/curriculum-mba)
-Link: EMBA with an emphasis in Healthcare Leadership and Management (for physicians) (URL: https://www.utdallas.edu/apl/)
-Link: EMBA with an emphasis in Healthcare Leadership and Management (for professionals) (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: EMBA with an emphasis in Product Lifecycle & Supply Chain Management (URL: /execed/product-lifecycle-scm/)
-Link: EMBA with an emphasis in Project Management (URL: /execed/project-management/)
-Link: Online EMBA with an Emphasis on Healthcare Organization Leadership (URL: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Executive Master’s Programs:
-Paragraph: 
-Link: MS Leadership and Organizational Development (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: MS Healthcare Leadership and Management (for professionals) (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: MS Healthcare Leadership and Management (for physicians) (URL: https://www.utdallas.edu/apl/)
-Link: MS in Supply Chain Management Executive Education (URL: /execed/product-lifecycle-scm/#supply-chain)
-Link: MS in Systems Engineering and Management (URL: https://www.utdallas.edu/sem/)
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Certificates and Corporate Education:
-Paragraph: 
-Link: Academic Certificates (URL: /execed/certificate-programs/#academic)
-Link: Professional Certificates (URL: /execed/certificate-programs/#professional)
-Link: Corporate Education (URL: https://theleadershipcenter.utdallas.edu/corporate-education/)
+Mohammed Omer, GLEMBA ’19:
+
+Veronica Sanchez, MS LOD:
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Tamer Elshamy, GLEMBA ’19:
+Paragraph: Sales Director, 
+ Fawry Banking and Payment Technology Services
+
+Esteban Santos, EMBA 2021:
+
+Denis Zub (EMBA 2022):
+
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
+
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Emily Elizarde – MS LOD Transformational Leadership:
+
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Thomas Rodgers (EMBA 2022):
+
+Tu Huynh:
+
+David Gill:
+
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
+
+Upcoming Events:
+Paragraph: See Executive Education Events
+
+ExecEd Request for Information:
 
 ==================================================
 
 URL: https://execed.utdallas.edu/certificate-programs/
 
 Wideblocks:
-Stay competitive and get ahead:
-Paragraph: The Executive Education area of the Naveen Jindal School of Management has developed a variety of professional and certificate programs to meet individual business education needs. Regardless of your professional goals, our programs provide the skills and knowledge to stay competitive in today’s challenging business environment and position you for success.
-Paragraph: Our programs are offered through various delivery options, including a self-paced, online “mini-MBA” — the Certificate of Management. Each professional and certificate program can be delivered on a customized basis to a specific group of professionals within an organization.
+Organizational Consulting:
+Paragraph: Through our flexible 100% online format and small class sizes that promote interactive learning and complimentary access to expert forums, you will gain valuable knowledge while expanding your professional network.
 
-Academic and Professional Certificates:
+Strategic Human Resources:
+Paragraph: Explore business dynamics through a human capital lens, and benefit from small class sizes that foster meaningful, interactive online learning.
 
-Executive Education Programs at the Jindal School:
+Transformational Leadership:
+Paragraph: Gain the skills to address leadership challenges and build effective strategies. With a 100% online format, you can tailor the program’s pace to fit your schedule and professional goals.
 
-Executive MBA Programs:
-Paragraph: Get your MBA in a classroom setting with other working professionals.
-List:
-  - Executive MBA (EMBA) (Link: /execed/emba/)
-  - Customized Online MBA (Link: /execed/global-leadership/curriculum-mba/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - EMBA with emphasis in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - Online EMBA with emphasis in Product Lifecycle & Supply Chain Management (Link: /execed/product-lifecycle-scm/)
-  - EMBA with emphasis in Project Management (Link: /execed/global-leadership/curriculum-executive-mba-with-an-emphasis-in-project-management/)
-  - Online EMBA with an Emphasis on Healthcare Organization Leadership (Link: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+Executive & Professional Coaching:
+Paragraph: Gain the training and certification required for ICF Level II. With a fully online format and complimentary access to expert forums, you can advance your coaching career from anywhere.
 
-Executive Master’s Programs:
-Paragraph: Pursue your master’s degree alongside other working professionals.
-List:
-  - MS in Leadership Organizational Development (Link: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-  - MS in Healthcare Leadership and Management (for Professionals) (Link: https://hclm.utdallas.edu/)
-  - MS in Healthcare Leadership and Management (for Physicians) (Link: https://www.utdallas.edu/apl/)
-  - Online MS in Management Science (Customized Online Programs) (Link: /execed/global-leadership/curriculum-masters-management-science/)
-  - Online MS in Supply Chain Management Executive Education (Link: /execed/product-lifecycle-scm/#supply-chain)
-  - MS in Systems Engineering and Management (Link: https://www.utdallas.edu/sem/)
-
-Academic Certificates:
-Paragraph: Gain focused knowledge in specific areas of interest and earn academic credits in these programs that can be transferred to degree programs.
-List:
-  - Executive and Professional Coaching
-  - Project Management (Link: https://execed.utdallas.edu/project-management/)
-  - Product Lifecycle/Supply Chain Management (Link: /execed/product-lifecycle-scm/graduate-certificate/)
-  - Systems Engineering (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Systems Management (Link: https://www.utdallas.edu/sem/professional-masters/certificates-program/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting/academic-certificate-in-organizational-consulting/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
-
-Professional Certificates:
-Paragraph: Get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment.
-List:
-  - Certificate of Management (Link: https://theleadershipcenter.utdallas.edu/certificate-of-management/)
-  - Lean Six Sigma (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/lean-six-sigma-certificate/)
-  - Supply Chain Management (Link: https://jindal.utdallas.edu/centers-of-excellence/c4isn/#02-professional-certificate-in-scm)
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
-  - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
-  - Strategic Human Resources (Link: https://obcc.utdallas.edu/strategic-human-resources/)
-  - Sustainability Strategy and Management in Aviation (Link: https://sites.utdallas.edu/jindal/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
-  - Mediation and Dispute Resolution (Link: https://obcc.utdallas.edu/mediation-dispute-resolution/)
+Mediation and Dispute Resolution:
+Paragraph: Provides a foundation in the principles and practice of conflict management. This 40-hour program covers negotiation, cultural and emotional dynamics, and ethical process design, preparing participants to facilitate productive dialogue in complex situations. Completion of this program meets the training requirements for mediator Credentialing through the Texas Mediator Credentialing Association (TMCA).
 
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
+
+Bill Disario:
 
 Daniel Hendrickson, EMBA 2022:
 Paragraph: VP, Sr. Financial Analyst,
   First United Bank
 
-Megan Lightfoot Metzger, MS LOD:
-
-Mohammed Omer, GLEMBA ’19:
-
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
-
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
-
-Denis Zub (EMBA 2022):
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
-
-Veronica Sanchez, MS LOD:
-
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
-
-Erinn Marks, GLEMBA ’19:
-
-Tu Huynh:
-
-Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
-
-David Gill:
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Alberto Gutierrez Algren:
-
-Esteban Santos, EMBA 2021:
-
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
 
 Ashwin Prakash, GLEMBA ’20:
 Paragraph: Head of Data Science and Analytics, 
  HCA Healthcare
 
+Jacob Heller, MS LOD:
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Qiana Levy:
+
+Ellie Shollenberger:
+
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
+Curtis Clark:
+
+Esteban Santos, EMBA 2021:
+
 Darrick Fitzgerald, GLEMBA ’18:
 Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
  Verizon Wireless
 
-What Executive Education program are you interested in?:
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
 
-Executive MBA Programs:
-Paragraph: 
-Link: Executive MBA (EMBA) (URL: /execed/emba/)
-Link: Customized Online MBA (URL: /execed/global-leadership/curriculum-mba)
-Link: EMBA with an emphasis in Healthcare Leadership and Management (for physicians) (URL: https://www.utdallas.edu/apl/)
-Link: EMBA with an emphasis in Healthcare Leadership and Management (for professionals) (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: EMBA with an emphasis in Product Lifecycle & Supply Chain Management (URL: /execed/product-lifecycle-scm/)
-Link: EMBA with an emphasis in Project Management (URL: /execed/project-management/)
-Link: Online EMBA with an Emphasis on Healthcare Organization Leadership (URL: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
+Veronica Sanchez, MS LOD:
 
-Executive Master’s Programs:
-Paragraph: 
-Link: MS Leadership and Organizational Development (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: MS Healthcare Leadership and Management (for professionals) (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: MS Healthcare Leadership and Management (for physicians) (URL: https://www.utdallas.edu/apl/)
-Link: MS in Supply Chain Management Executive Education (URL: /execed/product-lifecycle-scm/#supply-chain)
-Link: MS in Systems Engineering and Management (URL: https://www.utdallas.edu/sem/)
+Thomas Rodgers (EMBA 2022):
 
-Certificates and Corporate Education:
-Paragraph: 
-Link: Academic Certificates (URL: /execed/certificate-programs/#academic)
-Link: Professional Certificates (URL: /execed/certificate-programs/#professional)
-Link: Corporate Education (URL: https://theleadershipcenter.utdallas.edu/corporate-education/)
+Alberto Gutierrez Algren:
+
+Tamer Elshamy, GLEMBA ’19:
+Paragraph: Sales Director, 
+ Fawry Banking and Payment Technology Services
+
+Megan Lightfoot Metzger, MS LOD:
+
+Emily Elizarde – MS LOD Transformational Leadership:
+
+Denis Zub (EMBA 2022):
+
+Upcoming Events:
+Paragraph: See Executive Education Events
+
+ExecEd Request for Information:
 
 ==================================================
 
@@ -509,11 +547,17 @@ Click here to Apply
 Student Testimonials:
 Link: See all Executive MBA Testimonials (URL: /execed/voices/executive-mba-testimonials)
 
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
 Thomas Rodgers (EMBA 2022):
 
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
+
+Denis Zub (EMBA 2022):
 
 Jennifer Masie, EMBA 2022:
 Paragraph: Vice President, Retail Operations and Chief of Staff
@@ -526,15 +570,9 @@ Daniel Hendrickson, EMBA 2022:
 Paragraph: VP, Sr. Financial Analyst,
   First United Bank
 
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
-
-Denis Zub (EMBA 2022):
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
 
 Frequently Asked Questions:
 
@@ -619,166 +657,6 @@ List:
 
 How can I learn more about other scholarships offered within the Naveen Jindal School of Management?:
 Paragraph: Please visit the JSOM Graduate Scholarship page to learn more about how to apply for other scholarships within JSOM.
-
-==================================================
-
-URL: https://execed.utdallas.edu/voices/
-
-Wideblocks:
-Executive Education from the people who know best:
-Paragraph: What better way to see how Executive Education helps you achieve your goals than to hear directly from the people who have experienced it themselves?
-Paragraph: Alumni, current students, staff, and faculty have a lot to say about what you can expect from becoming a part of an Executive Education program. Our students work hard with their classmates to cross the stage, diploma in hand, ready to advance their careers.
-
-Student Experiences:
-Paragraph: Current Executive Education students and alumni share their academic experiences, outcomes and insights. Read their stories and discover how Executive Education programs have made an impact on their professional and personal lives.
-Link: See all Student Experiences (URL: /execed/voices/student-experiences/)
-
-The Academic Experience of a Lifetime:
-Paragraph: Experiences as an EMBA student
-Paragraph: The classes expose students to many topics that you may not think about every day. I have been able to apply theories and practices from every class I have taken in this program to my job. I am very pleased with the program and the confidence it has given me.
-
-My Experience Going Through the EMBA Program:
-Paragraph: What has your ROI been?
-Paragraph: I am able to make better strategic decisions, both professionally and personally.  I can clearly and critically assess problems and have found the courage to make the tough calls.  I now prioritize my work and can motivate the team towards a common goal.
-
-The Transition From Surviving To Thriving:
-Paragraph: The “reshaping” process
-Paragraph: The first semester brings the heat that softens your current form to allow for reshaping. As you progress, previous course content is skillfully woven into the curriculum, providing you with a sense of comfort while slowly building confidence.
-
-How the Executive MBA Helped My Career:
-Paragraph: Investing in my future
-Paragraph: At work I’ve acquired a new professional certification and been allowed to completely re-write my job description into one that fits who I am and rewards me for all the effort I’ve put in, both at work and at school.  Next step – here I come!
-
-Student Testimonials:
-Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
-Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
-
-Nicole Roettele – MS LOD Executive and Professional Coaching:
-
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Mohammed Omer, GLEMBA ’19:
-
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
-
-David Gill:
-
-Ellie Shollenberger:
-
-Esteban Santos, EMBA 2021:
-
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
-
-Megan Lightfoot Metzger, MS LOD:
-
-Erinn Marks, GLEMBA ’19:
-
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Emily Elizarde – MS LOD Transformational Leadership:
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
-
-Qiana Levy:
-
-Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
-
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Tu Huynh:
-
-Executive Education Alumni Spotlights:
-Paragraph: Read the success stories from JSOM alumni who earned their degrees from the Jindal School of Management. These alumni are current professionals who share their insights about their experience and life after graduating from UT Dallas.
-Link: See all Executive Education Alumni Spotlights (URL: /execed/voices/alumni-spotlights)
-
-Sid Keswani, MBA’09:
-Paragraph: President, Pandora Americas
-Paragraph: As president of the Americas region, Sid Keswani is responsible for PANDORA’s markets in North America, the Caribbean and Latin America.
-
-Will McIntosh, EMBA’06:
-Paragraph: Senior Manager, Advisory Services, Ernst & Young LLP
-Paragraph: McIntosh, a senior manager in Advisory Services at Ernst and Young’s Dallas office, measures his success by the quality relationships he has developed with clients and coworkers throughout his 15 years in the management consulting and financial services industries. He assists leading banks and lenders in solving various management problems and improving their operations in order to better serve customers and meet the demands of other key stakeholders.
-
-Charles Gillis, MBA’04:
-Paragraph: Executive Director, 
- Munsch Hardt Kopf & Harr, PC
-Paragraph: Technology and an evolving mindset about work-life balance is completely changing the legal services profession.
-
-Joseph James, MBA’10:
-Paragraph: Entrepreneur
-Paragraph: James, who completed his Executive MBA degree in 2010, manages two startup businesses. At 2020 Commercial, he provides commercial real estate sales, leasing and development services. At Mango Farms Digital Marketing, he and his staff provide web and mobile application development and manage digital marketing for clients.
-
-Sarah Hagan, EMBA’11:
-Paragraph: CFO, 
- Omnitracs
-Paragraph: Hagan, a Dallas resident, joined Omnitracs, LLC, in April 2016, after a successful 11 years at Sabre Corp., where she held senior leadership positions in accounting and finance.
-
-Executive Education Articles:
-Paragraph: Discover how Executive Education faculty are researching, publishing, speaking and engaging in the business community. The authors of these articles also include accounting students, staff and friends.
-Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
-
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
-
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
-
-What Makes a Good EMBA Candidate?:
-Paragraph: An Excellent Career Investment
-Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
-
-The Importance of a Relevant Curriculum:
-Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
-
-What Executive Education program are you interested in?:
-
-Executive MBA Programs:
-Paragraph: 
-Link: Executive MBA (EMBA) (URL: /execed/emba/)
-Link: Customized Online MBA (URL: /execed/global-leadership/curriculum-mba)
-Link: EMBA with an emphasis in Healthcare Leadership and Management (for physicians) (URL: https://www.utdallas.edu/apl/)
-Link: EMBA with an emphasis in Healthcare Leadership and Management (for professionals) (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: EMBA with an emphasis in Product Lifecycle & Supply Chain Management (URL: /execed/product-lifecycle-scm/)
-Link: EMBA with an emphasis in Project Management (URL: /execed/project-management/)
-Link: Online EMBA with an Emphasis on Healthcare Organization Leadership (URL: https://obcc.utdallas.edu/emba-with-an-emphasis-on-healthcare-organization-leadership/)
-
-Executive Master’s Programs:
-Paragraph: 
-Link: MS Leadership and Organizational Development (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: MS Healthcare Leadership and Management (for professionals) (URL: https://obcc.utdallas.edu/ms-leadership-and-organizational-development/)
-Link: MS Healthcare Leadership and Management (for physicians) (URL: https://www.utdallas.edu/apl/)
-Link: MS in Supply Chain Management Executive Education (URL: /execed/product-lifecycle-scm/#supply-chain)
-Link: MS in Systems Engineering and Management (URL: https://www.utdallas.edu/sem/)
-
-Certificates and Corporate Education:
-Paragraph: 
-Link: Academic Certificates (URL: /execed/certificate-programs/#academic)
-Link: Professional Certificates (URL: /execed/certificate-programs/#professional)
-Link: Corporate Education (URL: https://theleadershipcenter.utdallas.edu/corporate-education/)
 
 ==================================================
 

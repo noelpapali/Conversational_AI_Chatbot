@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: From AI to SPACs, Boards Face a New Era of Governance
+Title Link: https://jindal.utdallas.edu/news/from-ai-to-spacs-boards-face-a-new-era-of-governance/
+Excerpt: The Institute for Excellence in Corporate Governance at the Naveen Jindal School of Management presented its 23rd Annual Corporate Governance Conference Sept. 24. It tied together diverse but connected threads — from academic research to family office partnerships, corporate foundations, AI in the boardroom, and special-purpose acquisition companies (SPAC). The event’s unifying theme was that governance itself is […]
+Meta Details: October 9th, 2025 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/10/iecg_2025_corporate_governance_conference_audience_shot_630x630.jpg
+
+==================================================
+
 Title: Eduniversal Awards Jindal School Four Palmes of Excellence
 Title Link: https://jindal.utdallas.edu/news/eduniversal-awards-jindal-school-four-palmes-of-excellence/
 Excerpt: 
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/10/palmes_630x630.png
 Title: Jindal School Celebrates Golden Age of Artificial Intelligence with Inaugural AI Day
 Title Link: https://jindal.utdallas.edu/news/jindal-school-celebrates-golden-age-of-artificial-intelligence-with-inaugural-ai-day/
 Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas will present its inaugural Artificial Intelligence (AI) Day Oct. 28, bringing together industry leaders, researchers and students for a daylong look at how AI is reshaping business, technology, education and society. Hasan Pirkul  “The rise of AI is one of the most […]
-Meta Details: October 3rd, 2025 |Events,Featured
+Meta Details: October 3rd, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/10/ai_day_graphic_with_text_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/ut-dallas-project-management-sympos
 Excerpt: The 17th Annual UT Dallas Project Management Symposium brought together industry leaders, academics and students on May 17 for a full day of presentations, dialogue and networking. Hosted by the Naveen Jindal School of Management in collaboration with PM World Journal, the 2025 symposium balanced timeless leadership lessons with timely conversations about technology, risk and […]
 Meta Details: June 23rd, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/06/2025_pm_symposium_630x630.jpg
-
-==================================================
-
-Title: Competition Showcases Consulting Work Performed by Jindal School Seniors
-Title Link: https://jindal.utdallas.edu/news/competition-showcases-consulting-work-performed-by-jindal-school-seniors/
-Excerpt: An atmosphere of celebration permeated the UTDsolv Capstone Expo, a biannual student competition at the Naveen Jindal School of Management in which teams submit their senior capstone projects for consideration. This time around, 14 projects were selected to compete from among 144 entries. Student teams partnered with businesses and other organizations through the UTDsolv Capstone […]
-Meta Details: June 17th, 2025 |Events,Students
-Image URL: https://jindal.utdallas.edu/files/2025/06/mckessonteam_630x630.png
 
 ==================================================
 
