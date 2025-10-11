@@ -75,7 +75,7 @@ Assistant Professor, Information Systems
 zenan.chen@utdallas.edu||JSOM 3.811
 
 Assistant Professor, Operations Management
-mingliu.chen@utdallas.edu|(972) 883-4758|JSOM 13.211
+mingliu.chen@utdallas.edu|(972) 883-4758|JSOM 3.702
 
 Associate Professor, Finance and Managerial Economics
 huaizhi.chen@utdallas.edu||JSOM 14.310
@@ -615,7 +615,7 @@ Professor of Practice, Organizations, Strategy and International Management
 keith.thurgood@utdallas.edu|(972) 883-5853|JSOM 2.413
 
 Associate Professor of Practice, Marketing
-gxt170001@utdallas.edu|(972) 883-5036|JSOM 13.303
+gxt170001@utdallas.edu|(972) 883-5036|JSOM 13.211
 
 Clinical Associate Professor, Operations Management
 aysegul.toptalbilhan@utdallas.edu|(972) 883-5993|JSOM 2.409
@@ -899,7 +899,7 @@ Mingliu  Chen
 Assistant Professor, Operations Management
 mingliu.chen@utdallas.edu
 (972) 883-4758
-JSOM 13.211
+JSOM 3.702
 
 Huaizhi  Chen
 Associate Professor, Finance and Managerial Economics
@@ -1979,7 +1979,7 @@ Guido  Tirone
 Associate Professor of Practice, Marketing
 gxt170001@utdallas.edu
 (972) 883-5036
-JSOM 13.303
+JSOM 13.211
 
 Aysegul  Toptal Bilhan
 Clinical Associate Professor, Operations Management
