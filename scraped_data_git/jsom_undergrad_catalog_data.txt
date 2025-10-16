@@ -6797,7 +6797,6 @@ Headings:
 - Admission Review Criteria
 - Assured Admission Criteria
 - International Applicants
-- 
 - Questions?
 - Contact Us
 - Stay Connected
