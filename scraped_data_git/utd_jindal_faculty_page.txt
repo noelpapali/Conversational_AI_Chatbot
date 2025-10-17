@@ -50,7 +50,7 @@ moran.blueshtein@utdallas.edu|(972) 883-5076|JSOM 14.212
 Professor, Finance and Managerial Economics
 gbolton@utdallas.edu|(972) 883-5844|JSOM 3.612
 
-Professor of Practice, Director, Professional Program in Accounting, Associate Area Coordinator, Accounting, Accounting
+Associate Area Coordinator, Accounting, Director, Professional Program in Accounting, Professor of Practice, Accounting
 tabortz@utdallas.edu|(972) 883-4774|JSOM 4.435
 
 Professor of Practice, Information Systems
@@ -155,7 +155,7 @@ axg119030@utdallas.edu|(972) 883-5820|JSOM 14.304
 Professor, Accounting
 umit.gurun@utdallas.edu|(972) 883-5917|JSOM 4.813
 
-Clinical Professor, Director, Emeritus, Real Estate, Finance and Managerial Economics
+Director, Emeritus, Real Estate, Clinical Professor, Finance and Managerial Economics
 guttery@utdallas.edu|(972) 883-5910|JSOM 14.306
 
 Associate Professor of Instruction, Assistant Area Coordinator, Organizations, Strategy and International Management, Organizations, Strategy and International Management
@@ -242,7 +242,7 @@ sarmann.kennedyd@utdallas.edu|(972) 883-4795|JSOM 3.621
 Clinical Assistant Professor, Finance and Managerial Economics
 rbk160130@utdallas.edu|(972) 883-5874|JSOM 14.218
 
-Associate Professor, Director, MS in Financial Technology and Analytics, Finance and Managerial Economics
+Director, MS in Financial Technology and Analytics, Associate Professor, Finance and Managerial Economics
 rkiesch@utdallas.edu|(972) 883-6273|JSOM 14.220
 
 Assistant Professor, Organizations, Strategy and International Management
@@ -311,7 +311,7 @@ jun.li3@utdallas.edu|(972) 883-4422|JSOM 14.510
 Assistant Professor, Finance and Managerial Economics
 yingzhi@utdallas.edu||JSOM 3.618
 
-Area Coordinator, OSIM, Professor, Organizations, Strategy and International Management
+Professor, Area Coordinator, OSIM, Organizations, Strategy and International Management
 zlin@utdallas.edu|(972) 883-2753|JSOM 4.405
 
 Assistant Professor of Instruction, Finance and Managerial Economics
@@ -527,7 +527,7 @@ sethi@utdallas.edu|(972) 883-6245|JSOM 3.401
 Clinical Associate Professor, Operations Management
 asethi@utdallas.edu|(972) 883-5816|JSOM 3.212
 
-Professor of Practice, Director, MS Systems Engineering and Management, Organizations, Strategy and International Management
+Director, MS Systems Engineering and Management, Professor of Practice, Organizations, Strategy and International Management
 rajiv.shah@utdallas.edu|(972) 883-5904|JSOM 4.204
 
 Assistant Professor, Marketing
@@ -575,7 +575,7 @@ kannan.srikanth@utdallas.edu||JSOM 2.703
 Professor, Operations Management
 kstecke@utdallas.edu|(972) 883-4781|JSOM 2.422
 
-Assistant Professor of Practice, Program Director, BS in Computer Information Systems and Technology, Information Systems
+Assistant Professor of Practice, Information Systems
 timothy.stephens@utdallas.edu|(972) 883-5063|JSOM 3.610
 
 Associate Professor of Instruction, Organizations, Strategy and International Management
@@ -596,7 +596,7 @@ linda.swindling@utdallas.edu|(972) 883-5971|JSOM 14.305
 Emeritus Associate Professor, Executive Education
 jimszot@utdallas.edu|(972) 883-5811|JSOM 1.515D
 
-Professor, Coordinator, PhD Program, Organizations, Strategy and International Management
+Coordinator, PhD Program, Professor, Organizations, Strategy and International Management
 riki.takeuchi@utdallas.edu|(972) 883-5112|JSOM 4.412
 
 Assistant Professor, Finance and Managerial Economics
@@ -848,7 +848,7 @@ gbolton@utdallas.edu
 JSOM 3.612
 
 Tiffany A. Bortz
-Professor of Practice, Director, Professional Program in Accounting, Associate Area Coordinator, Accounting, Accounting
+Associate Area Coordinator, Accounting, Director, Professional Program in Accounting, Professor of Practice, Accounting
 tabortz@utdallas.edu
 (972) 883-4774
 JSOM 4.435
@@ -1058,7 +1058,7 @@ umit.gurun@utdallas.edu
 JSOM 4.813
 
 Randall  Guttery
-Clinical Professor, Director, Emeritus, Real Estate, Finance and Managerial Economics
+Director, Emeritus, Real Estate, Clinical Professor, Finance and Managerial Economics
 guttery@utdallas.edu
 (972) 883-5910
 JSOM 14.306
@@ -1232,7 +1232,7 @@ rbk160130@utdallas.edu
 JSOM 14.218
 
 Robert L Kieschnick
-Associate Professor, Director, MS in Financial Technology and Analytics, Finance and Managerial Economics
+Director, MS in Financial Technology and Analytics, Associate Professor, Finance and Managerial Economics
 rkiesch@utdallas.edu
 (972) 883-6273
 JSOM 14.220
@@ -1370,7 +1370,7 @@ yingzhi@utdallas.edu
 JSOM 3.618
 
 Zhiang  Lin
-Area Coordinator, OSIM, Professor, Organizations, Strategy and International Management
+Professor, Area Coordinator, OSIM, Organizations, Strategy and International Management
 zlin@utdallas.edu
 (972) 883-2753
 JSOM 4.405
@@ -1802,7 +1802,7 @@ asethi@utdallas.edu
 JSOM 3.212
 
 Rajiv R Shah
-Professor of Practice, Director, MS Systems Engineering and Management, Organizations, Strategy and International Management
+Director, MS Systems Engineering and Management, Professor of Practice, Organizations, Strategy and International Management
 rajiv.shah@utdallas.edu
 (972) 883-5904
 JSOM 4.204
@@ -1898,7 +1898,7 @@ kstecke@utdallas.edu
 JSOM 2.422
 
 Timothy  Stephens
-Assistant Professor of Practice, Program Director, BS in Computer Information Systems and Technology, Information Systems
+Assistant Professor of Practice, Information Systems
 timothy.stephens@utdallas.edu
 (972) 883-5063
 JSOM 3.610
@@ -1940,7 +1940,7 @@ jimszot@utdallas.edu
 JSOM 1.515D
 
 Riki  Takeuchi
-Professor, Coordinator, PhD Program, Organizations, Strategy and International Management
+Coordinator, PhD Program, Professor, Organizations, Strategy and International Management
 riki.takeuchi@utdallas.edu
 (972) 883-5112
 JSOM 4.412
