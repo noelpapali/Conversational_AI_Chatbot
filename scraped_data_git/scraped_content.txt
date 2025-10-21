@@ -1696,9 +1696,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: JSOM Undergraduate Student Conference
-	- Text: JSOM Undergraduate Student Conference
-	  Href: https://calendar.utdallas.edu/event/jsom-undergraduate-student-conference?utm_campaign=widget&utm_medium=widget&utm_source=Comet+Calendar
+Context: 2nd Annual UT Dallas Project Management Virtual Conference
+	- Text: 2nd Annual UT Dallas Project Management Virtual Conference
+	  Href: https://calendar.utdallas.edu/event/ut-dallas-project-management-conference
 
 Context: AI Day @TheJindalSchool
 	- Text: AI Day @TheJindalSchool
