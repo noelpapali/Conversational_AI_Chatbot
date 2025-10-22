@@ -6815,12 +6815,13 @@ View more social accounts
 ©The University of Texas at Dallas
 Lists:
 - Home
-- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineSteps After AdmissionInternational Applicants
+- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
 - Criteria
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - TransferTransfer AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineTransferring CreditsPathway ProgramsComet ConnectionSteps After AdmissionInternational Applicants
@@ -6852,6 +6853,7 @@ Lists:
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - Transfer Admissions
@@ -6875,12 +6877,13 @@ Lists:
 - Contact Us
 - Counselor Locator
 - Home
-- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineSteps After AdmissionInternational Applicants
+- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
 - Criteria
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - TransferTransfer AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineTransferring CreditsPathway ProgramsComet ConnectionSteps After AdmissionInternational Applicants
@@ -6912,6 +6915,7 @@ Lists:
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - Transfer Admissions
@@ -6942,14 +6946,9 @@ Lists:
 - Transferring CreditsTransfer Plans
 - Transfer Plans
 - Comet Connection
-- Pathway ProgramsCollin College Academic AllianceSelect Transfer Enrollment Program
-- Collin College Academic Alliance
-- Select Transfer Enrollment Program
 - Steps After Admission
 - Applicant Types
 - Transfer Plans
-- Collin College Academic Alliance
-- Select Transfer Enrollment Program
 - Cumulative GPA and overall academic coursework and performance.
 - Preparation for and ability to be successful in the intended major.
 - Information provided in optional supplemental materials, such as:ResumeLetter(s) of recommendation (limited to a maximum of three)ApplyTexas application essay (Option C)
@@ -6986,6 +6985,7 @@ Links:
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - Deadlines and Fees - https://enroll.utdallas.edu/freshman/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/freshman/timeline/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Steps After Admission - https://enroll.utdallas.edu/freshman/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
 - Transfer - #
@@ -6995,7 +6995,7 @@ Links:
 - Deadlines and Fees - https://enroll.utdallas.edu/transfer/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
@@ -7019,6 +7019,7 @@ Links:
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - Deadlines and Fees - https://enroll.utdallas.edu/freshman/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/freshman/timeline/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Steps After Admission - https://enroll.utdallas.edu/freshman/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
 - Transfer - #
@@ -7028,7 +7029,7 @@ Links:
 - Deadlines and Fees - https://enroll.utdallas.edu/transfer/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
@@ -7060,9 +7061,6 @@ Links:
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
 - Transfer Plans - https://enroll.utdallas.edu/transfer/transferring-credits/transfer-plans/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
-- Collin College Academic Alliance - https://enroll.utdallas.edu/transfer/pathway-programs/collin-alliance/
-- Select Transfer Enrollment Program - https://enroll.utdallas.edu/transfer/pathway-programs/step/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - Applicant Types - https://enroll.utdallas.edu/apply/
 - Additional Requirements - https://enroll.utdallas.edu/apply/international-applicants/
@@ -7097,6 +7095,7 @@ Headings:
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Admission Counseling
 - Visit UT Dallas
 - Let’s be Social
@@ -7113,6 +7112,7 @@ Are you ready to apply? We’ve laid out a handy guide to outline all the steps 
 Already applied? Check yourapplication status.
 You are encouraged to submit your application as early as possible. Be sure to review important deadlines for admission and financial aid. Don’t miss out!
 I’ve submitted my application; now what? Learn what happens from submitting your completed application and the review process to getting your admission decision.
+Explore our partnerships for high school and community college students.
 Have you been admitted?
 Congratulations! Review the steps you’ll need to complete prior to enrolling in classes.
 Freshman Experience
@@ -7125,12 +7125,13 @@ View more social accounts
 ©The University of Texas at Dallas
 Lists:
 - Home
-- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineSteps After AdmissionInternational Applicants
+- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
 - Criteria
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - TransferTransfer AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineTransferring CreditsPathway ProgramsComet ConnectionSteps After AdmissionInternational Applicants
@@ -7162,6 +7163,7 @@ Lists:
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - Transfer Admissions
@@ -7185,12 +7187,13 @@ Lists:
 - Contact Us
 - Counselor Locator
 - Home
-- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineSteps After AdmissionInternational Applicants
+- FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
 - Criteria
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - TransferTransfer AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelineTransferring CreditsPathway ProgramsComet ConnectionSteps After AdmissionInternational Applicants
@@ -7222,6 +7225,7 @@ Lists:
 - Application Process
 - Deadlines and Fees
 - Timeline
+- Pathway Programs
 - Steps After Admission
 - International Applicants
 - Transfer Admissions
@@ -7271,6 +7275,7 @@ Links:
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - Deadlines and Fees - https://enroll.utdallas.edu/freshman/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/freshman/timeline/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Steps After Admission - https://enroll.utdallas.edu/freshman/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
 - Transfer - #
@@ -7280,7 +7285,7 @@ Links:
 - Deadlines and Fees - https://enroll.utdallas.edu/transfer/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
@@ -7304,6 +7309,7 @@ Links:
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - Deadlines and Fees - https://enroll.utdallas.edu/freshman/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/freshman/timeline/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Steps After Admission - https://enroll.utdallas.edu/freshman/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
 - Transfer - #
@@ -7313,7 +7319,7 @@ Links:
 - Deadlines and Fees - https://enroll.utdallas.edu/transfer/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/transfer/timeline/
 - Transferring Credits - https://enroll.utdallas.edu/transfer/transferring-credits/
-- Pathway Programs - https://enroll.utdallas.edu/transfer/pathway-programs/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - International Applicants - https://enroll.utdallas.edu/apply/international-applicants/
@@ -7347,6 +7353,7 @@ Links:
 - application status - https://www.utdallas.edu/status/
 - Deadlines and Fees - https://enroll.utdallas.edu/freshman/deadlines-and-fees/
 - Timeline - https://enroll.utdallas.edu/freshman/timeline/
+- Pathway Programs - https://enroll.utdallas.edu/pathway-programs/
 - Steps After Admission - https://enroll.utdallas.edu/freshman/steps-after-admission/
 -  - https://fye.utdallas.edu
 - Freshman Experience - https://fye.utdallas.edu

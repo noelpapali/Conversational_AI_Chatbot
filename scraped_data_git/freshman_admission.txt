@@ -260,6 +260,37 @@ Heading: Questions?
 
 ==================================================
 
+URL: https://enroll.utdallas.edu/pathway-programs/
+
+Heading: 
+
+--------------------------------------------------
+
+Heading: Pathway Programs
+
+--------------------------------------------------
+
+Heading: Dallas County Promise
+  Paragraph: UT Dallas is partnered with the Dallas County Promise program to expand access to higher education. This initiative supports eligible students and their families by providing funding to continue their education and prepare for future career opportunities.
+
+--------------------------------------------------
+
+Heading: Collin College Alliance
+  Paragraph: Collin College and UT Dallas have partnered to establish the Collin College Academic Alliance. Through co-enrollment, students gain access to courses, resources and academic support from both institutions, making it easier to stay on track toward graduation.
+
+--------------------------------------------------
+
+Heading: STEP
+  Paragraph: Members of the Selective Transfer Enrollment Program can begin their college journey by enrolling in courses at a community college while working with a UT Dallas admission counselor. This offers personalized guidance to achieve long-term academic success.
+
+--------------------------------------------------
+
+Heading: #FutureComet  #Transfer2UTD
+
+--------------------------------------------------
+
+==================================================
+
 URL: https://enroll.utdallas.edu/contact/counselor-locator/
 
 Heading: 
@@ -326,6 +357,10 @@ Heading: Welcome to the Comet Family!
 Heading: #FutureComet  #Transfer2UTD
 
 --------------------------------------------------
+
+==================================================
+
+URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 
