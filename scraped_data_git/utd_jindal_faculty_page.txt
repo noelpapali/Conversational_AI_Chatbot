@@ -465,7 +465,7 @@ Professor, Information Systems
 sraghu@utdallas.edu|(972) 883-4377|JSOM 3.425
 
 Assistant Professor, Information Systems
-ryan.raimi@utdallas.edu||JSOM 3.224
+ryan.raimi@utdallas.edu|(972) 883-4928|JSOM 3.224
 
 Clinical Professor, Operations Management
 divakar@utdallas.edu|(972) 883-4843|JSOM 2.615
@@ -1672,7 +1672,7 @@ JSOM 3.425
 Ryan  Raimi
 Assistant Professor, Information Systems
 ryan.raimi@utdallas.edu
-
+(972) 883-4928
 JSOM 3.224
 
 Divakar  Rajamani
