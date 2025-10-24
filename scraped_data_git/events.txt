@@ -1,29 +1,5 @@
 Month: Oct, 2025
 
-Date: Thursday, October 23, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552326633933&instance=49552326633934
---------------------------------------------------
-Date: Thursday, October 23, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - 5 AI tricks for landing a Job
-Location: 
-Event URL: 51012401963357&instance=51012422274637
---------------------------------------------------
-Date: Thursday, October 23, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 50790002045095&instance=50790020281969
---------------------------------------------------
-Date: Thursday, October 23, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC Beyond the Salary: Evaluating Offers & Finding the Right Career Fit
-Location: 
-Event URL: 50790094800430&instance=50790135337842
---------------------------------------------------
 Date: Friday, October 24, 2025
 Time: 07:00 AM - 05:00 PM
 Title: 2nd Annual UT Dallas Project Management Virtual Conference
@@ -305,4 +281,38 @@ Time: 10:15 AM - 01:30 PM
 Title: EMBA Open House
 Location: 
 Event URL: 50650111472190&instance=50650127190188
+--------------------------------------------------
+Month: Feb, 2026
+
+Date: Wednesday, February 11, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557628889
+--------------------------------------------------
+Date: Thursday, February 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650376599666&instance=50650381391183
+--------------------------------------------------
+Date: Saturday, February 28, 2026
+Time: 12:00 AM - 06:00 PM
+Title: 2026 Early-Career Sustainable Operations Workshop
+Location: 
+Event URL: 50640410094882&instance=50640410095908
+--------------------------------------------------
+Month: Mar, 2026
+
+Date: Sunday, March 01, 2026
+Time: 12:00 AM - 06:00 PM
+Title: 2026 Early-Career Sustainable Operations Workshop
+Location: 
+Event URL: 50640410094882&instance=50640410096933
+--------------------------------------------------
+Date: Wednesday, March 04, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144960225
 --------------------------------------------------

@@ -645,7 +645,7 @@ Associate Professor, Operations Management
 shouqiang.wang@utdallas.edu|(972) 883-5093|JSOM 3.402
 
 Assistant Professor, Operations Management
-chonghuan.wang@utdallas.edu|(617) 866-2565|JSOM 3.605
+chonghuan.wang@utdallas.edu|(972) 883-6367|JSOM 3.605
 
 Assistant Professor, Finance and Managerial Economics
 pingle.wang@utdallas.edu|(972) 883-5176|JSOM 14.312
@@ -2032,7 +2032,7 @@ JSOM 3.402
 Chonghuan  Wang
 Assistant Professor, Operations Management
 chonghuan.wang@utdallas.edu
-(617) 866-2565
+(972) 883-6367
 JSOM 3.605
 
 Pingle  Wang
