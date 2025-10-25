@@ -1,11 +1,5 @@
 Month: Oct, 2025
 
-Date: Friday, October 24, 2025
-Time: 07:00 AM - 05:00 PM
-Title: 2nd Annual UT Dallas Project Management Virtual Conference
-Location: 
-Event URL: 50258651623263&instance=50258661729405
---------------------------------------------------
 Date: Monday, October 27, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
@@ -65,6 +59,12 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
 Event URL: 50790046681019&instance=50790057055603
+--------------------------------------------------
+Date: Friday, October 31, 2025
+Time: 12:00 AM - 06:00 PM
+Title: JSOM Day of Service
+Location: 
+Event URL: 50214894326227&instance=50214894327252
 --------------------------------------------------
 Month: Nov, 2025
 

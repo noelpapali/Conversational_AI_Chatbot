@@ -1696,9 +1696,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: 2nd Annual UT Dallas Project Management Virtual Conference
-	- Text: 2nd Annual UT Dallas Project Management Virtual Conference
-	  Href: https://calendar.utdallas.edu/event/ut-dallas-project-management-conference
+Context: Voyagers Fall 2025
+	- Text: Voyagers Fall 2025
+	  Href: https://calendar.utdallas.edu/event/voyagers-fall-2025
 
 Context: AI Day @TheJindalSchool
 	- Text: AI Day @TheJindalSchool
