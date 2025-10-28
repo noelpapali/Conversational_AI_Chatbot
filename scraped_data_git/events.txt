@@ -1,70 +1,58 @@
 Month: Oct, 2025
 
-Date: Monday, October 27, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Tuesday, October 28, 2025
+Time: 09:00 AM - 05:00 PM
+Title: Artificial Intelligence (AI) Day @TheJindalSchool
 Location: 
-Event URL: 51010577566561&instance=51010589989417
---------------------------------------------------
-Date: Monday, October 27, 2025
-Time: 06:00 PM - 09:00 PM
-Title: Halloween Social
-Location: 
-Event URL: 51039169642888&instance=51039169643913
+Event URL: 50712051087388&instance=50712051088413
 --------------------------------------------------
 Date: Tuesday, October 28, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 51010577888384&instance=51010601734306
+Event URL: 50790002268108&instance=50790021876743
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557618645
+Event URL: 50322144938712&instance=50322144946908
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
+Time: 10:30 AM - 12:00 PM
+Title: MSITM Interview Prep Workshop
 Location: 
-Event URL: 50508064086950&instance=50508064086951
+Event URL: 51028500870576&instance=51028500870577
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
 Time: 12:00 PM - 01:00 PM
-Title: Doctor of Business Administration (DBA) Online Information Session
+Title: JSOM - Soft-Skills: Communication in the Workplace - JSOM Grad
 Location: 
-Event URL: 50771474995707&instance=50771490772081
+Event URL: 51019669406728&instance=51019673360569
 --------------------------------------------------
 Date: Wednesday, October 29, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51010578139022&instance=51010603159713
---------------------------------------------------
-Date: Wednesday, October 29, 2025
-Time: 05:00 PM - 06:30 PM
-Title: Accounting Workshop Featuring Hockaday
-Location: 
-Event URL: 51004111027982&instance=51004111029007
---------------------------------------------------
-Date: Wednesday, October 29, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
-Location: 
-Event URL: 49967857852770&instance=49967864061079
---------------------------------------------------
-Date: Thursday, October 30, 2025
 Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 50790046681019&instance=50790057055603
+Event URL: 50790045135731&instance=50790068630257
 --------------------------------------------------
-Date: Friday, October 31, 2025
-Time: 12:00 AM - 06:00 PM
-Title: JSOM Day of Service
+Date: Wednesday, October 29, 2025
+Time: 05:00 PM - 06:30 PM
+Title: JSOM PhD In-Person Information Session
 Location: 
-Event URL: 50214894326227&instance=50214894327252
+Event URL: 51022085317764&instance=51022085318789
+--------------------------------------------------
+Date: Thursday, October 30, 2025
+Time: 12:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51010578417475&instance=51010604520468
+--------------------------------------------------
+Date: Thursday, October 30, 2025
+Time: 03:00 PM - 05:00 PM
+Title: Pumpkin Party with Dean's Council
+Location: 
+Event URL: 51100978796911&instance=51100978797936
 --------------------------------------------------
 Month: Nov, 2025
 
@@ -315,4 +303,16 @@ Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
 Event URL: 50322144938712&instance=50322144960225
+--------------------------------------------------
+Date: Wednesday, March 25, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557632987
+--------------------------------------------------
+Date: Thursday, March 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650387211292&instance=50650393088658
 --------------------------------------------------

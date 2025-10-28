@@ -1696,10 +1696,6 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: Voyagers Fall 2025
-	- Text: Voyagers Fall 2025
-	  Href: https://calendar.utdallas.edu/event/voyagers-fall-2025
-
 Context: AI Day @TheJindalSchool
 	- Text: AI Day @TheJindalSchool
 	  Href: https://calendar.utdallas.edu/event/artificial-intelligence-ai-day-thejindalschool
@@ -1707,6 +1703,10 @@ Context: AI Day @TheJindalSchool
 Context: Cybersecurity Day
 	- Text: Cybersecurity Day
 	  Href: https://calendar.utdallas.edu/event/cybersecurity-day-2492?utm_campaign=widget&utm_medium=widget&utm_source=Comet+Calendar
+
+Context: Voyagers Fall 2025
+	- Text: Voyagers Fall 2025
+	  Href: https://calendar.utdallas.edu/event/voyagers-fall-2025
 
 Context: News
 	- Text: News
