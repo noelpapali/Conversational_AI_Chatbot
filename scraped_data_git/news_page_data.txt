@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Second Annual Cybersecurity Day Highlights AI, Risk and Career Insights
+Title Link: https://jindal.utdallas.edu/news/second-annual-cybersecurity-day-highlights-ai-risk-and-career-insights/
+Excerpt: The Naveen Jindal School of Management will host its Second Annual Cybersecurity Day Nov. 4 in the Davidson Auditorium. The event runs from 10 a.m. to 4 p.m. and is designed to give students from The University of Texas at Dallas a front-row look at the fast-changing world of cybersecurity. Students will hear from two […]
+Meta Details: October 28th, 2025 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/10/cybersecurity_day_2025_graphic_630x630.jpg
+
+==================================================
+
 Title: Student Military Veterans Event Nov. 12 Will Impart Business Soft Skills
 Title Link: https://jindal.utdallas.edu/news/student-military-veterans-event-nov-12-will-impart-business-soft-skills/
 Excerpt: To celebrate Veteran’s Day (Nov. 11), the Career Management Center at The University of Texas at Dallas‘ Naveen Jindal School of Management will be supporting the UT Dallas chapter of the Student Veterans of America by holding an exclusive event on Nov. 12. All U.S military veterans associated with UT Dallas — students, alumni, faculty […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/10/jindal_school_cmc_veterans_
 Title: Jindal School Alumnus Grows Pain-Recovery Business
 Title Link: https://jindal.utdallas.edu/news/jindal-school-alumnus-grows-pain-recovery-business/
 Excerpt: After years of battling chronic pain, Leon Jacobson, MBA’22, decided to turn his struggle into a startup. The Naveen Jindal School of Management alumnus recently raised $540,000 to fund Dallas-based Nerveli and change how people recover from pain. Trey Bowles (left) and Leon Jacobson Although Jacobson calls the latest fundraising round “a nice milestone,” he […]
-Meta Details: October 21st, 2025 |Alumni,Featured
+Meta Details: October 21st, 2025 |Alumni
 Image URL: https://jindal.utdallas.edu/files/2025/10/trey_bowles_and_leon_jacobson_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/how-virtual-reality-reveals-the-hid
 Excerpt: A new study conducted by a team of researchers that includes Naveen Jindal School of Management faculty members shows that retail execution failures can be analyzed and improved using virtual reality. The study — “Execution Failures in Retail Supply Chains – A Virtual Reality Experiment” — was published in the April 2025 issue of Production […]
 Meta Details: July 30th, 2025 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/07/vr_retail_study_utd_jsom_blue_630x630.png
-
-==================================================
-
-Title: UTD Entrepreneurial Ecosystem Helps Alumna Launch Ocean-Inspired Startup
-Title Link: https://jindal.utdallas.edu/news/utd-entrepreneurial-ecosystem-helps-alumna-launch-ocean-inspired-startup/
-Excerpt: An alumna of The University of Texas at Dallas who earned a double degree MBA and Master’s in Innovation and Entrepreneurship from the Naveen Jindal School of Management has started a company which she said has been directly powered by the University’s entrepreneurial ecosystem. Tamara Marshall with the R1 feeder Tamara Marshall, MBA’24, MS’24, has […]
-Meta Details: July 23rd, 2025 |Alumni
-Image URL: https://jindal.utdallas.edu/files/2025/07/tamara_marshall_630x630.jpg
 
 ==================================================
 
