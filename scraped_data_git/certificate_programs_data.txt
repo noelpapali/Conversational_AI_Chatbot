@@ -108,7 +108,7 @@ List:
 
 Organizational Behavior, Coaching and Consulting:
 List:
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/)
   - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
   - Strategic HR (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
   - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
@@ -226,7 +226,7 @@ List:
 
 Organizational Behavior, Coaching and Consulting:
 List:
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/)
   - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
   - Strategic HR (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
   - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)
@@ -301,7 +301,7 @@ List:
 
 Organizational Behavior, Coaching and Consulting:
 List:
-  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/professional-certificate/)
+  - Executive and Professional Coaching (Link: https://obcc.utdallas.edu/coaching/)
   - Organizational Consulting (Link: https://obcc.utdallas.edu/organizational-consulting-certificate/professional-certificate/)
   - Strategic HR (Link: https://obcc.utdallas.edu/strategic-human-resources-certificate/professional-certificate/)
   - Transformational Leadership (Link: https://obcc.utdallas.edu/transformational-leadership/)

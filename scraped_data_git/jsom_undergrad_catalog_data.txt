@@ -325,7 +325,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -975,7 +975,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -1803,7 +1803,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -2497,7 +2497,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -3354,7 +3354,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -4097,7 +4097,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -4724,7 +4724,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -5309,7 +5309,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -5966,7 +5966,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
@@ -6627,7 +6627,7 @@ Links:
 - Academic Advising - /2024/undergraduate/policies/academic#advising
 - Academic Grievances - /2024/undergraduate/policies/academic#grievances
 - Academic Progress - /2024/undergraduate/policies/academic#progress
-- Academic Record and Offical Transcript - /2024/undergraduate/policies/academic#transcripts
+- Academic Record and Offical Transcript - /2024/undergraduate/policies/transcripts
 - Credit by Examination - /2024/undergraduate/policies/academic#credit-by-exam
 - Dean's List - /2024/undergraduate/policies/academic#deans-list
 - Final Examinations - /2024/undergraduate/policies/academic#final-exams
