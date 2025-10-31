@@ -8,7 +8,7 @@ prajakti.akarte@utdallas.edu|(972) 883-3566|JSOM 3.708
 Professor of Instruction, Operations Management
 salborz@utdallas.edu|(972) 883-6455|JSOM 3.707
 
-Director, BS Human Resource Management, Associate Professor of Practice, Organizations, Strategy and International Management
+Associate Professor of Practice, Director, BS Human Resource Management, Organizations, Strategy and International Management
 dale.albrecht@utdallas.edu|(972) 883-5011|JSOM 4.210
 
 Professor, Accounting
@@ -113,7 +113,7 @@ anita.dale@utdallas.edu|(972) 883-4372|JSOM 13.203
 Professor, Organizations, Strategy and International Management
 gdess@utdallas.edu|(972) 883-4439|JSOM 4.401
 
-Clinical Professor, Director, Center for Professional Sales, Marketing
+Director, Center for Professional Sales, Clinical Professor, Marketing
 howard.dover@utdallas.edu|(972) 883-4420|JSOM 13.511
 
 Associate Professor of Practice, Marketing
@@ -158,10 +158,10 @@ umit.gurun@utdallas.edu|(972) 883-5917|JSOM 4.813
 Clinical Professor, Director, Emeritus, Real Estate, Finance and Managerial Economics
 guttery@utdallas.edu|(972) 883-5910|JSOM 14.306
 
-Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
+Associate Professor of Instruction, Assistant Area Coordinator, Organizations, Strategy and International Management, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu|(972) 883-5898|JSOM 4.202
 
-Director, BS Marketing, Associate Professor of Instruction, Marketing
+Associate Professor of Instruction, Director, BS Marketing, Marketing
 haworth@utdallas.edu|(972) 883-5940|JSOM 13.328
 
 Director, Risk Management and Insurance, Finance and Managerial Economics, Director, BS Cybersecurity and Risk Management, Assistant Professor of Practice, Finance and Managerial Economics
@@ -320,7 +320,7 @@ kathryn.lookadoo@utdallas.edu|(972) 883-5998|JSOM 4.425
 Associate Professor, Accounting
 maria.loumioti@utdallas.edu|(972) 883-5026|JSOM 3.711
 
-Associate Professor of Practice, Director, Real Estate, Finance and Managerial Economics
+Director, Real Estate, Associate Professor of Practice, Finance and Managerial Economics
 julie.lynch@utdallas.edu|(972) 883-4721|JSOM 14.302
 
 Clinical Assistant Professor, Finance and Managerial Economics
@@ -398,7 +398,7 @@ hien.nguyen7@utdallas.edu|(972) 883-2788|JSOM 3.617
 Associate Professor of Practice, Organizations, Strategy and International Management
 paul.nichols@utdallas.edu|(972) 883-5057|JSOM 4.212
 
-Director, Undergraduate Finance Program, Associate Professor of Instruction, Finance and Managerial Economics
+Associate Professor of Instruction, Director, Undergraduate Finance Program, Finance and Managerial Economics
 hiro.nishi@utdallas.edu|(972) 883-5893|JSOM 14.328
 
 Clinical Professor, Organizations, Strategy and International Management
@@ -416,7 +416,7 @@ naim.ozel@utdallas.edu|(972) 883-5051|JSOM 4.403
 Professor, Operations Management
 oozer@utdallas.edu|(972) 883-2316|JSOM 3.412
 
-Program Director,  MS Business Analytics & AI - Cohort and Online, Professor of Practice, Information Systems
+Professor of Practice, Program Director,  MS Business Analytics & AI - Cohort and Online, Information Systems
 antonio.paes@utdallas.edu||JSOM 3.810
 
 Associate Professor of Instruction, Marketing
@@ -482,7 +482,7 @@ rasoul.ramezani@utdallas.edu|(972) 883-5175|JSOM 3.427
 Professor, Marketing
 rrao@utdallas.edu|(972) 883-2580|JSOM 13.502
 
-Associate Professor of Practice, Director, Professional Program in Finance, Finance and Managerial Economics
+Director, Professional Program in Finance, Associate Professor of Practice, Finance and Managerial Economics
 kannoo.ravindran@utdallas.edu|(972) 883-6293|JSOM 3.423
 
 Professor, Finance and Managerial Economics
@@ -542,7 +542,7 @@ prakash.shrivastava@utdallas.edu|(972) 883-5901|JSOM 3.225
 Assistant Professor, Accounting
 federico.siano@utdallas.edu|(972) 883-4994|JSOM 4.216
 
-Associate Professor of Instruction, Director, Energy Management, Finance and Managerial Economics
+Director, Energy Management, Associate Professor of Instruction, Finance and Managerial Economics
 dansibley@utdallas.edu|(972) 883-5021|JSOM 14.216
 
 Associate Professor, Finance and Managerial Economics
@@ -557,7 +557,7 @@ harpreet@utdallas.edu|(972) 883-4770|JSOM 3.430
 Assistant Professor, Accounting
 kirti.sinha@utdallas.edu|(972) 883-5869|JSOM 4.413
 
-Director, BS Global Business Program, Associate Professor of Instruction, Organizations, Strategy and International Management
+Associate Professor of Instruction, Organizations, Strategy and International Management
 agnieszka.skuza@utdallas.edu|(972) 883-5099|JSOM 13.403
 
 Associate Professor of Practice, Accounting
@@ -707,7 +707,7 @@ wensi.zhang@utdallas.edu|(972) 883-6942|JSOM 13.217
 Professor, Accounting
 jieying@utdallas.edu|(972) 883-5925|JSOM 4.801
 
-Professor, Area Coordinator, Finance and Managerial Economics, Finance and Managerial Economics
+Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
 harold.zhang@utdallas.edu|(972) 883-4777|JSOM 14.512
 
 Associate Professor, Information Systems
@@ -731,7 +731,7 @@ junya.zhou@utdallas.edu|(972) 883-5827|JSOM 14.308
 Professor of Practice, Accounting
 kathy.zolton@utdallas.edu|(972) 883-5927|JSOM 3.705
 
-Director, BS Global Business Program, Associate Professor of Instruction, Director, MS IMS Program, Organizations, Strategy and International Management
+Associate Professor of Instruction, Director, BS Global Business Program, Director, MS IMS Program, Organizations, Strategy and International Management
 hxz120930@utdallas.edu|(972) 883-5037|JSOM 3.613
 
 
@@ -758,7 +758,7 @@ salborz@utdallas.edu
 JSOM 3.707
 
 Dale  Albrecht
-Director, BS Human Resource Management, Associate Professor of Practice, Organizations, Strategy and International Management
+Associate Professor of Practice, Director, BS Human Resource Management, Organizations, Strategy and International Management
 dale.albrecht@utdallas.edu
 (972) 883-5011
 JSOM 4.210
@@ -968,7 +968,7 @@ gdess@utdallas.edu
 JSOM 4.401
 
 Howard  Dover
-Clinical Professor, Director, Center for Professional Sales, Marketing
+Director, Center for Professional Sales, Clinical Professor, Marketing
 howard.dover@utdallas.edu
 (972) 883-4420
 JSOM 13.511
@@ -1058,13 +1058,13 @@ guttery@utdallas.edu
 JSOM 14.306
 
 Maria  Hasenhuttl
-Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
+Associate Professor of Instruction, Assistant Area Coordinator, Organizations, Strategy and International Management, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu
 (972) 883-5898
 JSOM 4.202
 
 Julie  Haworth
-Director, BS Marketing, Associate Professor of Instruction, Marketing
+Associate Professor of Instruction, Director, BS Marketing, Marketing
 haworth@utdallas.edu
 (972) 883-5940
 JSOM 13.328
@@ -1382,7 +1382,7 @@ maria.loumioti@utdallas.edu
 JSOM 3.711
 
 Julie  Lynch
-Associate Professor of Practice, Director, Real Estate, Finance and Managerial Economics
+Director, Real Estate, Associate Professor of Practice, Finance and Managerial Economics
 julie.lynch@utdallas.edu
 (972) 883-4721
 JSOM 14.302
@@ -1538,7 +1538,7 @@ paul.nichols@utdallas.edu
 JSOM 4.212
 
 Hiro  Nishi
-Director, Undergraduate Finance Program, Associate Professor of Instruction, Finance and Managerial Economics
+Associate Professor of Instruction, Director, Undergraduate Finance Program, Finance and Managerial Economics
 hiro.nishi@utdallas.edu
 (972) 883-5893
 JSOM 14.328
@@ -1574,7 +1574,7 @@ oozer@utdallas.edu
 JSOM 3.412
 
 Antonio Padua Paes
-Program Director,  MS Business Analytics & AI - Cohort and Online, Professor of Practice, Information Systems
+Professor of Practice, Program Director,  MS Business Analytics & AI - Cohort and Online, Information Systems
 antonio.paes@utdallas.edu
 
 JSOM 3.810
@@ -1706,7 +1706,7 @@ rrao@utdallas.edu
 JSOM 13.502
 
 Kannoo  Ravindran
-Associate Professor of Practice, Director, Professional Program in Finance, Finance and Managerial Economics
+Director, Professional Program in Finance, Associate Professor of Practice, Finance and Managerial Economics
 kannoo.ravindran@utdallas.edu
 (972) 883-6293
 JSOM 3.423
@@ -1826,7 +1826,7 @@ federico.siano@utdallas.edu
 JSOM 4.216
 
 Daniel  Sibley
-Associate Professor of Instruction, Director, Energy Management, Finance and Managerial Economics
+Director, Energy Management, Associate Professor of Instruction, Finance and Managerial Economics
 dansibley@utdallas.edu
 (972) 883-5021
 JSOM 14.216
@@ -1856,7 +1856,7 @@ kirti.sinha@utdallas.edu
 JSOM 4.413
 
 Agnieszka  Skuza
-Director, BS Global Business Program, Associate Professor of Instruction, Organizations, Strategy and International Management
+Associate Professor of Instruction, Organizations, Strategy and International Management
 agnieszka.skuza@utdallas.edu
 (972) 883-5099
 JSOM 13.403
@@ -2156,7 +2156,7 @@ jieying@utdallas.edu
 JSOM 4.801
 
 Harold Huibing Zhang
-Professor, Area Coordinator, Finance and Managerial Economics, Finance and Managerial Economics
+Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
 harold.zhang@utdallas.edu
 (972) 883-4777
 JSOM 14.512
@@ -2204,7 +2204,7 @@ kathy.zolton@utdallas.edu
 JSOM 3.705
 
 Hubert  Zydorek
-Director, BS Global Business Program, Associate Professor of Instruction, Director, MS IMS Program, Organizations, Strategy and International Management
+Associate Professor of Instruction, Director, BS Global Business Program, Director, MS IMS Program, Organizations, Strategy and International Management
 hxz120930@utdallas.edu
 (972) 883-5037
 JSOM 3.613
