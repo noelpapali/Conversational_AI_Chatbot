@@ -1,148 +1,130 @@
 Month: Nov, 2025
 
-Date: Wednesday, November 05, 2025
-Time: 08:30 AM - 09:30 AM
-Title: Coffee Chat with MBA Prospective Students at Rosalind Coffee
+Date: Thursday, November 06, 2025
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Soft-Skills: Collaboration & Teamwork - JSOM Grad
 Location: 
-Event URL: 50595221777117&instance=50595221778142
---------------------------------------------------
-Date: Wednesday, November 05, 2025
-Time: 11:00 AM - 01:00 PM
-Title: Accounting Career Exploration with BDO
-Location: 
-Event URL: 51004021897369&instance=51004021898394
---------------------------------------------------
-Date: Wednesday, November 05, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 51153805288540&instance=51153808819162
---------------------------------------------------
-Date: Wednesday, November 05, 2025
-Time: 06:30 PM - 07:30 PM
-Title: MBA Meet & Greet in the NYC Financial District
-Location: 
-Event URL: 50718692763696&instance=50718692764721
+Event URL: 51019695282060&instance=51019701857027
 --------------------------------------------------
 Date: Thursday, November 06, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51010690226156&instance=51010698367123
+Event URL: 51010732855427&instance=51010753961035
 --------------------------------------------------
 Date: Thursday, November 06, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
+Time: 02:00 PM - 04:00 PM
+Title: Navigate & Register
 Location: 
-Event URL: 51153815963030&instance=51153829746880
+Event URL: 50975002743853&instance=51038642695587
 --------------------------------------------------
 Date: Friday, November 07, 2025
+Time: 10:00 AM - 11:30 AM
+Title: OSIM Research Seminar Series - Dr. Fadel Matta
+Location: 
+Event URL: 50596444281345&instance=50596444281346
+--------------------------------------------------
+Date: Saturday, November 08, 2025
 Time: 12:00 AM - 06:00 PM
 Title: Voyagers Fall 2025
 Location: 
-Event URL: 51037354259579&instance=51037354260604
---------------------------------------------------
-Date: Friday, November 07, 2025
-Time: 01:00 PM - 02:00 PM
-Title: JSOM CMC Ask Me Anything: Candid Career Q&A with a Former Campus Recruiter
-Location: 
-Event URL: 50790177510546&instance=50790181982228
+Event URL: 51037354259579&instance=51037354262653
 --------------------------------------------------
 Date: Saturday, November 08, 2025
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
-Location: 
-Event URL: 50649903263245&instance=50702035999068
---------------------------------------------------
-Date: Saturday, November 08, 2025
-Time: 01:00 PM - 02:00 PM
+Time: 11:00 AM - 12:00 PM
 Title: MSBA&AI Virtual Analytics Symposium
 Location: 
-Event URL: 51151611125383&instance=51151611126408
+Event URL: 51151597867712&instance=51151597868737
 --------------------------------------------------
 Date: Sunday, November 09, 2025
-Time: 01:00 PM - 02:00 PM
+Time: 11:00 AM - 12:00 PM
 Title: MSBA&AI Virtual Analytics Symposium
 Location: 
-Event URL: 51151646527846&instance=51151646528871
+Event URL: 51151631712008&instance=51151631713033
 --------------------------------------------------
 Date: Monday, November 10, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51010756844383&instance=51010760618206
---------------------------------------------------
-Date: Tuesday, November 11, 2025
 Time: 12:00 AM - 06:00 PM
 Title: VIRTUAL PHOTO EXHIBITION (Whole week, from Nov 10-14)
 Location: 
-Event URL: 51161140620744&instance=51161155843113
+Event URL: 51161140620744&instance=51161155841064
 --------------------------------------------------
-Date: Tuesday, November 11, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Soft-Skills: Dealing with Ambiguity at Work
-Location: 
-Event URL: 51021026345020&instance=51021029852776
---------------------------------------------------
-Date: Tuesday, November 11, 2025
+Date: Monday, November 10, 2025
 Time: 12:00 PM - 02:00 PM
 Title: Picture Yourself Around the World!
 Location: 
-Event URL: 51161095353114&instance=51161095358236
+Event URL: 51161095353114&instance=51161095354139
+--------------------------------------------------
+Date: Tuesday, November 11, 2025
+Time: 09:30 AM - 10:30 AM
+Title: MS Marketing Information Session with Q & A Period
+Location: 
+Event URL: 50596395486830&instance=50596399836605
+--------------------------------------------------
+Date: Tuesday, November 11, 2025
+Time: 12:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51010763153523&instance=51010766034737
+--------------------------------------------------
+Date: Tuesday, November 11, 2025
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours- Undergrad
+Location: 
+Event URL: 51153835268924&instance=51153838833419
 --------------------------------------------------
 Date: Tuesday, November 11, 2025
 Time: 04:30 PM - 05:30 PM
 Title: MS ITM Coffee Chat
 Location: 
-Event URL: 50693822270624&instance=50693829015927
+Event URL: 50702850619992&instance=50702850623066
 --------------------------------------------------
 Date: Wednesday, November 12, 2025
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
+Location: 
+Event URL: 50710463953324&instance=50710467689196
+--------------------------------------------------
+Date: Wednesday, November 12, 2025
+Time: 02:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51010769012037&instance=51010771465288
+--------------------------------------------------
+Date: Thursday, November 13, 2025
 Time: 12:00 AM - 06:00 PM
 Title: VIRTUAL PHOTO EXHIBITION (Whole week, from Nov 10-14)
 Location: 
-Event URL: 51161140620744&instance=51161140621769
+Event URL: 51161140620744&instance=51161155844138
 --------------------------------------------------
-Date: Wednesday, November 12, 2025
+Date: Thursday, November 13, 2025
+Time: 12:00 PM - 01:00 PM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 50508075780833&instance=50508075781858
+--------------------------------------------------
+Date: Thursday, November 13, 2025
 Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 51153853348701&instance=51153857285177
+Event URL: 51153861911457&instance=51153864476993
 --------------------------------------------------
-Date: Wednesday, November 12, 2025
-Time: 04:00 PM - 05:00 PM
-Title: Faculty-Led Trip Info Session
+Date: Monday, November 17, 2025
+Time: 08:30 AM - 09:30 AM
+Title: MSBA&AI Flex Information Session for Prospective Students
 Location: 
-Event URL: 51161126878163&instance=51161135253200
+Event URL: 49552341340257&instance=49552341341282
 --------------------------------------------------
-Date: Thursday, November 13, 2025
+Date: Monday, November 17, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51010775505743&instance=51010777897392
+Event URL: 51010807010401&instance=51010810476361
 --------------------------------------------------
-Date: Thursday, November 13, 2025
+Date: Monday, November 17, 2025
 Time: 01:00 PM - 02:00 PM
-Title: Global Trivia & Pizza Party!
+Title: JSOM - HMGT: Business of Healthcare Seminar with IKS Health
 Location: 
-Event URL: 51161107210270&instance=51161114464675
---------------------------------------------------
-Date: Friday, November 14, 2025
-Time: 12:00 AM - 06:00 PM
-Title: VIRTUAL PHOTO EXHIBITION (Whole week, from Nov 10-14)
-Location: 
-Event URL: 51161140620744&instance=51161155845163
---------------------------------------------------
-Date: Monday, November 17, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Job Interview Readiness
-Location: 
-Event URL: 51019708407480&instance=51019713765045
---------------------------------------------------
-Date: Monday, November 17, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Lunch and Learn: Entrepreneurial Success Series
-Location: 
-Event URL: 50668711905402&instance=50668711915648
+Event URL: 51208076537787&instance=51208108568471
 --------------------------------------------------
 Date: Tuesday, November 18, 2025
 Time: 12:00 PM - 01:00 PM
@@ -306,11 +288,39 @@ Date: Wednesday, March 04, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144960225
+Event URL: 50321557610449&instance=50321557630938
 --------------------------------------------------
 Date: Wednesday, March 25, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
 Event URL: 50321557610449&instance=50321557632987
+--------------------------------------------------
+Date: Thursday, March 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650387211292&instance=50650393088658
+--------------------------------------------------
+Month: Apr, 2026
+
+Date: Wednesday, April 15, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557636060
+--------------------------------------------------
+Date: Saturday, April 25, 2026
+Time: 11:00 AM - 09:00 PM
+Title: 2025-2026 JSOM Alumni Reunion
+Location: 
+Event URL: 50693228281732&instance=50693228282757
+--------------------------------------------------
+Month: May, 2026
+
+Date: Saturday, May 02, 2026
+Time: 10:15 AM - 01:30 PM
+Title: EMBA Open House
+Location: 
+Event URL: 50650159564912&instance=50650164090025
 --------------------------------------------------
