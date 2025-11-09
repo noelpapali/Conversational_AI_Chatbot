@@ -1,17 +1,5 @@
 Month: Nov, 2025
 
-Date: Saturday, November 08, 2025
-Time: 12:00 AM - 06:00 PM
-Title: Voyagers Fall 2025
-Location: 
-Event URL: 51037354259579&instance=51037354262653
---------------------------------------------------
-Date: Saturday, November 08, 2025
-Time: 11:00 AM - 12:00 PM
-Title: MSBA&AI Virtual Analytics Symposium
-Location: 
-Event URL: 51151597867712&instance=51151597868737
---------------------------------------------------
 Date: Sunday, November 09, 2025
 Time: 11:00 AM - 12:00 PM
 Title: MSBA&AI Virtual Analytics Symposium
@@ -58,7 +46,7 @@ Date: Tuesday, November 11, 2025
 Time: 04:30 PM - 05:30 PM
 Title: MS ITM Coffee Chat
 Location: 
-Event URL: 50693822270624&instance=50693829015927
+Event URL: 50702850619992&instance=50702850623066
 --------------------------------------------------
 Date: Wednesday, November 12, 2025
 Time: 12:00 PM - 12:30 PM
