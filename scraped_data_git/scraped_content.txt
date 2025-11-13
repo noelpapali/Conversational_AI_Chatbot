@@ -1678,13 +1678,13 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: Cybersecurity Day
-	- Text: Cybersecurity Day
-	  Href: https://calendar.utdallas.edu/event/cybersecurity-day-2492?utm_campaign=widget&utm_medium=widget&utm_source=Comet+Calendar
+Context: MSBA&AI Flex Graduation Celebration
+	- Text: MSBA&AI Flex Graduation Celebration
+	  Href: https://calendar.utdallas.edu/event/msbaai-flex-graduation-celebration-7736
 
-Context: Voyagers Fall 2025
-	- Text: Voyagers Fall 2025
-	  Href: https://calendar.utdallas.edu/event/voyagers-fall-2025
+Context: MSTIM 2025 Graduation & Awards
+	- Text: MSTIM 2025 Graduation & Awards
+	  Href: https://calendar.utdallas.edu/event/copy-of-ms-information-and-technology-management-graduation-awards-celebration
 
 Context: Apply Now
 	- Text: Apply Now
