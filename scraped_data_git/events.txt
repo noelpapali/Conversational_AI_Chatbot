@@ -1,11 +1,5 @@
 Month: Nov, 2025
 
-Date: Saturday, November 15, 2025
-Time: 09:00 AM - 04:00 PM
-Title: ARGUS Workshop
-Location: 
-Event URL: 51259227871057&instance=51259227872082
---------------------------------------------------
 Date: Monday, November 17, 2025
 Time: 08:30 AM - 09:30 AM
 Title: MSBA&AI Flex Information Session for Prospective Students
@@ -190,7 +184,7 @@ Date: Wednesday, February 11, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557628889
+Event URL: 50322144938712&instance=50322144957152
 --------------------------------------------------
 Date: Thursday, February 26, 2026
 Time: 12:00 PM - 01:00 PM
@@ -256,5 +250,5 @@ Date: Wednesday, May 06, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144968420
+Event URL: 50321557610449&instance=50321557638109
 --------------------------------------------------
