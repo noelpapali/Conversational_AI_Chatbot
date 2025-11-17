@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Women in STEM at Jindal School Lead, Solve and Inspire
+Title Link: https://jindal.utdallas.edu/news/women-in-stem-at-jindal-school-lead-solve-and-inspire/
+Excerpt: National STEM Day, celebrated Nov. 8 across the U.S., highlights the creativity and ingenuity needed to succeed in science, technology, engineering and mathematics (STEM) fields. Falling on a weekend this year, it offered the accomplished women at the Naveen Jindal School of Management a moment to pause and reflect on what the day means to […]
+Meta Details: November 17th, 2025 |Academics,Alumni,Faculty/Research,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2025/11/2025_WomenInStemGraphic-630x630-1.jpg
+
+==================================================
+
 Title: Students, Staff and Faculty Participate in First Annual JSOM Day of Service
 Title Link: https://jindal.utdallas.edu/news/students-staff-and-faculty-participate-in-first-annual-jsom-day-of-service/
 Excerpt: Not even a drizzly Halloween morning could prevent dozens of Naveen Jindal School of Management students, staff and faculty members from volunteering as they traded business casual for work gloves and spent the day planting trees, cleaning gardens and packing meals for children in need. Students lend a hand with environmental initiatives with Texas Trees […]
@@ -28,7 +36,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/10/cybersecurity_day_2025_grap
 Title: Student Military Veterans Event Nov. 12 Will Impart Business Soft Skills
 Title Link: https://jindal.utdallas.edu/news/student-military-veterans-event-nov-12-will-impart-business-soft-skills/
 Excerpt: To celebrate Veteran’s Day (Nov. 11), the Career Management Center at The University of Texas at Dallas‘ Naveen Jindal School of Management will be supporting the UT Dallas chapter of the Student Veterans of America by holding an exclusive event on Nov. 12. All U.S military veterans associated with UT Dallas — students, alumni, faculty […]
-Meta Details: October 24th, 2025 |Events,Featured,Students
+Meta Details: October 24th, 2025 |Events,Students
 Image URL: https://jindal.utdallas.edu/files/2025/10/jindal_school_cmc_veterans_day_event_2025_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/inaugural-rise-retail-conference-ma
 Excerpt: The inaugural RISE Retail Conference will be presented Sept. 10 by the Naveen Jindal School of Management’s Center for Retail Innovation and Strategy Excellence (RISE). With an expected attendance of more than 200, it will be the largest retail-themed event in the region. David Matthews David Matthews, an associate professor of practice in the Jindal […]
 Meta Details: August 13th, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/08/RISE-Conf-630x630-1.jpg
-
-==================================================
-
-Title: Dallas Indian Lions Club Fellowship Launched to Support Jindal School Graduate Students
-Title Link: https://jindal.utdallas.edu/news/dallas-indian-lions-club-fellowship-launched-to-support-jindal-school-graduate-students/
-Excerpt: The Naveen Jindal School of Management has announced the establishment of the Dallas Indian Lions Club Fellowship, a permanent graduate‐level endowment designed to support students who demonstrate both academic excellence and community engagement. This new fellowship builds on a long-standing relationship between the Jindal School and the Dallas Indian Lions Club. A check was presented […]
-Meta Details: August 8th, 2025 |Development
-Image URL: https://jindal.utdallas.edu/files/2025/08/lions_club_fellowship_reception_630x630.jpg
 
 ==================================================
 
