@@ -279,7 +279,7 @@ Context: No Context
 Context: No Context
 	- About
 	- About the Jindal School
-AI at JSOM
+AI at the Jindal School
 Community Engagement
 Company Engagement
 Conferences
@@ -292,7 +292,7 @@ Rankings
 Student Experience
 Outcomes & Success Factors
 MANAGEMENT Magazine
-	- AI at JSOM
+	- AI at the Jindal School
 	- Community Engagement
 	- Company Engagement
 	- Conferences
@@ -398,7 +398,7 @@ Context: No Context
 Context: No Context
 	- About
 	- About the Jindal School
-AI at JSOM
+AI at the Jindal School
 Community Engagement
 Company Engagement
 Conferences
@@ -411,7 +411,7 @@ Rankings
 Student Experience
 Outcomes & Success Factors
 MANAGEMENT Magazine
-	- AI at JSOM
+	- AI at the Jindal School
 	- Community Engagement
 	- Company Engagement
 	- Conferences
@@ -685,7 +685,7 @@ Context: About
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
 
 Context: About the Jindal School
-AI at JSOM
+AI at the Jindal School
 Community Engagement
 Company Engagement
 Conferences
@@ -701,8 +701,8 @@ MANAGEMENT Magazine
 	- Text: About the Jindal School
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
 
-Context: AI at JSOM
-	- Text: AI at JSOM
+Context: AI at the Jindal School
+	- Text: AI at the Jindal School
 	  Href: https://jindal.utdallas.edu/ai
 
 Context: Community Engagement
@@ -1164,7 +1164,7 @@ Context: About
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
 
 Context: About the Jindal School
-AI at JSOM
+AI at the Jindal School
 Community Engagement
 Company Engagement
 Conferences
@@ -1180,8 +1180,8 @@ MANAGEMENT Magazine
 	- Text: About the Jindal School
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
 
-Context: AI at JSOM
-	- Text: AI at JSOM
+Context: AI at the Jindal School
+	- Text: AI at the Jindal School
 	  Href: https://jindal.utdallas.edu/ai
 
 Context: Community Engagement

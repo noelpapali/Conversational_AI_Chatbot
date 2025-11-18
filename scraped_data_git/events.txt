@@ -1,23 +1,5 @@
 Month: Nov, 2025
 
-Date: Monday, November 17, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552341340257&instance=49552341341282
---------------------------------------------------
-Date: Monday, November 17, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51010807010401&instance=51010810476361
---------------------------------------------------
-Date: Monday, November 17, 2025
-Time: 01:00 PM - 02:00 PM
-Title: JSOM - HMGT: Business of Healthcare Seminar with IKS Health
-Location: 
-Event URL: 51208076537787&instance=51208108568471
---------------------------------------------------
 Date: Tuesday, November 18, 2025
 Time: 12:00 PM - 01:00 PM
 Title: EMBA Webinar
@@ -40,7 +22,7 @@ Date: Wednesday, November 19, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144948957
+Event URL: 50321557610449&instance=50321557620694
 --------------------------------------------------
 Date: Wednesday, November 19, 2025
 Time: 12:00 PM - 01:00 PM
@@ -132,7 +114,7 @@ Date: Wednesday, December 10, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557623767
+Event URL: 50322144938712&instance=50322144952030
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
 Time: 12:00 PM - 01:00 PM
@@ -170,7 +152,7 @@ Date: Wednesday, January 21, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144954079
+Event URL: 50321557610449&instance=50321557625816
 --------------------------------------------------
 Date: Tuesday, January 27, 2026
 Time: 12:00 PM - 01:00 PM
