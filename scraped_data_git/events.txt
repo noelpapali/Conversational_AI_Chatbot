@@ -1,29 +1,5 @@
 Month: Nov, 2025
 
-Date: Wednesday, November 19, 2025
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Information Session
-Location: 
-Event URL: 50605698757868&instance=50605698771186
---------------------------------------------------
-Date: Wednesday, November 19, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50322144938712&instance=50322144948957
---------------------------------------------------
-Date: Wednesday, November 19, 2025
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Soft-Skills: Critical Thinking & Problem-Solving
-Location: 
-Event URL: 51021038763529&instance=51021042187338
---------------------------------------------------
-Date: Wednesday, November 19, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 51153924396548&instance=51153927900693
---------------------------------------------------
 Date: Thursday, November 20, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
@@ -45,10 +21,16 @@ Event URL: 51252201741012&instance=51252201742037
 Month: Dec, 2025
 
 Date: Monday, December 01, 2025
-Time: 04:00 PM - 05:00 PM
-Title: JSOM - BS Healthcare Management - Info Session/Webinar for Prospective Students
+Time: 12:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51322565506627&instance=51322617922763
+Event URL: 51331031326297&instance=51331035899989
+--------------------------------------------------
+Date: Monday, December 01, 2025
+Time: 07:00 PM - 08:00 PM
+Title: MBA Your Way: Customized. Flexible. 100% Online.
+Location: 
+Event URL: 49957293913530&instance=49957307233068
 --------------------------------------------------
 Date: Tuesday, December 02, 2025
 Time: 01:00 PM - 04:00 PM
@@ -57,10 +39,16 @@ Location:
 Event URL: 51153986347492&instance=51153990538274
 --------------------------------------------------
 Date: Wednesday, December 03, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
+Time: 12:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51154000304625&instance=51154003931264
+Event URL: 51331030763878&instance=51331058390198
+--------------------------------------------------
+Date: Wednesday, December 03, 2025
+Time: 08:00 PM - 09:00 PM
+Title: JSOM PhD Program Online Information Session
+Location: 
+Event URL: 50462554254793&instance=50462554260941
 --------------------------------------------------
 Date: Thursday, December 04, 2025
 Time: 12:00 PM - 01:00 PM
@@ -102,7 +90,7 @@ Date: Wednesday, December 10, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144952030
+Event URL: 50321557610449&instance=50321557623767
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
 Time: 12:00 PM - 12:30 PM
@@ -146,7 +134,7 @@ Date: Wednesday, January 21, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557625816
+Event URL: 50322144938712&instance=50322144954079
 --------------------------------------------------
 Date: Tuesday, January 27, 2026
 Time: 12:00 PM - 01:00 PM
@@ -160,7 +148,7 @@ Date: Wednesday, February 11, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144957152
+Event URL: 50321557610449&instance=50321557628889
 --------------------------------------------------
 Date: Thursday, February 26, 2026
 Time: 12:00 PM - 01:00 PM
@@ -186,7 +174,7 @@ Date: Wednesday, March 04, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557630938
+Event URL: 50322144938712&instance=50322144960225
 --------------------------------------------------
 Date: Wednesday, March 25, 2026
 Time: 10:00 AM - 11:00 AM
@@ -206,7 +194,7 @@ Date: Wednesday, April 15, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557636060
+Event URL: 50322144938712&instance=50322144965347
 --------------------------------------------------
 Date: Saturday, April 25, 2026
 Time: 11:00 AM - 09:00 PM
@@ -226,5 +214,5 @@ Date: Wednesday, May 06, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144968420
+Event URL: 50321557610449&instance=50321557638109
 --------------------------------------------------
