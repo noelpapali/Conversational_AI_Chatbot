@@ -1,22 +1,10 @@
 Month: Nov, 2025
 
-Date: Thursday, November 20, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51010833626274&instance=51010835543431
---------------------------------------------------
-Date: Thursday, November 20, 2025
-Time: 04:00 PM - 05:30 PM
-Title: Dr. Randy Guttery's Retirement Party
-Location: 
-Event URL: 51259050974464&instance=51259050974465
---------------------------------------------------
-Date: Thursday, November 27, 2025
+Date: Monday, November 24, 2025
 Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 51252201741012&instance=51252201742037
+Event URL: 50508086939871&instance=50508086939872
 --------------------------------------------------
 Month: Dec, 2025
 
@@ -90,7 +78,7 @@ Date: Wednesday, December 10, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557623767
+Event URL: 50322144938712&instance=50322144952030
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
 Time: 12:00 PM - 12:30 PM
@@ -144,6 +132,12 @@ Event URL: 50650333547787&instance=50650340847773
 --------------------------------------------------
 Month: Feb, 2026
 
+Date: Monday, February 09, 2026
+Time: 04:30 PM - 08:00 PM
+Title: FinTEX - Insurance Conference 2026
+Location: 
+Event URL: 51339220236111&instance=51339220237136
+--------------------------------------------------
 Date: Wednesday, February 11, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
@@ -180,7 +174,7 @@ Date: Wednesday, March 25, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557632987
+Event URL: 50322144938712&instance=50322144962274
 --------------------------------------------------
 Date: Thursday, March 26, 2026
 Time: 12:00 PM - 01:00 PM
@@ -214,5 +208,5 @@ Date: Wednesday, May 06, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557638109
+Event URL: 50322144938712&instance=50322144968420
 --------------------------------------------------

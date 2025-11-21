@@ -67,8 +67,8 @@ List:
 
 Innovation and Entrepreneurship:
 List:
-  - Corporate Innovation (Link: /osim/ms-innovation-entrepreneurship/certificates/#corporate-innovation)
-  - New Venture Entrepreneurship (Link: /osim/ms-innovation-entrepreneurship/certificates/#new-venture-entrepreneurship)
+  - Graduate Certificate (Link: https://osim.utdallas.edu/ms-innovation-entrepreneurship/certificates/)
+  - Undergraduate Certificate (Link: https://catalog.utdallas.edu/2025/undergraduate/programs/jsom/certificates/)
 
 Operations and Supply Chain Management:
 List:
@@ -185,8 +185,8 @@ List:
 
 Innovation and Entrepreneurship:
 List:
-  - Corporate Innovation (Link: /osim/ms-innovation-entrepreneurship/certificates/#corporate-innovation)
-  - New Venture Entrepreneurship (Link: /osim/ms-innovation-entrepreneurship/certificates/#new-venture-entrepreneurship)
+  - Graduate Certificate (Link: https://osim.utdallas.edu/ms-innovation-entrepreneurship/certificates/)
+  - Undergraduate Certificate (Link: https://catalog.utdallas.edu/2025/undergraduate/programs/jsom/certificates/)
 
 Operations and Supply Chain Management:
 List:
