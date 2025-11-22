@@ -76,12 +76,12 @@ Prepare yourself for managing in a dynamic global environment.
 ==================================================
 
 Heading (h2): Degree Programs
-	Whether you’re a prospective undergraduate who’s interested in business, a mid- to senior-level executive or a future researcher — Jindal School is the right place for you.
+	Whether you’re a prospective undergraduate interested in business, a mid- to senior-level executive, or a future researcher — the Jindal School is the right place for you.
 	BS
 
 
 
-The Jindal School of Management at the University of Texas at Dallas offers ten Bachelor of Science degree programs and prepares students for the world of business and best practices. These ten Bachelor of Science programs are listed in the top navigation menus.
+The Jindal School of Management at UT Dallas offers 10 Bachelor of Science degree programs that prepare students for the world of business.
 
   BS Accounting 
   BS Business Administration 
@@ -146,7 +146,7 @@ MS
 
 
 
-The Jindal School of Management offers many innovative MS programs for individuals seeking to enhance their careers. Our MS programs represent an outstanding educational value, offering a private school setting and class sizes at state university prices. Since most master’s students at UT Dallas are already fully employed, classes are offered in the evening to accommodate work schedules.
+The Jindal School of Management offers many innovative MS programs for individuals seeking to enhance their careers. Our MS programs offer outstanding educational value as well as small class sizes and evening classes to accommodate the schedule of working professionals.
 
   MS Accounting and Analytics (STEM)
   MS Business Analytics and Artificial Intelligence (STEM)
@@ -169,7 +169,7 @@ MBA
 
 
 
-The Full-Time MBA is a full-time experience that will allow you time to engage in research you are passionate about and partner with companies, alumni, and faculty around the world. The Professional MBA formats make an MBA possible for everyone, regardless of your work schedule, family commitments, or previous degree. Learn more about how you can customize a program to meet your needs. The Executive MBA is designed for people with professional business experience, and similarly, the Customized Online Programs are designed for working professionals and can be completed online.
+The Jindal School offers various formats for MBAs that are uniquely suited to learners’ schedules and aspirations. Learn more about how you can customize a program to meet your needs.
 
   Full-Time MBA 
   PMBA Evening Cohort 
@@ -188,8 +188,7 @@ PhD
 
 
 
-The mission of the business PhD programs at the Jindal School of Management in International Management Studies and Management Science is to deliver the most advanced education in such areas of specialization. Both programs develop strong research and scholarly skills in their students and place graduates in academic, research and industry positions.
-
+The Jindal School of Management PhD programs strive to deliver advanced education in specialized areas of International Management Studies and Management Science. Both programs develop strong research and scholarly skills in their students and place graduates in academic, research and industry positions.
 
   PhD International Management Studies 
   PhD Management Science 
@@ -212,7 +211,7 @@ Executive Education
 
 
 
-Master the knowledge, skills and tools required to lead in our increasingly competitive global economy. Executive Education at UT Dallas has the faculty expertise to help you become a global leader in business management, leadership education, and executive development.
+Executive Education at UT Dallas helps leaners become global leader in business management, leadership education, and executive development. Master the knowledge, skills and tools required to lead in our increasingly competitive global economy.
 
  View All Executive Education Programs 
 
@@ -523,7 +522,7 @@ Context: No Context
 	- Community Engagement
 	- Make a Gift
 
-Context: The Jindal School of Management at the University of Texas at Dallas offers ten Bachelor of Science degree programs and prepares students for the world of business and best practices. These ten Bachelor of Science programs are listed in the top navigation menus.
+Context: The Jindal School of Management at UT Dallas offers 10 Bachelor of Science degree programs that prepare students for the world of business.
 	- BS Accounting
 	- BS Business Administration
 	- BS Business Analytics and Artificial Intelligence (STEM)
@@ -546,20 +545,20 @@ Context: The Jindal School of Management at the University of Texas at Dallas of
 	- Marketing & Supply Chain Management
 	- Davidson Management Honors Program
 
-Context: The Jindal School of Management at the University of Texas at Dallas offers ten Bachelor of Science degree programs and prepares students for the world of business and best practices. These ten Bachelor of Science programs are listed in the top navigation menus.
+Context: The Jindal School of Management at UT Dallas offers 10 Bachelor of Science degree programs that prepare students for the world of business.
 	- Business Analytics and Artificial Intelligence Supply Chain Management and Analytics
 	- Finance and Economics
 	- Global Business & Human Resource Management
 	- Global Business & International Political Economy
 
-Context: The Jindal School of Management at the University of Texas at Dallas offers ten Bachelor of Science degree programs and prepares students for the world of business and best practices. These ten Bachelor of Science programs are listed in the top navigation menus.
+Context: The Jindal School of Management at UT Dallas offers 10 Bachelor of Science degree programs that prepare students for the world of business.
 	- Global Business & Marketing
 	- Global Business & Supply chain Management and Analytics
 	- Healthcare Management & Biology
 	- Healthcare Management & Molecular Biology
 	- Marketing & Supply Chain Management
 
-Context: The Jindal School of Management offers many innovative MS programs for individuals seeking to enhance their careers. Our MS programs represent an outstanding educational value, offering a private school setting and class sizes at state university prices. Since most master’s students at UT Dallas are already fully employed, classes are offered in the evening to accommodate work schedules.
+Context: The Jindal School of Management offers many innovative MS programs for individuals seeking to enhance their careers. Our MS programs offer outstanding educational value as well as small class sizes and evening classes to accommodate the schedule of working professionals.
 	- MS Accounting and Analytics (STEM)
 	- MS Business Analytics and Artificial Intelligence (STEM)
 	- MS Energy Management (STEM)
@@ -574,7 +573,7 @@ Context: The Jindal School of Management offers many innovative MS programs for 
 	- MS Supply Chain Management (STEM)
 	- MS Systems Engineering & Management (STEM)
 
-Context: The Full-Time MBA is a full-time experience that will allow you time to engage in research you are passionate about and partner with companies, alumni, and faculty around the world. The Professional MBA formats make an MBA possible for everyone, regardless of your work schedule, family commitments, or previous degree. Learn more about how you can customize a program to meet your needs. The Executive MBA is designed for people with professional business experience, and similarly, the Customized Online Programs are designed for working professionals and can be completed online.
+Context: The Jindal School offers various formats for MBAs that are uniquely suited to learners’ schedules and aspirations. Learn more about how you can customize a program to meet your needs.
 	- Full-Time MBA
 	- PMBA Evening Cohort
 	- PMBA Flex
@@ -582,7 +581,7 @@ Context: The Full-Time MBA is a full-time experience that will allow you time to
 	- Executive MBA
 	- Customized Online Programs
 
-Context: The mission of the business PhD programs at the Jindal School of Management in International Management Studies and Management Science is to deliver the most advanced education in such areas of specialization. Both programs develop strong research and scholarly skills in their students and place graduates in academic, research and industry positions.
+Context: The Jindal School of Management PhD programs strive to deliver advanced education in specialized areas of International Management Studies and Management Science. Both programs develop strong research and scholarly skills in their students and place graduates in academic, research and industry positions.
 	- PhD International Management Studies 
   PhD Management Science
 	- PhD Management Science
@@ -590,7 +589,7 @@ Context: The mission of the business PhD programs at the Jindal School of Manage
 Context: The DBA combines the application focus of an EMBA program with the advanced research focus of a Ph.D. program. In this program, participants study and apply advanced research methodologies and analytic techniques to complex business problems.
 	- Doctor of Business Administration
 
-Context: Master the knowledge, skills and tools required to lead in our increasingly competitive global economy. Executive Education at UT Dallas has the faculty expertise to help you become a global leader in business management, leadership education, and executive development.
+Context: Executive Education at UT Dallas helps leaners become global leader in business management, leadership education, and executive development. Master the knowledge, skills and tools required to lead in our increasingly competitive global economy.
 	- View All Executive Education Programs
 
 Context: The Jindal School of Management offers certificates through its master’s degree programs, executive education programs, centers and institutes. Certificates are available in two formats: Academic and Professional (non-credit). Students with a university degree may pursue academic certificates for academic credit, and students with or without a college degree may pursue non-credit professional certificates.
