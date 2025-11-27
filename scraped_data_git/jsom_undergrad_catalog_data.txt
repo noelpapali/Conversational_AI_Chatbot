@@ -6801,6 +6801,9 @@ Headings:
 - Contact Us
 - Stay Connected
 - Quick Links
+- 
+- 
+- 
 Content:
 Due to a high volume of applications received during ApplyTexas Free Application Week, application and document updates may take longer than usual. Please do not submit duplicate applications or supporting documents through ApplyTexas or Common App. We appreciate your patience and understanding. For questions, contact us at 972-883-2270 oradmission@utdallas.edu.
 You are considered a transfer student if you have previously completed college-level coursework at an accredited institution — excluding the summer following high school graduation.
@@ -7084,6 +7087,9 @@ Links:
 - Publications - https://enroll.utdallas.edu/publications/
 - Registrar - https://registrar.utdallas.edu/
 - The University of Texas at Dallas - https://www.utdallas.edu/
+-  - #
+-  - #
+-  - #
 
 ================================================================================
 URL: https://enroll.utdallas.edu/freshman/
@@ -7105,6 +7111,9 @@ Headings:
 - Contact Us
 - Stay Connected
 - Quick Links
+- 
+- 
+- 
 Content:
 If you are a senior in high school or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
@@ -7386,5 +7395,8 @@ Links:
 - Publications - https://enroll.utdallas.edu/publications/
 - Registrar - https://registrar.utdallas.edu/
 - The University of Texas at Dallas - https://www.utdallas.edu/
+-  - #
+-  - #
+-  - #
 
 ================================================================================

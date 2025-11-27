@@ -192,29 +192,41 @@ Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51382283970525&instance=51382385335401
 --------------------------------------------------
-Date: Wednesday, February 04, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Tuesday, February 03, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51382283275576&instance=51382384815672
+Event URL: 51391160389637&instance=51391184356050
 --------------------------------------------------
-Date: Friday, February 06, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Date: Wednesday, February 04, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51382282583892&instance=51382384349401
+Event URL: 51391159985101&instance=51391186265191
+--------------------------------------------------
+Date: Thursday, February 05, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391158839906&instance=51391188409300
 --------------------------------------------------
 Date: Monday, February 09, 2026
-Time: 04:30 PM - 08:00 PM
-Title: FinTEX - Insurance Conference 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM - Career Expo Preparation Walk-In Hours (Undergraduate and Graduate)
 Location: 
-Event URL: 51339220236111&instance=51339220237136
+Event URL: 51382550905608&instance=51382560119670
+--------------------------------------------------
+Date: Monday, February 09, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Advance Your Career: Explore the Customized Online MBA
+Location: 
+Event URL: 51349027883447&instance=51349027884472
 --------------------------------------------------
 Date: Tuesday, February 10, 2026
-Time: 08:30 AM - 08:00 PM
-Title: FinTEX - Insurance Conference 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM - Career Expo Preparation Walk-In Hours (Undergraduate and Graduate)
 Location: 
-Event URL: 51339220236111&instance=51339220239185
+Event URL: 51382576111467&instance=51382579594122
 --------------------------------------------------
 Date: Wednesday, February 11, 2026
 Time: 10:00 AM - 11:00 AM
@@ -227,6 +239,12 @@ Time: 12:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51382911262774&instance=51382967952229
+--------------------------------------------------
+Date: Thursday, February 12, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51382911020598&instance=51382981263854
 --------------------------------------------------
 Date: Friday, February 13, 2026
 Time: 12:00 PM - 01:00 PM
@@ -246,11 +264,17 @@ Title: JSOM - Communication in Your Work
 Location: 
 Event URL: 51382603082955&instance=51382651981464
 --------------------------------------------------
-Date: Wednesday, February 18, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Communication in Your Work
+Date: Tuesday, February 17, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51382626325985&instance=51382634563917
+Event URL: 51391242266032&instance=51391255383102
+--------------------------------------------------
+Date: Wednesday, February 18, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383053551847&instance=51383075727417
 --------------------------------------------------
 Date: Thursday, February 19, 2026
 Time: 12:00 PM - 05:00 PM
@@ -259,58 +283,32 @@ Location:
 Event URL: 51383053333132&instance=51383075477647
 --------------------------------------------------
 Date: Friday, February 20, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM GRAD - Defend the Resume
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51384711800045&instance=51384731359825
+Event URL: 51383053099951&instance=51383075231112
 --------------------------------------------------
 Date: Monday, February 23, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Collaboration & Teamwork
 Location: 
-Event URL: 51383109959129&instance=51383130958498
+Event URL: 51382683734763&instance=51382688499042
 --------------------------------------------------
 Date: Tuesday, February 24, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Collaboration & Teamwork
 Location: 
-Event URL: 51383109637762&instance=51383135995669
+Event URL: 51382697738232&instance=51382699919525
+--------------------------------------------------
+Date: Tuesday, February 24, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391241582050&instance=51391261877328
 --------------------------------------------------
 Date: Wednesday, February 25, 2026
 Time: 12:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51383109419333&instance=51383146547366
---------------------------------------------------
-Date: Thursday, February 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650376599666&instance=50650381391183
---------------------------------------------------
-Date: Thursday, February 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM GRAD - Defend the Resume
-Location: 
-Event URL: 51384714863699&instance=51384730809109
---------------------------------------------------
-Date: Friday, February 27, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383108844174&instance=51383157794245
---------------------------------------------------
-Month: Mar, 2026
-
-Date: Sunday, March 01, 2026
-Time: 12:00 AM - 06:00 PM
-Title: 2026 Early-Career Sustainable Operations Workshop
-Location: 
-Event URL: 50640410094882&instance=50640410096933
---------------------------------------------------
-Date: Monday, March 02, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383222688099&instance=51383239621985
 --------------------------------------------------
