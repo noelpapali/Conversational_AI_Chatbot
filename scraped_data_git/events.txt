@@ -1,112 +1,106 @@
 Month: Dec, 2025
 
-Date: Monday, December 01, 2025
+Date: Tuesday, December 02, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51331031326297&instance=51331035899989
---------------------------------------------------
-Date: Monday, December 01, 2025
-Time: 07:00 PM - 08:00 PM
-Title: MBA Your Way: Customized. Flexible. 100% Online.
-Location: 
-Event URL: 49957293913530&instance=49957307233068
+Event URL: 51331031032775&instance=51331047372936
 --------------------------------------------------
 Date: Tuesday, December 02, 2025
+Time: 03:30 PM - 04:00 PM
+Title: MSBA&AI Help Desk
+Location: 
+Event URL: 49552399461649&instance=49552399462674
+--------------------------------------------------
+Date: Wednesday, December 03, 2025
 Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 51153986347492&instance=51153990538274
+Event URL: 51154000304625&instance=51154003931264
 --------------------------------------------------
-Date: Wednesday, December 03, 2025
+Date: Thursday, December 04, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51331030763878&instance=51331058390198
---------------------------------------------------
-Date: Wednesday, December 03, 2025
-Time: 08:00 PM - 09:00 PM
-Title: JSOM PhD Program Online Information Session
-Location: 
-Event URL: 50462554254793&instance=50462554260941
+Event URL: 51331030360413&instance=51331067459953
 --------------------------------------------------
 Date: Thursday, December 04, 2025
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 51252201741012&instance=51252201744086
+Event URL: 51154008857309&instance=51154012820468
 --------------------------------------------------
 Date: Thursday, December 04, 2025
-Time: 02:00 PM - 03:30 PM
-Title: MSBA&AI Flex Graduation Celebration
+Time: 03:30 PM - 05:00 PM
+Title: Backyard Bash 2025
 Location: 
-Event URL: 50472048975683&instance=50472048975684
+Event URL: 51277064795011&instance=51277064795012
 --------------------------------------------------
 Date: Friday, December 05, 2025
-Time: 10:00 AM - 01:00 PM
-Title: Virtual Forté MBA Forum
+Time: 01:00 PM - 03:00 PM
+Title: MS Information and Technology Management Fall 2025 Graduation & Awards Celebration
 Location: 
-Event URL: 51267643841631&instance=51267643842656
---------------------------------------------------
-Date: Monday, December 08, 2025
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
-Location: 
-Event URL: 49552349422129&instance=49552349423154
+Event URL: 51259450196201&instance=51259454604112
 --------------------------------------------------
 Date: Tuesday, December 09, 2025
-Time: 09:30 AM - 10:30 AM
-Title: MS Marketing Information Session with Q & A Period
+Time: 08:00 AM - 12:00 PM
+Title: FEI Technology Lecture
 Location: 
-Event URL: 50596407646129&instance=50596411583807
+Event URL: 51214564062554&instance=51214564063579
 --------------------------------------------------
 Date: Tuesday, December 09, 2025
-Time: 12:00 PM - 01:00 PM
-Title: UTD MBA Virtual Q&A Information Session
+Time: 12:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 50508099416987&instance=50508099418012
+Event URL: 51382869923682&instance=51382874924802
 --------------------------------------------------
 Date: Tuesday, December 09, 2025
-Time: 06:00 PM - 07:00 PM
-Title: Information Session: Mediation and Dispute Resolution
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours- Undergrad
 Location: 
-Event URL: 49959338203135&instance=50577386389178
+Event URL: 51154034541118&instance=51154037908864
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144952030
+Event URL: 50321557610449&instance=50321557623767
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
-Time: 12:00 PM - 01:00 PM
-Title: Inside the Customized Online MBA: Program Info Session
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
 Location: 
-Event URL: 49957312751743&instance=49957330615328
+Event URL: 50710470502247&instance=50710474085779
 --------------------------------------------------
 Date: Wednesday, December 10, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 51154041592117&instance=51154085760022
---------------------------------------------------
-Date: Thursday, December 11, 2025
 Time: 12:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51382868949703&instance=51382889618695
+Event URL: 51382869216709&instance=51382883677224
 --------------------------------------------------
 Date: Thursday, December 11, 2025
 Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Title: EMBA Webinar
 Location: 
-Event URL: 51252201741012&instance=51252201745111
+Event URL: 50650322839908&instance=50650325601389
 --------------------------------------------------
 Date: Thursday, December 11, 2025
-Time: 05:30 PM - 06:30 PM
-Title: Information Session: Executive and Professional Coaching Certificate
+Time: 12:00 PM - 01:00 PM
+Title: MS Marketing Information Session with Q & A Period
 Location: 
-Event URL: 50028490255516&instance=50577323327259
+Event URL: 50596420933593&instance=50596424582042
+--------------------------------------------------
+Date: Thursday, December 11, 2025
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours- Undergrad
+Location: 
+Event URL: 51154093158505&instance=51154095520021
+--------------------------------------------------
+Date: Wednesday, December 17, 2025
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 50508395883459&instance=50508395884484
 --------------------------------------------------
 Month: Jan, 2026
 
@@ -303,4 +297,16 @@ Time: 12:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51383109419333&instance=51383146547366
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391241377070&instance=51391264392859
+--------------------------------------------------
+Date: Thursday, February 26, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383109181404&instance=51383153920553
 --------------------------------------------------

@@ -7,11 +7,11 @@ Paragraph: Below is a complete list of all Jindal School certificates — both A
 
 Certificate Formats:
 
-JSOM Academic Certificates:
+Jindal School Academic Certificates:
 Paragraph: Academic certificate programs at the Jindal School of Management provide focused knowledge in specific areas of interest. Students can earn academic credits in these programs that can be transferred to degree programs. In addition, academic certificate applicants must have at least a bachelor’s degree and meet The University of Texas at Dallas graduate school requirements.
-Paragraph: Academic certificates not earned through Executive Education have an admission process similar to graduate programs. Learn more about admission, application, deadlines and more by visiting the JSOM Academic Certificates page.
+Paragraph: Academic certificates not earned through Executive Education have an admission process similar to graduate programs. Learn more about admission, application, deadlines and more by visiting the Jindal School Academic Certificates page.
 
-JSOM Professional Certificates:
+Jindal School Professional Certificates:
 Paragraph: Professional certificate programs provide an avenue for the working professional to get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment. Academic credit cannot be earned by pursuing professional certificates. Professional certificate applicants need not have a university degree but must meet program-specific admission requirements.
 
 Smallblocks:
@@ -125,11 +125,11 @@ Paragraph: Below is a complete list of all Jindal School certificates — both A
 
 Certificate Formats:
 
-JSOM Academic Certificates:
+Jindal School Academic Certificates:
 Paragraph: Academic certificate programs at the Jindal School of Management provide focused knowledge in specific areas of interest. Students can earn academic credits in these programs that can be transferred to degree programs. In addition, academic certificate applicants must have at least a bachelor’s degree and meet The University of Texas at Dallas graduate school requirements.
-Paragraph: Academic certificates not earned through Executive Education have an admission process similar to graduate programs. Learn more about admission, application, deadlines and more by visiting the JSOM Academic Certificates page.
+Paragraph: Academic certificates not earned through Executive Education have an admission process similar to graduate programs. Learn more about admission, application, deadlines and more by visiting the Jindal School Academic Certificates page.
 
-JSOM Professional Certificates:
+Jindal School Professional Certificates:
 Paragraph: Professional certificate programs provide an avenue for the working professional to get up-to-date knowledge on cutting-edge topics that are in demand in the current work environment. Academic credit cannot be earned by pursuing professional certificates. Professional certificate applicants need not have a university degree but must meet program-specific admission requirements.
 
 Smallblocks:
@@ -237,7 +237,7 @@ List:
 URL: https://jindal.utdallas.edu/certificate-programs/academic/
 
 Wideblocks:
-Build skills and earn academic credit.:
+Build skills and earn academic credit:
 Paragraph: Graduate certificate programs at the Jindal School of Management provide focused knowledge in specific areas of interest.  Students can earn academic credits in these programs that can be transferred to degree programs.
 
 Process – Application and Graduation:
@@ -246,7 +246,7 @@ For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/
 
 Smallblocks:
 Executive Education Academic Certificates:
-Paragraph: If you are interested in an academic certificate not listed above, it may be offered by JSOM’s Executive Education program. Visit the Executive Education home page  to see all the academic certificates they offer.
+Paragraph: If you are interested in an academic certificate not listed above, it may be offered by Jindal School’s Executive Education program. Visit the Executive Education home page  to see all the academic certificates they offer.
 Link: See Executive Education Academic Certificates (URL: /execed/#academic)
 
 ==================================================
