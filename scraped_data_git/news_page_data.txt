@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Real Estate Programs at the Jindal School Build on Guttery’s Legacy
+Title Link: https://jindal.utdallas.edu/news/real-estate-programs-at-the-jindal-school-build-on-gutterys-legacy/
+Excerpt: Ever since joining the faculty at the Naveen Jindal School of Management in 2012, Dr. Randall S. (Randy) Guttery has taught 4,900 students without having missed a single lecture — even teaching on crutches after surgeries. Extend that back to his time at the University of North Texas, and Guttery can claim 9,120 students and […]
+Meta Details: December 2nd, 2025 |Academics,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/12/happy_retirement_banner_630x630.jpg
+
+==================================================
+
 Title: Wildfire Smoke Prompts Temporary Shift Toward Green Purchases, Jindal School Research Shows
 Title Link: https://jindal.utdallas.edu/news/wildfire-smoke-prompts-temporary-shift-toward-green-purchases-jindal-school-research-shows/
 Excerpt: Whether a campfire gets left unattended or lightning strikes dry brush during a drought, people caught in the resulting wildfires are changing their shopping habits — not just by putting on masks but also by shopping for greener products, at least for a while. Findings from a recent study by researchers in the Naveen Jindal […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/11/wildfires_and_sustainable_c
 Title: Women in STEM at Jindal School Lead, Solve and Inspire
 Title Link: https://jindal.utdallas.edu/news/women-in-stem-at-jindal-school-lead-solve-and-inspire/
 Excerpt: National STEM Day, celebrated Nov. 8 across the U.S., highlights the creativity and ingenuity needed to succeed in science, technology, engineering and mathematics (STEM) fields. Falling on a weekend this year, it offered the accomplished women at the Naveen Jindal School of Management a moment to pause and reflect on what the day means to […]
-Meta Details: November 17th, 2025 |Academics,Alumni,Faculty/Research,Featured,Students
+Meta Details: November 17th, 2025 |Academics,Alumni,Faculty/Research,Students
 Image URL: https://jindal.utdallas.edu/files/2025/11/2025_WomenInStemGraphic-630x630-1.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/students-in-jindal-schools-pphm-gai
 Excerpt: PPHM students and Professor Karnuta with several Mercy leaders, including Dr. David Meiners, President of Mercy Hospital, St. Louis (back row, far left). Students from the Professional Program in Healthcare Management (PPHM) in the Naveen Jindal School of Management took a trip to St. Louis this past spring for a site visit to Mercy Health […]
 Meta Details: August 21st, 2025 |Students
 Image URL: https://jindal.utdallas.edu/files/2025/08/pphm_mercy_health_system_group_photo_1_630x630.png
-
-==================================================
-
-Title: Jindal School Study Shows Why Online Retail Hasn’t Transformed Book Sales
-Title Link: https://jindal.utdallas.edu/news/jindal-school-study-shows-why-online-retail-hasnt-transformed-book-sales/
-Excerpt: A recently published study by researchers from the Naveen Jindal School of Management at The University of Texas at Dallas tempers the long-held idea that the rise of e-commerce would democratize book sales. The paper — Only a “Longish” Tail — was published in the August 2025 issue of Production and Operations Management, a peer-reviewed […]
-Meta Details: August 14th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/08/laptop_library_630x630.jpg
 
 ==================================================
 
