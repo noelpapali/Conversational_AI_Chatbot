@@ -1,11 +1,5 @@
 Month: Dec, 2025
 
-Date: Friday, December 05, 2025
-Time: 10:00 AM - 01:00 PM
-Title: Virtual Forté MBA Forum
-Location: 
-Event URL: 51267643841631&instance=51267643842656
---------------------------------------------------
 Date: Monday, December 08, 2025
 Time: 08:30 AM - 09:30 AM
 Title: MSBA&AI Flex Information Session for Prospective Students
@@ -305,4 +299,10 @@ Time: 12:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51383222688099&instance=51383239621985
+--------------------------------------------------
+Date: Tuesday, March 03, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383222466329&instance=51383241769794
 --------------------------------------------------

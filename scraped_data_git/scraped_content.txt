@@ -228,6 +228,12 @@ The Jindal School of Management offers certificates through its master’s degre
 
 ==================================================
 
+Heading (h2): Featured Stories
+	Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+            Matthew Turner had never even heard of case competitions before he started his graduate studies at The University of Texas at Dallas and now the MBA program at the Naveen Jindal School of Management has equipped him to win them. He and his teammates recently took first place in the 2025 MBA Case Competition World […]
+
+==================================================
+
 Heading (h2): Request Information
 	Thank you for your interest in the Naveen Jindal School of Management, UT Dallas. Tell us a little bit about yourself, and we’ll send you customized information about our programs. We hope to meet you soon.
 
@@ -1913,6 +1919,10 @@ Context: View All Certificate Programs
 Context: Upcoming Events
 	- Text: View All Events
 	  Href: /jindal/calendar/
+
+Context: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+	- Text: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+	  Href: https://jindal.utdallas.edu/news/team-of-jindal-school-mba-students-wins-2025-mba-case-competition-world-cup/
 
 Context: Thank you for your interest in the Naveen Jindal School of Management, UT Dallas. Tell us a little bit about yourself, and we’ll send you customized information about our programs. We hope to meet you soon.
 	- Text: Request Information
