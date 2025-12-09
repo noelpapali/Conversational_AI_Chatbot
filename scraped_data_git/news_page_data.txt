@@ -1,10 +1,18 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: New Required Undergraduate Course at Jindal School Anchors Professional Development
+Title Link: https://jindal.utdallas.edu/news/new-required-undergraduate-course-at-jindal-school-anchors-professional-development/
+Excerpt: Students who enroll in business schools often do so to prepare for a rewarding life and productive career. A new undergraduate course is being offered at The University of Texas at Dallas’ Naveen Jindal School of Management to help them build the communication and professional skills essential for success. Beginning this fall, all incoming freshmen […]
+Meta Details: December 9th, 2025 |Academics,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2025/12/Professional-Development-630x630-1.jpg
+
+==================================================
+
 Title: Strengthening Ties: UT Dallas, ECLAT Foundation, and a Mayoral Visit Celebrating Taiwanese Talent
 Title Link: https://jindal.utdallas.edu/news/strengthening-ties-ut-dallas-eclat-foundation-and-a-mayoral-visit-celebrating-taiwanese-talent/
 Excerpt: Richardson Mayor Amir Omar, MBA’13, an Executive MBA alumnus from the Naveen Jindal School of Management at The University of Texas at Dallas, has actively engaged with the University’s international community, including Taiwanese students supported by ECLAT and related programs. Richardson Mayor Amir Omar engages with ECLAT students At a recent campus visit on Nov. […]
-Meta Details: December 5th, 2025 |Events,Featured
+Meta Details: December 5th, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/12/mayor_omar_with_eclat_students_630x630-1.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-alumnus-builds-ai-pow
 Excerpt: A new platform and methodology that connects existing human resources information systems with artificial intelligence has been developed by a Naveen Jindal School of Management alumnus. It is poised to propel the field into the predictive analytics era — while creating opportunities for fellow Jindal School graduates to navigate today’s challenging job market. Sameer Ranjan […]
 Meta Details: September 10th, 2025 |Alumni
 Image URL: https://jindal.utdallas.edu/files/2022/11/sameer_ranjan_630x630.jpg
-
-==================================================
-
-Title: Internships Help Shape Jindal School Students’ Career Futures
-Title Link: https://jindal.utdallas.edu/news/internships-help-shape-jindal-school-students-career-futures/
-Excerpt: Many students at the Naveen Jindal School of Management spent at least part of this past summer doing internships related to their majors. In doing so, they gained real-world, professional experience and had the opportunity to apply their academic learnings within corporate settings. Internships are so valuable that they are a requirement for graduation at […]
-Meta Details: September 3rd, 2025 |Students
-Image URL: https://jindal.utdallas.edu/files/2025/09/summer_2025_internshipsx630x630.jpg
 
 ==================================================
 
