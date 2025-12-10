@@ -1,23 +1,5 @@
 Month: Dec, 2025
 
-Date: Tuesday, December 09, 2025
-Time: 08:00 AM - 12:00 PM
-Title: FEI Technology Lecture
-Location: 
-Event URL: 51214564062554&instance=51214564063579
---------------------------------------------------
-Date: Tuesday, December 09, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51382869923682&instance=51382874924802
---------------------------------------------------
-Date: Tuesday, December 09, 2025
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours- Undergrad
-Location: 
-Event URL: 51154034541118&instance=51154037908864
---------------------------------------------------
 Date: Wednesday, December 10, 2025
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
@@ -305,4 +287,22 @@ Time: 12:00 PM - 05:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51383222466329&instance=51383241769794
+--------------------------------------------------
+Date: Wednesday, March 04, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50321557610449&instance=50321557630938
+--------------------------------------------------
+Date: Wednesday, March 04, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383222256283&instance=51383244847368
+--------------------------------------------------
+Date: Wednesday, March 04, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391398823114&instance=51391417336915
 --------------------------------------------------
