@@ -1,23 +1,5 @@
 Month: Dec, 2025
 
-Date: Wednesday, December 10, 2025
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50321557610449&instance=50321557623767
---------------------------------------------------
-Date: Wednesday, December 10, 2025
-Time: 12:00 PM - 12:30 PM
-Title: Fast Track in MS Marketing Information Session
-Location: 
-Event URL: 50710470502247&instance=50710474085779
---------------------------------------------------
-Date: Wednesday, December 10, 2025
-Time: 12:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51382869216709&instance=51382883677224
---------------------------------------------------
 Date: Thursday, December 11, 2025
 Time: 12:00 PM - 01:00 PM
 Title: EMBA Webinar
@@ -305,4 +287,22 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391398823114&instance=51391417336915
+--------------------------------------------------
+Date: Thursday, March 05, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383222053780&instance=51383246541740
+--------------------------------------------------
+Date: Friday, March 06, 2026
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Critical Thinking & Problem-Solving
+Location: 
+Event URL: 51382747764006&instance=51382749643442
+--------------------------------------------------
+Date: Monday, March 09, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383266538705&instance=51383278634277
 --------------------------------------------------
