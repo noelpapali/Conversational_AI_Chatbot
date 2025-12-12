@@ -6805,7 +6805,8 @@ Headings:
 - 
 - 
 Content:
-Due to a high volume of applications received during ApplyTexas Free Application Week, application and document updates may take longer than usual. Please do not submit duplicate applications or supporting documents through ApplyTexas or Common App. We appreciate your patience and understanding. For questions, contact us at 972-883-2270 oradmission@utdallas.edu.
+UT Dallas Closed for Winter Break: Dec. 22 – Jan. 2
+UT Dallas will be closed for winter break from Monday, December 22, through Friday, January 2. Please allow extra processing time for applications, documents or test scores sent during this time. The Office of Admission and Enrollment and the Visitor Center will resume regular business hours on Monday, January 5.
 You are considered a transfer student if you have previously completed college-level coursework at an accredited institution — excluding the summer following high school graduation.
 Applications are accepted for the fall, spring and summer semesters from students in good standing at their higher education institutions. If you are currently enrolled in high school and also attending a college/university and you will not complete any college-level coursework after the summer after your high school graduation, you should apply forfreshman admission.
 All applicants are reviewed individually and holistically. Consideration is given to the following factors:
@@ -7057,7 +7058,6 @@ Links:
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
 - Transfer Admissions - https://enroll.utdallas.edu/transfer/
-- admission@utdallas.edu - mailto:admission@utdallas.edu
 - freshman admission - https://enroll.utdallas.edu/freshman/
 - Criteria - https://enroll.utdallas.edu/transfer/criteria/
 - Application Process - https://enroll.utdallas.edu/transfer/application-process/
@@ -7117,7 +7117,8 @@ Headings:
 Content:
 If you are a senior in high school or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
-Due to a high volume of applications received during ApplyTexas Free Application Week, application and document updates may take longer than usual. Please do not submit duplicate applications or supporting documents through ApplyTexas or Common App. We appreciate your patience and understanding. For questions, contact us at 972-883-2270 oradmission@utdallas.edu.
+UT Dallas Closed for Winter Break: Dec. 22 – Jan. 2
+UT Dallas will be closed for winter break from Monday, December 22, through Friday, January 2. Please allow extra processing time for applications, documents or test scores sent during this time. The Office of Admission and Enrollment and the Visitor Center will resume regular business hours on Monday, January 5.
 Learn about what it takes to gain admission as a freshman student.
 Are you ready to apply? We’ve laid out a handy guide to outline all the steps needed to complete your freshman application.
 Already applied? Check yourapplication status.
@@ -7355,7 +7356,6 @@ Links:
 - Contact a Counselor - https://enroll.utdallas.edu/contact/counselor-locator/
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
-- admission@utdallas.edu - mailto:admission@utdallas.edu
 - Criteria - https://enroll.utdallas.edu/freshman/criteria/
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - application status - https://www.utdallas.edu/status/
