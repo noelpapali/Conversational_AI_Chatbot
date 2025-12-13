@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Global Business Alumnus Uses Jindal School as Launchpad for International Service
+Title Link: https://jindal.utdallas.edu/news/global-business-alumnus-uses-jindal-school-as-launchpad-for-international-service/
+Excerpt: Fueled by the global experiences he built in the Naveen Jindal School of Management, Vladyslav (Vlad) Wallace, BS’20, now represents the United States on the world stage. Vladyslav (Vlad) Wallace Right on the heels of a formative experience with the U.S. State Department’s National Security Language Initiative (NSLI) program in Chisinau, Moldova, Wallace arrived at […]
+Meta Details: December 12th, 2025 |Alumni,Featured
+Image URL: https://jindal.utdallas.edu/files/2025/12/vlad_wallace_foriegn_service_officer_official_photo_630x630.jpg
+
+==================================================
+
 Title: New Required Undergraduate Course at Jindal School Anchors Professional Development
 Title Link: https://jindal.utdallas.edu/news/new-required-undergraduate-course-at-jindal-school-anchors-professional-development/
 Excerpt: Students who enroll in business schools often do so to prepare for a rewarding life and productive career. A new undergraduate course is being offered at The University of Texas at Dallas’ Naveen Jindal School of Management to help them build the communication and professional skills essential for success. Beginning this fall, all incoming freshmen […]
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/12/mayor_omar_with_eclat_stude
 Title: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
 Title Link: https://jindal.utdallas.edu/news/team-of-jindal-school-mba-students-wins-2025-mba-case-competition-world-cup/
 Excerpt: Matthew Turner had never even heard of case competitions before he started his graduate studies at The University of Texas at Dallas and now the MBA program at the Naveen Jindal School of Management has equipped him to win them. He and his teammates recently took first place in the 2025 MBA Case Competition World […]
-Meta Details: December 3rd, 2025 |Featured,Students
+Meta Details: December 3rd, 2025 |Students
 Image URL: https://jindal.utdallas.edu/files/2025/12/Finals-MBA-World-Cup-630x630-1.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-marketing-sophomore-j
 Excerpt: You might not think to look for a newspaper editor in the Naveen Jindal School of Management, but Jane Burkhardt, a marketing sophomore, takes over as editor-in-chief of The Mercury, The University of Texas at Dallas’ official student-run newspaper, this fall. Established in 1980, it had been silent for the past year. “While The Mercury […]
 Meta Details: September 16th, 2025 |Students
 Image URL: https://jindal.utdallas.edu/files/2025/09/jane_burkhardt_630x630.jpg
-
-==================================================
-
-Title: Jindal School Alumnus Builds AI-Powered HR Framework to Predict Workforce Needs
-Title Link: https://jindal.utdallas.edu/news/jindal-school-alumnus-builds-ai-powered-hr-framework-to-predict-workforce-needs/
-Excerpt: A new platform and methodology that connects existing human resources information systems with artificial intelligence has been developed by a Naveen Jindal School of Management alumnus. It is poised to propel the field into the predictive analytics era — while creating opportunities for fellow Jindal School graduates to navigate today’s challenging job market. Sameer Ranjan […]
-Meta Details: September 10th, 2025 |Alumni
-Image URL: https://jindal.utdallas.edu/files/2022/11/sameer_ranjan_630x630.jpg
 
 ==================================================
 

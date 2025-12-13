@@ -277,16 +277,14 @@ Context: No Context
 	- News
 	- Careers
 	- Calendar
-	- External Relations
-	- Community Engagement
+	- Corporate Engagement
 	- Make a Gift
 
 Context: No Context
 	- About
 	- About the Jindal School
 AI at the Jindal School
-Community Engagement
-Company Engagement
+
 Conferences
 Contact Information
 
@@ -298,8 +296,6 @@ Student Experience
 Outcomes & Success Factors
 MANAGEMENT Magazine
 	- AI at the Jindal School
-	- Community Engagement
-	- Company Engagement
 	- Conferences
 	- Contact Information
 	- Leadership Team
@@ -404,8 +400,7 @@ Context: No Context
 	- About
 	- About the Jindal School
 AI at the Jindal School
-Community Engagement
-Company Engagement
+
 Conferences
 Contact Information
 
@@ -417,8 +412,6 @@ Student Experience
 Outcomes & Success Factors
 MANAGEMENT Magazine
 	- AI at the Jindal School
-	- Community Engagement
-	- Company Engagement
 	- Conferences
 	- Contact Information
 	- Leadership Team
@@ -524,8 +517,7 @@ Context: No Context
 	- News
 	- Careers
 	- Calendar
-	- External Relations
-	- Community Engagement
+	- Corporate Engagement
 	- Make a Gift
 
 Context: The Jindal School of Management at UT Dallas offers 10 Bachelor of Science degree programs that prepare students for the world of business.
@@ -673,13 +665,9 @@ Context: Calendar
 	- Text: Calendar
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: External Relations
-	- Text: External Relations
+Context: Corporate Engagement
+	- Text: Corporate Engagement
 	  Href: /jindal/external-relations/
-
-Context: Community Engagement
-	- Text: Community Engagement
-	  Href: /jindal/about-the-jindal-school-of-management/community-engagement/
 
 Context: Make a Gift
 	- Text: Make a Gift
@@ -691,8 +679,7 @@ Context: About
 
 Context: About the Jindal School
 AI at the Jindal School
-Community Engagement
-Company Engagement
+
 Conferences
 Contact Information
 
@@ -709,14 +696,6 @@ MANAGEMENT Magazine
 Context: AI at the Jindal School
 	- Text: AI at the Jindal School
 	  Href: https://jindal.utdallas.edu/ai
-
-Context: Community Engagement
-	- Text: Community Engagement
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/community-engagement/
-
-Context: Company Engagement
-	- Text: Company Engagement
-	  Href: https://jindal.utdallas.edu/external-relations/company-engagement/
 
 Context: Conferences
 	- Text: Conferences
@@ -1170,8 +1149,7 @@ Context: About
 
 Context: About the Jindal School
 AI at the Jindal School
-Community Engagement
-Company Engagement
+
 Conferences
 Contact Information
 
@@ -1188,14 +1166,6 @@ MANAGEMENT Magazine
 Context: AI at the Jindal School
 	- Text: AI at the Jindal School
 	  Href: https://jindal.utdallas.edu/ai
-
-Context: Community Engagement
-	- Text: Community Engagement
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/community-engagement/
-
-Context: Company Engagement
-	- Text: Company Engagement
-	  Href: https://jindal.utdallas.edu/external-relations/company-engagement/
 
 Context: Conferences
 	- Text: Conferences
@@ -1659,13 +1629,9 @@ Context: Calendar
 	- Text: Calendar
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: External Relations
-	- Text: External Relations
+Context: Corporate Engagement
+	- Text: Corporate Engagement
 	  Href: /jindal/external-relations/
-
-Context: Community Engagement
-	- Text: Community Engagement
-	  Href: /jindal/about-the-jindal-school-of-management/community-engagement/
 
 Context: Make a Gift
 	- Text: Make a Gift

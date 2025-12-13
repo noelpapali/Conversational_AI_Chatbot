@@ -63,16 +63,22 @@ Location:
 Event URL: 51382285070242&instance=51382350099279
 --------------------------------------------------
 Date: Wednesday, January 28, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Time: 12:30 PM - 01:30 PM
+Title: MS ITM Student Welcome & Welcome Back Mixer
 Location: 
-Event URL: 51384985115838&instance=51384996129360
+Event URL: 51532933583992&instance=51532933585017
 --------------------------------------------------
 Date: Thursday, January 29, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51384984780502&instance=51384998574037
+Event URL: 51382284744113&instance=51382353067082
+--------------------------------------------------
+Date: Friday, January 30, 2026
+Time: 12:00 PM - 05:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51382284263968&instance=51382356007173
 --------------------------------------------------
 Month: Feb, 2026
 
@@ -305,10 +311,4 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391396981860&instance=51391416088445
---------------------------------------------------
-Date: Saturday, March 21, 2026
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
-Location: 
-Event URL: 50650144882843&instance=50650208103674
 --------------------------------------------------
