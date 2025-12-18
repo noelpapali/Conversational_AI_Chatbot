@@ -1,72 +1,70 @@
-Month: Dec, 2025
-
-Date: Wednesday, December 17, 2025
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
-Location: 
-Event URL: 50508395883459&instance=50508395884484
---------------------------------------------------
 Month: Jan, 2026
 
-Date: Monday, January 12, 2026
-Time: 07:00 PM - 08:00 PM
-Title: MBA Your Way: Customized. Flexible. 100% Online.
+Date: Thursday, January 08, 2026
+Time: 07:30 AM - 08:00 AM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 51340718998535&instance=51340718999560
+Event URL: 51524494032214&instance=51524494032215
+--------------------------------------------------
+Date: Thursday, January 15, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Information Session: Executive and Professional Coaching Certificate
+Location: 
+Event URL: 50028490255516&instance=50577323330332
 --------------------------------------------------
 Date: Tuesday, January 20, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51382286970965&instance=51382296448553
+Event URL: 51384892765809&instance=51384913161454
 --------------------------------------------------
 Date: Wednesday, January 21, 2026
 Time: 10:00 AM - 11:00 AM
 Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 50321557610449&instance=50321557625816
+Event URL: 50322144938712&instance=50322144954079
 --------------------------------------------------
 Date: Wednesday, January 21, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51384893064854&instance=51384947626746
+Event URL: 51382286670552&instance=51568293642720
 --------------------------------------------------
 Date: Thursday, January 22, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51384893403349&instance=51384958636140
+Event URL: 51382286410147&instance=51382307980694
 --------------------------------------------------
-Date: Saturday, January 24, 2026
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
+Date: Tuesday, January 27, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
 Location: 
-Event URL: 50650111472190&instance=50650127190188
+Event URL: 50650333547787&instance=50650340847773
 --------------------------------------------------
 Date: Tuesday, January 27, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51384985333015&instance=51385010209800
+Event URL: 51382285358951&instance=51382347292819
 --------------------------------------------------
 Date: Wednesday, January 28, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Inside the Customized Online MBA: Program Info Session
+Time: 12:30 PM - 01:30 PM
+Title: MS ITM Student Welcome & Welcome Back Mixer
 Location: 
-Event URL: 51348947538850&instance=51348947539875
+Event URL: 51532933583992&instance=51532933585017
 --------------------------------------------------
 Date: Wednesday, January 28, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51382285070242&instance=51382350099279
+Event URL: 51384985115838&instance=51384996129360
 --------------------------------------------------
 Date: Thursday, January 29, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51384984780502&instance=51384998574037
+Event URL: 51382284744113&instance=51382353067082
 --------------------------------------------------
 Month: Feb, 2026
 

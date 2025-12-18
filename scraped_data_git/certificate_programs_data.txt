@@ -31,7 +31,7 @@ Real Estate:
 
 Aviation:
 
-Governance:
+Professional Governance:
 
 Management:
 
@@ -94,7 +94,7 @@ Aviation:
 List:
   - Professional Certificate in Sustainability Strategy and Management in Aviation (Link: https://jindal.utdallas.edu/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
 
-Governance:
+Professional Governance:
 List:
   - Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
   - Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
@@ -155,7 +155,7 @@ Real Estate:
 
 Aviation:
 
-Governance:
+Professional Governance:
 
 Management:
 
@@ -218,7 +218,7 @@ Aviation:
 List:
   - Professional Certificate in Sustainability Strategy and Management in Aviation (Link: https://jindal.utdallas.edu/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
 
-Governance:
+Professional Governance:
 List:
   - Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
   - Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
@@ -273,7 +273,7 @@ Professional Certificates (Non-Credit):
 
 Aviation:
 
-Governance:
+Professional Governance:
 
 Management:
 
@@ -286,7 +286,7 @@ Lean Six Sigma in Healthcare – Green Belt:
 Smallblocks:
 Aviation:
 
-Governance:
+Professional Governance:
 
 Management:
 
@@ -301,7 +301,7 @@ Aviation:
 List:
   - Professional Certificate in Sustainability Strategy and Management in Aviation (Link: https://jindal.utdallas.edu/certificate-programs/professional/professional-certificate-in-sustainability-strategy-and-management-in-aviation/)
 
-Governance:
+Professional Governance:
 List:
   - Executive Certificate in Nonprofit Governance (Link: /jindal/centers-of-excellence/iecg/#2)
   - Professional Certificate in Governance Capital (Link: /jindal/centers-of-excellence/iecg/#2)
