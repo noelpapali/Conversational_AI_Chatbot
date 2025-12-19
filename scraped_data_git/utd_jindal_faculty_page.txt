@@ -426,7 +426,7 @@ Assistant Professor of Instruction, Information Systems
 thiru.pandian@utdallas.edu|(972) 883-4399|JSOM 4.424
 
 Assistant Professor, Finance and Managerial Economics
-hao.pang@utdallas.edu||JSOM 14.213
+hao.pang@utdallas.edu||JSOM 1.515C
 
 Associate Professor, Organizations, Strategy and International Management
 parkhd@utdallas.edu|(972) 883-5113|JSOM 4.203
@@ -1589,7 +1589,7 @@ Hao  Pang
 Assistant Professor, Finance and Managerial Economics
 hao.pang@utdallas.edu
 
-JSOM 14.213
+JSOM 1.515C
 
 Haemin Dennis Park
 Associate Professor, Organizations, Strategy and International Management
