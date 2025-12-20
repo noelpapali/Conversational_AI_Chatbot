@@ -5,7 +5,7 @@ Heading:
 --------------------------------------------------
 
 Heading: Freshman Admissions: Criteria
-  Paragraph: You are considered a first-time freshman applicant if you’ve completed AP, IB, and/or college credit courses during high school — including during the summer after graduation.
+  Paragraph: You are considered a first-time freshman applicant if you’ve completed AP, IB and/or college credit courses during high school — including during the summer after graduation.
   Paragraph: Applicants who have completed coursework at a college or university after high school graduation (excluding the summer) should apply for transfer admission.
 
 --------------------------------------------------
@@ -23,7 +23,7 @@ Heading: Important Dates
 --------------------------------------------------
 
 Heading: Admission Review Criteria
-  Paragraph: Every student brings something unique to our community that encompasses achievements, experiences and viewpoints. All applicants are reviewed individually and holistically. Consideration is given to the following factors:
+  Paragraph: Each applicant brings unique achievements, experiences and perspectives to our community. Freshman applications are reviewed individually using a holistic review process. The following factors are considered:
   List:
     - Overall grades in academic coursework and trends in achievement.
     - Strength of high school curriculum, including the level of rigor (AP, IB, dual credit).
@@ -81,7 +81,7 @@ Heading:
 --------------------------------------------------
 
 Heading: Freshman Admissions: Application Process
-  Paragraph: Ready to begin your journey with us? Follow these steps to complete your freshman admission application.
+  Paragraph: Ready to begin your journey with at UT Dallas? Follow these steps to complete your freshman admission application.
 
 --------------------------------------------------
 
@@ -98,7 +98,7 @@ Heading: Important Dates
 --------------------------------------------------
 
 Heading: Submit your admission application.
-  Paragraph: The applications for CommonApp and ApplyTexas are now open for fall 2026.
+  Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas.
 
 --------------------------------------------------
 
@@ -381,10 +381,6 @@ Heading: #FutureComet  #Transfer2UTD
 Heading: 
 
 --------------------------------------------------
-
-==================================================
-
-URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 
