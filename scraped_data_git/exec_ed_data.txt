@@ -50,63 +50,63 @@ Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Cynthia Carter – MS LOD Executive and Professional Coaching:
-
-Grace Tissell – MS LOD Strategic Human Resources:
-
-Denis Zub (EMBA 2022):
-
-Ellie Shollenberger:
-
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
 
-Curtis Clark:
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
 
-Esteban Santos, EMBA 2021:
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
 
 Bill Disario:
 
-Thomas Rodgers (EMBA 2022):
+Mohammed Omer, GLEMBA ’19:
 
-Alberto Gutierrez Algren:
+Sean Seabrook, MS LOD:
 
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+Ellie Shollenberger:
 
 Khaled Hallak, EMBA 2021:
 Paragraph: Bank of America, Officer,
   Syndicated Loan Closer
 
-Jacob Heller, MS LOD:
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
-
 Jennifer Masie, EMBA 2022:
 Paragraph: Vice President, Retail Operations and Chief of Staff
 
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+
+Nicole Roettele – MS LOD Executive and Professional Coaching:
+
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
+
+Cherie Castain – MS LOD Executive and Professional Coaching:
+
+Grace Tissell – MS LOD Strategic Human Resources:
+
+Curtis Clark:
+
 Erinn Marks, GLEMBA ’19:
 
-Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
+Alberto Gutierrez Algren:
 
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
 
-Qiana Levy:
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
-
-The Importance of a Relevant Curriculum:
-Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
-
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
@@ -115,6 +115,14 @@ Paragraph: When I am asked what makes a good executive MBA candidate, several th
 How to Write an Admissions Essay for an Executive MBA Program:
 Paragraph: The power of your personal story
 Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+
+The Importance of a Relevant Curriculum:
+Paragraph: Curriculum is Key for Students
+Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
 EMBA Request for Information:
 
@@ -167,58 +175,58 @@ Paragraph: This fully online program connects product development with supply ch
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Cherie Castain – MS LOD Executive and Professional Coaching:
-
-Curtis Clark:
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Veronica Sanchez, MS LOD:
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Erinn Marks, GLEMBA ’19:
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
-
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Sean Seabrook, MS LOD:
-
-Esteban Santos, EMBA 2021:
-
-Nicole Roettele – MS LOD Executive and Professional Coaching:
-
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
-
-Qiana Levy:
-
 Bill Disario:
 
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Tu Huynh:
+Erinn Marks, GLEMBA ’19:
 
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
 
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
+David Gill:
+
+Nicole Roettele – MS LOD Executive and Professional Coaching:
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Emily Elizarde – MS LOD Transformational Leadership:
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
+
+Curtis Clark:
+
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
+
+Cherie Castain – MS LOD Executive and Professional Coaching:
+
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
+
+Alberto Gutierrez Algren:
+
+Tamer Elshamy, GLEMBA ’19:
+Paragraph: Sales Director, 
+ Fawry Banking and Payment Technology Services
+
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
+
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Qiana Levy:
+
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+
+Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Sean Seabrook, MS LOD:
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -254,54 +262,59 @@ Paragraph: Advance your education with concentration credits that count toward b
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
 
-Thomas Rodgers (EMBA 2022):
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Denis Zub (EMBA 2022):
+Sean Seabrook, MS LOD:
 
-Grace Tissell – MS LOD Strategic Human Resources:
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
 
-Bill Disario:
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
+Esteban Santos, EMBA 2021:
 
 Veronica Sanchez, MS LOD:
-
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
 Imraan Husain, GLEMBA ’17:
 Paragraph: Director, 
   Articulator Dental Management
 
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Megan Lightfoot Metzger, MS LOD:
+Ellie Shollenberger:
 
-Cherie Castain – MS LOD Executive and Professional Coaching:
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
 
-Cynthia Carter – MS LOD Executive and Professional Coaching:
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Erinn Marks, GLEMBA ’19:
 
 Andy Miller, GLEMBA ’16:
 Paragraph: IT Operations Manager, 
  Splunk
 
-Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
+Megan Lightfoot Metzger, MS LOD:
+
+Tamer Elshamy, GLEMBA ’19:
+Paragraph: Sales Director, 
+ Fawry Banking and Payment Technology Services
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
 David Gill:
 
-Erinn Marks, GLEMBA ’19:
+Nicole Roettele – MS LOD Executive and Professional Coaching:
 
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Emily Elizarde – MS LOD Transformational Leadership:
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
+Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -340,57 +353,55 @@ Paragraph: Network with fellow physicians while learning from industry experts a
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Sean Seabrook, MS LOD:
-
-Tu Huynh:
-
-Cherie Castain – MS LOD Executive and Professional Coaching:
-
-Ellie Shollenberger:
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Thomas Rodgers (EMBA 2022):
-
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
-
-Cynthia Carter – MS LOD Executive and Professional Coaching:
-
-Emily Elizarde – MS LOD Transformational Leadership:
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Erinn Marks, GLEMBA ’19:
-
-Grace Tissell – MS LOD Strategic Human Resources:
-
-Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
+David Gill:
 
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
 
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
-Qiana Levy:
+Mohammed Omer, GLEMBA ’19:
+
+Erinn Marks, GLEMBA ’19:
+
+Curtis Clark:
+
+Thomas Rodgers (EMBA 2022):
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
+
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
 
 Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Jacob Heller, MS LOD:
+Alberto Gutierrez Algren:
 
-Esteban Santos, EMBA 2021:
+Qiana Levy:
+
+Cynthia Carter – MS LOD Executive and Professional Coaching:
+
+Megan Lightfoot Metzger, MS LOD:
+
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Tu Huynh:
+
+Grace Tissell – MS LOD Strategic Human Resources:
+
+Ellie Shollenberger:
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -420,55 +431,57 @@ Paragraph: Provides a foundation in the principles and practice of conflict mana
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Alberto Gutierrez Algren:
-
-Bill Disario:
-
-Denis Zub (EMBA 2022):
-
 Curtis Clark:
 
-Sean Seabrook, MS LOD:
+Jacob Heller, MS LOD:
 
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
+Emily Elizarde – MS LOD Transformational Leadership:
 
-Cynthia Carter – MS LOD Executive and Professional Coaching:
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Nicole Roettele – MS LOD Executive and Professional Coaching:
+Qiana Levy:
 
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
+Thomas Rodgers (EMBA 2022):
 
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
-
-Tu Huynh:
-
-Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
+Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
 
 Andrew Svatek, EMBA 2022:
 Paragraph: Director of Operations, 
   Svatek Consulting
 
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
+
+Esteban Santos, EMBA 2021:
+
+Cynthia Carter – MS LOD Executive and Professional Coaching:
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Bill Disario:
+
+Tu Huynh:
+
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
+
 Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
 
-Megan Lightfoot Metzger, MS LOD:
+Ellie Shollenberger:
 
-Cherie Castain – MS LOD Executive and Professional Coaching:
+Erinn Marks, GLEMBA ’19:
 
-Thomas Rodgers (EMBA 2022):
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -531,32 +544,32 @@ Click here to Apply
 Student Testimonials:
 Link: See all Executive MBA Testimonials (URL: /execed/voices/executive-mba-testimonials)
 
+Denis Zub (EMBA 2022):
+
 Thomas Rodgers (EMBA 2022):
-
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
 
 Andrew Svatek, EMBA 2022:
 Paragraph: Director of Operations, 
   Svatek Consulting
 
-Denis Zub (EMBA 2022):
-
 Vinay Rao, EMBA 2021:
 Paragraph: ERP Specialist Advisor
   NTT Data Services
 
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
 Khaled Hallak, EMBA 2021:
 Paragraph: Bank of America, Officer,
   Syndicated Loan Closer
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
 
 Frequently Asked Questions:
 
@@ -681,9 +694,9 @@ Explore all your Executive Education Degree Options:
 
 Executive Education Voices:
 
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
 
 Transformative Learning for Tomorrow’s Executives:
 Paragraph: Our executive education programs feature cutting-edge, unique offerings designed to elevate your leadership skills and drive success.
