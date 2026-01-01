@@ -50,7 +50,7 @@ moran.blueshtein@utdallas.edu|(972) 883-5076|JSOM 14.212
 Professor, Finance and Managerial Economics
 gbolton@utdallas.edu|(972) 883-5844|JSOM 3.612
 
-Director, Professional Program in Accounting, Associate Area Coordinator, Accounting, Professor of Practice, Accounting
+Director, Professional Program in Accounting, Professor of Practice, Associate Area Coordinator, Accounting, Accounting
 tabortz@utdallas.edu|(972) 883-4774|JSOM 4.435
 
 Professor of Practice, Information Systems
@@ -71,8 +71,11 @@ ziyi.cao@utdallas.edu||JSOM 3.802
 Professor, Information Systems
 huseyin@utdallas.edu|(972) 883-5939|JSOM 3.418
 
-Assistant Professor, Information Systems
-zenan.chen@utdallas.edu||JSOM 3.811
+Assistant Professor, Organizations, Strategy and International Management
+qingqing.chen@utdallas.edu|(972) 883-2759|JSOM 4.225
+
+Professor, Information Systems
+chenjq@utdallas.edu|(972) 883-2458|JSOM 3.801
 
 Assistant Professor, Operations Management
 mingliu.chen@utdallas.edu|(972) 883-4758|JSOM 3.702
@@ -80,11 +83,8 @@ mingliu.chen@utdallas.edu|(972) 883-4758|JSOM 3.702
 Associate Professor, Finance and Managerial Economics
 huaizhi.chen@utdallas.edu||JSOM 14.310
 
-Professor, Information Systems
-chenjq@utdallas.edu|(972) 883-2458|JSOM 3.801
-
-Assistant Professor, Organizations, Strategy and International Management
-qingqing.chen@utdallas.edu|(972) 883-2759|JSOM 4.225
+Assistant Professor, Information Systems
+zenan.chen@utdallas.edu||JSOM 3.811
 
 Assistant Professor, Finance and Managerial Economics
 paul.cheung@utdallas.edu|(972) 883-5861|JSOM 3.620
@@ -113,7 +113,7 @@ anita.dale@utdallas.edu|(972) 883-4372|JSOM 13.203
 Professor, Organizations, Strategy and International Management
 gdess@utdallas.edu|(972) 883-4439|JSOM 4.401
 
-Director, Center for Professional Sales, Clinical Professor, Marketing
+Clinical Professor, Director, Center for Professional Sales, Marketing
 howard.dover@utdallas.edu|(972) 883-4420|JSOM 13.511
 
 Associate Professor of Practice, Marketing
@@ -133,6 +133,9 @@ soraya.fatehi@utdallas.edu|(972) 883-5177|JSOM 3.408
 
 Associate Professor, Operations Management
 andrew.frazelle@utdallas.edu|(972) 883-5097|JSOM 3.204
+
+Associate Professor of Practice, Accounting
+sms151730@utdallas.edu|(972) 883-4774|JSOM 4.223
 
 Assistant Professor, Information Systems
 ruijiang.gao@utdallas.edu||JSOM 2.609
@@ -155,16 +158,16 @@ axg119030@utdallas.edu|(972) 883-5820|JSOM 14.304
 Professor, Accounting
 umit.gurun@utdallas.edu|(972) 883-5917|JSOM 4.813
 
-Clinical Professor, Director, Emeritus, Real Estate, Finance and Managerial Economics
+Director, Emeritus, Real Estate, Clinical Professor, Finance and Managerial Economics
 guttery@utdallas.edu|(972) 883-5910|JSOM 14.306
 
-Associate Professor of Instruction, Assistant Area Coordinator, Organizations, Strategy and International Management, Organizations, Strategy and International Management
+Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu|(972) 883-5898|JSOM 4.202
 
 Associate Professor of Instruction, Director, BS Marketing, Marketing
 haworth@utdallas.edu|(972) 883-5940|JSOM 13.328
 
-Assistant Professor of Practice, Director, Risk Management and Insurance, Finance and Managerial Economics, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics
+Assistant Professor of Practice, Director, BS Cybersecurity and Risk Management, Director, Risk Management and Insurance, Finance and Managerial Economics, Finance and Managerial Economics
 steven.haynes@utdallas.edu|(972) 883-5038|JSOM 14.401
 
 Clinical Professor, Information Systems
@@ -173,11 +176,14 @@ william.hefley@utdallas.edu|(972) 883-5006|JSOM 3.615
 Associate Professor of Instruction, Organizations, Strategy and International Management
 thenderson@utdallas.edu|(972) 883-5835|JSOM 4.231
 
-Clinical Professor, Executive Education
-robert.hicks@utdallas.edu|(972) 883-5900|JSOM 1.920
+Associate Professor of Practice, Accounting
+christopher.hes@utdallas.edu|(972) 883-5945|JSOM 4.219
 
 Clinical Assistant Professor, Organizations, Strategy and International Management
 jeff.hicks@utdallas.edu|(972) 883-5986|JSOM 13.409
+
+Clinical Professor, Executive Education
+robert.hicks@utdallas.edu|(972) 883-5900|JSOM 1.920
 
 Professor, Operations Management
 dorothee.honhon@utdallas.edu|(972) 883-5947|JSOM 3.203
@@ -185,11 +191,11 @@ dorothee.honhon@utdallas.edu|(972) 883-5947|JSOM 3.203
 Professor, Operations Management
 bin.hu@utdallas.edu|(972) 883-2728|JSOM 3.414
 
-Associate Professor, Accounting
-ying.huang1@utdallas.edu|(972) 883-5989|JSOM 4.419
-
 Assistant Professor, Accounting
 june.huang@utdallas.edu|(972) 883-5813|JSOM 4.431
+
+Associate Professor, Accounting
+ying.huang1@utdallas.edu|(972) 883-5989|JSOM 4.419
 
 Professor, Finance and Managerial Economics
 kyleb.hyndman@utdallas.edu|(972) 883-5872|JSOM 3.614
@@ -278,11 +284,11 @@ thomas.lavastida@utdallas.edu||JSOM 4.408
 Clinical Professor, Operations Management
 sonia.leach@utdallas.edu|(972) 883-5845|JSOM 3.229
 
-Assistant Professor, Organizations, Strategy and International Management
-jennifer.lee@utdallas.edu|(972) 883-5047|JSOM 4.227
-
 Professor, Organizations, Strategy and International Management
 lee.1085@utdallas.edu|(972) 883-6267|JSOM 4.409
+
+Assistant Professor, Organizations, Strategy and International Management
+jennifer.lee@utdallas.edu|(972) 883-5047|JSOM 4.227
 
 Assistant Professor, Information Systems
 andrewlee@utdallas.edu||JSOM 4.427
@@ -293,14 +299,14 @@ plewin@utdallas.edu|(972) 883-2729|JSOM 3.223
 Associate Professor, Organizations, Strategy and International Management
 ning.li@utdallas.edu|(972) 883-5801|JSOM 4.206
 
-Professor, Accounting
-ningzhong.li@utdallas.edu|(972) 883-5822|JSOM 4.422
-
 Associate Professor, Finance and Managerial Economics
 jun.li3@utdallas.edu|(972) 883-4422|JSOM 14.510
 
 Assistant Professor, Finance and Managerial Economics
 xinwei.li@utdallas.edu||JSOM 14.203
+
+Professor, Accounting
+ningzhong.li@utdallas.edu|(972) 883-5822|JSOM 4.422
 
 Assistant Professor, Marketing
 yilun.li@utdallas.edu||JSOM 13.507
@@ -311,7 +317,7 @@ yingzhi@utdallas.edu||JSOM 3.618
 Research Professor, Finance and Managerial Economics
 liebowit@utdallas.edu|(972) 883-2807|JSOM 3.611
 
-Area Coordinator, OSIM, Professor, Organizations, Strategy and International Management
+Professor, Area Coordinator, OSIM, Organizations, Strategy and International Management
 zlin@utdallas.edu|(972) 883-2753|JSOM 4.405
 
 Assistant Professor of Instruction, Finance and Managerial Economics
@@ -371,11 +377,11 @@ neda.mirzaeian@utdallas.edu|(972) 883-4823|JSOM 3.405
 Assistant Professor, Marketing
 behnam.mohammadi@utdallas.edu||JSOM 13.310
 
-Associate Professor, Information Systems
-radham@utdallas.edu|(972) 883-2415|JSOM 3.209
-
 Professor, Information Systems
 vijaym@utdallas.edu|(972) 883-4414|JSOM 3.429
+
+Associate Professor, Information Systems
+radham@utdallas.edu|(972) 883-2415|JSOM 3.209
 
 Associate Professor of Instruction, Organizations, Strategy and International Management
 semoore@utdallas.edu|(972) 883-5129|JSOM 13.207
@@ -524,7 +530,7 @@ sethi@utdallas.edu|(972) 883-6245|JSOM 3.401
 Clinical Associate Professor, Operations Management
 asethi@utdallas.edu|(972) 883-5816|JSOM 3.212
 
-Professor of Practice, Director, MS Systems Engineering and Management, Organizations, Strategy and International Management
+Director, MS Systems Engineering and Management, Professor of Practice, Organizations, Strategy and International Management
 rajiv.shah@utdallas.edu|(972) 883-5904|JSOM 4.204
 
 Assistant Professor, Marketing
@@ -596,7 +602,7 @@ xiaoxiao.tang@utdallas.edu|(972) 883-4736|JSOM 14.316
 Professor of Practice, Executive Education
 don.taylor@utdallas.edu|(972) 883-2562|JSOM 1.704
 
-Director, Enterprise Management Systems, Professor of Instruction, Information Systems
+Professor of Instruction, Director, Enterprise Management Systems, Information Systems
 lou.thompson@utdallas.edu|(972) 883-2558|JSOM 3.813
 
 Clinical Professor, Information Systems
@@ -629,14 +635,14 @@ sabrina.volpone@utdallas.edu||JSOM 3.217
 Associate Professor, Operations Management
 guihua.wang@utdallas.edu|(972) 883-4411|JSOM 3.231
 
-Assistant Professor, Operations Management
-mengxin.wang@utdallas.edu|(972) 883-4760|JSOM 13.221
-
 Assistant Professor, Information Systems
 xiaoning.wang@utdallas.edu|(972) 883-5054|JSOM 3.616
 
 Assistant Professor, Operations Management
 chonghuan.wang@utdallas.edu|(972) 883-6367|JSOM 3.605
+
+Assistant Professor, Operations Management
+mengxin.wang@utdallas.edu|(972) 883-4760|JSOM 13.221
 
 Associate Professor, Operations Management
 yining.wang@utdallas.edu|(972) 883-4813|JSOM 4.810
@@ -644,11 +650,11 @@ yining.wang@utdallas.edu|(972) 883-4813|JSOM 4.810
 Assistant Professor, Information Systems
 hxw140930@utdallas.edu|(972) 883-6265|JSOM 3.434
 
-Associate Professor, Operations Management
-shouqiang.wang@utdallas.edu|(972) 883-5093|JSOM 3.402
-
 Assistant Professor, Finance and Managerial Economics
 pingle.wang@utdallas.edu|(972) 883-5176|JSOM 14.312
+
+Associate Professor, Operations Management
+shouqiang.wang@utdallas.edu|(972) 883-5093|JSOM 3.402
 
 Clinical Professor, Organizations, Strategy and International Management
 mcclain.watson@utdallas.edu|(972) 883-4875|JSOM 4.415
@@ -668,11 +674,11 @@ wolduh@utdallas.edu|(972) 883-6357|JSOM 4.805
 Assistant Professor of Practice, Organizations, Strategy and International Management
 rgw091000@utdallas.edu|(972) 883-5960|JSOM 4.102
 
-Associate Professor, Organizations, Strategy and International Management
-junfeng.wu@utdallas.edu|(972) 883-5053|JSOM 4.218
-
 Clinical Professor, Marketing
 fangwu@utdallas.edu|(972) 883-4740|JSOM 13.312
+
+Associate Professor, Organizations, Strategy and International Management
+junfeng.wu@utdallas.edu|(972) 883-5053|JSOM 4.218
 
 Professor, Finance and Managerial Economics
 han.xia@utdallas.edu|(972) 883-6385|JSOM 14.326
@@ -698,14 +704,14 @@ azentner@utdallas.edu|(972) 883-5966|JSOM 3.206
 Assistant Professor, Marketing
 wensi.zhang@utdallas.edu|(972) 883-6942|JSOM 13.217
 
-Professor, Accounting
-jieying@utdallas.edu|(972) 883-5925|JSOM 4.801
+Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
+harold.zhang@utdallas.edu|(972) 883-4777|JSOM 14.512
 
 Associate Professor, Information Systems
 zxz145430@utdallas.edu|(972) 883-5033|JSOM 3.806
 
-Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
-harold.zhang@utdallas.edu|(972) 883-4777|JSOM 14.512
+Professor, Accounting
+jieying@utdallas.edu|(972) 883-5925|JSOM 4.801
 
 Professor, Finance and Managerial Economics
 feng.zhao@utdallas.edu|(972) 883-5815|JSOM 14.508
@@ -725,7 +731,7 @@ yibin.zhou@utdallas.edu|(972) 883-2738|JSOM 4.430
 Professor of Practice, Accounting
 kathy.zolton@utdallas.edu|(972) 883-5927|JSOM 3.705
 
-Director, BS Global Business Program, Associate Professor of Instruction, Director, MS IMS Program, Organizations, Strategy and International Management
+Director, BS Global Business Program, Director, MS IMS Program, Associate Professor of Instruction, Organizations, Strategy and International Management
 hxz120930@utdallas.edu|(972) 883-5037|JSOM 3.613
 
 
@@ -836,7 +842,7 @@ gbolton@utdallas.edu
 JSOM 3.612
 
 Tiffany A. Bortz
-Director, Professional Program in Accounting, Associate Area Coordinator, Accounting, Professor of Practice, Accounting
+Director, Professional Program in Accounting, Professor of Practice, Associate Area Coordinator, Accounting, Accounting
 tabortz@utdallas.edu
 (972) 883-4774
 JSOM 4.435
@@ -877,11 +883,17 @@ huseyin@utdallas.edu
 (972) 883-5939
 JSOM 3.418
 
-Zenan  Chen
-Assistant Professor, Information Systems
-zenan.chen@utdallas.edu
+Qingqing  Chen
+Assistant Professor, Organizations, Strategy and International Management
+qingqing.chen@utdallas.edu
+(972) 883-2759
+JSOM 4.225
 
-JSOM 3.811
+Jianqing  Chen
+Professor, Information Systems
+chenjq@utdallas.edu
+(972) 883-2458
+JSOM 3.801
 
 Mingliu  Chen
 Assistant Professor, Operations Management
@@ -895,17 +907,11 @@ huaizhi.chen@utdallas.edu
 
 JSOM 14.310
 
-Jianqing  Chen
-Professor, Information Systems
-chenjq@utdallas.edu
-(972) 883-2458
-JSOM 3.801
+Zenan  Chen
+Assistant Professor, Information Systems
+zenan.chen@utdallas.edu
 
-Qingqing  Chen
-Assistant Professor, Organizations, Strategy and International Management
-qingqing.chen@utdallas.edu
-(972) 883-2759
-JSOM 4.225
+JSOM 3.811
 
 Paul  Cheung
 Assistant Professor, Finance and Managerial Economics
@@ -962,7 +968,7 @@ gdess@utdallas.edu
 JSOM 4.401
 
 Howard  Dover
-Director, Center for Professional Sales, Clinical Professor, Marketing
+Clinical Professor, Director, Center for Professional Sales, Marketing
 howard.dover@utdallas.edu
 (972) 883-4420
 JSOM 13.511
@@ -1002,6 +1008,12 @@ Associate Professor, Operations Management
 andrew.frazelle@utdallas.edu
 (972) 883-5097
 JSOM 3.204
+
+Sandra  Frost
+Associate Professor of Practice, Accounting
+sms151730@utdallas.edu
+(972) 883-4774
+JSOM 4.223
 
 Ruijiang  Gao
 Assistant Professor, Information Systems
@@ -1046,13 +1058,13 @@ umit.gurun@utdallas.edu
 JSOM 4.813
 
 Randall  Guttery
-Clinical Professor, Director, Emeritus, Real Estate, Finance and Managerial Economics
+Director, Emeritus, Real Estate, Clinical Professor, Finance and Managerial Economics
 guttery@utdallas.edu
 (972) 883-5910
 JSOM 14.306
 
 Maria  Hasenhuttl
-Associate Professor of Instruction, Assistant Area Coordinator, Organizations, Strategy and International Management, Organizations, Strategy and International Management
+Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu
 (972) 883-5898
 JSOM 4.202
@@ -1064,7 +1076,7 @@ haworth@utdallas.edu
 JSOM 13.328
 
 Steven  Haynes
-Assistant Professor of Practice, Director, Risk Management and Insurance, Finance and Managerial Economics, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics
+Assistant Professor of Practice, Director, BS Cybersecurity and Risk Management, Director, Risk Management and Insurance, Finance and Managerial Economics, Finance and Managerial Economics
 steven.haynes@utdallas.edu
 (972) 883-5038
 JSOM 14.401
@@ -1081,17 +1093,23 @@ thenderson@utdallas.edu
 (972) 883-5835
 JSOM 4.231
 
-Robert  Hicks
-Clinical Professor, Executive Education
-robert.hicks@utdallas.edu
-(972) 883-5900
-JSOM 1.920
+Christopher  Hes
+Associate Professor of Practice, Accounting
+christopher.hes@utdallas.edu
+(972) 883-5945
+JSOM 4.219
 
 Jeffrey  Hicks
 Clinical Assistant Professor, Organizations, Strategy and International Management
 jeff.hicks@utdallas.edu
 (972) 883-5986
 JSOM 13.409
+
+Robert  Hicks
+Clinical Professor, Executive Education
+robert.hicks@utdallas.edu
+(972) 883-5900
+JSOM 1.920
 
 Dorothee  Honhon
 Professor, Operations Management
@@ -1105,17 +1123,17 @@ bin.hu@utdallas.edu
 (972) 883-2728
 JSOM 3.414
 
-Ying  Huang
-Associate Professor, Accounting
-ying.huang1@utdallas.edu
-(972) 883-5989
-JSOM 4.419
-
 June  Huang
 Assistant Professor, Accounting
 june.huang@utdallas.edu
 (972) 883-5813
 JSOM 4.431
+
+Ying  Huang
+Associate Professor, Accounting
+ying.huang1@utdallas.edu
+(972) 883-5989
+JSOM 4.419
 
 Kyle  Hyndman
 Professor, Finance and Managerial Economics
@@ -1291,17 +1309,17 @@ sonia.leach@utdallas.edu
 (972) 883-5845
 JSOM 3.229
 
-Jennifer  Lee
-Assistant Professor, Organizations, Strategy and International Management
-jennifer.lee@utdallas.edu
-(972) 883-5047
-JSOM 4.227
-
 Seung-Hyun (Sean)  Lee
 Professor, Organizations, Strategy and International Management
 lee.1085@utdallas.edu
 (972) 883-6267
 JSOM 4.409
+
+Jennifer  Lee
+Assistant Professor, Organizations, Strategy and International Management
+jennifer.lee@utdallas.edu
+(972) 883-5047
+JSOM 4.227
 
 Heeseung Andrew  Lee
 Assistant Professor, Information Systems
@@ -1321,12 +1339,6 @@ ning.li@utdallas.edu
 (972) 883-5801
 JSOM 4.206
 
-Ningzhong  Li
-Professor, Accounting
-ningzhong.li@utdallas.edu
-(972) 883-5822
-JSOM 4.422
-
 Jun  Li
 Associate Professor, Finance and Managerial Economics
 jun.li3@utdallas.edu
@@ -1338,6 +1350,12 @@ Assistant Professor, Finance and Managerial Economics
 xinwei.li@utdallas.edu
 
 JSOM 14.203
+
+Ningzhong  Li
+Professor, Accounting
+ningzhong.li@utdallas.edu
+(972) 883-5822
+JSOM 4.422
 
 Ivan  Li
 Assistant Professor, Marketing
@@ -1358,7 +1376,7 @@ liebowit@utdallas.edu
 JSOM 3.611
 
 Zhiang  Lin
-Area Coordinator, OSIM, Professor, Organizations, Strategy and International Management
+Professor, Area Coordinator, OSIM, Organizations, Strategy and International Management
 zlin@utdallas.edu
 (972) 883-2753
 JSOM 4.405
@@ -1477,17 +1495,17 @@ behnam.mohammadi@utdallas.edu
 
 JSOM 13.310
 
-Radha  Mookerjee
-Associate Professor, Information Systems
-radham@utdallas.edu
-(972) 883-2415
-JSOM 3.209
-
 Vijay  Mookerjee
 Professor, Information Systems
 vijaym@utdallas.edu
 (972) 883-4414
 JSOM 3.429
+
+Radha  Mookerjee
+Associate Professor, Information Systems
+radham@utdallas.edu
+(972) 883-2415
+JSOM 3.209
 
 Sarah  Moore
 Associate Professor of Instruction, Organizations, Strategy and International Management
@@ -1784,7 +1802,7 @@ asethi@utdallas.edu
 JSOM 3.212
 
 Rajiv R Shah
-Professor of Practice, Director, MS Systems Engineering and Management, Organizations, Strategy and International Management
+Director, MS Systems Engineering and Management, Professor of Practice, Organizations, Strategy and International Management
 rajiv.shah@utdallas.edu
 (972) 883-5904
 JSOM 4.204
@@ -1928,7 +1946,7 @@ don.taylor@utdallas.edu
 JSOM 1.704
 
 Luell  Thompson
-Director, Enterprise Management Systems, Professor of Instruction, Information Systems
+Professor of Instruction, Director, Enterprise Management Systems, Information Systems
 lou.thompson@utdallas.edu
 (972) 883-2558
 JSOM 3.813
@@ -1993,12 +2011,6 @@ guihua.wang@utdallas.edu
 (972) 883-4411
 JSOM 3.231
 
-Mengxin Selene  Wang
-Assistant Professor, Operations Management
-mengxin.wang@utdallas.edu
-(972) 883-4760
-JSOM 13.221
-
 Gavin Xiaoning Wang
 Assistant Professor, Information Systems
 xiaoning.wang@utdallas.edu
@@ -2010,6 +2022,12 @@ Assistant Professor, Operations Management
 chonghuan.wang@utdallas.edu
 (972) 883-6367
 JSOM 3.605
+
+Mengxin Selene  Wang
+Assistant Professor, Operations Management
+mengxin.wang@utdallas.edu
+(972) 883-4760
+JSOM 13.221
 
 Yining  Wang
 Associate Professor, Operations Management
@@ -2023,17 +2041,17 @@ hxw140930@utdallas.edu
 (972) 883-6265
 JSOM 3.434
 
-Shouqiang  Wang
-Associate Professor, Operations Management
-shouqiang.wang@utdallas.edu
-(972) 883-5093
-JSOM 3.402
-
 Pingle  Wang
 Assistant Professor, Finance and Managerial Economics
 pingle.wang@utdallas.edu
 (972) 883-5176
 JSOM 14.312
+
+Shouqiang  Wang
+Associate Professor, Operations Management
+shouqiang.wang@utdallas.edu
+(972) 883-5093
+JSOM 3.402
 
 McClain  Watson
 Clinical Professor, Organizations, Strategy and International Management
@@ -2071,17 +2089,17 @@ rgw091000@utdallas.edu
 (972) 883-5960
 JSOM 4.102
 
-Junfeng  Wu
-Associate Professor, Organizations, Strategy and International Management
-junfeng.wu@utdallas.edu
-(972) 883-5053
-JSOM 4.218
-
 Fang  Wu
 Clinical Professor, Marketing
 fangwu@utdallas.edu
 (972) 883-4740
 JSOM 13.312
+
+Junfeng  Wu
+Associate Professor, Organizations, Strategy and International Management
+junfeng.wu@utdallas.edu
+(972) 883-5053
+JSOM 4.218
 
 Han  Xia
 Professor, Finance and Managerial Economics
@@ -2131,11 +2149,11 @@ wensi.zhang@utdallas.edu
 (972) 883-6942
 JSOM 13.217
 
-Jieying  Zhang
-Professor, Accounting
-jieying@utdallas.edu
-(972) 883-5925
-JSOM 4.801
+Harold Huibing Zhang
+Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
+harold.zhang@utdallas.edu
+(972) 883-4777
+JSOM 14.512
 
 Zhe  Zhang
 Associate Professor, Information Systems
@@ -2143,11 +2161,11 @@ zxz145430@utdallas.edu
 (972) 883-5033
 JSOM 3.806
 
-Harold Huibing Zhang
-Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
-harold.zhang@utdallas.edu
-(972) 883-4777
-JSOM 14.512
+Jieying  Zhang
+Professor, Accounting
+jieying@utdallas.edu
+(972) 883-5925
+JSOM 4.801
 
 Feng  Zhao
 Professor, Finance and Managerial Economics
@@ -2186,7 +2204,7 @@ kathy.zolton@utdallas.edu
 JSOM 3.705
 
 Hubert  Zydorek
-Director, BS Global Business Program, Associate Professor of Instruction, Director, MS IMS Program, Organizations, Strategy and International Management
+Director, BS Global Business Program, Director, MS IMS Program, Associate Professor of Instruction, Organizations, Strategy and International Management
 hxz120930@utdallas.edu
 (972) 883-5037
 JSOM 3.613

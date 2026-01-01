@@ -593,7 +593,7 @@ Context: Executive Education at UT Dallas helps leaners become global leader in 
 Context: The Jindal School of Management offers certificates through its master’s degree programs, executive education programs, centers and institutes. Certificates are available in two formats: Academic and Professional (non-credit). Students with a university degree may pursue academic certificates for academic credit, and students with or without a college degree may pursue non-credit professional certificates.
 	- View All Certificate Programs
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 
 ==================================================
 
@@ -1906,71 +1906,71 @@ Context: Thank you for your interest in the Naveen Jindal School of Management, 
 	- Text: 
 	  Href: https://jindal.utdallas.edu
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: The University of Texas at Dallas
 	  Href: https://utdallas.edu
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Undergraduate
 	  Href: https://jindal.utdallas.edu/undergraduate-programs/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: MS
 	  Href: https://jindal.utdallas.edu/masters-programs/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: MBA
 	  Href: https://mba.utdallas.edu/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: PhD
 	  Href: https://jindal.utdallas.edu/phd-programs/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Executive Education
 	  Href: https://execed.utdallas.edu/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Certificates
 	  Href: https://jindal.utdallas.edu/certificate-programs/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Centers & Institutes
 	  Href: https://jindal.utdallas.edu/centers-of-excellence/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Staff
 	  Href: https://jindal.utdallas.edu/staff-list/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: About Jindal School
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Advising
 	  Href: https://jindal.utdallas.edu/advising/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Career Management
 	  Href: https://jindal.utdallas.edu/career-management-center/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Alumni
 	  Href: https://jindal.utdallas.edu/alumni/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: External Relations
 	  Href: https://jindal.utdallas.edu/external-relations/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Faculty & Research
 	  Href: https://jindal.utdallas.edu/faculty/
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: Faculty Publications
 	  Href: https://jsom.utdallas.edu/list-of-published-works
 
-Context: Copyright © 2025, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
+Context: Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
 	- Text: News & Stories
 	  Href: https://jindal.utdallas.edu/external-relations/news-stories/
 
