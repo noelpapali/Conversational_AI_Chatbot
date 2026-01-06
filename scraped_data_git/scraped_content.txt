@@ -1645,26 +1645,6 @@ Context: Make a Gift
 	- Text: Apply Now
 	  Href: https://utdallas.my.site.com
 
-Context: Upcoming Events
-	- Text: Upcoming Events
-	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
-
-Context: School Commencement Ceremony 1
-	- Text: School Commencement Ceremony 1
-	  Href: https://calendar.utdallas.edu/event/school-commencement-ceremony-naveen-jindal-school-of-management-1
-
-Context: School Commencement Ceremony 2
-	- Text: School Commencement Ceremony 2
-	  Href: https://calendar.utdallas.edu/event/school-commencement-ceremony-naveen-jindal-school-of-management-2
-
-Context: School Commencement Ceremony 3
-	- Text: School Commencement Ceremony 3
-	  Href: https://calendar.utdallas.edu/event/school-commencement-ceremony-naveen-jindal-school-of-management-3
-
-Context: School Commencement Ceremony 4
-	- Text: School Commencement Ceremony 4
-	  Href: https://calendar.utdallas.edu/event/school-commencement-ceremony-naveen-jindal-school-of-management-4
-
 Context: Apply Now
 	- Text: Apply Now
 	  Href: https://jindal.utdallas.edu/admission-requirements/?_ga=2.241799367.453193223.1743428658-29614718.1743199431
