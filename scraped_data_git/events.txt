@@ -146,65 +146,71 @@ Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391242266032&instance=51391255383102
 --------------------------------------------------
-Date: Wednesday, February 18, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Communication in Your Work
+Date: Tuesday, February 17, 2026
+Time: 02:00 PM - 03:00 PM
+Title: Reusable Tote Bag Making
 Location: 
-Event URL: 51382626325985&instance=51382634563917
+Event URL: 51747622408942&instance=51747622409967
 --------------------------------------------------
 Date: Wednesday, February 18, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51383053551847&instance=51383075727417
+Event URL: 51391242025978&instance=51391256916258
 --------------------------------------------------
 Date: Thursday, February 19, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51383053333132&instance=51383075477647
+Event URL: 51391241806087&instance=51391258960604
 --------------------------------------------------
-Date: Monday, February 23, 2026
+Date: Friday, February 20, 2026
+Time: 12:00 PM - 01:00 PM
+Title: JSOM GRAD - Defend the Resume
+Location: 
+Event URL: 51384711800045&instance=51384731359825
+--------------------------------------------------
+Date: Tuesday, February 24, 2026
 Time: 12:00 PM - 01:00 PM
 Title: JSOM - Collaboration & Teamwork
 Location: 
-Event URL: 51382683734763&instance=51382688499042
+Event URL: 51382697738232&instance=51382699919525
 --------------------------------------------------
 Date: Tuesday, February 24, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391241582050&instance=51391261877328
+Event URL: 51383109637762&instance=51383135995669
 --------------------------------------------------
 Date: Wednesday, February 25, 2026
 Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA - Virtual Information Session
+Title: JSOM GRAD - Defend the Resume
 Location: 
-Event URL: 51349062163797&instance=51349062164822
+Event URL: 51384710898415&instance=51384731088087
 --------------------------------------------------
 Date: Wednesday, February 25, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391241377070&instance=51391264392859
+Event URL: 51383109419333&instance=51383146547366
 --------------------------------------------------
 Date: Thursday, February 26, 2026
 Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
+Title: JSOM GRAD - Defend the Resume
 Location: 
-Event URL: 50650376599666&instance=50650381391183
+Event URL: 51384714863699&instance=51384730809109
 --------------------------------------------------
 Date: Thursday, February 26, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391241090935&instance=51391292911789
+Event URL: 51383109181404&instance=51383153920553
 --------------------------------------------------
-Date: Friday, February 27, 2026
+Date: Saturday, February 28, 2026
 Time: 12:00 AM - 06:00 PM
 Title: 2026 Early-Career Sustainable Operations Workshop
 Location: 
-Event URL: 50640410094882&instance=50640410094883
+Event URL: 50640410094882&instance=50640410095908
 --------------------------------------------------
 Month: Mar, 2026
 
@@ -303,12 +309,4 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391542667899&instance=51391552720530
---------------------------------------------------
-Month: Apr, 2026
-
-Date: Wednesday, April 01, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391628742353&instance=51391642450966
 --------------------------------------------------
