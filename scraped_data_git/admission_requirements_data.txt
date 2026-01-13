@@ -90,62 +90,62 @@ Links:
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 Headings:
 - Alumni Testimonials
-- Mina Ameri
-- Zhengrui Jiang
-- Xuying Zhao
-- Qi Annabelle Feng
-- Subodha Kumar
-- Tai-Yuan Chen
-- Aidin Namin
-- Jess Cornaggia
-- Blair Flicker
-- Steve Sauerwald
 - Haibin Yang
+- Jess Cornaggia
+- Aidin Namin
+- Tai-Yuan Chen
+- Blair Flicker
+- Subodha Kumar
+- Xuying Zhao
+- Zhengrui Jiang
 - Devendra Kale
-- Hasan Cavusoglu
-- Bharadwaj Kadiyala
-- Harish Guda
+- Qi Annabelle Feng
+- Steve Sauerwald
+- Mina Ameri
 - Wei Chen
+- Bharadwaj Kadiyala
 - Oktay Urcan
+- Hasan Cavusoglu
+- Harish Guda
 Content:
-Assistant ProfessorThe University of Pittsburgh
-Professor of Information Systems,School of Business,
-Nanjing University
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
-John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
-Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
+Professor in Strategic Management,College of Business, City University of Hong Kong
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
+Associate Professor of Marketing Analytics, Loyola Marymount University
 Alumni Professor of Finance,HKUST Business School,
 Hong Kong University of Science and Technology
-Associate Professor of Marketing Analytics, Loyola Marymount University
-Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
 Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
-Associate Professor, Department of Managerial Studies, College of Business, University of Illinois at Chicago
-Professor in Strategic Management,College of Business, City University of Hong Kong
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Professor of Information Systems,School of Business,
+Nanjing University
 PhD in Management Science, Accounting
 Assistant Professor,University of Rhode Island
-Professor of Management Information SystemsSauder School of Business, The University of British Columbia
-Assistant Professor,Eccles School of Business, University of Utah
-Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
+John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
+Associate Professor, Department of Managerial Studies, College of Business, University of Illinois at Chicago
+Assistant ProfessorThe University of Pittsburgh
 Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Assistant Professor,Eccles School of Business, University of Utah
 Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
 Links:
-- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
-- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
-- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
-- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
-- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
-- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
-- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
-- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
-- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
-- Steve Sauerwald - https://jindal.utdallas.edu/testimonials/phd-testimonials/steve-sauerwald/
 - Haibin Yang - https://jindal.utdallas.edu/testimonials/phd-testimonials/haibin-yang/
+- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
+- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
+- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
+- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
+- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
 - Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
-- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
-- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
+- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
+- Steve Sauerwald - https://jindal.utdallas.edu/testimonials/phd-testimonials/steve-sauerwald/
+- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
 - Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
 - Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
+- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
+- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================

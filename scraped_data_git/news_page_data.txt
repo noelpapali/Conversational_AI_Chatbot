@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Faculty Member Named IREM Dallas Academic Member of the Year
+Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-named-irem-dallas-academic-member-of-the-year/
+Excerpt: Having faculty members who are experts in their field is crucial for business-school programs that focus on a specific industry. The Naveen Jindal School of Management’s real estate program can claim even more: an award-winning expert. Julie Lynch Julie Lynch, an associate professor of practice in the Jindal school’s Finance and Managerial Economics Area and […]
+Meta Details: January 13th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/01/julie_lynch_630x630.jpg
+
+==================================================
+
 Title: Global Business Alumnus Uses Jindal School as Launchpad for International Service
 Title Link: https://jindal.utdallas.edu/news/global-business-alumnus-uses-jindal-school-as-launchpad-for-international-service/
 Excerpt: Fueled by the global experiences he built in the Naveen Jindal School of Management, Vladyslav (Vlad) Wallace, BS’20, now represents the United States on the world stage. Vladyslav (Vlad) Wallace Right on the heels of a formative experience with the U.S. State Department’s National Security Language Initiative (NSLI) program in Chisinau, Moldova, Wallace arrived at […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2025/12/vlad_wallace_foriegn_servic
 Title: New Required Undergraduate Course at Jindal School Anchors Professional Development
 Title Link: https://jindal.utdallas.edu/news/new-required-undergraduate-course-at-jindal-school-anchors-professional-development/
 Excerpt: Students who enroll in business schools often do so to prepare for a rewarding life and productive career. A new undergraduate course is being offered at The University of Texas at Dallas’ Naveen Jindal School of Management to help them build the communication and professional skills essential for success. Beginning this fall, all incoming freshmen […]
-Meta Details: December 9th, 2025 |Academics,Featured,Students
+Meta Details: December 9th, 2025 |Academics,Students
 Image URL: https://jindal.utdallas.edu/files/2025/12/Professional-Development-630x630-1.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-mba-surges-in-bloombe
 Excerpt: Bloomberg Businessweek’s 2025-26 Best B-Schools rankings are in, and the Naveen Jindal School of Management’s Full-Time MBA program has surged upward, now ranking No. 12 among public universities and 32nd overall. Among U.S. public university programs, the ranking, released Sept. 16, shows that the Jindal School’s MBA moved up eight places among publics and 14 […]
 Meta Details: September 17th, 2025 |Academics
 Image URL: https://jindal.utdallas.edu/files/2023/04/jsom_sign_630x630.jpg
-
-==================================================
-
-Title: Jindal School Marketing Sophomore Jane Burkhardt Takes Helm at UTD Mercury
-Title Link: https://jindal.utdallas.edu/news/jindal-school-marketing-sophomore-jane-burkhardt-takes-helm-at-utd-mercury/
-Excerpt: You might not think to look for a newspaper editor in the Naveen Jindal School of Management, but Jane Burkhardt, a marketing sophomore, takes over as editor-in-chief of The Mercury, The University of Texas at Dallas’ official student-run newspaper, this fall. Established in 1980, it had been silent for the past year. “While The Mercury […]
-Meta Details: September 16th, 2025 |Students
-Image URL: https://jindal.utdallas.edu/files/2025/09/jane_burkhardt_630x630.jpg
 
 ==================================================
 
