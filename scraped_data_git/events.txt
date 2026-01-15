@@ -31,22 +31,28 @@ Location:
 Event URL: 50321557610449&instance=50321557625816
 --------------------------------------------------
 Date: Wednesday, January 21, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Kick-start your Job Search Powerfully
 Location: 
-Event URL: 51384893064854&instance=51384947626746
+Event URL: 51827168755383&instance=51827178296854
 --------------------------------------------------
 Date: Wednesday, January 21, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM Advising Lab Volunteer Opportunity – Spring 2026
 Location: 
-Event URL: 51382286670552&instance=51568293642720
+Event URL: 51782873147073&instance=51783006845110
+--------------------------------------------------
+Date: Wednesday, January 21, 2026
+Time: 01:00 PM - 03:00 PM
+Title: JSOM Welcome Back Events
+Location: 
+Event URL: 51818087494987&instance=51818136381531
 --------------------------------------------------
 Date: Thursday, January 22, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Start the year off right with a UTD MBA Virtual Info Session
+Time: 12:00 PM - 01:00 PM
+Title: JSOM - Kick-start your Job Search Powerfully
 Location: 
-Event URL: 51806679759297&instance=51806679760322
+Event URL: 51827147281436&instance=51827165377142
 --------------------------------------------------
 Date: Thursday, January 22, 2026
 Time: 01:00 PM - 04:00 PM
@@ -85,16 +91,22 @@ Location:
 Event URL: 51782267857358&instance=51782270444302
 --------------------------------------------------
 Date: Wednesday, January 28, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Inside the Customized Online MBA: Program Info Session
+Time: 12:00 AM - 06:00 PM
+Title: Academic Summit for Business Analytics (ASBA) 2026
 Location: 
-Event URL: 51348947538850&instance=51348947539875
+Event URL: 51832710284185&instance=51832710284186
+--------------------------------------------------
+Date: Wednesday, January 28, 2026
+Time: 12:30 PM - 01:30 PM
+Title: MS ITM Student Welcome & Welcome Back Mixer
+Location: 
+Event URL: 51532933583992&instance=51532933585017
 --------------------------------------------------
 Date: Wednesday, January 28, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51382285070242&instance=51382350099279
+Event URL: 51384985115838&instance=51384996129360
 --------------------------------------------------
 Date: Thursday, January 29, 2026
 Time: 07:30 AM - 08:00 AM
@@ -115,10 +127,10 @@ Location:
 Event URL: 51773837451373&instance=51773837451374
 --------------------------------------------------
 Date: Friday, January 30, 2026
-Time: 04:00 PM - 04:30 PM
+Time: 12:00 PM - 12:30 PM
 Title: JSOM CMC: Networking with Confidence (Before the Career Fair)
 Location: 
-Event URL: 51782416600821&instance=51782416601846
+Event URL: 51782285652125&instance=51782294450813
 --------------------------------------------------
 Month: Feb, 2026
 
@@ -159,16 +171,10 @@ Location:
 Event URL: 51382550905608&instance=51382560119670
 --------------------------------------------------
 Date: Monday, February 09, 2026
-Time: 04:30 PM - 05:00 PM
-Title: JSOM- Tell the Skills Story: Making Your Resume Employer-Ready
+Time: 07:00 PM - 08:00 PM
+Title: Advance Your Career: Explore the Customized Online MBA
 Location: 
-Event URL: 51782642824728&instance=51782642824729
---------------------------------------------------
-Date: Tuesday, February 10, 2026
-Time: 08:30 AM - 08:00 PM
-Title: FinTEX - Insurance Conference 2026
-Location: 
-Event URL: 51339220236111&instance=51339220239185
+Event URL: 51349027883447&instance=51349027884472
 --------------------------------------------------
 Date: Tuesday, February 10, 2026
 Time: 01:00 PM - 04:00 PM
@@ -297,16 +303,4 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51383222466329&instance=51383241769794
---------------------------------------------------
-Date: Wednesday, March 04, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50322144938712&instance=50322144960225
---------------------------------------------------
-Date: Wednesday, March 04, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391398823114&instance=51391417336915
 --------------------------------------------------
