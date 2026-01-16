@@ -1649,6 +1649,10 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
+Context: Academic Summit for Business Analytics (ASBA) 2026
+	- Text: Academic Summit for Business Analytics (ASBA) 2026
+	  Href: https://calendar.utdallas.edu/event/academic-summit-for-business-analytics-asba-2026
+
 Context: MSBA&AI Flex Internship Panel
 	- Text: MSBA&AI Flex Internship Panel
 	  Href: https://jindal.utdallas.edu/calendar/51807522142307&instance=51807522143332
