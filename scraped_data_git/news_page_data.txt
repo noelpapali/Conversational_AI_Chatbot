@@ -1,10 +1,18 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Academic Summit Focuses on the Analytics Skills Behind AI’s Promise
+Title Link: https://jindal.utdallas.edu/news/academic-summit-focuses-on-the-analytics-skills-behind-ais-promise/
+Excerpt: Artificial intelligence is all the rage. But underneath those headline-grabbing tech tools is something far less glamorous — and far more essential: business analytics, the decision-making workflow that turns AI from a flashy demo into a real business advantage. The Third Annual Academic Summit for Business Analytics 2026 (ASBA 2026), presented by the Naveen Jindal […]
+Meta Details: January 16th, 2026 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/01/asba_2026_630x630.png
+
+==================================================
+
 Title: Jindal School Faculty Member Named IREM Dallas Academic Member of the Year
 Title Link: https://jindal.utdallas.edu/news/jindal-school-faculty-member-named-irem-dallas-academic-member-of-the-year/
 Excerpt: Having faculty members who are experts in their field is crucial for business-school programs that focus on a specific industry. The Naveen Jindal School of Management’s real estate program can claim even more: an award-winning expert. Julie Lynch Julie Lynch, an associate professor of practice in the Jindal school’s Finance and Managerial Economics Area and […]
-Meta Details: January 13th, 2026 |Faculty/Research,Featured
+Meta Details: January 13th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/01/julie_lynch_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jain-family-foundation-supports-50-
 Excerpt: The financial load for 50 graduate students in the Naveen Jindal School of Management has been lightened thanks to a generous gift from Anurag and Gunjan Jain. Dr. Hasan Pirkul, Caruth Chair and Jindal School dean, held a reception Sept. 10 in the Jindal School’s Executive Dining Room to celebrate the gift and introduce the […]
 Meta Details: September 23rd, 2025 |Development
 Image URL: https://jindal.utdallas.edu/files/2025/09/anurag_jain_630x630.jpg
-
-==================================================
-
-Title: Jindal School MBA Surges in Bloomberg Businessweek Rankings
-Title Link: https://jindal.utdallas.edu/news/jindal-school-mba-surges-in-bloomberg-businessweek-rankings/
-Excerpt: Bloomberg Businessweek’s 2025-26 Best B-Schools rankings are in, and the Naveen Jindal School of Management’s Full-Time MBA program has surged upward, now ranking No. 12 among public universities and 32nd overall. Among U.S. public university programs, the ranking, released Sept. 16, shows that the Jindal School’s MBA moved up eight places among publics and 14 […]
-Meta Details: September 17th, 2025 |Academics
-Image URL: https://jindal.utdallas.edu/files/2023/04/jsom_sign_630x630.jpg
 
 ==================================================
 
