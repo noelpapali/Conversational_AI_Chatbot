@@ -90,62 +90,62 @@ Links:
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 Headings:
 - Alumni Testimonials
-- Zhengrui Jiang
-- Devendra Kale
-- Qi Annabelle Feng
+- Xuying Zhao
+- Jess Cornaggia
+- Bharadwaj Kadiyala
 - Tai-Yuan Chen
+- Wei Chen
+- Haibin Yang
+- Devendra Kale
 - Mina Ameri
-- Steve Sauerwald
+- Hasan Cavusoglu
+- Oktay Urcan
+- Qi Annabelle Feng
 - Subodha Kumar
 - Harish Guda
-- Bharadwaj Kadiyala
-- Wei Chen
 - Blair Flicker
-- Hasan Cavusoglu
-- Haibin Yang
-- Oktay Urcan
 - Aidin Namin
-- Jess Cornaggia
-- Xuying Zhao
+- Steve Sauerwald
+- Zhengrui Jiang
 Content:
-Professor of Information Systems,School of Business,
-Nanjing University
-PhD in Management Science, Accounting
-Assistant Professor,University of Rhode Island
-John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
+Assistant Professor,Eccles School of Business, University of Utah
 Alumni Professor of Finance,HKUST Business School,
 Hong Kong University of Science and Technology
+Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Professor in Strategic Management,College of Business, City University of Hong Kong
+PhD in Management Science, Accounting
+Assistant Professor,University of Rhode Island
 Assistant ProfessorThe University of Pittsburgh
-Associate Professor, Department of Managerial Studies, College of Business, University of Illinois at Chicago
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
 Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
 Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
-Assistant Professor,Eccles School of Business, University of Utah
-Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
 Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
-Professor of Management Information SystemsSauder School of Business, The University of British Columbia
-Professor in Strategic Management,College of Business, City University of Hong Kong
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
 Associate Professor of Marketing Analytics, Loyola Marymount University
-Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Associate Professor, Department of Managerial Studies, College of Business, University of Illinois at Chicago
+Professor of Information Systems,School of Business,
+Nanjing University
 Links:
-- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
-- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
-- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
+- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
+- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
 - Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
+- Haibin Yang - https://jindal.utdallas.edu/testimonials/phd-testimonials/haibin-yang/
+- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
 - Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
-- Steve Sauerwald - https://jindal.utdallas.edu/testimonials/phd-testimonials/steve-sauerwald/
+- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
+- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
+- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
 - Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
 - Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
-- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
 - Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
-- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
-- Haibin Yang - https://jindal.utdallas.edu/testimonials/phd-testimonials/haibin-yang/
-- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
 - Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
-- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
-- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
+- Steve Sauerwald - https://jindal.utdallas.edu/testimonials/phd-testimonials/steve-sauerwald/
+- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================
