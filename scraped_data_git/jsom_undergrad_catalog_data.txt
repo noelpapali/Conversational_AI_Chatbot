@@ -7009,9 +7009,9 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
+- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
+- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7043,9 +7043,9 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
+- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
+- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7304,9 +7304,9 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
+- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
+- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7338,9 +7338,9 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
+- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
+- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
