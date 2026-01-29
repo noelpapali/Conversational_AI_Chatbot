@@ -6817,6 +6817,9 @@ Office of Admission and Enrollmentadmission@utdallas.edu972-883-2270Meet with a 
 View more social accounts
 ©The University of Texas at Dallas
 Lists:
+- Visit
+- Tours
+- Events
 - Home
 - FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
@@ -6842,12 +6845,10 @@ Lists:
 - Affordability
 - Freshman Scholarships
 - Transfer Scholarships
-- VisitVisit UT DallasToursComet LaunchpadScholars’ DayPreview Friday
+- VisitVisit UT DallasToursEvents
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - ContactContact UsCounselor Locator
 - Contact Us
 - Counselor Locator
@@ -6874,11 +6875,12 @@ Lists:
 - Transfer Scholarships
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - Contact Us
 - Counselor Locator
+- Visit
+- Tours
+- Events
 - Home
 - FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
@@ -6904,12 +6906,10 @@ Lists:
 - Affordability
 - Freshman Scholarships
 - Transfer Scholarships
-- VisitVisit UT DallasToursComet LaunchpadScholars’ DayPreview Friday
+- VisitVisit UT DallasToursEvents
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - ContactContact UsCounselor Locator
 - Contact Us
 - Counselor Locator
@@ -6936,9 +6936,7 @@ Lists:
 - Transfer Scholarships
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - Contact Us
 - Counselor Locator
 - 
@@ -6981,6 +6979,9 @@ Links:
 - Skip to main content - #main
 -  - https://www.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu/
+- Visit - https://enroll.utdallas.edu/visit/
+- Tours - https://enroll.utdallas.edu/visit/tours/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Home - https://enroll.utdallas.edu/
 - Freshman - #
 - Freshman Admissions - https://enroll.utdallas.edu/freshman/
@@ -7009,12 +7010,13 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
+- Visit - https://enroll.utdallas.edu/visit/
+- Tours - https://enroll.utdallas.edu/visit/tours/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Home - https://enroll.utdallas.edu/
 - Freshman - #
 - Freshman Admissions - https://enroll.utdallas.edu/freshman/
@@ -7043,9 +7045,7 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7132,6 +7132,9 @@ Office of Admission and Enrollmentadmission@utdallas.edu972-883-2270Meet with a 
 View more social accounts
 ©The University of Texas at Dallas
 Lists:
+- Visit
+- Tours
+- Events
 - Home
 - FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
@@ -7157,12 +7160,10 @@ Lists:
 - Affordability
 - Freshman Scholarships
 - Transfer Scholarships
-- VisitVisit UT DallasToursComet LaunchpadScholars’ DayPreview Friday
+- VisitVisit UT DallasToursEvents
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - ContactContact UsCounselor Locator
 - Contact Us
 - Counselor Locator
@@ -7189,11 +7190,12 @@ Lists:
 - Transfer Scholarships
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - Contact Us
 - Counselor Locator
+- Visit
+- Tours
+- Events
 - Home
 - FreshmanFreshman AdmissionsCriteriaApplication ProcessDeadlines and FeesTimelinePathway ProgramsSteps After AdmissionInternational Applicants
 - Freshman Admissions
@@ -7219,12 +7221,10 @@ Lists:
 - Affordability
 - Freshman Scholarships
 - Transfer Scholarships
-- VisitVisit UT DallasToursComet LaunchpadScholars’ DayPreview Friday
+- VisitVisit UT DallasToursEvents
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - ContactContact UsCounselor Locator
 - Contact Us
 - Counselor Locator
@@ -7251,9 +7251,7 @@ Lists:
 - Transfer Scholarships
 - Visit UT Dallas
 - Tours
-- Comet Launchpad
-- Scholars’ Day
-- Preview Friday
+- Events
 - Contact Us
 - Counselor Locator
 - 
@@ -7276,6 +7274,9 @@ Links:
 - Skip to main content - #main
 -  - https://www.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu/
+- Visit - https://enroll.utdallas.edu/visit/
+- Tours - https://enroll.utdallas.edu/visit/tours/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Home - https://enroll.utdallas.edu/
 - Freshman - #
 - Freshman Admissions - https://enroll.utdallas.edu/freshman/
@@ -7304,12 +7305,13 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
+- Visit - https://enroll.utdallas.edu/visit/
+- Tours - https://enroll.utdallas.edu/visit/tours/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Home - https://enroll.utdallas.edu/
 - Freshman - #
 - Freshman Admissions - https://enroll.utdallas.edu/freshman/
@@ -7338,9 +7340,7 @@ Links:
 - Visit - #
 - Visit UT Dallas - https://enroll.utdallas.edu/visit/
 - Tours - https://enroll.utdallas.edu/visit/tours/
-- Comet Launchpad - https://enroll.utdallas.edu/visit/events__trashed/comet-launchpad/
-- Scholars’ Day - https://enroll.utdallas.edu/visit/events__trashed/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events__trashed/preview-friday/
+- Events - https://enroll.utdallas.edu/visit/events/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/

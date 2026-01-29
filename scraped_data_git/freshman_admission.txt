@@ -16,6 +16,7 @@ Heading:
 
 Heading: Important Dates
   Table (Regular Style):
+    Date, Details
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
     May 1, Regular Application Deadline
@@ -91,6 +92,7 @@ Heading:
 
 Heading: Important Dates
   Table (Regular Style):
+    Date, Details
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
     May 1, Regular Application Deadline
@@ -174,6 +176,7 @@ Heading:
 
 Heading: Important Dates
   Table (Regular Style):
+    Date, Details
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
     May 1, Regular Application Deadline
@@ -236,6 +239,7 @@ Heading:
 
 Heading: Important Dates
   Table (Regular Style):
+    Date, Details
     August 1, CommonApp and ApplyTexas applications open
     December 1, Priority Admission Application Deadline*
     May 1, Regular Application Deadline
@@ -334,15 +338,6 @@ Heading:
 Heading: Visit UT Dallas
   Paragraph: Learn what it’s like to be a Comet.
   Paragraph: 
-
---------------------------------------------------
-
-Heading: UT Dallas Visitor Center
-  Paragraph: HoursMonday through Friday8 a.m.–5 p.m.
-  Paragraph: Address
-  Paragraph: 2830 Rutford Ave,
-  Paragraph: Richardson, TX 75080
-  Paragraph: Contactadmission@utdallas.edu972-883-6046
 
 --------------------------------------------------
 
