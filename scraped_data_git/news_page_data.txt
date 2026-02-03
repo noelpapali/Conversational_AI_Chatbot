@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Student Consultants from Jindal School Provide Real Value to Client Companies and Organizations
+Title Link: https://jindal.utdallas.edu/news/student-consultants-from-jindal-school-provide-real-value-to-client-companies-and-organizations/
+Excerpt: In building construction, a capstone marks completion; in business education, it proves readiness — and students in the Naveen Jindal School of Management who participated in UTDsolv Capstone Projects this past fall did both. During the fall 2025 semester, more than 700 senior undergraduate students were assigned to 137 student teams and 78 projects, consulting […]
+Meta Details: February 3rd, 2026 |Academics,Events,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2026/02/utdsolv_capstone_expo_slide_fall_2025_630X630.jpg
+
+==================================================
+
 Title: Vietnam Conference Honors 80th Birthday and Achievements of Jindal School’s Suresh Sethi
 Title Link: https://jindal.utdallas.edu/news/vietnam-conference-honors-80th-birthday-and-achievements-of-jindal-schools-suresh-sethi/
 Excerpt: The Human-Centered AI Society (HCAIS) held a conference recently to honor the 80th birthday and achievements of Dr. Suresh Sethi, Eugene McDermott Distinguished Chair in the Naveen Jindal School of Management and a professor in the Operations and Supply Chain Management (OM) Academic Area. The conference — Symposium on Intelligent Operations 2025 & International Conference Honoring […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/01/sethi_hanoi_conference_5_63
 Title: Academic Summit Focuses on the Analytics Skills Behind AI’s Promise
 Title Link: https://jindal.utdallas.edu/news/academic-summit-focuses-on-the-analytics-skills-behind-ais-promise/
 Excerpt: Artificial intelligence is all the rage. But underneath those headline-grabbing tech tools is something far less glamorous — and far more essential: business analytics, the decision-making workflow that turns AI from a flashy demo into a real business advantage. The Third Annual Academic Summit for Business Analytics 2026 (ASBA 2026), presented by the Naveen Jindal […]
-Meta Details: January 16th, 2026 |Events,Featured
+Meta Details: January 16th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/01/asba_2026_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/eduniversal-awards-jindal-school-fo
 Excerpt: 
 Meta Details: October 7th, 2025 |Academics
 Image URL: https://jindal.utdallas.edu/files/2025/10/palmes_630x630.png
-
-==================================================
-
-Title: Jindal School Celebrates Golden Age of Artificial Intelligence with Inaugural AI Day
-Title Link: https://jindal.utdallas.edu/news/jindal-school-celebrates-golden-age-of-artificial-intelligence-with-inaugural-ai-day/
-Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas will present its inaugural Artificial Intelligence (AI) Day Oct. 28, bringing together industry leaders, researchers and students for a daylong look at how AI is reshaping business, technology, education and society. Hasan Pirkul  “The rise of AI is one of the most […]
-Meta Details: October 3rd, 2025 |Events
-Image URL: https://jindal.utdallas.edu/files/2025/10/ai_day_graphic_with_text_630x630.jpg
 
 ==================================================
 
