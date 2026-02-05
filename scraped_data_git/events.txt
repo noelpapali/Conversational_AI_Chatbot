@@ -1,29 +1,5 @@
 Month: Feb, 2026
 
-Date: Wednesday, February 04, 2026
-Time: 11:45 AM - 01:15 PM
-Title: From Blueprint to Building:  The Journey of JSOM III
-Location: 
-Event URL: 51942942952132&instance=51942942953157
---------------------------------------------------
-Date: Wednesday, February 04, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Discover the Hidden Job Market
-Location: 
-Event URL: 51835278107002&instance=51835286674074
---------------------------------------------------
-Date: Wednesday, February 04, 2026
-Time: 12:30 PM - 02:00 PM
-Title: IP for Entrepreneurs
-Location: 
-Event URL: 52004546422122&instance=52004546423147
---------------------------------------------------
-Date: Wednesday, February 04, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51382283275576&instance=51382384815672
---------------------------------------------------
 Date: Thursday, February 05, 2026
 Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
@@ -307,4 +283,28 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391397545290&instance=51391416590209
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
+Location: 
+Event URL: 50605698757868&instance=51943217868044
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 12:00 PM - 01:00 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
+Location: 
+Event URL: 52003015280043&instance=52003045773798
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391397305599&instance=51391416316888
+--------------------------------------------------
+Date: Thursday, March 12, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391396981860&instance=51391416088445
 --------------------------------------------------
