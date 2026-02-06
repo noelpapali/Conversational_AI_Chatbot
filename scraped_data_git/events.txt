@@ -1,17 +1,5 @@
 Month: Feb, 2026
 
-Date: Thursday, February 05, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391158839906&instance=51391188409300
---------------------------------------------------
-Date: Thursday, February 05, 2026
-Time: 03:00 PM - 05:00 PM
-Title: Perfect Match: Accoudnting Career Connections
-Location: 
-Event URL: 51994821478182&instance=51994821479207
---------------------------------------------------
 Date: Saturday, February 07, 2026
 Time: 11:00 AM - 12:00 PM
 Title: MSBA&AI Virtual Symposium
@@ -307,4 +295,16 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391396981860&instance=51391416088445
+--------------------------------------------------
+Date: Thursday, March 12, 2026
+Time: 05:00 PM - 08:30 PM
+Title: QS Discover MBA Fair in Dallas
+Location: 
+Event URL: 51880211254187&instance=51880211255212
+--------------------------------------------------
+Date: Tuesday, March 17, 2026
+Time: 12:00 AM - 06:00 PM
+Title: UTDserv Voyager's Spring 2026 Trips
+Location: 
+Event URL: 51808196103540&instance=51808208381338
 --------------------------------------------------
