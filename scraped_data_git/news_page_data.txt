@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Study from Jindal School Researchers Wins Prestigious Accounting Ethics Award
+Title Link: https://jindal.utdallas.edu/news/study-from-jindal-school-researchers-wins-prestigious-accounting-ethics-award/
+Excerpt: Incentives matter. Compensation drives decisions. Those economics fundamentals drove two researchers in the Naveen Jindal School of Management to wonder why seemingly inflated job titles kept appearing in listings. This line of inquiry would ultimately win them the 28th annual Glen McLaughlin Prize for Research in Accounting Ethics. Drs. Umit Gurun and N. Bugra Ozel, […]
+Meta Details: February 6th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/02/deceptive-managerial-titles630X630.jpg
+
+==================================================
+
 Title: Student Consultants from Jindal School Provide Real Value to Client Companies and Organizations
 Title Link: https://jindal.utdallas.edu/news/student-consultants-from-jindal-school-provide-real-value-to-client-companies-and-organizations/
 Excerpt: In building construction, a capstone marks completion; in business education, it proves readiness — and students in the Naveen Jindal School of Management who participated in UTDsolv Capstone Projects this past fall did both. During the fall 2025 semester, more than 700 senior undergraduate students were assigned to 137 student teams and 78 projects, consulting […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/02/utdsolv_capstone_expo_slide
 Title: Vietnam Conference Honors 80th Birthday and Achievements of Jindal School’s Suresh Sethi
 Title Link: https://jindal.utdallas.edu/news/vietnam-conference-honors-80th-birthday-and-achievements-of-jindal-schools-suresh-sethi/
 Excerpt: The Human-Centered AI Society (HCAIS) held a conference recently to honor the 80th birthday and achievements of Dr. Suresh Sethi, Eugene McDermott Distinguished Chair in the Naveen Jindal School of Management and a professor in the Operations and Supply Chain Management (OM) Academic Area. The conference — Symposium on Intelligent Operations 2025 & International Conference Honoring […]
-Meta Details: January 22nd, 2026 |Faculty/Research,Featured
+Meta Details: January 22nd, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/01/sethi_hanoi_conference_5_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/from-ai-to-spacs-boards-face-a-new-
 Excerpt: The Institute for Excellence in Corporate Governance at the Naveen Jindal School of Management presented its 23rd Annual Corporate Governance Conference Sept. 24. It tied together diverse but connected threads — from academic research to family office partnerships, corporate foundations, AI in the boardroom, and special-purpose acquisition companies (SPAC). The event’s unifying theme was that governance itself is […]
 Meta Details: October 9th, 2025 |Events
 Image URL: https://jindal.utdallas.edu/files/2025/10/iecg_2025_corporate_governance_conference_audience_shot_630x630.jpg
-
-==================================================
-
-Title: Eduniversal Awards Jindal School Four Palmes of Excellence
-Title Link: https://jindal.utdallas.edu/news/eduniversal-awards-jindal-school-four-palmes-of-excellence/
-Excerpt: 
-Meta Details: October 7th, 2025 |Academics
-Image URL: https://jindal.utdallas.edu/files/2025/10/palmes_630x630.png
 
 ==================================================
 
