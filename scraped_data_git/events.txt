@@ -1,11 +1,5 @@
 Month: Feb, 2026
 
-Date: Sunday, February 08, 2026
-Time: 11:00 AM - 12:00 PM
-Title: MSBA&AI Virtual Symposium
-Location: 
-Event URL: 51967231467098&instance=51967231468123
---------------------------------------------------
 Date: Monday, February 09, 2026
 Time: 11:30 AM - 01:00 PM
 Title: Brand Partners Lunch & Learn
@@ -301,4 +295,10 @@ Time: 05:00 PM - 08:30 PM
 Title: QS Discover MBA Fair in Dallas
 Location: 
 Event URL: 51880211254187&instance=51880211255212
+--------------------------------------------------
+Date: Tuesday, March 17, 2026
+Time: 12:00 AM - 06:00 PM
+Title: UTDserv Voyager's Spring 2026 Trips
+Location: 
+Event URL: 51808196103540&instance=51808208381338
 --------------------------------------------------
