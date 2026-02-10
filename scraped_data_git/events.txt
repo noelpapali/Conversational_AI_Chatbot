@@ -1,29 +1,5 @@
 Month: Feb, 2026
 
-Date: Monday, February 09, 2026
-Time: 11:30 AM - 01:00 PM
-Title: Brand Partners Lunch & Learn
-Location: 
-Event URL: 51958595134226&instance=51958595134227
---------------------------------------------------
-Date: Monday, February 09, 2026
-Time: 12:00 PM - 05:00 PM
-Title: JSOM - Career Expo Preparation Walk-In Hours (Undergraduate and Graduate)
-Location: 
-Event URL: 51382550905608&instance=51382560119670
---------------------------------------------------
-Date: Monday, February 09, 2026
-Time: 03:30 PM - 05:00 PM
-Title: MSBA&AI Flex Welcome Mixer
-Location: 
-Event URL: 51807443251300&instance=52002233868857
---------------------------------------------------
-Date: Monday, February 09, 2026
-Time: 04:30 PM - 05:00 PM
-Title: JSOM- Tell the Skills Story: Making Your Resume Employer-Ready
-Location: 
-Event URL: 51782642824728&instance=51782642824729
---------------------------------------------------
 Date: Tuesday, February 10, 2026
 Time: 12:00 PM - 05:00 PM
 Title: JSOM - Career Expo Preparation Walk-In Hours (Undergraduate and Graduate)
@@ -301,4 +277,28 @@ Time: 12:00 AM - 06:00 PM
 Title: UTDserv Voyager's Spring 2026 Trips
 Location: 
 Event URL: 51808196103540&instance=51808208381338
+--------------------------------------------------
+Date: Wednesday, March 18, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
+Location: 
+Event URL: 52003699892793&instance=52003704915588
+--------------------------------------------------
+Date: Friday, March 20, 2026
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 51940519250670&instance=51940519251695
+--------------------------------------------------
+Date: Tuesday, March 24, 2026
+Time: 01:30 AM - 02:30 AM
+Title: ProEdge Series: Leadership Insights
+Location: 
+Event URL: 51994937431499&instance=51995047559215
+--------------------------------------------------
+Date: Tuesday, March 24, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391396437691&instance=51391415815273
 --------------------------------------------------

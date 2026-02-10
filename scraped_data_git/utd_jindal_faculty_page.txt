@@ -135,7 +135,7 @@ Associate Professor, Operations Management
 andrew.frazelle@utdallas.edu|(972) 883-5097|JSOM 3.204
 
 Associate Professor of Practice, Accounting
-sms151730@utdallas.edu|(972) 883-4774|JSOM 4.223
+sms151730@utdallas.edu|(972) 883-4774|JSOM 14.213
 
 Assistant Professor, Information Systems
 ruijiang.gao@utdallas.edu||JSOM 2.609
@@ -177,7 +177,7 @@ Associate Professor of Instruction, Organizations, Strategy and International Ma
 thenderson@utdallas.edu|(972) 883-5835|JSOM 4.231
 
 Associate Professor of Practice, Accounting
-christopher.hes@utdallas.edu|(972) 883-5945|JSOM 4.219
+christopher.hes@utdallas.edu|(972) 883-5945|JSOM 13.404
 
 Clinical Assistant Professor, Organizations, Strategy and International Management
 jeff.hicks@utdallas.edu|(972) 883-5986|JSOM 13.409
@@ -1013,7 +1013,7 @@ Sandra  Frost
 Associate Professor of Practice, Accounting
 sms151730@utdallas.edu
 (972) 883-4774
-JSOM 4.223
+JSOM 14.213
 
 Ruijiang  Gao
 Assistant Professor, Information Systems
@@ -1097,7 +1097,7 @@ Christopher  Hes
 Associate Professor of Practice, Accounting
 christopher.hes@utdallas.edu
 (972) 883-5945
-JSOM 4.219
+JSOM 13.404
 
 Jeffrey  Hicks
 Clinical Assistant Professor, Organizations, Strategy and International Management
