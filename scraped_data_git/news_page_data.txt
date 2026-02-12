@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: From Classroom to Startup: Jindal Students Turn Learning Into Life-Changing Innovation
+Title Link: https://jindal.utdallas.edu/news/from-classroom-to-startup-jindal-students-turn-learning-into-life-changing-innovation/
+Excerpt: A popular adage says that it’s not what you know but who you know. For two alumni from the Naveen Jindal School of Management, both are true. They leveraged the professional networks they built while students and applied the skills they learned in their graduate programs to help bring a new healthcare tool to market. […]
+Meta Details: February 12th, 2026 |Alumni,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/02/team_will-call_630x630.jpg
+
+==================================================
+
 Title: Study from Jindal School Researchers Wins Prestigious Accounting Ethics Award
 Title Link: https://jindal.utdallas.edu/news/study-from-jindal-school-researchers-wins-prestigious-accounting-ethics-award/
 Excerpt: Incentives matter. Compensation drives decisions. Those economics fundamentals drove two researchers in the Naveen Jindal School of Management to wonder why seemingly inflated job titles kept appearing in listings. This line of inquiry would ultimately win them the 28th annual Glen McLaughlin Prize for Research in Accounting Ethics. Drs. Umit Gurun and N. Bugra Ozel, […]
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/dr-suresh-sethi-honored-for-long-ti
 Excerpt: Suresh Sethi’s Selfie with Conference Participants A recent celebration at the Naveen Jindal School of Management honored the 80th birthday — and distinguished career — of long-time faculty member Dr. Suresh Sethi, Eugene McDermott Distinguished Chair and a professor in the Operations and Supply Chain Management (OM) Academic Area. The Sept. 26-28 event was held […]
 Meta Details: October 14th, 2025 |Events,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/10/Suresh-Sethis-Selfie-with-Conference-Participants-630x630-1.png
-
-==================================================
-
-Title: From AI to SPACs, Boards Face a New Era of Governance
-Title Link: https://jindal.utdallas.edu/news/from-ai-to-spacs-boards-face-a-new-era-of-governance/
-Excerpt: The Institute for Excellence in Corporate Governance at the Naveen Jindal School of Management presented its 23rd Annual Corporate Governance Conference Sept. 24. It tied together diverse but connected threads — from academic research to family office partnerships, corporate foundations, AI in the boardroom, and special-purpose acquisition companies (SPAC). The event’s unifying theme was that governance itself is […]
-Meta Details: October 9th, 2025 |Events
-Image URL: https://jindal.utdallas.edu/files/2025/10/iecg_2025_corporate_governance_conference_audience_shot_630x630.jpg
 
 ==================================================
 
