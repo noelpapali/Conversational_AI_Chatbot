@@ -289,21 +289,19 @@ Conferences
 Contact Information
 
 Leadership Team
-Message from the Dean
+
 Naveen Jindal
 Rankings
 Student Experience
-Outcomes & Success Factors
+
 MANAGEMENT Magazine
 	- AI at the Jindal School
 	- Conferences
 	- Contact Information
 	- Leadership Team
-	- Message from the Dean
 	- Naveen Jindal
 	- Rankings
 	- Student Experience
-	- Outcomes & Success Factors
 	- MANAGEMENT Magazine
 
 Context: No Context
@@ -405,21 +403,19 @@ Conferences
 Contact Information
 
 Leadership Team
-Message from the Dean
+
 Naveen Jindal
 Rankings
 Student Experience
-Outcomes & Success Factors
+
 MANAGEMENT Magazine
 	- AI at the Jindal School
 	- Conferences
 	- Contact Information
 	- Leadership Team
-	- Message from the Dean
 	- Naveen Jindal
 	- Rankings
 	- Student Experience
-	- Outcomes & Success Factors
 	- MANAGEMENT Magazine
 
 Context: No Context
@@ -684,11 +680,11 @@ Conferences
 Contact Information
 
 Leadership Team
-Message from the Dean
+
 Naveen Jindal
 Rankings
 Student Experience
-Outcomes & Success Factors
+
 MANAGEMENT Magazine
 	- Text: About the Jindal School
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
@@ -709,10 +705,6 @@ Context: Leadership Team
 	- Text: Leadership Team
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/school-leadership/
 
-Context: Message from the Dean
-	- Text: Message from the Dean
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/message-dean/
-
 Context: Naveen Jindal
 	- Text: Naveen Jindal
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/naveen-jindal/
@@ -724,10 +716,6 @@ Context: Rankings
 Context: Student Experience
 	- Text: Student Experience
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/student-experience/
-
-Context: Outcomes & Success Factors
-	- Text: Outcomes & Success Factors
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/pm/
 
 Context: MANAGEMENT Magazine
 	- Text: MANAGEMENT Magazine
@@ -1154,11 +1142,11 @@ Conferences
 Contact Information
 
 Leadership Team
-Message from the Dean
+
 Naveen Jindal
 Rankings
 Student Experience
-Outcomes & Success Factors
+
 MANAGEMENT Magazine
 	- Text: About the Jindal School
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/
@@ -1179,10 +1167,6 @@ Context: Leadership Team
 	- Text: Leadership Team
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/school-leadership/
 
-Context: Message from the Dean
-	- Text: Message from the Dean
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/message-dean/
-
 Context: Naveen Jindal
 	- Text: Naveen Jindal
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/naveen-jindal/
@@ -1194,10 +1178,6 @@ Context: Rankings
 Context: Student Experience
 	- Text: Student Experience
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/student-experience/
-
-Context: Outcomes & Success Factors
-	- Text: Outcomes & Success Factors
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/pm/
 
 Context: MANAGEMENT Magazine
 	- Text: MANAGEMENT Magazine
