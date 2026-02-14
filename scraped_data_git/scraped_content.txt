@@ -1633,9 +1633,9 @@ Context: Make a Tote-Bag
 	- Text: Make a Tote-Bag
 	  Href: https://jindal.utdallas.edu/calendar/51747622408942&instance=51747622409967
 
-Context: MS ITM Student Welcome & Welcome Back Mixer
-	- Text: MS ITM Student Welcome & Welcome Back Mixer
-	  Href: https://calendar.utdallas.edu/event/ms-itm-student-welcome-welcome-back-mixer
+Context: ProEdge Series: Interview Workshop — Recruiter Insights & Tips
+	- Text: ProEdge Series: Interview Workshop — Recruiter Insights & Tips
+	  Href: https://calendar.utdallas.edu/event/copy-of-professional-edge-series-cracking-the-code-getting-the-interview-ms-itm-recruiting-prep-session
 
 Context: Apply Now
 	- Text: Apply Now
