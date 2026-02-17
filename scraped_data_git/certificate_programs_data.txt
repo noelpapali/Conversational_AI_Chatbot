@@ -101,7 +101,7 @@ List:
 
 Management:
 List:
-  - Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
+  - Certificate of Management (Link: https://execed.utdallas.edu/certificate-of-management/)
 
 Operations and Supply Chain Management:
 List:
@@ -225,7 +225,7 @@ List:
 
 Management:
 List:
-  - Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
+  - Certificate of Management (Link: https://execed.utdallas.edu/certificate-of-management/)
 
 Operations and Supply Chain Management:
 List:
@@ -308,7 +308,7 @@ List:
 
 Management:
 List:
-  - Certificate of Management (Link: https://obcc.utdallas.edu/certificate-of-management/)
+  - Certificate of Management (Link: https://execed.utdallas.edu/certificate-of-management/)
 
 Operations and Supply Chain Management:
 List:
