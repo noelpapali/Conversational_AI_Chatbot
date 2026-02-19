@@ -6792,6 +6792,7 @@ Headings:
 - 
 - 
 - Transfer Admissions: Criteria
+- We are coming to your campus!
 - 
 - Transfer Application Open Dates
 - Admission Review Criteria
@@ -6805,6 +6806,7 @@ Headings:
 - 
 - 
 Content:
+Learn about the application process, campus life, scholarships, financial aid and more. Our admission staff is ready to answer your questions. Register forComet Expoat Collin College, Dallas College or Tarrant County College.Comet Expo Registration
 You are considered a transfer student if you have previously completed college-level coursework at an accredited institution — excluding the summer following high school graduation.
 Applications are accepted for the fall, spring and summer semesters from students in good standing at their higher education institutions. If you are currently enrolled in high school and also attending a college/university and you will not complete any college-level coursework after the summer after your high school graduation, you should apply forfreshman admission.
 All applicants are reviewed individually and holistically. Consideration is given to the following factors:
@@ -7044,6 +7046,8 @@ Links:
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
 - Transfer Admissions - https://enroll.utdallas.edu/transfer/
+- Comet Expo - https://enroll.utdallas.edu/visit/events/comet-expo/
+- Comet Expo Registration - https://enroll.utdallas.edu/visit/events/comet-expo/
 - freshman admission - https://enroll.utdallas.edu/freshman/
 - Criteria - https://enroll.utdallas.edu/transfer/criteria/
 - Application Process - https://enroll.utdallas.edu/transfer/application-process/

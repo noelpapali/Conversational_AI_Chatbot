@@ -82,7 +82,7 @@ Heading:
 --------------------------------------------------
 
 Heading: Freshman Admissions: Application Process
-  Paragraph: Ready to begin your journey with at UT Dallas? Follow these steps to complete your freshman admission application.
+  Paragraph: Ready to begin your journey at UT Dallas? Follow these steps to complete your freshman admission application. UT Dallas also participates in Direct Admission programs.
 
 --------------------------------------------------
 
@@ -376,6 +376,10 @@ Heading: #FutureComet  #Transfer2UTD
 Heading: 
 
 --------------------------------------------------
+
+==================================================
+
+URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 
