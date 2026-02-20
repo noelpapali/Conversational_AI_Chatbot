@@ -100,7 +100,7 @@ Heading: Important Dates
 --------------------------------------------------
 
 Heading: Submit your admission application.
-  Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas.
+  Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas. My Texas Future helps you expand options for college, set goals and take action.
 
 --------------------------------------------------
 
@@ -376,10 +376,6 @@ Heading: #FutureComet  #Transfer2UTD
 Heading: 
 
 --------------------------------------------------
-
-==================================================
-
-URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 

@@ -288,7 +288,7 @@ AI at the Jindal School
 Conferences
 Contact Information
 
-Leadership Team
+
 
 Naveen Jindal
 Rankings
@@ -298,7 +298,6 @@ MANAGEMENT Magazine
 	- AI at the Jindal School
 	- Conferences
 	- Contact Information
-	- Leadership Team
 	- Naveen Jindal
 	- Rankings
 	- Student Experience
@@ -332,7 +331,6 @@ Context: No Context
 	- Academic Advising
 	- Business Cards
 	- Business Communication Center
-	- Business Competitions
 	- Career Management Center
 	- Comet Closet
 	- Dean’s Council
@@ -402,7 +400,7 @@ AI at the Jindal School
 Conferences
 Contact Information
 
-Leadership Team
+
 
 Naveen Jindal
 Rankings
@@ -412,7 +410,6 @@ MANAGEMENT Magazine
 	- AI at the Jindal School
 	- Conferences
 	- Contact Information
-	- Leadership Team
 	- Naveen Jindal
 	- Rankings
 	- Student Experience
@@ -446,7 +443,6 @@ Context: No Context
 	- Academic Advising
 	- Business Cards
 	- Business Communication Center
-	- Business Competitions
 	- Career Management Center
 	- Comet Closet
 	- Dean’s Council
@@ -679,7 +675,7 @@ AI at the Jindal School
 Conferences
 Contact Information
 
-Leadership Team
+
 
 Naveen Jindal
 Rankings
@@ -700,10 +696,6 @@ Context: Conferences
 Context: Contact Information
 	- Text: Contact Information
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/contact/
-
-Context: Leadership Team
-	- Text: Leadership Team
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/school-leadership/
 
 Context: Naveen Jindal
 	- Text: Naveen Jindal
@@ -822,7 +814,7 @@ Student Resources
 Academic Advising
 Business Cards
 Business Communication Center
-Business Competitions
+
 Career Management Center
 Comet Closet
 Dean’s Council
@@ -864,10 +856,6 @@ Context: Business Cards
 Context: Business Communication Center
 	- Text: Business Communication Center
 	  Href: https://jindal.utdallas.edu/student-resources/business-communication-center/
-
-Context: Business Competitions
-	- Text: Business Competitions
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/business-competitions/
 
 Context: Career Management Center
 	- Text: Career Management Center
@@ -1141,7 +1129,7 @@ AI at the Jindal School
 Conferences
 Contact Information
 
-Leadership Team
+
 
 Naveen Jindal
 Rankings
@@ -1162,10 +1150,6 @@ Context: Conferences
 Context: Contact Information
 	- Text: Contact Information
 	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/contact/
-
-Context: Leadership Team
-	- Text: Leadership Team
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/school-leadership/
 
 Context: Naveen Jindal
 	- Text: Naveen Jindal
@@ -1284,7 +1268,7 @@ Student Resources
 Academic Advising
 Business Cards
 Business Communication Center
-Business Competitions
+
 Career Management Center
 Comet Closet
 Dean’s Council
@@ -1326,10 +1310,6 @@ Context: Business Cards
 Context: Business Communication Center
 	- Text: Business Communication Center
 	  Href: https://jindal.utdallas.edu/student-resources/business-communication-center/
-
-Context: Business Competitions
-	- Text: Business Competitions
-	  Href: https://jindal.utdallas.edu/about-the-jindal-school-of-management/business-competitions/
 
 Context: Career Management Center
 	- Text: Career Management Center
@@ -1629,9 +1609,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: Make a Tote-Bag
-	- Text: Make a Tote-Bag
-	  Href: https://jindal.utdallas.edu/calendar/51747622408942&instance=51747622409967
+Context: Dallas Business Journal Mentoring Monday
+	- Text: Dallas Business Journal Mentoring Monday
+	  Href: https://jindal.utdallas.edu/calendar/mba-events/52128262743136&instance=52128262743137
 
 Context: ProEdge Series: Interview Workshop — Recruiter Insights & Tips
 	- Text: ProEdge Series: Interview Workshop — Recruiter Insights & Tips

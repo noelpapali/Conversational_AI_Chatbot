@@ -1,58 +1,52 @@
 Month: Feb, 2026
 
-Date: Thursday, February 19, 2026
-Time: 08:30 AM - 10:00 AM
-Title: Connect with the MSITM Program Director
-Location: 
-Event URL: 51941401524340&instance=51941414375651
---------------------------------------------------
-Date: Thursday, February 19, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383053333132&instance=51383075477647
---------------------------------------------------
-Date: Saturday, February 21, 2026
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
-Location: 
-Event URL: 50650111472190&instance=51880105048223
---------------------------------------------------
-Date: Monday, February 23, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Collaboration & Teamwork
-Location: 
-Event URL: 51382683734763&instance=51382688499042
---------------------------------------------------
-Date: Tuesday, February 24, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Collaboration & Teamwork
-Location: 
-Event URL: 51382697738232&instance=51382699919525
---------------------------------------------------
-Date: Tuesday, February 24, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383109637762&instance=51383135995669
---------------------------------------------------
-Date: Wednesday, February 25, 2026
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Information Session
-Location: 
-Event URL: 50605698757868&instance=51943217867019
---------------------------------------------------
-Date: Wednesday, February 25, 2026
-Time: 11:45 AM - 01:15 PM
-Title: Session III | From Blueprint to Building:  The Journey of JSOM III
-Location: 
-Event URL: 51949586092897&instance=51949599281749
---------------------------------------------------
-Date: Wednesday, February 25, 2026
+Date: Friday, February 20, 2026
 Time: 12:00 PM - 01:00 PM
 Title: JSOM GRAD - Defend the Resume
 Location: 
-Event URL: 51384710898415&instance=51384731088087
+Event URL: 51384711800045&instance=51384731359825
+--------------------------------------------------
+Date: Monday, February 23, 2026
+Time: 08:00 AM - 10:30 AM
+Title: Dallas Business Journal Mentoring Monday
+Location: 
+Event URL: 52128262743136&instance=52128262743137
+--------------------------------------------------
+Date: Tuesday, February 24, 2026
+Time: 10:00 AM - 11:00 AM
+Title: MS Marketing Information Session with Q & A Period
+Location: 
+Event URL: 52001845376060&instance=52001902207218
+--------------------------------------------------
+Date: Tuesday, February 24, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391241582050&instance=51391261877328
+--------------------------------------------------
+Date: Tuesday, February 24, 2026
+Time: 04:00 PM - 05:00 PM
+Title: JSOM - HMGT: Business of Healthcare Seminar with Humana
+Location: 
+Event URL: 51966544464016&instance=52092836926559
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 51940437032917&instance=51940437033942
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
+Location: 
+Event URL: 51994580351159&instance=51994587141489
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52145346940497
 --------------------------------------------------
 Date: Wednesday, February 25, 2026
 Time: 12:30 PM - 01:30 PM
@@ -166,7 +160,7 @@ Event URL: 51843778424332&instance=51843786848168
 --------------------------------------------------
 Date: Monday, March 09, 2026
 Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Information Session
+Title: Customized Online MBA Webinar
 Location: 
 Event URL: 51958028573924&instance=51958039515771
 --------------------------------------------------
@@ -190,75 +184,81 @@ Event URL: 52003015280043&instance=52003045773798
 --------------------------------------------------
 Date: Wednesday, March 11, 2026
 Time: 12:00 PM - 01:00 PM
-Title: Stonewall Title Company Lunch and Learn
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52118856119254&instance=52118856119255
+Event URL: 52118180250222&instance=52145346941522
 --------------------------------------------------
 Date: Wednesday, March 11, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51383266092578&instance=51383279098457
+Event URL: 51391397305599&instance=51391416316888
 --------------------------------------------------
 Date: Thursday, March 12, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51383265884093&instance=51383279305686
+Event URL: 51391396981860&instance=51391416088445
 --------------------------------------------------
-Date: Monday, March 16, 2026
+Date: Thursday, March 12, 2026
+Time: 05:00 PM - 08:30 PM
+Title: QS Discover MBA Fair in Dallas
+Location: 
+Event URL: 51880211254187&instance=51880211255212
+--------------------------------------------------
+Date: Tuesday, March 17, 2026
 Time: 12:00 AM - 06:00 PM
 Title: UTDserv Voyager's Spring 2026 Trips
 Location: 
-Event URL: 51808196103540&instance=51808208380313
+Event URL: 51808196103540&instance=51808208381338
 --------------------------------------------------
 Date: Wednesday, March 18, 2026
+Time: 08:30 AM - 09:30 AM
+Title: Discover. Apply. Advance. – Jindal School of Management Graduate Experience Webinar
+Location: 
+Event URL: 52074803348197&instance=52074803350246
+--------------------------------------------------
+Date: Thursday, March 19, 2026
 Time: 12:00 AM - 06:00 PM
 Title: UTDserv Voyager's Spring 2026 Trips
 Location: 
-Event URL: 51808196103540&instance=51808208382363
+Event URL: 51808196103540&instance=51808208383388
 --------------------------------------------------
-Date: Wednesday, March 18, 2026
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Date: Saturday, March 21, 2026
+Time: 10:15 AM - 01:30 PM
+Title: EMBA Open House
 Location: 
-Event URL: 52003699892793&instance=52003704915588
---------------------------------------------------
-Date: Friday, March 20, 2026
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
-Location: 
-Event URL: 51940519250670&instance=51940519251695
+Event URL: 50650144882843&instance=50650208103674
 --------------------------------------------------
 Date: Tuesday, March 24, 2026
-Time: 01:30 AM - 02:30 AM
-Title: ProEdge Series: Leadership Insights
+Time: 10:00 AM - 11:00 AM
+Title: MS Marketing Information Session with Q & A Period
 Location: 
-Event URL: 51994937431499&instance=51995047559215
+Event URL: 52001910170520&instance=52001915912284
 --------------------------------------------------
 Date: Tuesday, March 24, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391396437691&instance=51391415815273
---------------------------------------------------
-Date: Tuesday, March 24, 2026
-Time: 05:00 PM - 06:00 PM
-Title: UTD MBA In-Person Info Session in MBA Lounge
-Location: 
-Event URL: 51940557375191&instance=51940557376216
+Event URL: 51569245392807&instance=51569251006114
 --------------------------------------------------
 Date: Wednesday, March 25, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144962274
+Event URL: 50605698757868&instance=51943217870093
 --------------------------------------------------
 Date: Wednesday, March 25, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Information Session
+Time: 11:45 AM - 01:15 PM
+Title: Session IV | From Blueprint to Building:  The Journey of JSOM III
 Location: 
-Event URL: 51958053298378&instance=51958060661980
+Event URL: 51949604454718&instance=51949609827319
+--------------------------------------------------
+Date: Wednesday, March 25, 2026
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
+Location: 
+Event URL: 51994595990985&instance=51994600033575
 --------------------------------------------------
 Date: Wednesday, March 25, 2026
 Time: 01:00 PM - 04:00 PM
