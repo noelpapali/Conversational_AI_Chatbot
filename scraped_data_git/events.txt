@@ -1,11 +1,5 @@
 Month: Feb, 2026
 
-Date: Monday, February 23, 2026
-Time: 08:00 AM - 10:30 AM
-Title: Dallas Business Journal Mentoring Monday
-Location: 
-Event URL: 52128262743136&instance=52128262743137
---------------------------------------------------
 Date: Tuesday, February 24, 2026
 Time: 10:00 AM - 11:00 AM
 Title: MS Marketing Information Session with Q & A Period
@@ -309,4 +303,10 @@ Time: 01:30 PM - 02:30 PM
 Title: ITM Hangout - Fall/Summer 2026 Registration  & Course Preview
 Location: 
 Event URL: 51843724179803&instance=51843743636631
+--------------------------------------------------
+Date: Tuesday, April 07, 2026
+Time: 12:30 PM - 01:30 PM
+Title: MSBA&AI Flex Student Success Session - Virtual
+Location: 
+Event URL: 52136134583478&instance=52136134584503
 --------------------------------------------------
