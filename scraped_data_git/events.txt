@@ -1,88 +1,70 @@
 Month: Feb, 2026
 
-Date: Tuesday, February 24, 2026
-Time: 10:00 AM - 11:00 AM
-Title: MS Marketing Information Session with Q & A Period
+Date: Wednesday, February 25, 2026
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 52001845376060&instance=52001902207218
---------------------------------------------------
-Date: Tuesday, February 24, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391241582050&instance=51391261877328
---------------------------------------------------
-Date: Tuesday, February 24, 2026
-Time: 04:00 PM - 05:00 PM
-Title: JSOM - HMGT: Business of Healthcare Seminar with Humana
-Location: 
-Event URL: 51966544464016&instance=52092836926559
+Event URL: 50605698757868&instance=51943217867019
 --------------------------------------------------
 Date: Wednesday, February 25, 2026
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
+Time: 11:45 AM - 01:15 PM
+Title: Session III | From Blueprint to Building:  The Journey of JSOM III
 Location: 
-Event URL: 51940437032917&instance=51940437033942
+Event URL: 51949586092897&instance=51949599281749
 --------------------------------------------------
 Date: Wednesday, February 25, 2026
-Time: 12:00 PM - 12:30 PM
-Title: Fast Track in MS Marketing Information Session
-Location: 
-Event URL: 51994580351159&instance=51994587141489
---------------------------------------------------
-Date: Wednesday, February 25, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
-Location: 
-Event URL: 52118180250222&instance=52145346940497
---------------------------------------------------
-Date: Wednesday, February 25, 2026
-Time: 12:30 PM - 01:30 PM
-Title: JSOM- Problem-Solving Skills Employers Look For (Case Study Prep)
-Location: 
-Event URL: 51782602150746&instance=51782607972667
---------------------------------------------------
-Date: Wednesday, February 25, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383109419333&instance=51383146547366
---------------------------------------------------
-Date: Wednesday, February 25, 2026
-Time: 05:45 PM - 07:00 PM
-Title: Doctor of Business Administration (DBA) in person meet & greet
-Location: 
-Event URL: 52002751803554&instance=52002764402721
---------------------------------------------------
-Date: Thursday, February 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Information Session
-Location: 
-Event URL: 51349062163797&instance=51957885975341
---------------------------------------------------
-Date: Thursday, February 26, 2026
 Time: 12:00 PM - 01:00 PM
 Title: JSOM GRAD - Defend the Resume
 Location: 
-Event URL: 51384714863699&instance=51384730809109
+Event URL: 51384710898415&instance=51384731088087
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 12:30 PM - 02:00 PM
+Title: Accounting Career Exploration with RSM
+Location: 
+Event URL: 51994861315854&instance=51994861316879
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391241377070&instance=51391264392859
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 04:00 PM - 05:00 PM
+Title: Meet the Dean of The Jindal School of Management Spring 2026
+Location: 
+Event URL: 51994647818169&instance=51994647818170
+--------------------------------------------------
+Date: Wednesday, February 25, 2026
+Time: 06:00 PM - 07:30 PM
+Title: Real Estate Finance Rotational Event | Goldman Sachs
+Location: 
+Event URL: 52118667876240&instance=52118667877265
+--------------------------------------------------
+Date: Thursday, February 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650376599666&instance=50650381391183
 --------------------------------------------------
 Date: Thursday, February 26, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51383109181404&instance=51383153920553
+Event URL: 51391241090935&instance=51391292911789
+--------------------------------------------------
+Date: Thursday, February 26, 2026
+Time: 01:00 PM - 02:00 PM
+Title: MS Marketing Information Session with Q & A Period
+Location: 
+Event URL: 52001904357739&instance=52001909548603
 --------------------------------------------------
 Date: Friday, February 27, 2026
-Time: 12:00 AM - 06:00 PM
-Title: 2026 Early-Career Sustainable Operations Workshop
+Time: 03:30 PM - 04:30 PM
+Title: JSOM- Problem-Solving Skills Employers Look For (Case Study Prep)
 Location: 
-Event URL: 50640410094882&instance=50640410094883
---------------------------------------------------
-Date: Saturday, February 28, 2026
-Time: 12:00 AM - 06:00 PM
-Title: 2026 Early-Career Sustainable Operations Workshop
-Location: 
-Event URL: 50640410094882&instance=50640410095908
+Event URL: 51782612951838&instance=51782616870956
 --------------------------------------------------
 Month: Mar, 2026
 
@@ -309,4 +291,22 @@ Time: 12:30 PM - 01:30 PM
 Title: MSBA&AI Flex Student Success Session - Virtual
 Location: 
 Event URL: 52136134583478&instance=52136134584503
+--------------------------------------------------
+Date: Tuesday, April 07, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51569288698997&instance=51569320145049
+--------------------------------------------------
+Date: Wednesday, April 08, 2026
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 51940675384118&instance=51940675384119
+--------------------------------------------------
+Date: Wednesday, April 08, 2026
+Time: 12:00 PM - 01:00 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
+Location: 
+Event URL: 52003346034463&instance=52003352051432
 --------------------------------------------------
