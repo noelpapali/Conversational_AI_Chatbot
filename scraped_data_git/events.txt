@@ -1,23 +1,5 @@
 Month: Feb, 2026
 
-Date: Thursday, February 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Information Session
-Location: 
-Event URL: 51349062163797&instance=51957885975341
---------------------------------------------------
-Date: Thursday, February 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM GRAD - Defend the Resume
-Location: 
-Event URL: 51384714863699&instance=51384730809109
---------------------------------------------------
-Date: Thursday, February 26, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383109181404&instance=51383153920553
---------------------------------------------------
 Date: Friday, February 27, 2026
 Time: 12:00 AM - 06:00 PM
 Title: 2026 Early-Career Sustainable Operations Workshop
@@ -309,4 +291,22 @@ Time: 12:00 PM - 01:00 PM
 Title: Professional Systems Engineering and Management Online Information Session
 Location: 
 Event URL: 52003709979791&instance=52003714239296
+--------------------------------------------------
+Date: Wednesday, April 15, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51569287251198&instance=51569345867041
+--------------------------------------------------
+Date: Thursday, April 16, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51569286829395&instance=51569355628435
+--------------------------------------------------
+Date: Tuesday, April 21, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51569358528691&instance=51569371284370
 --------------------------------------------------
