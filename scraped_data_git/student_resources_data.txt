@@ -89,10 +89,15 @@ URL: https://jindal.utdallas.edu/student-resources/labs/
 Title: No Title
 Headings:
 Content:
-The Naveen Jindal School of Management offers various labs to undergraduate and graduate students in JSOM.These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
+The Naveen Jindal School of Management offers various labs to undergraduate and graduate students in JSOM.These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
+These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
 These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
-These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
+Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
 Lists:
+- AI Tools
+- Tableau, Power BI, and Think-Cell
+- Java, Python, or SQL
+- Professional Growth – Take advantage of workshops to help you use AI effectively.
 Links:
 
 ================================================================================

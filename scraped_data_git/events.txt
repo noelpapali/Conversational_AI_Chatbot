@@ -1,11 +1,5 @@
 Month: Feb, 2026
 
-Date: Friday, February 27, 2026
-Time: 12:00 AM - 06:00 PM
-Title: 2026 Early-Career Sustainable Operations Workshop
-Location: 
-Event URL: 50640410094882&instance=50640410094883
---------------------------------------------------
 Date: Saturday, February 28, 2026
 Time: 12:00 AM - 06:00 PM
 Title: 2026 Early-Career Sustainable Operations Workshop
@@ -309,4 +303,10 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51569358528691&instance=51569371284370
+--------------------------------------------------
+Date: Tuesday, April 21, 2026
+Time: 05:30 PM - 07:30 PM
+Title: OBCC Spring 2026 Gather & Grow Networking Mixer
+Location: 
+Event URL: 52198382848212&instance=52198382849237
 --------------------------------------------------
