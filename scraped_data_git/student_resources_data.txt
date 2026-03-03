@@ -89,15 +89,10 @@ URL: https://jindal.utdallas.edu/student-resources/labs/
 Title: No Title
 Headings:
 Content:
-The Naveen Jindal School of Management offers various labs to undergraduate and graduate students in JSOM.These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
-These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
+The Naveen Jindal School of Management offers various labs to undergraduate and graduate students in JSOM.These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
 These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
-Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
+These labs provide students with the opportunity to develop or enhance their skills. The lab assistants are prepared to answer questions and provide assistance with the material covered in specific courses.
 Lists:
-- AI Tools
-- Tableau, Power BI, and Think-Cell
-- Java, Python, or SQL
-- Professional Growth – Take advantage of workshops to help you use AI effectively.
 Links:
 
 ================================================================================
@@ -218,20 +213,18 @@ Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/labs/
-Title: MIS Excelerate Lab – JSOM
+Title: AI Edge Lab
 Headings:
 - Lab Hours:
 - Location:
 - Website:
 Content:
-Available for help with:Excel ExpertiseTableau,Power BI, andThink-CellProgramming–Java,Python, orSQLProfessional Growth– workshops powered by platforms likeDatacampand collaborations with theMicrosoft Learn Student Ambassadors ProgramLab Hours:Monday — Friday (11 a.m. — 7 p.m.)Location:JSOM 2.711Website:https://jindal.utdallas.edu/student-resources/mis-lab/
+Available for help with:AI ToolsTableau, Power BI, and Think-CellJava, Python, or SQLProfessional Growth – Take advantage of workshops to help you use AI effectively.
 Lists:
-- Excel Expertise
-- Tableau,Power BI, andThink-Cell
-- Programming–Java,Python, orSQL
-- Professional Growth– workshops powered by platforms likeDatacampand collaborations with theMicrosoft Learn Student Ambassadors Program
-- Monday — Friday (11 a.m. — 7 p.m.)
-- JSOM 2.711
+- AI Tools
+- Tableau, Power BI, and Think-Cell
+- Java, Python, or SQL
+- Professional Growth – Take advantage of workshops to help you use AI effectively.
 - Monday — Friday (11 a.m. — 7 p.m.)
 - JSOM 2.711
 Links:
