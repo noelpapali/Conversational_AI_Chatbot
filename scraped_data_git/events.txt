@@ -1,124 +1,106 @@
 Month: Mar, 2026
 
-Date: Tuesday, March 03, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - Dealing with Ambiguity and Adversity in your Work
-Location: 
-Event URL: 51382725768201&instance=51382729481466
---------------------------------------------------
-Date: Tuesday, March 03, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51383222466329&instance=51383241769794
---------------------------------------------------
-Date: Tuesday, March 03, 2026
-Time: 04:00 PM - 05:00 PM
-Title: JSOM CMC Management Consulted Internship Playbook
-Location: 
-Event URL: 52136695355149&instance=52136868700776
---------------------------------------------------
 Date: Wednesday, March 04, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM GRAD - Defend the Resume
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 51384757136719&instance=51384760923090
+Event URL: 50322144938712&instance=50322144960225
 --------------------------------------------------
 Date: Wednesday, March 04, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51383222256283&instance=51383244847368
+Event URL: 51391398823114&instance=51391417336915
 --------------------------------------------------
 Date: Wednesday, March 04, 2026
 Time: 06:30 PM - 07:45 PM
-Title: Whiting Turner panel hosted by the Real Estate Club at UTD
+Title: The Real Estate Club Presents...the Whiting Turner Panel
 Location: 
-Event URL: 52118763278280&instance=52118763279305
+Event URL: 52241237416170&instance=52241237417195
 --------------------------------------------------
 Date: Thursday, March 05, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391398860093&instance=51391416841685
---------------------------------------------------
-Date: Thursday, March 05, 2026
-Time: 02:30 PM - 04:30 PM
-Title: MSBA&AI Industry Speed Connect
-Location: 
-Event URL: 52136249940498&instance=52136249941523
---------------------------------------------------
-Date: Friday, March 06, 2026
 Time: 12:00 PM - 01:00 PM
 Title: JSOM - Critical Thinking & Problem-Solving
 Location: 
-Event URL: 51382747764006&instance=51382749643442
+Event URL: 51382736650844&instance=51382740942726
 --------------------------------------------------
-Date: Monday, March 09, 2026
-Time: 10:00 PM - 11:00 PM
-Title: MSBA&AI Flex Student Success Session - Late Night Virtual
-Location: 
-Event URL: 52136116875842&instance=52136116876867
---------------------------------------------------
-Date: Tuesday, March 10, 2026
+Date: Thursday, March 05, 2026
 Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51383266290204&instance=51383278888815
+Event URL: 51383222053780&instance=51383246541740
 --------------------------------------------------
-Date: Wednesday, March 11, 2026
-Time: 11:30 AM - 01:00 PM
-Title: Fast- Track Event (All Graduate Programs at The Jindal School of Management)
+Date: Thursday, March 05, 2026
+Time: 03:00 PM - 05:00 PM
+Title: ProEdge Series: Interview Workshop — Recruiter Insights & Tips
 Location: 
-Event URL: 51995183522627&instance=51995183522628
+Event URL: 51843778424332&instance=51843786848168
 --------------------------------------------------
-Date: Wednesday, March 11, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM - How to Land an Interview
+Date: Monday, March 09, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 51835291896947&instance=51835298126539
+Event URL: 51958028573924&instance=51958039515771
 --------------------------------------------------
-Date: Wednesday, March 11, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Stonewall Title Company Lunch and Learn
-Location: 
-Event URL: 52118856119254&instance=52118856119255
---------------------------------------------------
-Date: Wednesday, March 11, 2026
+Date: Tuesday, March 10, 2026
 Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51391397305599&instance=51391416316888
+Event URL: 51391397545290&instance=51391416590209
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
+Location: 
+Event URL: 50605698757868&instance=51943217868044
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 12:00 PM - 01:00 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
+Location: 
+Event URL: 52003015280043&instance=52003045773798
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52145346941522
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 12:00 PM - 01:00 PM
+Title: The Real Estate Club Presents: Stonewall Title Company Lunch & Learn
+Location: 
+Event URL: 52242531794917&instance=52242531797990
+--------------------------------------------------
+Date: Wednesday, March 11, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51383266092578&instance=51383279098457
 --------------------------------------------------
 Date: Thursday, March 12, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391396981860&instance=51391416088445
+Event URL: 51383265884093&instance=51383279305686
 --------------------------------------------------
-Date: Thursday, March 12, 2026
-Time: 05:00 PM - 08:30 PM
-Title: QS Discover MBA Fair in Dallas
-Location: 
-Event URL: 51880211254187&instance=51880211255212
---------------------------------------------------
-Date: Tuesday, March 17, 2026
+Date: Monday, March 16, 2026
 Time: 12:00 AM - 06:00 PM
 Title: UTDserv Voyager's Spring 2026 Trips
 Location: 
-Event URL: 51808196103540&instance=51808208381338
+Event URL: 51808196103540&instance=51808208380313
 --------------------------------------------------
 Date: Wednesday, March 18, 2026
-Time: 08:30 AM - 09:30 AM
-Title: Discover. Apply. Advance. – Jindal School of Management Graduate Experience Webinar
-Location: 
-Event URL: 52074803348197&instance=52074803350246
---------------------------------------------------
-Date: Thursday, March 19, 2026
 Time: 12:00 AM - 06:00 PM
 Title: UTDserv Voyager's Spring 2026 Trips
 Location: 
-Event URL: 51808196103540&instance=51808208383388
+Event URL: 51808196103540&instance=51808208382363
+--------------------------------------------------
+Date: Wednesday, March 18, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
+Location: 
+Event URL: 52003699892793&instance=52003704915588
 --------------------------------------------------
 Date: Saturday, March 21, 2026
 Time: 10:15 AM - 01:30 PM
@@ -256,9 +238,15 @@ Event URL: 51569288031460&instance=51569332816409
 --------------------------------------------------
 Date: Tuesday, April 14, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569287789394&instance=51569340289646
+Event URL: 51391688809752&instance=51391700230938
+--------------------------------------------------
+Date: Tuesday, April 14, 2026
+Time: 05:00 PM - 06:00 PM
+Title: Draper Pitch Competition
+Location: 
+Event URL: 52250425964699&instance=52250425965724
 --------------------------------------------------
 Date: Wednesday, April 15, 2026
 Time: 08:30 AM - 09:30 AM
@@ -284,21 +272,33 @@ Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51569286829395&instance=51569355628435
 --------------------------------------------------
+Date: Saturday, April 18, 2026
+Time: 08:00 AM - 05:00 PM
+Title: DFW Youth Climate Conference
+Location: 
+Event URL: 52136100315119&instance=52136100316144
+--------------------------------------------------
 Date: Tuesday, April 21, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391688105236&instance=51391741765427
+--------------------------------------------------
+Date: Wednesday, April 22, 2026
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
+Location: 
+Event URL: 50605698757868&instance=51943217873167
+--------------------------------------------------
+Date: Wednesday, April 22, 2026
+Time: 12:00 PM - 01:00 PM
+Title: Customized Online MBA Webinar
+Location: 
+Event URL: 52143463985249&instance=52143471597956
+--------------------------------------------------
+Date: Wednesday, April 22, 2026
 Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51569358528691&instance=51569371284370
---------------------------------------------------
-Date: Tuesday, April 21, 2026
-Time: 05:30 PM - 07:30 PM
-Title: OBCC Spring 2026 Gather & Grow Networking Mixer
-Location: 
-Event URL: 52198382848212&instance=52198382849237
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 11:45 AM - 01:15 PM
-Title: Session VI | From Blueprint to Building:  The Journey of JSOM III
-Location: 
-Event URL: 51949624177361&instance=51949627820281
+Event URL: 51569358801759&instance=51569372779906
 --------------------------------------------------
