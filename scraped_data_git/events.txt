@@ -1,23 +1,5 @@
 Month: Mar, 2026
 
-Date: Wednesday, March 04, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50322144938712&instance=50322144960225
---------------------------------------------------
-Date: Wednesday, March 04, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391398823114&instance=51391417336915
---------------------------------------------------
-Date: Wednesday, March 04, 2026
-Time: 06:30 PM - 07:45 PM
-Title: The Real Estate Club Presents...the Whiting Turner Panel
-Location: 
-Event URL: 52241237416170&instance=52241237417195
---------------------------------------------------
 Date: Thursday, March 05, 2026
 Time: 12:00 PM - 01:00 PM
 Title: JSOM - Critical Thinking & Problem-Solving
@@ -31,10 +13,10 @@ Location:
 Event URL: 51383222053780&instance=51383246541740
 --------------------------------------------------
 Date: Thursday, March 05, 2026
-Time: 03:00 PM - 05:00 PM
-Title: ProEdge Series: Interview Workshop — Recruiter Insights & Tips
+Time: 02:30 PM - 04:30 PM
+Title: MSBA&AI Industry Speed Connect
 Location: 
-Event URL: 51843778424332&instance=51843786848168
+Event URL: 52136249940498&instance=52136249941523
 --------------------------------------------------
 Date: Monday, March 09, 2026
 Time: 07:00 PM - 08:00 PM
@@ -162,11 +144,17 @@ Title: MS Marketing Information Session with Q & A Period
 Location: 
 Event URL: 52001916299412&instance=52001920821095
 --------------------------------------------------
+Date: Friday, March 27, 2026
+Time: 10:00 AM - 11:30 AM
+Title: The Real Estate Club Presents...Old Parkland Property Tour
+Location: 
+Event URL: 52241294628392&instance=52241294629417
+--------------------------------------------------
 Date: Tuesday, March 31, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391542667899&instance=51391552720530
+Event URL: 51569244486774&instance=51569280731125
 --------------------------------------------------
 Month: Apr, 2026
 
@@ -301,4 +289,22 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
 Event URL: 51569358801759&instance=51569372779906
+--------------------------------------------------
+Date: Thursday, April 23, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391687575577&instance=51391746329234
+--------------------------------------------------
+Date: Thursday, April 23, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Executive Coaching Virtual Information Session
+Location: 
+Event URL: 51967504325072&instance=51967504327121
+--------------------------------------------------
+Date: Saturday, April 25, 2026
+Time: 04:00 PM - 07:00 PM
+Title: 2025-2026 JSOM Alumni Reunion
+Location: 
+Event URL: 50693228281732&instance=50693228282757
 --------------------------------------------------
