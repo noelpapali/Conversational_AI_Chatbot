@@ -1,17 +1,5 @@
 Month: Mar, 2026
 
-Date: Thursday, March 12, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391396981860&instance=51391416088445
---------------------------------------------------
-Date: Thursday, March 12, 2026
-Time: 02:00 PM - 02:30 PM
-Title: Future Leaders Program Summer Course & Trip to Taiwan
-Location: 
-Event URL: 52268943773200&instance=52268943773201
---------------------------------------------------
 Date: Monday, March 16, 2026
 Time: 12:00 AM - 06:00 PM
 Title: UTDserv Voyager's Spring 2026 Trips
@@ -134,11 +122,17 @@ Title: ITM Hangout - Fall/Summer 2026 Registration  & Course Preview
 Location: 
 Event URL: 51843724179803&instance=51843743636631
 --------------------------------------------------
-Date: Tuesday, April 07, 2026
-Time: 12:30 PM - 01:30 PM
-Title: MSBA&AI Flex Student Success Session - Virtual
+Date: Monday, April 06, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52136134583478&instance=52136134584503
+Event URL: 52143403000135&instance=52143420721379
+--------------------------------------------------
+Date: Tuesday, April 07, 2026
+Time: 01:00 PM - 03:00 PM
+Title: Accounting Career Exploration with EY
+Location: 
+Event URL: 52329972359301&instance=52329972359302
 --------------------------------------------------
 Date: Tuesday, April 07, 2026
 Time: 01:00 PM - 04:00 PM
@@ -309,4 +303,10 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391786013037&instance=51391812036041
+--------------------------------------------------
+Date: Tuesday, May 05, 2026
+Time: 03:30 PM - 05:00 PM
+Title: ProEdge Series: Transitioning from Student to Professional
+Location: 
+Event URL: 51995086127161&instance=51995101860128
 --------------------------------------------------
