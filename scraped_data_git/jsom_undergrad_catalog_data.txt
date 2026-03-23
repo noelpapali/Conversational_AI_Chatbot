@@ -7107,7 +7107,6 @@ Content:
 If you are a high school senior or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
 
-Due to scheduled building maintenance, the Student Services Building will be closed on March 19th and 20th. For admission-related assistance, please emailadmission@utdallas.eduor call972-883-2270.
 Learn what is required for admission as a freshman applicant.
 Ready to apply? Review the steps required to complete the freshman admission process.
 Already applied? Check yourapplication status.
@@ -7333,8 +7332,6 @@ Links:
 - Contact a Counselor - https://enroll.utdallas.edu/contact/counselor-locator/
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
-- admission@utdallas.edu - mailto:admission@utdallas.edu
-- 972-883-2270 - tel:9728832270
 - Criteria - https://enroll.utdallas.edu/freshman/criteria/
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - application status - https://www.utdallas.edu/status/
