@@ -1,23 +1,5 @@
 Month: Mar, 2026
 
-Date: Tuesday, March 24, 2026
-Time: 10:00 AM - 11:00 AM
-Title: MS Marketing Information Session with Q & A Period
-Location: 
-Event URL: 52001910170520&instance=52001915912284
---------------------------------------------------
-Date: Tuesday, March 24, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391396437691&instance=51391415815273
---------------------------------------------------
-Date: Tuesday, March 24, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51569245392807&instance=51569251006114
---------------------------------------------------
 Date: Wednesday, March 25, 2026
 Time: 09:00 AM - 10:00 AM
 Title: MS in International Management Studies Information Session
@@ -309,4 +291,22 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391785772294&instance=51391814583370
+--------------------------------------------------
+Date: Thursday, May 07, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM - Undergraduate Walk-in Hours
+Location: 
+Event URL: 51391785525970&instance=51391817842686
+--------------------------------------------------
+Date: Wednesday, May 20, 2026
+Time: 05:45 PM - 07:00 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
+Location: 
+Event URL: 52003393108396&instance=52003406060998
+--------------------------------------------------
+Date: Tuesday, May 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650438767869&instance=50650442897000
 --------------------------------------------------
