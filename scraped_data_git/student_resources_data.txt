@@ -187,29 +187,23 @@ Links:
 URL: https://jindal.utdallas.edu/student-resources/labs/
 Title: Business Communications Center (BCC)
 Headings:
+- The BCC provides one-on-one assistance with:
 - Guidelines:
-- Center Hours:[Subject to change each semester—check booking page]
-- Location:
-- Website:
 Content:
-Get assistance in learning to improve any communication skills, including written, verbal and nonverbalGuidelines:Sessions: one, 30-minute session per day, but students can book up to 3 appointments a weekBe prompt—If you are 10+ minutes late, you are restricted from booking appointments for the rest of the weekTo guarantee a spot, book your appointments online through the website, but walk-ins are welcomeMust bring: Comet Card and printed, double-spaced copy of your documentFor more details onrestrictions from booking appointments, visit the websiteCenter Hours:[Subject to change each semester—check booking page]Location:JSOM 12.106Website:bcc.utdallas.edu
+Center Hours: Subject to change each semester—check the BCC website.
+Location: JSOM 12.106
+Website:https://bcc.utdallas.edu
 Lists:
-- Get assistance in learning to improve any communication skills, including written, verbal and nonverbal
-- Sessions: one, 30-minute session per day, but students can book up to 3 appointments a week
-- Be prompt—If you are 10+ minutes late, you are restricted from booking appointments for the rest of the week
-- To guarantee a spot, book your appointments online through the website, but walk-ins are welcome
-- Must bring: Comet Card and printed, double-spaced copy of your document
-- For more details onrestrictions from booking appointments, visit the website
-- JSOM 12.106
-- Sessions: one, 30-minute session per day, but students can book up to 3 appointments a week
-- Be prompt—If you are 10+ minutes late, you are restricted from booking appointments for the rest of the week
-- To guarantee a spot, book your appointments online through the website, but walk-ins are welcome
-- Must bring: Comet Card and printed, double-spaced copy of your document
-- For more details onrestrictions from booking appointments, visit the website
-- JSOM 12.106
+- Written and Verbal Communication:Get feedback with written assignments, presentation practice, and publication drafts
+- Professional Development:Receive feedback on résumés, cover letters, and job interview questions, and learn strategies for using AI tools effectively
+- BA 1105/3105 Assignment Feedback:Work with the BA 1105/3105 peer coach for clarification or feedback on your class assignments
+- Language Support:Improve your spoken or written North American English by practicing with an English Learner Specialist
+- Sessions:40 minutes to 1 hour depending on the service.
+- Attendance:If you are 10+ minutes late, your appointment may be forfeited.
+- Booking:Book an appointment on the BCC website to guarantee a spot. Walk‑ins are also welcome if a tutor is available
+- What to Bring:A laptop, tablet, or physical copy of your assignment
 Links:
-- JSOM 12.106 - http://www.utdallas.edu/locator/JSOM_12.106
-- bcc.utdallas.edu - http://bcc.utdallas.edu
+- https://bcc.utdallas.edu - https://bcc.utdallas.edu
 
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/labs/
@@ -387,33 +381,6 @@ Lists:
 Links:
 - JSOM 11.106 - http://www.utdallas.edu/locator/JSOM_11.106
 - utdsales@utdallas.edu - mailto:utdsales@utdallas.edu
-
-================================================================================
-URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
-Headings:
-- The BCC provides one-on-one assistance with:
-- Guidelines:
-Content:
-Innovative Approach
-We integrate communication and artificial intelligence (AI), emphasizing the fundamentals of effective business communication. Students explore the AI Applicant Tracking Systems (ATS), resume optimization, interview strategies and presentations in skills-based projects.
-Practical Takeaways
-Each student creates, refines and improves a LinkedIn profile optimized for job searching, a resume ready to pass online screening and a Personalized Portfolio (POP).
-Internship Preparation
-We prepare students to secure internships across a range of industries, ensuring they have valuable real-world experiences to enhance their career prospects.
-Center Hours:Subject to change each semester—check the BCC website.Location:JSOM 12.106
-Lists:
-- Written and Verbal Communication:Get feedback with written assignments, presentation practice, and publication drafts
-- Professional Development:Receive feedback on résumés, cover letters, and job interview questions, and learn strategies for using AI tools effectively
-- BA 1105/3105 Assignment Feedback:Work with the BA 1105/3105 peer coach for clarification or feedback on your class assignments
-- Language Support:Improve your spoken or written North American English by practicing with an English Learner Specialist
-- Sessions:40 minutes to 1 hour depending on the service.
-- Attendance:If you are 10+ minutes late, your appointment may be forfeited.
-- Booking:Book an appointment on the BCC website to guarantee a spot. Walk‑ins are also welcome if a tutor is available
-- What to Bring:A laptop, tablet, or physical copy of your assignment
-Links:
-- Workshops - https://jindal.utdallas.edu/student-resources/business-communication-center/workshops/
-- Policies and FAQ - https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
-- Additional Resources - https://jindal.utdallas.edu/student-resources/business-communication-center/additional-resources/
 
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/

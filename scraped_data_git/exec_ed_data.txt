@@ -50,58 +50,58 @@ Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Grace Tissell – MS LOD Strategic Human Resources:
-
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
-
-Veronica Sanchez, MS LOD:
-
 David Gill:
 
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
 
-Sean Seabrook, MS LOD:
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Qiana Levy:
 
 Cherie Castain – MS LOD Executive and Professional Coaching:
 
-Bill Disario:
-
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
-
-Esteban Santos, EMBA 2021:
-
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
-
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Jacob Heller, MS LOD:
-
-Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Emily Elizarde – MS LOD Transformational Leadership:
-
-Nickquolette Barrett – MS LOD Coaching:
-
-Nicole Roettele – MS LOD Executive and Professional Coaching:
-
 Denis Zub (EMBA 2022):
 
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
 
 Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
 
+Erinn Marks, GLEMBA ’19:
+
+Bill Disario:
+
+Alberto Gutierrez Algren:
+
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Veronica Sanchez, MS LOD:
+
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
+
+Mohammed Omer, GLEMBA ’19:
+
+Ellie Shollenberger:
+
+Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
+
+Thomas Rodgers (EMBA 2022):
+
 Executive Education Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
-
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
@@ -110,6 +110,10 @@ Paragraph: When I am asked what makes a good executive MBA candidate, several th
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
 Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
+
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 How to Write an Admissions Essay for an Executive MBA Program:
 Paragraph: The power of your personal story
@@ -166,57 +170,53 @@ Paragraph: This fully online program connects product development with supply ch
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Ellie Shollenberger:
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
 
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
+Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
 
-Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
 
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
+Sean Seabrook, MS LOD:
 
-Grace Tissell – MS LOD Strategic Human Resources:
-
-Cherie Castain – MS LOD Executive and Professional Coaching:
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
+Emily Elizarde – MS LOD Transformational Leadership:
 
 Holly Martin, GLEMBA ’19:
 Paragraph: Customer Experience Manager, 
  J.B. Hunt
 
-Bill Disario:
+Alberto Gutierrez Algren:
 
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Nickquolette Barrett – MS LOD Coaching:
-
-Jacob Heller, MS LOD:
-
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
-
-Qiana Levy:
+Thomas Rodgers (EMBA 2022):
 
 Curtis Clark:
 
 Cynthia Carter – MS LOD Executive and Professional Coaching:
 
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
+David Gill:
+
+Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Erinn Marks, GLEMBA ’19:
+
+Denis Zub (EMBA 2022):
+
+Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Megan Lightfoot Metzger, MS LOD:
+
+Jacob Heller, MS LOD:
+
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Nicole Roettele – MS LOD Executive and Professional Coaching:
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -252,59 +252,56 @@ Paragraph: Advance your education with concentration credits that count toward b
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
+Andy Miller, GLEMBA ’16:
+Paragraph: IT Operations Manager, 
+ Splunk
 
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
+Grace Tissell – MS LOD Strategic Human Resources:
 
-Alberto Gutierrez Algren:
-
-Nickquolette Barrett – MS LOD Coaching:
-
-Bill Disario:
-
-Jacob Heller, MS LOD:
+David Gill:
 
 Khaled Hallak, EMBA 2021:
 Paragraph: Bank of America, Officer,
   Syndicated Loan Closer
 
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
+
+Megan Lightfoot Metzger, MS LOD:
+
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
+Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+
+Ellie Shollenberger:
 
 Cynthia Carter – MS LOD Executive and Professional Coaching:
 
-Thomas Rodgers (EMBA 2022):
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
 
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
-Ashwin Prakash, GLEMBA ’20:
-Paragraph: Head of Data Science and Analytics, 
- HCA Healthcare
-
-Curtis Clark:
-
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
-
-Tu Huynh:
-
-David Gill:
-
-Erinn Marks, GLEMBA ’19:
+Emily Elizarde – MS LOD Transformational Leadership:
 
 Denis Zub (EMBA 2022):
 
-Esteban Santos, EMBA 2021:
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
+Sean Seabrook, MS LOD:
+
+Tu Huynh:
+
+Jennifer Masie, EMBA 2022:
+Paragraph: Vice President, Retail Operations and Chief of Staff
+
+Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
+
+Esteban Santos, EMBA 2021:
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -343,55 +340,55 @@ Paragraph: Network with fellow physicians while learning from industry experts a
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Nickquolette Barrett – MS LOD Coaching:
+Jacob Heller, MS LOD:
 
-Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
+Erinn Marks, GLEMBA ’19:
 
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
+Ellie Shollenberger:
 
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
+Bill Disario:
 
-Cynthia Carter – MS LOD Executive and Professional Coaching:
+Megan Lightfoot Metzger, MS LOD:
 
-Andy Miller, GLEMBA ’16:
-Paragraph: IT Operations Manager, 
- Splunk
-
-Curtis Clark:
-
-Alberto Gutierrez Algren:
-
-Thomas Rodgers (EMBA 2022):
-
-Mohammed Omer, GLEMBA ’19:
-
-Tu Huynh:
+Abigail Darling – Professional Certificate in Mediation and Dispute Resolution:
 
 Darrick Fitzgerald, GLEMBA ’18:
 Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
  Verizon Wireless
 
-Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
+Nickquolette Barrett – MS LOD Coaching:
+
+Andrew Svatek, EMBA 2022:
+Paragraph: Director of Operations, 
+  Svatek Consulting
+
+Qiana Levy:
+
+Thomas Rodgers (EMBA 2022):
+
+Daniel Hendrickson, EMBA 2022:
+Paragraph: VP, Sr. Financial Analyst,
+  First United Bank
+
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
+
+Cherie Castain – MS LOD Executive and Professional Coaching:
+
+Nicole Roettele – MS LOD Executive and Professional Coaching:
 
 Sean Seabrook, MS LOD:
 
-David Gill:
+Cynthia Carter – MS LOD Executive and Professional Coaching:
 
-Jacob Heller, MS LOD:
+Colleen Rodriguez – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
+Ashwin Prakash, GLEMBA ’20:
+Paragraph: Head of Data Science and Analytics, 
+ HCA Healthcare
 
-Emily Elizarde – MS LOD Transformational Leadership:
-
-Amanda Merritt – MBA, MS LOD Organizational Consulting and Transformational Leadership:
-
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
+Tyrrell (TJ) Thermezi II – MS LOD Transformational Leadership Testimonial:
 
 Upcoming Events:
 Paragraph: See Executive Education Events
@@ -424,17 +421,53 @@ Paragraph: Through our flexible 100% online format and small class sizes that pr
 Student Testimonials:
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Sean Seabrook, MS LOD:
+Nicole Roettele – MS LOD Executive and Professional Coaching:
 
-Curtis Clark:
+Qiana Levy:
+
+Imraan Husain, GLEMBA ’17:
+Paragraph: Director, 
+  Articulator Dental Management
+
+Jacob Heller, MS LOD:
+
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
+
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
+
+Denis Zub (EMBA 2022):
 
 Andrew Svatek, EMBA 2022:
 Paragraph: Director of Operations, 
   Svatek Consulting
 
-Tu Huynh:
+Esteban Santos, EMBA 2021:
+
+Mohammed Omer, GLEMBA ’19:
+
+Erinn Marks, GLEMBA ’19:
+
+Curtis Clark:
+
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
+
+Nickquolette Barrett – MS LOD Coaching:
 
 Veronica Sanchez, MS LOD:
+
+Ellie Shollenberger:
+
+Darrick Fitzgerald, GLEMBA ’18:
+Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
+ Verizon Wireless
+
+Grace Tissell – MS LOD Strategic Human Resources:
 
 Holly Martin, GLEMBA ’19:
 Paragraph: Customer Experience Manager, 
@@ -442,212 +475,10 @@ Paragraph: Customer Experience Manager,
 
 Anwar Mohammad Sirajuddin – EMBA with an Emphasis on Healthcare Organization Leadership:
 
-Edtrina Moss – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Grace Tissell – MS LOD Strategic Human Resources:
-
-Darrick Fitzgerald, GLEMBA ’18:
-Paragraph: Managing Consultant – Supply Chain Management Reverse Logistics Team, 
- Verizon Wireless
-
-Mohammed Omer, GLEMBA ’19:
-
-Ellie Shollenberger:
-
-Esteban Santos, EMBA 2021:
-
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Imraan Husain, GLEMBA ’17:
-Paragraph: Director, 
-  Articulator Dental Management
-
-Erinn Marks, GLEMBA ’19:
-
-Emily Elizarde – MS LOD Transformational Leadership:
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Jennifer Covarrubias – EMBA with an Emphasis on Healthcare Organization Leadership:
-
-Tamer Elshamy, GLEMBA ’19:
-Paragraph: Sales Director, 
- Fawry Banking and Payment Technology Services
-
 Upcoming Events:
 Paragraph: See Executive Education Events
 
 Executive Education Request for Information:
-
-==================================================
-
-URL: https://execed.utdallas.edu/scholarships-executive-education/
-
-Wideblocks:
-Executive Education scholarships and fellowships:
-Paragraph: The Executive Education area offers scholarships and fellowships to help new and current students pay for their education. Each scholarship has specific criteria – please read through them before applying.
-Paragraph: The 
-  Executive Education scholarship application links can be found below, along with application descriptions.
-
-Selected Applications will be Open from October 1 – October 31, 2025:
-
-Executive Education Scholarships:
-
-Duggirala Endowed Executive MBA Fellowship:
-Paragraph: This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
-  - Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
-  - Applicants may be US citizens, permanent residents, or international students.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-  - Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
-  - Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:
-Paragraph: In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-Link: Click here to Apply (URL: https://forms.office.com/r/3kwGNMbPc5)
-
-Ruben Mesa EMBA ’15 Memorial Fellowship:
-Paragraph: The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
-Paragraph: Award: $2,500 (2) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-List:
-  - Applicants must be incoming or current graduate students at UT Dallas.
-  - Applicants must be pursuing a graduate degree within the UT Dallas Executive Education department area.
-  - Applicants must have a cumulative GPA between 3.0 and 3.5. (If your GPA is above 3.5 or below 3.0, you will not be eligible.)
-  - Applicants must be enrolled in at least six (6) credit hours each semester.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must be U.S. citizens, permanent residents, or international students.
-  - Applicants must have a minimum of 10 years of work experience and/or military service following the completion of their undergraduate degree.
-  - Among equally qualified applicants, preference shall be given to applicants who demonstrate the greatest financial need or to applicants who received their undergraduate degree from UT Dallas.
-  - Recipients may compete for a second year of funding, provided they have maintained at least a 3.0 cumulative GPA and will be enrolled in a minimum of six (6) credit hours per semester during the second year of funding. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-Paragraph: Essay:
-In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
-Click here to Apply
-
-Student Testimonials:
-Link: See all Executive MBA Testimonials (URL: /execed/voices/executive-mba-testimonials)
-
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
-
-Denis Zub (EMBA 2022):
-
-Thomas Rodgers (EMBA 2022):
-
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
-
-Daniel Hendrickson, EMBA 2022:
-Paragraph: VP, Sr. Financial Analyst,
-  First United Bank
-
-Vinay Rao, EMBA 2021:
-Paragraph: ERP Specialist Advisor
-  NTT Data Services
-
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
-
-Khaled Hallak, EMBA 2021:
-Paragraph: Bank of America, Officer,
-  Syndicated Loan Closer
-
-Frequently Asked Questions:
-
-Who can apply for JSOM Executive Education Scholarships?:
-
-How can I apply for JSOM Executive Education Scholarships?:
-
-How can I learn about the status of my application for JSOM Executive Education Scholarships?:
-
-What are the rules for JSOM Executive Education Scholarships?:
-
-Who can I contact with any additional questions or concerns?:
-
-How can I learn more about other scholarships offered within the Naveen Jindal School of Management?:
-
-Tabs:
-Duggirala Endowed Executive MBA Fellowship:
-Paragraph: This fellowship was established in honor of Venkateswara Duggirala, an Indian-born Global Leadership Executive MBA graduate. “DV” grew up in a lower middle class where it was next to impossible to think of continuous and experiential education. He worked in India, transitioning early to Enterprise Resource Planning. This allowed him the opportunity to operate as a global citizen. He moved to the U.S. and realized that the missing link in his education was an executive MBA from UT Dallas – providing the perfect blend of experience, flexibility, content and brand.
-Paragraph: Award: $1,000 (one-time) tuition credit during the scholarship award period for each scholarship. Up to one scholarship will be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:
-Paragraph: In 400 words or less, describe a project that you have previously led, or are planning to lead, that is a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-List:
-  - Applicants must be enrolled in one of the UT Dallas Executive MBA programs; this includes the Executive MBA, the Executive MBA with an emphasis in Project Management, the Executive MBA with an emphasis in Product Lifecycle and Supply Chain Management, the Executive MBA with an emphasis in Healthcare Leadership Management (for both physicians and professionals) and the Executive MBA with an emphasis in Healthcare Organizational Leadership.
-  - Applicants must have at least a 3.0 curriculum GPA at UT Dallas.
-  - Applicants may be US citizens, permanent residents, or international students.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must have previously led, or are planning to lead, a major organizational change initiative that improved performance and efficiencies, seized opportunities or addressed key issues for the organization and required a multi-faceted approach to many levels of the organization.
-  - Among equally qualified applicants, preference will be given to applicants who have completed all or part of their preparatory education outside the United States and who demonstrate the greatest financial need.
-  - Recipients may compete for a second year of funding, provided they are in good academic standing with UT Dallas. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Scholarship award is non-renewable and cannot be stacked or combined.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-
-Ruben Mesa EMBA ’15 Memorial Fellowship:
-Paragraph: The University of Texas at Dallas Executive MBA Class of 2015 established a scholarship in honor of their friend and classmate, Ben Mesa. Ben passed away in a tragic accident in June 2015, two weeks after graduation. Ben’s zest for life, family and lifelong learning were only a few of the qualities that made him a great classmate and a growing leader in his professional field. Ben saw great value in continuing education, which is why he decided to pursue his master’s degree later in his career while holding a demanding finance leadership role and raising his two sons, Zachary and Aidan.
-Paragraph: Award: $2,500 (2) tuition credit during the scholarship award period. Up to two scholarships may be awarded.
-Paragraph: Contact: Rhonda Bush at rhonda.bush@utdallas.edu
-Paragraph: Requirements, Terms and Conditions:
-Paragraph: Essay:
-In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
-Click here to Apply
-Paragraph: In 400 words or less, describe how the degree program curriculum is helping you achieve your professional goals.
-List:
-  - Applicants must be incoming or current graduate students at UT Dallas.
-  - Applicants must be pursuing a graduate degree within the UT Dallas Executive Education department area.
-  - Applicants must have a cumulative GPA between 3.0 and 3.5. (If your GPA is above 3.5 or below 3.0, you will not be eligible.)
-  - Applicants must be enrolled in at least six (6) credit hours each semester.
-  - Applicants must demonstrate financial need by completing either a financial statement or FAFSA.
-  - Applicants must be U.S. citizens, permanent residents, or international students.
-  - Applicants must have a minimum of 10 years of work experience and/or military service following the completion of their undergraduate degree.
-  - Among equally qualified applicants, preference shall be given to applicants who demonstrate the greatest financial need or to applicants who received their undergraduate degree from UT Dallas.
-  - Recipients may compete for a second year of funding, provided they have maintained at least a 3.0 cumulative GPA and will be enrolled in a minimum of six (6) credit hours per semester during the second year of funding. Recipients seeking a second year of funding must reapply through the Jindal School.
-  - Recipients must sign a release form in accordance with the Family Education Rights and Privacy Act of 1974 (FERPA), allowing UT Dallas to use application material for fellowship purposes.
-
-Who can apply for JSOM Executive Education Scholarships?:
-List:
-  - Current executive education students are encouraged to apply for scholarship awards.
-  - Neither applicants for admission nor current students are considered automatically for scholarship awards.
-
-How can I apply for JSOM Executive Education Scholarships?:
-List:
-  - Visit each of the Executive Education Scholarships above and read through the criteria and requirements.
-  - Students are expected to have fully read the criteria and requirements for each scholarship.
-  - If the criteria and requirements are met, students can select the “Click Here to Apply” button to apply for each scholarship they qualify for.
-  - Once an application is submitted, students are unable to make any changes.
-
-How can I learn about the status of my application for JSOM Executive Education Scholarships?:
-Paragraph: Please contact Rhonda Bush at rhonda.bush@utdallas.edu
-
-What are the rules for JSOM Executive Education Scholarships?:
-List:
-  - Scholarships are not transferable/deferrable. If a scholarship recipient defers admission, the scholarship will not be deferred and a new scholarship application is required for the semester of deferment.
-  - Scholarships are non-renewable and cannot be combined or stacked with other scholarships awarded by JSOM during the academic year.
-  - Scholarship recipients must maintain a minimum GPA of 3.0 during the academic year.
-  - Acceptance of scholarship awards and tuition reductions can result in varying implications for your tax status/situation. Please consult your professional tax advisor to determine the financial implications. You may also contact taxcompliance@utdallas.edu. (Link: mailto:taxcompliance@utdallas.edu)
-  - Failure to comply with scholarship requirements/criteria may result in the revocation of the scholarship.
-
-Who can I contact with any additional questions or concerns?:
-List:
-  - For any further questions or concerns, please contact Rhonda Bush, rhonda.bush@utdallas.edu (Link: mailto:rhonda.bush@utdallas.edu target=)
-
-How can I learn more about other scholarships offered within the Naveen Jindal School of Management?:
-Paragraph: Please visit the JSOM Graduate Scholarship page to learn more about how to apply for other scholarships within JSOM.
 
 ==================================================
 
@@ -688,9 +519,9 @@ Explore all your Executive Education Degree Options:
 
 Executive Education Voices:
 
-Andrew Svatek, EMBA 2022:
-Paragraph: Director of Operations, 
-  Svatek Consulting
+Vinay Rao, EMBA 2021:
+Paragraph: ERP Specialist Advisor
+  NTT Data Services
 
 Transformative Learning for Tomorrow’s Executives:
 Paragraph: Our executive education programs feature cutting-edge, unique offerings designed to elevate your leadership skills and drive success.

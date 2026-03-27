@@ -1,6 +1,22 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Dr. Sulman Ahmed, Founder & CEO of DECA Dental Group and UT Dallas Distinguished Alumnus, to Deliver Keynote at Draper Pitch Competition Finals
+Title Link: https://jindal.utdallas.edu/news/dr-sulman-ahmed-founder-ceo-of-deca-dental-group-and-ut-dallas-distinguished-alumnus-to-deliver-keynote-at-draper-pitch-competition-finals/
+Excerpt: The University of Texas at Dallas is excited to announce that Dr. Sulman Ahmed, BS’01, founder, chairman and CEO of DECA Dental Group and a UT Dallas Distinguished Alumnus, will serve as the keynote speaker at the finals of the Draper Pitch Competition. Scheduled for April 14, this flagship entrepreneurship event promises to be a […]
+Meta Details: March 26th, 2026 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/03/draper_pitch_competition_sulman_ahmed_630x630.jpg
+
+==================================================
+
+Title: Jindal School Leads National Conversation on Preparing Business Graduates for the AI Era at Sixth Annual Undergraduate Deans Conference
+Title Link: https://jindal.utdallas.edu/news/jindal-school-leads-national-conversation-on-preparing-business-graduates-for-the-ai-era-at-sixth-annual-undergraduate-deans-conference/
+Excerpt: Business school deans and administrators from universities across the U.S. gathered at The University of Texas at Dallas’ Naveen Jindal School of Management for an inspiring two-day event that showcased bold leadership in reshaping undergraduate business education for a future driven by artificial intelligence. The sixth-annual Undergraduate Deans Conference, held March 5–6 at the Davidson-Gundy […]
+Meta Details: March 25th, 2026 |Events
+Image URL: https://jindal.utdallas.edu/files/2026/03/ug_deans_conf_2026_audience_630x630.jpg
+
+==================================================
+
 Title: UTD’s Jindal School Customized Online MBA Rated Top-10 In The World
 Title Link: https://jindal.utdallas.edu/news/utds-jindal-school-customized-online-mba-rated-top-10-in-the-world/
 Excerpt: The University of Texas at Dallas’ Customized Online MBA ranks No. 10 worldwide, No. 4 in the U.S. overall and No. 2 in the U.S. among public school programs, according to the Online MBA 2026 rankings by the Financial Times. Natalie Gonzalez Natalie Gonzalez, the program’s director, said the rankings confirm what students and alumni from […]
@@ -12,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/03/customized_online_mba_630x6
 Title: 2026 UTD Top 100 Business School Research Rankings™
 Title Link: https://jindal.utdallas.edu/news/2026-utd-top-100-business-school-research-rankings/
 Excerpt: The 22nd installment of The UTD Top 100 Business School Research Worldwide and North American Rankings™ has been released, revealing several notable trends in an increasingly competitive global business research environment. Five universities occupy the same top spots as last year, both worldwide and in North America, with only one minor swap in position. Just […]
-Meta Details: March 16th, 2026 |Faculty/Research,Featured
+Meta Details: March 16th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/03/UTD-Top-100-Business-School-Research-Rankings-Logo-630x630-1.png
 
 ==================================================
@@ -142,22 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/real-estate-programs-at-the-jindal-
 Excerpt: Ever since joining the faculty at the Naveen Jindal School of Management in 2012, Dr. Randall S. (Randy) Guttery has taught 4,900 students without having missed a single lecture — even teaching on crutches after surgeries. Extend that back to his time at the University of North Texas, and Guttery can claim 9,120 students and […]
 Meta Details: December 2nd, 2025 |Academics,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2025/12/happy_retirement_banner_630x630.jpg
-
-==================================================
-
-Title: Wildfire Smoke Prompts Temporary Shift Toward Green Purchases, Jindal School Research Shows
-Title Link: https://jindal.utdallas.edu/news/wildfire-smoke-prompts-temporary-shift-toward-green-purchases-jindal-school-research-shows/
-Excerpt: Whether a campfire gets left unattended or lightning strikes dry brush during a drought, people caught in the resulting wildfires are changing their shopping habits — not just by putting on masks but also by shopping for greener products, at least for a while. Findings from a recent study by researchers in the Naveen Jindal […]
-Meta Details: November 19th, 2025 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/11/wildfires_and_sustainable_cleaning_products_630x630.jpg
-
-==================================================
-
-Title: Women in STEM at Jindal School Lead, Solve and Inspire
-Title Link: https://jindal.utdallas.edu/news/women-in-stem-at-jindal-school-lead-solve-and-inspire/
-Excerpt: National STEM Day, celebrated Nov. 8 across the U.S., highlights the creativity and ingenuity needed to succeed in science, technology, engineering and mathematics (STEM) fields. Falling on a weekend this year, it offered the accomplished women at the Naveen Jindal School of Management a moment to pause and reflect on what the day means to […]
-Meta Details: November 17th, 2025 |Academics,Alumni,Faculty/Research,Students
-Image URL: https://jindal.utdallas.edu/files/2025/11/2025_WomenInStemGraphic-630x630-1.jpg
 
 ==================================================
 
