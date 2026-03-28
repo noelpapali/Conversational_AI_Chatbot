@@ -1,11 +1,5 @@
 Month: Mar, 2026
 
-Date: Friday, March 27, 2026
-Time: 10:00 AM - 12:00 PM
-Title: Accounting Career Exploration with Grant Thornton
-Location: 
-Event URL: 52260100423335&instance=52260100425384
---------------------------------------------------
 Date: Monday, March 30, 2026
 Time: 04:00 PM - 05:00 PM
 Title: BS Healthcare Management - Info Session/Webinar for Prospective Students
@@ -44,59 +38,65 @@ Title: ITM Hangout - Fall/Summer 2026 Registration  & Course Preview
 Location: 
 Event URL: 51843724179803&instance=51843743636631
 --------------------------------------------------
-Date: Monday, April 06, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
+Date: Friday, April 03, 2026
+Time: 02:00 PM - 06:00 PM
+Title: Financial Hackathon (FinHack) 2026
 Location: 
-Event URL: 52143403000135&instance=52143420721379
+Event URL: 52332602458297&instance=52332602458298
 --------------------------------------------------
 Date: Tuesday, April 07, 2026
-Time: 01:00 PM - 03:00 PM
-Title: Accounting Career Exploration with EY
+Time: 12:30 PM - 01:30 PM
+Title: MSBA&AI Flex Student Success Session - Virtual
 Location: 
-Event URL: 52329972359301&instance=52329972359302
+Event URL: 52136134583478&instance=52136134584503
 --------------------------------------------------
 Date: Tuesday, April 07, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569288698997&instance=51569320145049
+Event URL: 51391628230635&instance=51391647924472
 --------------------------------------------------
 Date: Wednesday, April 08, 2026
-Time: 11:00 AM - 12:00 PM
-Title: UTD MBA Virtual Q&A Information Session
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 51940675384118&instance=51940675384119
+Event URL: 50605698757868&instance=51943217872142
+--------------------------------------------------
+Date: Wednesday, April 08, 2026
+Time: 11:45 AM - 01:15 PM
+Title: Session V | From Blueprint to Building:  The Journey of JSOM III
+Location: 
+Event URL: 51949614491902&instance=51949618089771
 --------------------------------------------------
 Date: Wednesday, April 08, 2026
 Time: 12:00 PM - 01:00 PM
-Title: Doctor of Business Administration (DBA) Online Information Session
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52003346034463&instance=52003352051432
---------------------------------------------------
-Date: Wednesday, April 08, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Online Information Session | Executive MBA with an Emphasis on Healthcare Organization Leadership
-Location: 
-Event URL: 52303966411462&instance=52303966414535
+Event URL: 52118180250222&instance=52145346943572
 --------------------------------------------------
 Date: Wednesday, April 08, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569288258804&instance=51569326652706
+Event URL: 51391627977572&instance=51391650063156
 --------------------------------------------------
-Date: Thursday, April 09, 2026
-Time: 10:00 AM - 01:00 PM
-Title: Virtual Forté MBA Forum
+Date: Wednesday, April 08, 2026
+Time: 04:00 PM - 05:30 PM
+Title: OWLIES Awards Spring 2026
 Location: 
-Event URL: 52252058560617&instance=52252058560618
+Event URL: 51995263431881&instance=51995263432906
 --------------------------------------------------
 Date: Thursday, April 09, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569288031460&instance=51569332816409
+Event URL: 51391627712993&instance=51391652266358
+--------------------------------------------------
+Date: Thursday, April 09, 2026
+Time: 04:00 PM - 05:30 PM
+Title: Women in Brokerage Panel
+Location: 
+Event URL: 52461782496776&instance=52461782497801
 --------------------------------------------------
 Date: Tuesday, April 14, 2026
 Time: 01:00 PM - 04:00 PM
