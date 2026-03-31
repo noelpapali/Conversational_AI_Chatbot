@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Dallas Innovates Names Jindal School Administrator One of Its “AI 75”
+Title Link: https://jindal.utdallas.edu/news/dallas-innovates-names-jindal-school-administrator-one-of-its-ai-75/
+Excerpt: New employees entering a workforce driven by data and propelled by artificial intelligence are not being asked to learn the job. They are expected to perform at a higher level from day one, according to Dr. Gaurav Shekhar, associate dean for administration, student success and alumni relations at the Naveen Jindal School of Management. That […]
+Meta Details: March 30th, 2026 |Academics,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/03/gaurav_shekhar_ai_75_630x630.jpg
+
+==================================================
+
 Title: Dr. Sulman Ahmed, Founder & CEO of DECA Dental Group and UT Dallas Distinguished Alumnus, to Deliver Keynote at Draper Pitch Competition Finals
 Title Link: https://jindal.utdallas.edu/news/dr-sulman-ahmed-founder-ceo-of-deca-dental-group-and-ut-dallas-distinguished-alumnus-to-deliver-keynote-at-draper-pitch-competition-finals/
 Excerpt: The University of Texas at Dallas is excited to announce that Dr. Sulman Ahmed, BS’01, founder, chairman and CEO of DECA Dental Group and a UT Dallas Distinguished Alumnus, will serve as the keynote speaker at the finals of the Draper Pitch Competition. Scheduled for April 14, this flagship entrepreneurship event promises to be a […]
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/03/ug_deans_conf_2026_audience
 Title: UTD’s Jindal School Customized Online MBA Rated Top-10 In The World
 Title Link: https://jindal.utdallas.edu/news/utds-jindal-school-customized-online-mba-rated-top-10-in-the-world/
 Excerpt: The University of Texas at Dallas’ Customized Online MBA ranks No. 10 worldwide, No. 4 in the U.S. overall and No. 2 in the U.S. among public school programs, according to the Online MBA 2026 rankings by the Financial Times. Natalie Gonzalez Natalie Gonzalez, the program’s director, said the rankings confirm what students and alumni from […]
-Meta Details: March 16th, 2026 |Academics,Featured
+Meta Details: March 16th, 2026 |Academics
 Image URL: https://jindal.utdallas.edu/files/2026/03/customized_online_mba_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/team-of-jindal-school-mba-students-
 Excerpt: Matthew Turner had never even heard of case competitions before he started his graduate studies at The University of Texas at Dallas and now the MBA program at the Naveen Jindal School of Management has equipped him to win them. He and his teammates recently took first place in the 2025 MBA Case Competition World […]
 Meta Details: December 3rd, 2025 |Students
 Image URL: https://jindal.utdallas.edu/files/2025/12/Finals-MBA-World-Cup-630x630-1.jpg
-
-==================================================
-
-Title: Real Estate Programs at the Jindal School Build on Guttery’s Legacy
-Title Link: https://jindal.utdallas.edu/news/real-estate-programs-at-the-jindal-school-build-on-gutterys-legacy/
-Excerpt: Ever since joining the faculty at the Naveen Jindal School of Management in 2012, Dr. Randall S. (Randy) Guttery has taught 4,900 students without having missed a single lecture — even teaching on crutches after surgeries. Extend that back to his time at the University of North Texas, and Guttery can claim 9,120 students and […]
-Meta Details: December 2nd, 2025 |Academics,Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2025/12/happy_retirement_banner_630x630.jpg
 
 ==================================================
 
