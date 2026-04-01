@@ -90,56 +90,56 @@ Links:
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 Headings:
 - Alumni Testimonials
-- Qi Annabelle Feng
-- Wei Chen
-- Zhengrui Jiang
-- Bharadwaj Kadiyala
-- Tai-Yuan Chen
-- Aidin Namin
-- Jess Cornaggia
-- Oktay Urcan
-- Subodha Kumar
-- Hasan Cavusoglu
-- Harish Guda
-- Blair Flicker
-- Xuying Zhao
 - Mina Ameri
+- Zhengrui Jiang
+- Oktay Urcan
+- Qi Annabelle Feng
+- Harish Guda
+- Hasan Cavusoglu
+- Xuying Zhao
+- Tai-Yuan Chen
+- Blair Flicker
+- Subodha Kumar
+- Jess Cornaggia
+- Aidin Namin
+- Bharadwaj Kadiyala
 - Devendra Kale
+- Wei Chen
 Content:
-John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
-Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Assistant ProfessorThe University of Pittsburgh
 Professor of Information Systems,School of Business,
 Nanjing University
-Assistant Professor,Eccles School of Business, University of Utah
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
+Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
 Alumni Professor of Finance,HKUST Business School,
 Hong Kong University of Science and Technology
-Associate Professor of Marketing Analytics, Loyola Marymount University
-Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
-Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
-Professor of Management Information SystemsSauder School of Business, The University of British Columbia
-Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
 Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
-Assistant ProfessorThe University of Pittsburgh
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
+Associate Professor of Marketing Analytics, Loyola Marymount University
+Assistant Professor,Eccles School of Business, University of Utah
 PhD in Management Science, Accounting
 Assistant Professor,University of Rhode Island
+Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
 Links:
-- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
-- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
-- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
-- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
-- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
-- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
-- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
-- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
-- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
-- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
-- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
-- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
 - Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
+- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
+- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
+- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
+- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
+- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
+- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
+- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
+- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
+- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
 - Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
+- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================
@@ -194,7 +194,7 @@ Content:
 The Jindal SchoolThe University of Texas at Dallas(972) 883-5889jsomug@utdallas.edu
 Book your Campus Visit
 Join us for our signature prospective student event: the Jindal School Experience, and hear from current students and staff, mingle with Academic Program Directors, and connect with other future students. Attendees will also have the option to add a campus and/or residence hall tour. The Jindal School Experience is offered several times throughout the spring semester and registration is required. Please select a date to register. Registration for each event will open approximately one month prior to the event date.
-Admitted Fall 2026 students are encouraged to attend a Comet Launchpad event on one of the following dates:
+Our Jindal School Experience events have concluded for the year. Admitted Fall 2026 students are still welcome to attend available Comet Launchpad events (below). We also offer personalized Executive Visits for anyone wishing to visit the Jindal School for the remainder of the Spring. 2027 Jindal School Experience dates will be available in the Fall.
 This is an admitted student event run by the Office of Admission. Get more information and register to attend on theComet Launchpad webpage. Admitted Jindal School students will receive the same ‘Jindal School Experience’ at this event, plus additional university-wide activities.
 The University of Texas at Dallas Office of Admission and Enrollment and the Naveen Jindal School of Management will not take custodial responsibility of minors while participating in The Jindal School Experience or Comet Launchpad. Custodial responsibility will remain with teachers K-12, parents, legal guardians and chaperones.
 Every student is unique, and we believe your campus 
@@ -204,11 +204,6 @@ Throughout the summer, we will do our best to accommodate all requests; however,
 To get started, select your degree of interest below to schedule your campus visit.
 Please keep in mind that we require 7 days advance notice to schedule appointments.
 Lists:
-- Friday, March 13
-- Friday, March 27
-- Friday, April 3
-- Friday, April 17
-- Friday, May 1
 - A meeting with a program representative of your intended major
 - A meeting with theDavidson Management Honors Programstaff
 - A student-led campus tour
@@ -217,11 +212,9 @@ Links:
 - jsomug@utdallas.edu - mailto:jsomug@utdallas.edu
 - Executive Visits - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#executive-visit
 - Jindal School Experience - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#school-experience
-- Contact Us - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/contact-us/
+- Contact Us - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#contact
 - Jindal School Experience - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#school-experience
 - Plan your Executive Visit - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#executive-visit
-- Friday, March 13 - https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Futdallas.my.salesforce-sites.com%2Fevents%2Ftargetx_eventsb__eventspecificregistration%3Feid%3Da0RQn00000WSOWSMA5&data=05%7C02%7CAaron.Beaudrie%40utdallas.edu%7Cc338b653e50d41b5680a08de5a142a74%7C8d281d1d9c4d4bf7b16e032d15de9f6c%7C0%7C0%7C639047244734102295%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=T4%2B9GWkHJ10oZYs6zDI6HMJKpGkcZLg7MqJGsVG5tlk%3D&reserved=0
-- Friday, March 27 - https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Futdallas.my.salesforce-sites.com%2Fevents%2Ftargetx_eventsb__eventspecificregistration%3Feid%3Da0RQn00000WSWFjMAP&data=05%7C02%7CAaron.Beaudrie%40utdallas.edu%7Cc338b653e50d41b5680a08de5a142a74%7C8d281d1d9c4d4bf7b16e032d15de9f6c%7C0%7C0%7C639047244734141340%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=YDslPG6KoTlKadnCde99S57Ath%2F8EkMMWCtHpGhVZhs%3D&reserved=0
 - Comet Launchpad webpage - https://enroll.utdallas.edu/visit/events/comet-launchpad/
 - Davidson Management Honors Program - https://jindal.utdallas.edu/honors-programs/dmhp/
 - Accounting - https://outlook.office365.com/owa/calendar/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/bookings/s/R420WW0caky4YBoTg19yoQ2
@@ -246,7 +239,7 @@ Headings:
 - Schedule Appointments
 Content:
 Join us for our signature prospective student event: the Jindal School Experience, and hear from current students and staff, mingle with Academic Program Directors, and connect with other future students. Attendees will also have the option to add a campus and/or residence hall tour. The Jindal School Experience is offered several times throughout the spring semester and registration is required. Please select a date to register. Registration for each event will open approximately one month prior to the event date.
-Admitted Fall 2026 students are encouraged to attend a Comet Launchpad event on one of the following dates:
+Our Jindal School Experience events have concluded for the year. Admitted Fall 2026 students are still welcome to attend available Comet Launchpad events (below). We also offer personalized Executive Visits for anyone wishing to visit the Jindal School for the remainder of the Spring. 2027 Jindal School Experience dates will be available in the Fall.
 This is an admitted student event run by the Office of Admission. Get more information and register to attend on theComet Launchpad webpage. Admitted Jindal School students will receive the same ‘Jindal School Experience’ at this event, plus additional university-wide activities.
 The University of Texas at Dallas Office of Admission and Enrollment and the Naveen Jindal School of Management will not take custodial responsibility of minors while participating in The Jindal School Experience or Comet Launchpad. Custodial responsibility will remain with teachers K-12, parents, legal guardians and chaperones.
 Every student is unique, and we believe your campus 
@@ -256,19 +249,12 @@ Throughout the summer, we will do our best to accommodate all requests; however,
 To get started, select your degree of interest below to schedule your campus visit.
 Please keep in mind that we require 7 days advance notice to schedule appointments.
 Lists:
-- Friday, March 13
-- Friday, March 27
-- Friday, April 3
-- Friday, April 17
-- Friday, May 1
 - A meeting with a program representative of your intended major
 - A meeting with theDavidson Management Honors Programstaff
 - A student-led campus tour
 Links:
 - Jindal School Experience - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#school-experience
 - Plan your Executive Visit - https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#executive-visit
-- Friday, March 13 - https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Futdallas.my.salesforce-sites.com%2Fevents%2Ftargetx_eventsb__eventspecificregistration%3Feid%3Da0RQn00000WSOWSMA5&data=05%7C02%7CAaron.Beaudrie%40utdallas.edu%7Cc338b653e50d41b5680a08de5a142a74%7C8d281d1d9c4d4bf7b16e032d15de9f6c%7C0%7C0%7C639047244734102295%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=T4%2B9GWkHJ10oZYs6zDI6HMJKpGkcZLg7MqJGsVG5tlk%3D&reserved=0
-- Friday, March 27 - https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Futdallas.my.salesforce-sites.com%2Fevents%2Ftargetx_eventsb__eventspecificregistration%3Feid%3Da0RQn00000WSWFjMAP&data=05%7C02%7CAaron.Beaudrie%40utdallas.edu%7Cc338b653e50d41b5680a08de5a142a74%7C8d281d1d9c4d4bf7b16e032d15de9f6c%7C0%7C0%7C639047244734141340%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=YDslPG6KoTlKadnCde99S57Ath%2F8EkMMWCtHpGhVZhs%3D&reserved=0
 - Comet Launchpad webpage - https://enroll.utdallas.edu/visit/events/comet-launchpad/
 - Davidson Management Honors Program - https://jindal.utdallas.edu/honors-programs/dmhp/
 - Accounting - https://outlook.office365.com/owa/calendar/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/bookings/s/R420WW0caky4YBoTg19yoQ2
@@ -290,7 +276,7 @@ Headings:
 - Plan your Executive Visit
 Content:
 Join us for our signature prospective student event: the Jindal School Experience, and hear from current students and staff, mingle with Academic Program Directors, and connect with other future students. Attendees will also have the option to add a campus and/or residence hall tour. The Jindal School Experience is offered several times throughout the spring semester and registration is required. Please select a date to register. Registration for each event will open approximately one month prior to the event date.
-Admitted Fall 2026 students are encouraged to attend a Comet Launchpad event on one of the following dates:
+Our Jindal School Experience events have concluded for the year. Admitted Fall 2026 students are still welcome to attend available Comet Launchpad events (below). We also offer personalized Executive Visits for anyone wishing to visit the Jindal School for the remainder of the Spring. 2027 Jindal School Experience dates will be available in the Fall.
 This is an admitted student event run by the Office of Admission. Get more information and register to attend on theComet Launchpad webpage. Admitted Jindal School students will receive the same ‘Jindal School Experience’ at this event, plus additional university-wide activities.
 The University of Texas at Dallas Office of Admission and Enrollment and the Naveen Jindal School of Management will not take custodial responsibility of minors while participating in The Jindal School Experience or Comet Launchpad. Custodial responsibility will remain with teachers K-12, parents, legal guardians and chaperones.
 Every student is unique, and we believe your campus 
@@ -300,17 +286,10 @@ Throughout the summer, we will do our best to accommodate all requests; however,
 To get started, select your degree of interest below to schedule your campus visit.
 Please keep in mind that we require 7 days advance notice to schedule appointments.
 Lists:
-- Friday, March 13
-- Friday, March 27
-- Friday, April 3
-- Friday, April 17
-- Friday, May 1
 - A meeting with a program representative of your intended major
 - A meeting with theDavidson Management Honors Programstaff
 - A student-led campus tour
 Links:
-- Friday, March 13 - https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Futdallas.my.salesforce-sites.com%2Fevents%2Ftargetx_eventsb__eventspecificregistration%3Feid%3Da0RQn00000WSOWSMA5&data=05%7C02%7CAaron.Beaudrie%40utdallas.edu%7Cc338b653e50d41b5680a08de5a142a74%7C8d281d1d9c4d4bf7b16e032d15de9f6c%7C0%7C0%7C639047244734102295%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=T4%2B9GWkHJ10oZYs6zDI6HMJKpGkcZLg7MqJGsVG5tlk%3D&reserved=0
-- Friday, March 27 - https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Futdallas.my.salesforce-sites.com%2Fevents%2Ftargetx_eventsb__eventspecificregistration%3Feid%3Da0RQn00000WSWFjMAP&data=05%7C02%7CAaron.Beaudrie%40utdallas.edu%7Cc338b653e50d41b5680a08de5a142a74%7C8d281d1d9c4d4bf7b16e032d15de9f6c%7C0%7C0%7C639047244734141340%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=YDslPG6KoTlKadnCde99S57Ath%2F8EkMMWCtHpGhVZhs%3D&reserved=0
 - Comet Launchpad webpage - https://enroll.utdallas.edu/visit/events/comet-launchpad/
 - Davidson Management Honors Program - https://jindal.utdallas.edu/honors-programs/dmhp/
 
