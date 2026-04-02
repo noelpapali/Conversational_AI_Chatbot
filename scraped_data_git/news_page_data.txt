@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Global Business Student Earns National Recognition
+Title Link: https://jindal.utdallas.edu/news/jindal-school-global-business-student-earns-national-recognition/
+Excerpt: A Global Business senior at the Naveen Jindal School of Management has earned national and international recognition through selection into two highly competitive programs, becoming the first student at The University of Texas at Dallas to be selected for both. Hayagreev Jayaram Hayagreev Jayaram, a member of the Hobson Wildenthal Honors College, was awarded the […]
+Meta Details: April 2nd, 2026 |Academics,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2026/04/hayagreev_jayaram_global_business_portrait_630x630.png
+
+==================================================
+
 Title: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
 Title Link: https://jindal.utdallas.edu/news/paying-it-forward-inspiring-legacy-of-the-eclat-foundation/
 Excerpt: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation Ever wonder how the ECLAT Atrium in the Naveen Jindal School of Management got its name? It started years ago when a group of Taiwan immigrants built a beacon of hope through the ECLAT Foundation. Founded in 2011 as a 501(c)(3) nonprofit by Jane Jan […]
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/03/gaurav_shekhar_ai_75_630x63
 Title: Dr. Sulman Ahmed, Founder & CEO of DECA Dental Group and UT Dallas Distinguished Alumnus, to Deliver Keynote at Draper Pitch Competition Finals
 Title Link: https://jindal.utdallas.edu/news/dr-sulman-ahmed-founder-ceo-of-deca-dental-group-and-ut-dallas-distinguished-alumnus-to-deliver-keynote-at-draper-pitch-competition-finals/
 Excerpt: The University of Texas at Dallas is excited to announce that Dr. Sulman Ahmed, BS’01, founder, chairman and CEO of DECA Dental Group and a UT Dallas Distinguished Alumnus, will serve as the keynote speaker at the finals of the Draper Pitch Competition. Scheduled for April 14, this flagship entrepreneurship event promises to be a […]
-Meta Details: March 26th, 2026 |Events,Featured
+Meta Details: March 26th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/03/draper_pitch_competition_sulman_ahmed_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/new-required-undergraduate-course-a
 Excerpt: Students who enroll in business schools often do so to prepare for a rewarding life and productive career. A new undergraduate course is being offered at The University of Texas at Dallas’ Naveen Jindal School of Management to help them build the communication and professional skills essential for success. Beginning this fall, all incoming freshmen […]
 Meta Details: December 9th, 2025 |Academics,Students
 Image URL: https://jindal.utdallas.edu/files/2025/12/Professional-Development-630x630-1.jpg
-
-==================================================
-
-Title: Strengthening Ties: UT Dallas, ECLAT Foundation, and a Mayoral Visit Celebrating Taiwanese Talent
-Title Link: https://jindal.utdallas.edu/news/strengthening-ties-ut-dallas-eclat-foundation-and-a-mayoral-visit-celebrating-taiwanese-talent/
-Excerpt: Richardson Mayor Amir Omar, MBA’13, an Executive MBA alumnus from the Naveen Jindal School of Management at The University of Texas at Dallas, has actively engaged with the University’s international community, including Taiwanese students supported by ECLAT and related programs. Richardson Mayor Amir Omar engages with ECLAT students At a recent campus visit on Nov. […]
-Meta Details: December 5th, 2025 |Events
-Image URL: https://jindal.utdallas.edu/files/2025/12/mayor_omar_with_eclat_students_630x630-1.jpg
 
 ==================================================
 

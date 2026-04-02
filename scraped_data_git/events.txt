@@ -1,23 +1,5 @@
 Month: Apr, 2026
 
-Date: Wednesday, April 01, 2026
-Time: 08:30 AM - 09:30 AM
-Title: UTD MBA Coffee Chat at Eiland Coffee at Canyon Creek
-Location: 
-Event URL: 51940638302098&instance=51940638302099
---------------------------------------------------
-Date: Wednesday, April 01, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51569289100502&instance=51569294820524
---------------------------------------------------
-Date: Wednesday, April 01, 2026
-Time: 06:00 PM - 07:30 PM
-Title: Rotational Real Estate Event with LPT Realty
-Location: 
-Event URL: 52437624635357&instance=52437624635358
---------------------------------------------------
 Date: Thursday, April 02, 2026
 Time: 01:00 PM - 04:00 PM
 Title: JSOM CMC Walk-In Hours - JSOM GRAD
@@ -307,4 +289,22 @@ Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391785525970&instance=51391817842686
+--------------------------------------------------
+Date: Wednesday, May 20, 2026
+Time: 05:45 PM - 07:00 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
+Location: 
+Event URL: 52003393108396&instance=52003406060998
+--------------------------------------------------
+Date: Tuesday, May 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650438767869&instance=50650442897000
+--------------------------------------------------
+Date: Wednesday, May 27, 2026
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
+Location: 
+Event URL: 51994608484859&instance=51994611182600
 --------------------------------------------------
