@@ -1,11 +1,5 @@
 Month: Apr, 2026
 
-Date: Friday, April 03, 2026
-Time: 10:00 AM - 11:30 AM
-Title: OSIM Research Seminar Series - Dr. Kevin Bryan
-Location: 
-Event URL: 52496871373363&instance=52496871374388
---------------------------------------------------
 Date: Monday, April 06, 2026
 Time: 07:00 PM - 08:00 PM
 Title: Customized Online MBA Webinar
@@ -303,4 +297,10 @@ Time: 05:30 PM - 06:30 PM
 Title: Executive Coaching Virtual Information Session
 Location: 
 Event URL: 51967504325072&instance=51967504328146
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144973542
 --------------------------------------------------
