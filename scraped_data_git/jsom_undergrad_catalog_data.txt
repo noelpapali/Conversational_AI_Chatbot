@@ -6792,7 +6792,7 @@ Headings:
 - 
 - 
 - Transfer Admissions: Criteria
-- We are coming to your campus!
+- Summer Class Enrollment is open.
 - 
 - Transfer Application Open Dates
 - Admission Review Criteria
@@ -6806,7 +6806,8 @@ Headings:
 - 
 - 
 Content:
-Thinking about transferring to UT Dallas? Learn about the application process, campus life, scholarships, financial aid and more.Join us for Comet Expo on March 25 at the Trinity River Campus at Tarrant County College.Register for Comet Expo
+Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
+VisitSummer Start Advantageto learn how to enroll in summer courses.
 You are considered a transfer student if you have previously completed college-level coursework at an accredited institution — excluding the summer following high school graduation.
 Applications are accepted for the fall, spring and summer semesters from students in good standing at their higher education institutions. If you are currently enrolled in high school and also attending a college/university and you will not complete any college-level coursework after the summer after your high school graduation, you should apply forfreshman admission.
 All applicants are reviewed individually and holistically. Consideration is given to the following factors:
@@ -7046,7 +7047,7 @@ Links:
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
 - Transfer Admissions - https://enroll.utdallas.edu/transfer/
-- Register for Comet Expo - https://enroll.utdallas.edu/visit/events/comet-expo/
+- Summer Start Advantage - https://enroll.utdallas.edu/summer-start-advantage/
 - freshman admission - https://enroll.utdallas.edu/freshman/
 - Criteria - https://enroll.utdallas.edu/transfer/criteria/
 - Application Process - https://enroll.utdallas.edu/transfer/application-process/
@@ -7088,6 +7089,7 @@ Headings:
 - 
 - 
 - Freshman Admissions
+- Summer Class Enrollment is open.
 - Criteria
 - Application Process
 - Deadlines and Fees
@@ -7106,7 +7108,8 @@ Headings:
 Content:
 If you are a high school senior or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
-
+Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
+VisitSummer Start Advantageto learn how to enroll in summer courses.
 Learn what is required for admission as a freshman applicant.
 Ready to apply? Review the steps required to complete the freshman admission process.
 Already applied? Check yourapplication status.
@@ -7332,6 +7335,7 @@ Links:
 - Contact a Counselor - https://enroll.utdallas.edu/contact/counselor-locator/
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
+- Summer Start Advantage - https://enroll.utdallas.edu/summer-start-advantage/
 - Criteria - https://enroll.utdallas.edu/freshman/criteria/
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - application status - https://www.utdallas.edu/status/
