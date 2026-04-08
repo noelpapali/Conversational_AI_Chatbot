@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Attains Top 25 Overall Ranking Among U.S. MBA Programs
+Title Link: https://jindal.utdallas.edu/news/jindal-school-attains-top-25-overall-ranking-among-u-s-mba-programs/
+Excerpt: The Naveen Jindal School of Management has reached its highest-ever standing in U.S. News & World Report’s 2026 Best Business Schools rankings, coming in at No. 23 (tied) overall and placing No. 9 among public universities, solidifying its position among the nation’s top programs. The Jindal School’s Full-Time MBA program moved up eight positions this […]
+Meta Details: April 8th, 2026 |Academics,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/04/mba_ranking_630x630.jpg
+
+==================================================
+
 Title: Jindal School Global Business Student Earns National Recognition
 Title Link: https://jindal.utdallas.edu/news/jindal-school-global-business-student-earns-national-recognition/
 Excerpt: A Global Business senior at the Naveen Jindal School of Management has earned national and international recognition through selection into two highly competitive programs, becoming the first student at The University of Texas at Dallas to be selected for both. Hayagreev Jayaram Hayagreev Jayaram, a member of the Hobson Wildenthal Honors College, was awarded the […]
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2022/07/eclat-ceremony-pirkul-630-6
 Title: Dallas Innovates Names Jindal School Administrator One of Its “AI 75”
 Title Link: https://jindal.utdallas.edu/news/dallas-innovates-names-jindal-school-administrator-one-of-its-ai-75/
 Excerpt: New employees entering a workforce driven by data and propelled by artificial intelligence are not being asked to learn the job. They are expected to perform at a higher level from day one, according to Dr. Gaurav Shekhar, associate dean for administration, student success and alumni relations at the Naveen Jindal School of Management. That […]
-Meta Details: March 30th, 2026 |Academics,Faculty/Research,Featured
+Meta Details: March 30th, 2026 |Academics,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/03/gaurav_shekhar_ai_75_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/global-business-alumnus-uses-jindal
 Excerpt: Fueled by the global experiences he built in the Naveen Jindal School of Management, Vladyslav (Vlad) Wallace, BS’20, now represents the United States on the world stage. Vladyslav (Vlad) Wallace Right on the heels of a formative experience with the U.S. State Department’s National Security Language Initiative (NSLI) program in Chisinau, Moldova, Wallace arrived at […]
 Meta Details: December 12th, 2025 |Alumni
 Image URL: https://jindal.utdallas.edu/files/2025/12/vlad_wallace_foriegn_service_officer_official_photo_630x630.jpg
-
-==================================================
-
-Title: New Required Undergraduate Course at Jindal School Anchors Professional Development
-Title Link: https://jindal.utdallas.edu/news/new-required-undergraduate-course-at-jindal-school-anchors-professional-development/
-Excerpt: Students who enroll in business schools often do so to prepare for a rewarding life and productive career. A new undergraduate course is being offered at The University of Texas at Dallas’ Naveen Jindal School of Management to help them build the communication and professional skills essential for success. Beginning this fall, all incoming freshmen […]
-Meta Details: December 9th, 2025 |Academics,Students
-Image URL: https://jindal.utdallas.edu/files/2025/12/Professional-Development-630x630-1.jpg
 
 ==================================================
 
