@@ -1,41 +1,5 @@
 Month: Apr, 2026
 
-Date: Wednesday, April 08, 2026
-Time: 09:00 AM - 10:00 AM
-Title: MS in International Management Studies Information Session
-Location: 
-Event URL: 50605698757868&instance=51943217872142
---------------------------------------------------
-Date: Wednesday, April 08, 2026
-Time: 11:00 AM - 12:00 PM
-Title: UTD MBA Virtual Q&A Information Session
-Location: 
-Event URL: 51940675384118&instance=51940675384119
---------------------------------------------------
-Date: Wednesday, April 08, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Doctor of Business Administration (DBA) Online Information Session
-Location: 
-Event URL: 52003346034463&instance=52003352051432
---------------------------------------------------
-Date: Wednesday, April 08, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Online Information Session | Executive MBA with an Emphasis on Healthcare Organization Leadership
-Location: 
-Event URL: 52303966411462&instance=52303966414535
---------------------------------------------------
-Date: Wednesday, April 08, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51569288258804&instance=51569326652706
---------------------------------------------------
-Date: Wednesday, April 08, 2026
-Time: 04:00 PM - 05:00 PM
-Title: HR at Lennox
-Location: 
-Event URL: 52552427486710&instance=52552427488759
---------------------------------------------------
 Date: Thursday, April 09, 2026
 Time: 10:00 AM - 01:00 PM
 Title: Virtual Forté MBA Forum
@@ -127,22 +91,28 @@ Location:
 Event URL: 51569358528691&instance=51569371284370
 --------------------------------------------------
 Date: Tuesday, April 21, 2026
-Time: 05:30 PM - 07:30 PM
-Title: OBCC Spring 2026 Gather & Grow Networking Mixer
+Time: 04:00 PM - 05:00 PM
+Title: JSOM - HMGT: Healthcare Panel Discussion and Workshop
 Location: 
-Event URL: 52198382848212&instance=52198382849237
+Event URL: 52569180062205&instance=52569982128802
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
-Time: 10:00 AM - 02:00 PM
-Title: JSOM Global Service Week
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 52461206737725&instance=52461217313893
+Event URL: 50605698757868&instance=51943217873167
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Webinar
+Time: 11:45 AM - 01:15 PM
+Title: Session VI | From Blueprint to Building:  The Journey of JSOM III
 Location: 
-Event URL: 52143463985249&instance=52143471597956
+Event URL: 51949624177361&instance=51949627820281
+--------------------------------------------------
+Date: Wednesday, April 22, 2026
+Time: 12:00 PM - 12:30 PM
+Title: JSOM CMC- Back on Track to Apply: 5 Steps to Reset Your Internship Search
+Location: 
+Event URL: 52488454782369&instance=52488457853909
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
 Time: 01:00 PM - 04:00 PM
@@ -261,22 +231,28 @@ Location:
 Event URL: 50322144938712&instance=50322144968420
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 51391785772294&instance=51391814583370
+Event URL: 52118180250222&instance=52576173442265
+--------------------------------------------------
+Date: Wednesday, May 06, 2026
+Time: 01:00 PM - 04:00 PM
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Location: 
+Event URL: 51569420815086&instance=51569460562814
 --------------------------------------------------
 Date: Thursday, May 07, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391785525970&instance=51391817842686
+Event URL: 51569420157303&instance=51569465956882
 --------------------------------------------------
-Date: Tuesday, May 19, 2026
-Time: 02:00 PM - 03:30 PM
-Title: Executive Education Graduation Reception
+Date: Wednesday, May 20, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52516733863678&instance=52516733863679
+Event URL: 52118180250222&instance=52576173443290
 --------------------------------------------------
 Date: Tuesday, May 26, 2026
 Time: 10:00 AM - 11:00 AM
@@ -304,9 +280,35 @@ Event URL: 51214612090731&instance=51214612091756
 --------------------------------------------------
 Month: Jun, 2026
 
-Date: Thursday, June 04, 2026
+Date: Wednesday, June 03, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173445339
+--------------------------------------------------
+Date: Tuesday, June 16, 2026
+Time: 06:00 PM - 07:00 PM
+Title: Online Information Session | Professional Certificate in Mediation and Dispute Resolution
+Location: 
+Event URL: 51967244492666&instance=51967249688733
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650448146546&instance=50650451587351
+--------------------------------------------------
+Month: Jul, 2026
+
+Date: Wednesday, July 01, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173448413
+--------------------------------------------------
+Date: Thursday, July 09, 2026
 Time: 05:30 PM - 06:30 PM
 Title: Executive Coaching Virtual Information Session
 Location: 
-Event URL: 51967504325072&instance=51967504328146
+Event URL: 51967504325072&instance=51967504329171
 --------------------------------------------------

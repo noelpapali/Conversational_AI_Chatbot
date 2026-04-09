@@ -1605,6 +1605,10 @@ Context: Make a Gift
 	- Text: Apply Now
 	  Href: https://utdallas.my.site.com
 
+Context: Make a Gift
+	- Text: 
+	  Href: https://jindal.utdallas.edu/news/jindal-school-attains-top-25-overall-ranking-among-u-s-mba-programs/
+
 Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
