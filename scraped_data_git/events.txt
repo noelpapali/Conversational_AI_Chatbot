@@ -1,23 +1,5 @@
 Month: Apr, 2026
 
-Date: Thursday, April 09, 2026
-Time: 10:00 AM - 01:00 PM
-Title: Virtual Forté MBA Forum
-Location: 
-Event URL: 52252058560617&instance=52252058560618
---------------------------------------------------
-Date: Thursday, April 09, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391627712993&instance=51391652266358
---------------------------------------------------
-Date: Thursday, April 09, 2026
-Time: 01:00 PM - 03:00 PM
-Title: Navigate & Register
-Location: 
-Event URL: 52496380038666&instance=52496380041741
---------------------------------------------------
 Date: Friday, April 10, 2026
 Time: 10:00 AM - 11:30 AM
 Title: OSIM Research Seminar Series - Dr. Aaron Hill
@@ -311,4 +293,22 @@ Time: 05:30 PM - 06:30 PM
 Title: Executive Coaching Virtual Information Session
 Location: 
 Event URL: 51967504325072&instance=51967504329171
+--------------------------------------------------
+Date: Tuesday, July 14, 2026
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650456129605&instance=50650458906237
+--------------------------------------------------
+Date: Monday, July 27, 2026
+Time: 04:00 PM - 08:00 PM
+Title: FinTEX - Insurance Conference 2026
+Location: 
+Event URL: 51339220236111&instance=51824430276893
+--------------------------------------------------
+Date: Wednesday, July 29, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144979688
 --------------------------------------------------

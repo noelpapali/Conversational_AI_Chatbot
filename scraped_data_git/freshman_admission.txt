@@ -10,12 +10,6 @@ Heading: Freshman Admissions: Criteria
 
 --------------------------------------------------
 
-Heading: Summer Class Enrollment is open.
-  Paragraph: Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
-  Paragraph: Visit Summer Start Advantage to learn how to enroll in summer courses.
-
---------------------------------------------------
-
 Heading: 
 
 --------------------------------------------------
@@ -89,12 +83,6 @@ Heading:
 
 Heading: Freshman Admissions: Application Process
   Paragraph: Ready to begin your journey at UT Dallas? Follow these steps to complete your freshman admission application. UT Dallas also participates in Direct Admission programs.
-
---------------------------------------------------
-
-Heading: Summer Class Enrollment is open.
-  Paragraph: Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
-  Paragraph: Visit Summer Start Advantage to learn how to enroll in summer courses.
 
 --------------------------------------------------
 
@@ -182,12 +170,6 @@ Heading: Freshman Admissions: Deadlines and Fees
 
 --------------------------------------------------
 
-Heading: Summer Class Enrollment is open.
-  Paragraph: Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
-  Paragraph: Visit Summer Start Advantage to learn how to enroll in summer courses.
-
---------------------------------------------------
-
 Heading: 
 
 --------------------------------------------------
@@ -248,12 +230,6 @@ Heading:
 Heading: Freshman Admissions: Timeline
   Paragraph: At UT Dallas, applications are accepted and reviewed on a rolling basis up until the regular application deadline. The following is a general timeline of our admissions process.
   Paragraph: 
-
---------------------------------------------------
-
-Heading: Summer Class Enrollment is open.
-  Paragraph: Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
-  Paragraph: Visit Summer Start Advantage to learn how to enroll in summer courses.
 
 --------------------------------------------------
 
