@@ -229,8 +229,8 @@ The Jindal School of Management offers certificates through its master’s degre
 ==================================================
 
 Heading (h2): Featured Stories
-	Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
-            Paying It Forward: The Inspiring Legacy of the ECLAT Foundation Ever wonder how the ECLAT Atrium in the Naveen Jindal School of Management got its name? It started years ago when a group of Taiwan immigrants built a beacon of hope through the ECLAT Foundation. Founded in 2011 as a 501(c)(3) nonprofit by Jane Jan […]
+	Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+            Matthew Turner had never even heard of case competitions before he started his graduate studies at The University of Texas at Dallas and now the MBA program at the Naveen Jindal School of Management has equipped him to win them. He and his teammates recently took first place in the 2025 MBA Case Competition World […]
 
 ==================================================
 
@@ -1850,9 +1850,9 @@ Context: Upcoming Events
 	- Text: View All Events
 	  Href: /jindal/calendar/
 
-Context: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
-	- Text: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
-	  Href: https://jindal.utdallas.edu/news/paying-it-forward-inspiring-legacy-of-the-eclat-foundation/
+Context: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+	- Text: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+	  Href: https://jindal.utdallas.edu/news/team-of-jindal-school-mba-students-wins-2025-mba-case-competition-world-cup/
 
 Context: Thank you for your interest in the Naveen Jindal School of Management, UT Dallas. Tell us a little bit about yourself, and we’ll send you customized information about our programs. We hope to meet you soon.
 	- Text: Request Information
