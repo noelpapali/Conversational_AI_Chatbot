@@ -8,8 +8,8 @@ Heading (h2): The Future Demands Different
 
 Heading (h2): Recent Rankings
 	No.2
-Poets & Quants, 2026
-Online MBA Rankings
+
+Poets & Quants Online MBA Rankings 2026
 
 
 No.2
@@ -22,19 +22,19 @@ Financial Times, 2026
 Top U.S. Online MBA Programs
 
 
-No.4
-Financial Times, 2026
-Value for Money, U.S. Public Universities
+No.6
+Financial Times, 2023
+research rank in Top 100 Full-Time Global MBA Programs
 
 
-No.4
-Financial Times, 2026
-Employed at Three Months ranking
+No.6
+Gartner, 2024
+among Supply Chain Management Undergraduate Programs
 
 
 No.9
-U.S. News & World Report, 2026
-Best Public Graduate Business Schools
+Fortune, 2024
+Best Online MBA Programs, among public universities
 
 ==================================================
 
@@ -229,8 +229,8 @@ The Jindal School of Management offers certificates through its master’s degre
 ==================================================
 
 Heading (h2): Featured Stories
-	New Startup Award Program at Jindal Advances Student Entrepreneurship
-            Thanks to the generosity of the Draper Foundation, the Innovation and Entrepreneurship (I&E) Programs at the Naveen Jindal School of Management have launched a new $5,000 Startup Founders Award to accelerate student entrepreneurship. Called the Startup Founders Award, student startup companies across schools at The University of Texas at Dallas are eligible to apply each […]
+	Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
+            Paying It Forward: The Inspiring Legacy of the ECLAT Foundation Ever wonder how the ECLAT Atrium in the Naveen Jindal School of Management got its name? It started years ago when a group of Taiwan immigrants built a beacon of hope through the ECLAT Foundation. Founded in 2011 as a 501(c)(3) nonprofit by Jane Jan […]
 
 ==================================================
 
@@ -1605,10 +1605,6 @@ Context: Make a Gift
 	- Text: Apply Now
 	  Href: https://utdallas.my.site.com
 
-Context: Make a Gift
-	- Text: 
-	  Href: https://jindal.utdallas.edu/news/jindal-school-attains-top-25-overall-ranking-among-u-s-mba-programs/
-
 Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
@@ -1850,9 +1846,9 @@ Context: Upcoming Events
 	- Text: View All Events
 	  Href: /jindal/calendar/
 
-Context: New Startup Award Program at Jindal Advances Student Entrepreneurship
-	- Text: New Startup Award Program at Jindal Advances Student Entrepreneurship
-	  Href: https://jindal.utdallas.edu/news/new-startup-award-program-at-jindal-advances-student-entrepreneurship/
+Context: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
+	- Text: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
+	  Href: https://jindal.utdallas.edu/news/paying-it-forward-inspiring-legacy-of-the-eclat-foundation/
 
 Context: Thank you for your interest in the Naveen Jindal School of Management, UT Dallas. Tell us a little bit about yourself, and we’ll send you customized information about our programs. We hope to meet you soon.
 	- Text: Request Information
