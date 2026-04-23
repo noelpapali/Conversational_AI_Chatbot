@@ -1,100 +1,52 @@
 Month: Apr, 2026
 
-Date: Tuesday, April 21, 2026
-Time: 10:00 AM - 02:00 PM
-Title: JSOM Global Service Week
-Location: 
-Event URL: 52461206737725&instance=52461217312868
---------------------------------------------------
-Date: Tuesday, April 21, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391688105236&instance=51391741765427
---------------------------------------------------
-Date: Tuesday, April 21, 2026
-Time: 05:30 PM - 07:30 PM
-Title: OBCC Spring 2026 Gather & Grow Networking Mixer
-Location: 
-Event URL: 52198382848212&instance=52198382849237
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 10:00 AM - 02:00 PM
-Title: JSOM Global Service Week
-Location: 
-Event URL: 52461206737725&instance=52461217313893
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Webinar
-Location: 
-Event URL: 52143463985249&instance=52143471597956
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
-Location: 
-Event URL: 52118180250222&instance=52576173440216
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391687844898&instance=51391744038980
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 04:00 PM - 06:00 PM
-Title: AI@JindalSchool - Distinguished Lecture Series - Dr. Erol Gelenbe
-Location: 
-Event URL: 52587020366529&instance=52587020367554
---------------------------------------------------
-Date: Wednesday, April 22, 2026
-Time: 05:30 PM - 08:00 PM
+Date: Thursday, April 23, 2026
+Time: 07:30 AM - 05:00 PM
 Title: The Sales Decades Project hosted by Center of Professional Sales
 Location: 
-Event URL: 52507490165500&instance=52507490166525
---------------------------------------------------
-Date: Thursday, April 23, 2026
-Time: 10:00 AM - 02:00 PM
-Title: JSOM Global Service Week
-Location: 
-Event URL: 52461206737725&instance=52461217314918
+Event URL: 52507490165500&instance=52507490167550
 --------------------------------------------------
 Date: Thursday, April 23, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569359026364&instance=51569374094676
+Event URL: 51391687575577&instance=51391746329234
 --------------------------------------------------
 Date: Thursday, April 23, 2026
-Time: 05:30 PM - 07:00 PM
-Title: Drive Your Future with a UTD MBA
+Time: 05:30 PM - 06:30 PM
+Title: Executive Coaching Virtual Information Session
 Location: 
-Event URL: 52057473065619&instance=52057473066644
+Event URL: 51967504325072&instance=51967504327121
 --------------------------------------------------
-Date: Saturday, April 25, 2026
-Time: 04:00 PM - 07:00 PM
-Title: 2026 JSOM Alumni Reunion
+Date: Friday, April 24, 2026
+Time: 06:00 PM - 09:00 PM
+Title: PPF Graduation Dinner
 Location: 
-Event URL: 50693228281732&instance=50693228282757
+Event URL: 52639629867165&instance=52639629867166
+--------------------------------------------------
+Date: Monday, April 27, 2026
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 51940697868244&instance=51940697868245
 --------------------------------------------------
 Date: Tuesday, April 28, 2026
-Time: 09:00 AM - 06:30 PM
-Title: UTD 2026 2nd Annual FinTEX Conference`
+Time: 10:00 AM - 11:00 AM
+Title: MS Marketing Information Session with Q & A Period
 Location: 
-Event URL: 52488235786377&instance=52488235787402
---------------------------------------------------
-Date: Tuesday, April 28, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650400065037&instance=50650432511503
+Event URL: 52001923307326&instance=52001927208154
 --------------------------------------------------
 Date: Tuesday, April 28, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569422362356&instance=51569428120184
+Event URL: 51391786666477&instance=51391804250505
+--------------------------------------------------
+Date: Tuesday, April 28, 2026
+Time: 05:00 PM - 08:00 PM
+Title: Year-end Social - Carnival Night
+Location: 
+Event URL: 52700254857067&instance=52700254858092
 --------------------------------------------------
 Date: Wednesday, April 29, 2026
 Time: 12:00 PM - 12:30 PM
@@ -134,47 +86,47 @@ Title: JSOM CMC: Don't Miss Out: Get Credit for Your Internship
 Location: 
 Event URL: 52488639952799&instance=52488647337290
 --------------------------------------------------
-Date: Saturday, May 02, 2026
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
+Date: Monday, May 04, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 50650159564912&instance=50650164090025
+Event URL: 52143477504650&instance=52143483795425
 --------------------------------------------------
 Date: Tuesday, May 05, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391786013037&instance=51391812036041
+Event URL: 51569421076553&instance=51569454330919
 --------------------------------------------------
 Date: Tuesday, May 05, 2026
-Time: 03:30 PM - 05:00 PM
-Title: ProEdge Series: Transitioning from Student to Professional
+Time: 05:00 PM - 05:30 PM
+Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
 Location: 
-Event URL: 51995086127161&instance=51995101860128
+Event URL: 52488659721930&instance=52488664484770
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
-Time: 08:30 AM - 09:30 AM
-Title: Discover. Apply. Advance. – Jindal School of Management Graduate Experience Webinar
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 52074929710735&instance=52074939052639
+Event URL: 50322144938712&instance=50322144968420
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 12:00 PM - 01:00 PM
-Title: Doctor of Business Administration (DBA) Online Information Session
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52003384992529&instance=52003389062544
+Event URL: 52118180250222&instance=52576173442265
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391785772294&instance=51391814583370
+Event URL: 51569420815086&instance=51569460562814
 --------------------------------------------------
 Date: Thursday, May 07, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391785525970&instance=51391817842686
+Event URL: 51569420157303&instance=51569465956882
 --------------------------------------------------
 Date: Tuesday, May 19, 2026
 Time: 02:00 PM - 03:30 PM
@@ -208,11 +160,17 @@ Event URL: 52001936402813&instance=52001940270711
 --------------------------------------------------
 Month: Jun, 2026
 
-Date: Wednesday, June 03, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Date: Monday, June 01, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52118180250222&instance=52576173445339
+Event URL: 52691589211547&instance=52691604203550
+--------------------------------------------------
+Date: Thursday, June 04, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Executive Coaching Virtual Information Session
+Location: 
+Event URL: 51967504325072&instance=51967504328146
 --------------------------------------------------
 Date: Tuesday, June 16, 2026
 Time: 06:00 PM - 07:00 PM
@@ -222,9 +180,15 @@ Event URL: 51967244492666&instance=51967249688733
 --------------------------------------------------
 Date: Wednesday, June 17, 2026
 Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 50650448146546&instance=50650451587351
+Event URL: 52691605508033&instance=52691624840239
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173447388
 --------------------------------------------------
 Month: Jul, 2026
 
@@ -246,17 +210,23 @@ Title: EMBA Webinar
 Location: 
 Event URL: 50650456129605&instance=50650458906237
 --------------------------------------------------
-Date: Monday, July 27, 2026
-Time: 04:00 PM - 08:00 PM
+Date: Wednesday, July 15, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173450462
+--------------------------------------------------
+Date: Tuesday, July 28, 2026
+Time: 09:00 AM - 06:00 PM
 Title: FinTEX - Insurance Conference 2026
 Location: 
-Event URL: 51339220236111&instance=51824430276893
+Event URL: 51339220236111&instance=51824430277918
 --------------------------------------------------
 Date: Wednesday, July 29, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 50322144938712&instance=50322144979688
+Event URL: 52118180250222&instance=52576173451487
 --------------------------------------------------
 Month: Aug, 2026
 
