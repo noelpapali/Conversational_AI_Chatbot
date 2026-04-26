@@ -1,58 +1,58 @@
 Month: Apr, 2026
 
-Date: Saturday, April 25, 2026
-Time: 04:00 PM - 07:00 PM
-Title: 2026 JSOM Alumni Reunion
+Date: Monday, April 27, 2026
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 50693228281732&instance=50693228282757
+Event URL: 51940697868244&instance=51940697868245
 --------------------------------------------------
 Date: Tuesday, April 28, 2026
-Time: 09:00 AM - 06:30 PM
-Title: UTD 2026 2nd Annual FinTEX Conference`
+Time: 10:00 AM - 11:00 AM
+Title: MS Marketing Information Session with Q & A Period
 Location: 
-Event URL: 52488235786377&instance=52488235787402
---------------------------------------------------
-Date: Tuesday, April 28, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650400065037&instance=50650432511503
+Event URL: 52001923307326&instance=52001927208154
 --------------------------------------------------
 Date: Tuesday, April 28, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569422362356&instance=51569428120184
+Event URL: 51391786666477&instance=51391804250505
 --------------------------------------------------
-Date: Wednesday, April 29, 2026
-Time: 12:00 PM - 12:30 PM
-Title: Fast Track in MS Marketing Information Session
+Date: Tuesday, April 28, 2026
+Time: 05:00 PM - 08:00 PM
+Title: Year-end Social - Carnival Night
 Location: 
-Event URL: 51994601461258&instance=51994606654799
+Event URL: 52700254857067&instance=52700254858092
 --------------------------------------------------
 Date: Wednesday, April 29, 2026
 Time: 12:00 PM - 12:30 PM
 Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
 Location: 
-Event URL: 52488617794874&instance=52488630499904
+Event URL: 52488487002365&instance=52488519593981
 --------------------------------------------------
 Date: Wednesday, April 29, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569422081419&instance=51569436524157
+Event URL: 51391786433088&instance=51391807559669
 --------------------------------------------------
-Date: Thursday, April 30, 2026
-Time: 12:00 PM - 01:15 PM
-Title: Undergraduate Accounting Class of 2026 Graduation Luncheon
+Date: Wednesday, April 29, 2026
+Time: 05:00 PM - 05:30 PM
+Title: JSOM CMC: Don't Miss Out: Get Credit for Your Internship
 Location: 
-Event URL: 52612459710330&instance=52612459711355
+Event URL: 52488524908368&instance=52488524909393
 --------------------------------------------------
 Date: Thursday, April 30, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569421855959&instance=51569442487421
+Event URL: 51391786226389&instance=51391809911302
+--------------------------------------------------
+Date: Thursday, April 30, 2026
+Time: 01:00 PM - 02:00 PM
+Title: MS Marketing Information Session with Q & A Period
+Location: 
+Event URL: 52001927963881&instance=52001931622257
 --------------------------------------------------
 Month: May, 2026
 
