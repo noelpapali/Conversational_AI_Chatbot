@@ -62,83 +62,77 @@ Title: JSOM CMC: Don't Miss Out: Get Credit for Your Internship
 Location: 
 Event URL: 52488639952799&instance=52488647337290
 --------------------------------------------------
-Date: Monday, May 04, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
-Location: 
-Event URL: 52143477504650&instance=52143483795425
---------------------------------------------------
 Date: Tuesday, May 05, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569421076553&instance=51569454330919
+Event URL: 51391786013037&instance=51391812036041
 --------------------------------------------------
 Date: Tuesday, May 05, 2026
-Time: 05:00 PM - 05:30 PM
-Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
+Time: 03:30 PM - 05:00 PM
+Title: ProEdge Series: Transitioning from Student to Professional
 Location: 
-Event URL: 52488659721930&instance=52488664484770
+Event URL: 51995086127161&instance=51995101860128
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 08:30 AM - 09:30 AM
+Title: Discover. Apply. Advance. – Jindal School of Management Graduate Experience Webinar
 Location: 
-Event URL: 50322144938712&instance=50322144968420
+Event URL: 52074929710735&instance=52074939052639
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 52118180250222&instance=52576173442265
+Event URL: 52003384992529&instance=52003389062544
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569420815086&instance=51569460562814
+Event URL: 51391785772294&instance=51391814583370
 --------------------------------------------------
 Date: Thursday, May 07, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569420157303&instance=51569465956882
+Event URL: 51391785525970&instance=51391817842686
 --------------------------------------------------
-Date: Thursday, May 14, 2026
-Time: 03:30 PM - 05:30 PM
-Title: UTDsolv Capstone EXPO!
+Date: Wednesday, May 13, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52703357840320&instance=52703357841345
+Event URL: 52683201047081&instance=52683230049100
+--------------------------------------------------
+Date: Tuesday, May 19, 2026
+Time: 02:00 PM - 03:30 PM
+Title: Executive Education Graduation Reception
+Location: 
+Event URL: 52516733863678&instance=52516733863679
 --------------------------------------------------
 Date: Wednesday, May 20, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 05:45 PM - 07:00 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
 Location: 
-Event URL: 52118180250222&instance=52576173443290
+Event URL: 52003393108396&instance=52003406060998
 --------------------------------------------------
 Date: Tuesday, May 26, 2026
-Time: 10:00 AM - 11:00 AM
-Title: MS Marketing Information Session with Q & A Period
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
 Location: 
-Event URL: 52001932351306&instance=52001935830198
+Event URL: 50650438767869&instance=50650442897000
 --------------------------------------------------
 Date: Wednesday, May 27, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144971493
+Event URL: 51994608484859&instance=51994611182600
 --------------------------------------------------
 Date: Thursday, May 28, 2026
-Time: 12:00 PM - 07:00 PM
-Title: UT Dallas Project Management Symposium
+Time: 01:00 PM - 02:00 PM
+Title: MS Marketing Information Session with Q & A Period
 Location: 
-Event URL: 51214599125945&instance=51214599126970
---------------------------------------------------
-Date: Friday, May 29, 2026
-Time: 08:00 AM - 05:00 PM
-Title: UT Dallas Project Management Symposium
-Location: 
-Event URL: 51214612090731&instance=51214612091756
+Event URL: 52001936402813&instance=52001940270711
 --------------------------------------------------
 Month: Jun, 2026
 
