@@ -1,23 +1,5 @@
 Month: Apr, 2026
 
-Date: Tuesday, April 28, 2026
-Time: 09:00 AM - 06:30 PM
-Title: UTD 2026 2nd Annual FinTEX Conference`
-Location: 
-Event URL: 52488235786377&instance=52488235787402
---------------------------------------------------
-Date: Tuesday, April 28, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650400065037&instance=50650432511503
---------------------------------------------------
-Date: Tuesday, April 28, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51569422362356&instance=51569428120184
---------------------------------------------------
 Date: Wednesday, April 29, 2026
 Time: 12:00 PM - 12:30 PM
 Title: Fast Track in MS Marketing Information Session
@@ -28,7 +10,7 @@ Date: Wednesday, April 29, 2026
 Time: 12:00 PM - 12:30 PM
 Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
 Location: 
-Event URL: 52488487002365&instance=52488519593981
+Event URL: 52488617794874&instance=52488630499904
 --------------------------------------------------
 Date: Wednesday, April 29, 2026
 Time: 01:00 PM - 04:00 PM
