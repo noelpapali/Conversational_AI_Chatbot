@@ -1,23 +1,5 @@
 Month: Apr, 2026
 
-Date: Wednesday, April 29, 2026
-Time: 12:00 PM - 12:30 PM
-Title: Fast Track in MS Marketing Information Session
-Location: 
-Event URL: 51994601461258&instance=51994606654799
---------------------------------------------------
-Date: Wednesday, April 29, 2026
-Time: 12:00 PM - 12:30 PM
-Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
-Location: 
-Event URL: 52488617794874&instance=52488630499904
---------------------------------------------------
-Date: Wednesday, April 29, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51569422081419&instance=51569436524157
---------------------------------------------------
 Date: Thursday, April 30, 2026
 Time: 12:00 PM - 01:15 PM
 Title: Undergraduate Accounting Class of 2026 Graduation Luncheon
@@ -125,28 +107,28 @@ Location:
 Event URL: 51967504325072&instance=51967504328146
 --------------------------------------------------
 Date: Saturday, June 13, 2026
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
+Time: 10:00 AM - 06:00 PM
+Title: Executive Education Open House
 Location: 
-Event URL: 52691649963589&instance=52691660603819
+Event URL: 52621561544739&instance=52702291950626
 --------------------------------------------------
-Date: Wednesday, June 17, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Date: Tuesday, June 16, 2026
+Time: 06:00 PM - 07:00 PM
+Title: Online Information Session | Professional Certificate in Mediation and Dispute Resolution
 Location: 
-Event URL: 50322144938712&instance=50322144973542
+Event URL: 51967244492666&instance=51967249688733
 --------------------------------------------------
 Date: Wednesday, June 17, 2026
 Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650448146546&instance=50650451587351
---------------------------------------------------
-Date: Monday, June 29, 2026
-Time: 07:00 PM - 08:00 PM
 Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52691626081178&instance=52691631524301
+Event URL: 52691605508033&instance=52691624840239
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173447388
 --------------------------------------------------
 Month: Jul, 2026
 

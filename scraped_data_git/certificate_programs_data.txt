@@ -9,7 +9,7 @@ Academic Certificates:
 
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -53,7 +53,7 @@ For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/
 Smallblocks:
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -89,9 +89,9 @@ List:
   - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
   - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
 
-Healthcare:
+Healthcare Management:
 List:
-  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
+  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/#6-tracks)
   - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: /osim/program-resources/healthcare-certificates/lean-six-sigma-yellow-belt/)
 
 Information Systems:
@@ -104,7 +104,7 @@ List:
   - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
   - Enterprise Systems (Link: /infosystems/certificate-programs/enterprise-systems/)
-  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
+  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/#6-tracks)
   - Product Management (Link: https://infosystems.utdallas.edu/certificate-programs/product-management/)
 
 Innovation and Entrepreneurship:
@@ -173,7 +173,7 @@ Academic Certificates:
 
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -217,7 +217,7 @@ For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/
 Smallblocks:
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -253,9 +253,9 @@ List:
   - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
   - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
 
-Healthcare:
+Healthcare Management:
 List:
-  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
+  - Healthcare Information Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#6-tracks)
   - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: /osim/program-resources/healthcare-certificates/lean-six-sigma-yellow-belt/)
 
 Information Systems:
@@ -268,7 +268,7 @@ List:
   - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
   - Enterprise Systems (Link: /infosystems/certificate-programs/enterprise-systems/)
-  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
+  - Healthcare Information Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#6-tracks)
   - Product Management (Link: https://infosystems.utdallas.edu/certificate-programs/product-management/)
 
 Innovation and Entrepreneurship:
