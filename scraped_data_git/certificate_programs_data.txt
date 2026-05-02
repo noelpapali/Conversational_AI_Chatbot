@@ -91,8 +91,10 @@ List:
 
 Healthcare Management:
 List:
-  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/#6-tracks)
-  - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: /osim/program-resources/healthcare-certificates/lean-six-sigma-yellow-belt/)
+  - Healthcare Information Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
+  - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
+  - Healthcare AI Innovations Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
+  - Healthcare Management Data Analytics (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
 
 Information Systems:
 List:
@@ -104,7 +106,7 @@ List:
   - Cybersecurity Risk Management (Link: https://infosystems.utdallas.edu/certificate-programs/cybersecurity-risk-management/)
   - Cybersecurity Systems (Link: /infosystems/certificate-programs/cybersecurity/)
   - Enterprise Systems (Link: /infosystems/certificate-programs/enterprise-systems/)
-  - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/#6-tracks)
+  - Healthcare Information Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#6-tracks)
   - Product Management (Link: https://infosystems.utdallas.edu/certificate-programs/product-management/)
 
 Innovation and Entrepreneurship:
@@ -255,8 +257,10 @@ List:
 
 Healthcare Management:
 List:
-  - Healthcare Information Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#6-tracks)
-  - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: /osim/program-resources/healthcare-certificates/lean-six-sigma-yellow-belt/)
+  - Healthcare Information Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
+  - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
+  - Healthcare AI Innovations Technology (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
+  - Healthcare Management Data Analytics (Link: https://jindal.utdallas.edu/healthcare-management/ms-healthcare-management/curriculum/#certificates)
 
 Information Systems:
 List:
