@@ -1,58 +1,58 @@
 Month: May, 2026
 
-Date: Saturday, May 02, 2026
-Time: 12:00 AM - 03:00 PM
-Title: JSOM 24 HR AI Hackathon powered by Goldman Sachs
-Location: 
-Event URL: 52771135322113&instance=52771542393222
---------------------------------------------------
 Date: Monday, May 04, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
+Time: 05:00 PM - 06:30 PM
+Title: Beta Gamma Signma Induction Ceremony
 Location: 
-Event URL: 52143477504650&instance=52143483795425
+Event URL: 52770920413769&instance=52770920414794
 --------------------------------------------------
 Date: Tuesday, May 05, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569421076553&instance=51569454330919
+Event URL: 51391786013037&instance=51391812036041
 --------------------------------------------------
 Date: Tuesday, May 05, 2026
-Time: 05:00 PM - 05:30 PM
-Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
+Time: 03:30 PM - 05:00 PM
+Title: ProEdge Series: Transitioning from Student to Professional
 Location: 
-Event URL: 52488659721930&instance=52488664484770
+Event URL: 51995086127161&instance=51995101860128
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 08:30 AM - 09:30 AM
+Title: Discover. Apply. Advance. – Jindal School of Management Graduate Experience Webinar
 Location: 
-Event URL: 50322144938712&instance=50322144968420
+Event URL: 52074929710735&instance=52074939052639
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 52118180250222&instance=52576173442265
+Event URL: 52003384992529&instance=52003389062544
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569420815086&instance=51569460562814
+Event URL: 51391785772294&instance=51391814583370
 --------------------------------------------------
 Date: Thursday, May 07, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569420157303&instance=51569465956882
+Event URL: 51391785525970&instance=51391817842686
 --------------------------------------------------
 Date: Friday, May 08, 2026
-Time: 02:00 PM - 02:30 PM
-Title: Drop-In Virtual Q&A Session for MBA Applicants
+Time: 01:30 PM - 03:00 PM
+Title: OSIM Research Seminar Series - Dr. Bekhzod Khoshimov
 Location: 
-Event URL: 52770815326935&instance=52770815326936
+Event URL: 52771625487967&instance=52771625488992
+--------------------------------------------------
+Date: Wednesday, May 13, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Professional Systems Engineering and Management Online Information Session
+Location: 
+Event URL: 52780313713810&instance=52780325701836
 --------------------------------------------------
 Date: Thursday, May 14, 2026
 Time: 03:30 PM - 05:30 PM
