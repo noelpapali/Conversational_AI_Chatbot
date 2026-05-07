@@ -314,7 +314,7 @@ Context: No Context
 	- DBA
 	- Executive Education
 	- Certificate Programs
-	- Honors Programs
+	- Davidson Management Honors Program
 
 Context: No Context
 	- Jindal School Faculty
@@ -344,7 +344,7 @@ Context: No Context
 	- Lockers
 	- Scholarships
 	- Special Event Requests
-	- Student Organizations
+	- Student Resources
 	- Study Abroad
 	- TA/RA Graduate Assistantships
 	- Technology & Facilities Services
@@ -426,7 +426,7 @@ Context: No Context
 	- DBA
 	- Executive Education
 	- Certificate Programs
-	- Honors Programs
+	- Davidson Management Honors Program
 
 Context: No Context
 	- Jindal School Faculty
@@ -456,7 +456,7 @@ Context: No Context
 	- Lockers
 	- Scholarships
 	- Special Event Requests
-	- Student Organizations
+	- Student Resources
 	- Study Abroad
 	- TA/RA Graduate Assistantships
 	- Technology & Facilities Services
@@ -723,7 +723,7 @@ PhD
 DBA
 Executive Education
 Certificate Programs
-Honors Programs
+Davidson Management Honors Program
 	- Text: Programs
 	  Href: https://jindal.utdallas.edu/academics/
 
@@ -759,9 +759,9 @@ Context: Certificate Programs
 	- Text: Certificate Programs
 	  Href: https://jindal.utdallas.edu/certificate-programs/
 
-Context: Honors Programs
-	- Text: Honors Programs
-	  Href: https://jindal.utdallas.edu/honors-programs/
+Context: Davidson Management Honors Program
+	- Text: Davidson Management Honors Program
+	  Href: https://jindal.utdallas.edu/dmhp
 
 Context: Faculty
 
@@ -831,7 +831,7 @@ Lockers
 
 Scholarships 
 Special Event Requests
-Student Organizations
+Student Resources
 
 Study Abroad
 TA/RA Graduate Assistantships
@@ -909,9 +909,9 @@ Context: Special Event Requests
 	- Text: Special Event Requests
 	  Href: https://jindal.utdallas.edu/student-resources/special-event-room-reservation/
 
-Context: Student Organizations
-	- Text: Student Organizations
-	  Href: https://jindal.utdallas.edu/student-resources/student-organizations/
+Context: Student Resources
+	- Text: Student Resources
+	  Href: https://jindal.utdallas.edu/student-resources/
 
 Context: Study Abroad
 	- Text: Study Abroad
@@ -1177,7 +1177,7 @@ PhD
 DBA
 Executive Education
 Certificate Programs
-Honors Programs
+Davidson Management Honors Program
 	- Text: Programs
 	  Href: https://jindal.utdallas.edu/academics/
 
@@ -1213,9 +1213,9 @@ Context: Certificate Programs
 	- Text: Certificate Programs
 	  Href: https://jindal.utdallas.edu/certificate-programs/
 
-Context: Honors Programs
-	- Text: Honors Programs
-	  Href: https://jindal.utdallas.edu/honors-programs/
+Context: Davidson Management Honors Program
+	- Text: Davidson Management Honors Program
+	  Href: https://jindal.utdallas.edu/dmhp
 
 Context: Faculty
 
@@ -1285,7 +1285,7 @@ Lockers
 
 Scholarships 
 Special Event Requests
-Student Organizations
+Student Resources
 
 Study Abroad
 TA/RA Graduate Assistantships
@@ -1363,9 +1363,9 @@ Context: Special Event Requests
 	- Text: Special Event Requests
 	  Href: https://jindal.utdallas.edu/student-resources/special-event-room-reservation/
 
-Context: Student Organizations
-	- Text: Student Organizations
-	  Href: https://jindal.utdallas.edu/student-resources/student-organizations/
+Context: Student Resources
+	- Text: Student Resources
+	  Href: https://jindal.utdallas.edu/student-resources/
 
 Context: Study Abroad
 	- Text: Study Abroad
