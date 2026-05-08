@@ -327,7 +327,6 @@ Context: No Context
 	- Faculty Research
 
 Context: No Context
-	- Student Resources
 	- Academic Advising
 	- Business Cards
 	- Business Communication Center
@@ -344,6 +343,7 @@ Context: No Context
 	- Lockers
 	- Scholarships
 	- Special Event Requests
+	- Student Development
 	- Student Resources
 	- Study Abroad
 	- TA/RA Graduate Assistantships
@@ -439,7 +439,6 @@ Context: No Context
 	- Faculty Research
 
 Context: No Context
-	- Student Resources
 	- Academic Advising
 	- Business Cards
 	- Business Communication Center
@@ -456,6 +455,7 @@ Context: No Context
 	- Lockers
 	- Scholarships
 	- Special Event Requests
+	- Student Development
 	- Student Resources
 	- Study Abroad
 	- TA/RA Graduate Assistantships
@@ -810,7 +810,6 @@ Context: Faculty Research
 
 Context: Students
 
-Student Resources
 Academic Advising
 Business Cards
 Business Communication Center
@@ -831,6 +830,7 @@ Lockers
 
 Scholarships 
 Special Event Requests
+Student Development
 Student Resources
 
 Study Abroad
@@ -840,10 +840,6 @@ UTDserv
 UTDsolv
 	- Text: Students
 	  Href: https://jindal.utdallas.edu/student-resources/
-
-Context: Student Resources
-	- Text: Student Resources
-	  Href: https://jindal.utdallas.edu/student-resources
 
 Context: Academic Advising
 	- Text: Academic Advising
@@ -908,6 +904,10 @@ Context: Scholarships
 Context: Special Event Requests
 	- Text: Special Event Requests
 	  Href: https://jindal.utdallas.edu/student-resources/special-event-room-reservation/
+
+Context: Student Development
+	- Text: Student Development
+	  Href: https://jindal.utdallas.edu/nlp/
 
 Context: Student Resources
 	- Text: Student Resources
@@ -1264,7 +1264,6 @@ Context: Faculty Research
 
 Context: Students
 
-Student Resources
 Academic Advising
 Business Cards
 Business Communication Center
@@ -1285,6 +1284,7 @@ Lockers
 
 Scholarships 
 Special Event Requests
+Student Development
 Student Resources
 
 Study Abroad
@@ -1294,10 +1294,6 @@ UTDserv
 UTDsolv
 	- Text: Students
 	  Href: https://jindal.utdallas.edu/student-resources/
-
-Context: Student Resources
-	- Text: Student Resources
-	  Href: https://jindal.utdallas.edu/student-resources
 
 Context: Academic Advising
 	- Text: Academic Advising
@@ -1362,6 +1358,10 @@ Context: Scholarships
 Context: Special Event Requests
 	- Text: Special Event Requests
 	  Href: https://jindal.utdallas.edu/student-resources/special-event-room-reservation/
+
+Context: Student Development
+	- Text: Student Development
+	  Href: https://jindal.utdallas.edu/nlp/
 
 Context: Student Resources
 	- Text: Student Resources
