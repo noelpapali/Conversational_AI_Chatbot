@@ -1,52 +1,52 @@
 Month: May, 2026
 
-Date: Friday, May 08, 2026
-Time: 02:00 PM - 02:30 PM
-Title: Drop-In Virtual Q&A Session for MBA Applicants
+Date: Tuesday, May 12, 2026
+Time: 08:30 AM - 09:30 AM
+Title: Meet the UTD Admissions Team for Coffee and Pastries at Paris Baguette Bakery Café
 Location: 
-Event URL: 52770815326935&instance=52770815326936
+Event URL: 52771669874030&instance=52771669874031
 --------------------------------------------------
 Date: Wednesday, May 13, 2026
-Time: 05:30 PM - 06:30 PM
-Title: Professional Systems Engineering and Management Online Information Session
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52780313713810&instance=52780325701836
+Event URL: 52683201047081&instance=52683230049100
 --------------------------------------------------
-Date: Thursday, May 14, 2026
-Time: 03:30 PM - 05:30 PM
-Title: UTDsolv Capstone EXPO!
+Date: Tuesday, May 19, 2026
+Time: 02:00 PM - 03:30 PM
+Title: Executive Education Graduation Reception
 Location: 
-Event URL: 52703357840320&instance=52703357841345
+Event URL: 52516733863678&instance=52516733863679
 --------------------------------------------------
 Date: Wednesday, May 20, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 05:45 PM - 07:00 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
 Location: 
-Event URL: 52118180250222&instance=52576173443290
+Event URL: 52003393108396&instance=52003406060998
 --------------------------------------------------
 Date: Tuesday, May 26, 2026
-Time: 10:00 AM - 11:00 AM
-Title: MS Marketing Information Session with Q & A Period
+Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
 Location: 
-Event URL: 52001932351306&instance=52001935830198
+Event URL: 50650438767869&instance=50650442897000
 --------------------------------------------------
 Date: Wednesday, May 27, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 12:00 PM - 12:30 PM
+Title: Fast Track in MS Marketing Information Session
 Location: 
-Event URL: 50322144938712&instance=50322144971493
---------------------------------------------------
-Date: Wednesday, May 27, 2026
-Time: 05:30 PM - 07:00 PM
-Title: MBA Info Session & Happy Hour at Sidecar Social in Frisco
-Location: 
-Event URL: 52771695901130&instance=52771695902155
+Event URL: 51994608484859&instance=51994611182600
 --------------------------------------------------
 Date: Thursday, May 28, 2026
-Time: 01:00 PM - 02:00 PM
-Title: MS Marketing Information Session with Q & A Period
+Time: 12:00 PM - 07:00 PM
+Title: UT Dallas Project Management Symposium
 Location: 
-Event URL: 52001936402813&instance=52001940270711
+Event URL: 51214599125945&instance=51214599126970
+--------------------------------------------------
+Date: Friday, May 29, 2026
+Time: 08:00 AM - 05:00 PM
+Title: UT Dallas Project Management Symposium
+Location: 
+Event URL: 51214612090731&instance=51214612091756
 --------------------------------------------------
 Month: Jun, 2026
 
@@ -237,4 +237,12 @@ Time: 12:00 PM - 01:00 PM
 Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
 Event URL: 52118180250222&instance=52576173462757
+--------------------------------------------------
+Month: Nov, 2026
+
+Date: Wednesday, November 04, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173464806
 --------------------------------------------------

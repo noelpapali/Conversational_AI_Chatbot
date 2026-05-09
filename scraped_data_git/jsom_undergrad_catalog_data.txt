@@ -463,6 +463,14 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-accounting-bs
+Professors:Ashiq Ali@axa042200,William M. Cready@wmc041000,Umit G. Gurun@ugg041000,Ningzhong Li@nxl124130,Stanimir Markov@sxm079200,Naim Bugra Ozel@nbo150030,Suresh Radhakrishnan@sradhakr,Gil Sadka@gxs143630
+Associate Professors:Zhonglan Dai@zxd051000,Surya N. Janakiraman@suryaj,Maria Loumioti@mxl175830,Ramachandran (Ram) Natarajan@nataraj,Jieying Zhang@jxz146230,Yuan Zhang@yxz122931,Yibin Zhou@yxz066000
+Assistant Professors:Rafael Copat@rxc190027,Junfan Huang@jxh230025,Botir Kobilov@bxk240018,Jedson Pinto@jpp200002,Frederico Siano@fxs220013,Kirti Sinha@kxs190050
+Clinical Professors:John Gamino@jpg140630
+Professors of Instruction:Mary Beth Goodrich@goodrich,Chris Linsteadt@ccl019000
+Assistant Professor of Instruction:Joseph Mauriello@jam151430
+Professors of Practice:Gregory Ballew@geb011100,Tiffany A. Bortz@tabortz
+Associate Professors of Practice:Steven Solcher@sjs107020,Kathy Zolton@kxz121730
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -1104,6 +1112,19 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-business-administration-bs
+Professors:Ashiq Ali@axa042200,Alain Bensoussan@axb046100,Gary Bolton@gxb122130,Metín Çakanyildirim@metin,Huseyin Cavusoglu@huseyin,Jianqing Chen@jxc111031,William M. Cready@wmc041000,Gregory G. Dess@ggd021000,Umit G. Gurun@ugg041000,Dorothée Honhon@dbh130130,Kyle Hyndman@tdp062000,Varghese S. Jacob@vjacob,Sanjay Jain@sxj164830,Ganesh Janakiraman@gxj091000,Elena Katok@emk120030,Dmitri Kuksov@dgk120030,Nanda Kumar@nkumar,Seung-Hyun Lee@sxl029100,Stanley Liebowitz@liebowit,Zhiang (John) Lin@zlin,Sumit K. Majumdar@skm021100,Stanimir Markov@sxm079200,Amit Mehra@axm078200,Syam Menon@sxm021300,Vijay S. Mookerjee@vijaym,B. P. S. Murthi@murthi,Vikram Nanda@vkn150030,Özalp Özer@oxo091000,Mike W. Peng@mxp059000,Hasan Pirkul@hpirkul,Cuili Qian@cxq170330,Suresh Radhakrishnan@sradhakr,Srinivasan Raghunathan@sraghu,Ram C. Rao@rrao,Brian Ratchford@btr051000,Michael J. Rebello@mjr071000,Gil Sadka@gxs143630,Sumit Sarkar@sumit,Suresh P. Sethi@sethi,Kathryn E. Stecke@kes021000,Riki Takeuchi@rxt173730,Wing Kwong (Eric) Tsang@wkt071000,Jun Xia@jxx132030,Ying Xie@yxx124930,Harold Zhang@hxz054000,Zhiqiang (Eric) Zheng@zxz062000
+Associate Professors:Mehmet Ayvaci@mua120030,Nina Baranchuk@nxb043000,Zhonglan Dai@zxd051000,Rebecca Files@rlf092000,Michael Hasler@mxh190031,Bin Hu@bxh180009,Surya N. Janakiraman@suryaj,Robert L. Kieschnick Jr.@rkiesch,Atanu Lahiri@axl144730,Jun Li@jxl128031,Ningzhong Li@nxl124130,Maria Loumioti@mxl175830,Lívia Markóczy@lxm055000,Ramachandran (Ram) Natarajan@nataraj,Naim Bugra Ozel@nbo150030,H. Dennis Park@hxp174230,Anyan Qi@axq140430,Young U. Ryu@ryoung,Serdar Simsek@axs158032,Harpreet Singh@hxs104000,Upender Subramanian@uxs092000,Shaojie Tang@sxt146930,Shouqiang Wang@sxw163830,Kelsey D. Wei@kdw061000,Han (Victor) Xia@hxx110930,Yexiao Xu@yexiaoxu,Alejandro Zentner@axz051000,Jieying Zhang@jxz146230,Yuan Zhang@yxz122931,Zhe (James) Zhang@zxz145430,Feng Zhao@fxz082000,Yibin Zhou@yxz066000
+Assistant Professors:Khai Chiong@kxc173030,Rafael Copat@rxc190027,Soraya Fatehi@sxf200005,Andrew Frazelle@aef180002,Ying Huang@yxh124430,Joonhwi Joo@jxj180020,Sora Jun@sxj177030,Jason Kautz@jdk200000,Tongil Kim@txk200012,Sheen Levine@ssl140530,Christopher Mace@cxm200014,Samir Mamadehussene@sxm200118,Jean-Marie Meier@jmm172030,Zixuan Meng@zxm200005,Radha Mookerjee@rvm019000,Jedson Pinto@jpp200002,Ignacio Rios Uribe@iar200000,Alejandro Rivera Mesias@axr150331,Simon Siegenthaler@sxs177933,Kirti Sinha@kxs190050,Shujing Sun@sxs200168,Xiaoxiao Tang@xxt180003,Shervin Tehrani@sst180003,Ashwin Venkataraman@axv190029,Christian Von-Drathen@cxv141430,Guihua Wang@gxw130630,Hongchang Wang@hxw140930,Pingle Wang@pxw200007,Junfeng Wu@jxw175430,Steven Xiao@sxx150930
+Professor Emeritus:R. Chandrasekaran@chandra
+Clinical Professors:John Barden@jpb063000,Britt Berrett@brb051000,Abhijit Biswas@axb019100,Shawn Carraher@smc130730,Larry Chasteen@chasteen,Paul Convery@pxc141930,Tevfik Dalgic@tdalgic,Howard Dover@hfd021000,John Gamino@jpg140630,Randall S. Guttery@rxg112530,William Hefley@weh150130,Robert Hicks@rfh041000,Robert Kaiser@rck180000,Marilyn Kaplan@mkaplan,Van Latham@vml170230,Sonia Leach@sel120030,Peter Lewin@plewin,Jeffrey Manzi@jxm158130,John McCracken@jfm,Diane S. McNulty@dmcnulty,Larry Norton@lxn171230,Divakar Rajamani@dxr020100,Daniel Rajaratnam@dxr143430,Kannan Ramanathan@kxr087000,Prakash Shrivastava@pcs130130,Mark Thouin@mxt083000,McClain Watson@jmw077000,Jeff Weekley@jaw160330,Habte Woldu@wolduh,Fang Wu@fxw052000
+Clinical Associate Professors:Shawn Alborz@sxa063000,Dawn Owens@dmo130130,Carolyn Reichert@carolyn,Avanti P. Sethi@asethi,Ramesh Subramoniam@rxs179630,Aysegul Toptal@axt083100,David Widdifield@dsw180001
+Clinical Assistant Professors:Athena Alimirzaei@axa134231,Christina (Krysta) Betanzos@clb120030,Moran Blueshtein@mxb135230,Jeffery (Jeff) Hicks@jnh061000,Dupinderjeet Kaur@dxk110730,Revansiddha Khanapure@rbk160130,Kristen Lawson@kal110030,Liping Ma@lxm133730,Parneet Pahwa@pxp030100,Jason Parker@jap090020
+Professors of Instruction:Semiramis Amirpour@sxa130731,Mary Beth Goodrich@goodrich,Chris Linsteadt@ccl019000,Suzette Plaisance Bryan@stp170002,Matt Polze@mmp062000,Luell (Lou) Thompson@lot013000
+Associate Professors of Instruction:Judd Bradbury@jdb101000,Monica E. Brussolo@meb049000,Ayfer Gurun@axg119030,Maria Hasenhuttl@h1562,Julie Haworth@haworth,Thomas  (Tom) Henderson@txh093000,Kathryn Lookadoo@kxl164330,Sarah Moore@sem054000,Mohammad Naseri Taheri@mxn121930,Hirofumi Nishi@hxn210016,Daniel Sibley@dcs170002,Agnieszka Skuza@axo027000,Hubert Zydorek@hxz120930
+Assistant Professors of Instruction:Negin Enayaty Ahangar@nxe180001,Daniel Karnuta@dxk173030,Joseph Mauriello@jam151430,Victoria D. McCrady@vdm130030,Rasoul Ramezani@rxr145930,Gaurav Shekhar@gxs150130
+Professors of Practice:Gregory Ballew@geb011100,Tiffany A. Bortz@tabortz,Ranavir Bose@rxb132730,Alexander Edsel@ade012000,Rajiv Shah@rxs079000,Donald Taylor@det190000,Keith Thurgood@klt160130
+Associate Professors of Practice:Nozar Hassanzadeh@nozarh,Jackie Kimzey@jxk092000,Julie Lynch@jxl180030,David Parks@dxp153830,Margaret Smallwood@meg012400,Steven Solcher@sjs107020,Kathy Zolton@kxz121730
+Assistant Professors of Practice:Khatereh Ahadi@kxa180010,Steven Haynes@sxh102420,Abu Naser Islam@nxi110630,Edward Meda@exm150330,Paul Nichols@pxn120030,Timothy Stephens@tgs170130,Guido Tirone@gxt170001,Robert Wright@rgw091000
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -1919,6 +1940,19 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-business-analytics-bs
+Professors:Ashiq Ali@axa042200,Alain Bensoussan@axb046100,Gary Bolton@gxb122130,Metín Çakanyildirim@metin,Huseyin Cavusoglu@huseyin,Jianqing Chen@jxc111031,William M. Cready@wmc041000,Gregory G. Dess@ggd021000,Umit G. Gurun@ugg041000,Dorothée Honhon@dbh130130,Kyle Hyndman@tdp062000,Varghese S. Jacob@vjacob,Sanjay Jain@sxj164830,Ganesh Janakiraman@gxj091000,Elena Katok@emk120030,Dmitri Kuksov@dgk120030,Nanda Kumar@nkumar,Seung-Hyun Lee@sxl029100,Stanley Liebowitz@liebowit,Zhiang (John) Lin@zlin,Sumit K. Majumdar@skm021100,Stanimir Markov@sxm079200,Amit Mehra@axm078200,Syam Menon@sxm021300,Vijay S. Mookerjee@vijaym,B. P. S. Murthi@murthi,Vikram Nanda@vkn150030,Özalp Özer@oxo091000,Mike W. Peng@mxp059000,Hasan Pirkul@hpirkul,Cuili Qian@cxq170330,Suresh Radhakrishnan@sradhakr,Srinivasan Raghunathan@sraghu,Ram C. Rao@rrao,Brian Ratchford@btr051000,Michael J. Rebello@mjr071000,Gil Sadka@gxs143630,Sumit Sarkar@sumit,Suresh P. Sethi@sethi,Kathryn E. Stecke@kes021000,Riki Takeuchi@rxt173730,Wing Kwong (Eric) Tsang@wkt071000,Jun Xia@jxx132030,Ying Xie@yxx124930,Harold Zhang@hxz054000,Zhiqiang (Eric) Zheng@zxz062000
+Associate Professors:Mehmet Ayvaci@mua120030,Nina Baranchuk@nxb043000,Zhonglan Dai@zxd051000,Rebecca Files@rlf092000,Michael Hasler@mxh190031,Bin Hu@bxh180009,Surya N. Janakiraman@suryaj,Robert L. Kieschnick Jr.@rkiesch,Atanu Lahiri@axl144730,Jun Li@jxl128031,Ningzhong Li@nxl124130,Maria Loumioti@mxl175830,Lívia Markóczy@lxm055000,Ramachandran (Ram) Natarajan@nataraj,Naim Bugra Ozel@nbo150030,H. Dennis Park@hxp174230,Anyan Qi@axq140430,Young U. Ryu@ryoung,Serdar Simsek@axs158032,Harpreet Singh@hxs104000,Upender Subramanian@uxs092000,Shaojie Tang@sxt146930,Shouqiang Wang@sxw163830,Kelsey D. Wei@kdw061000,Han (Victor) Xia@hxx110930,Yexiao Xu@yexiaoxu,Alejandro Zentner@axz051000,Jieying Zhang@jxz146230,Yuan Zhang@yxz122931,Zhe (James) Zhang@zxz145430,Feng Zhao@fxz082000,Yibin Zhou@yxz066000
+Assistant Professors:Khai Chiong@kxc173030,Rafael Copat@rxc190027,Soraya Fatehi@sxf200005,Andrew Frazelle@aef180002,Ying Huang@yxh124430,Joonhwi Joo@jxj180020,Sora Jun@sxj177030,Jason Kautz@jdk200000,Tongil Kim@txk200012,Sheen Levine@ssl140530,Christopher Mace@cxm200014,Samir Mamadehussene@sxm200118,Jean-Marie Meier@jmm172030,Radha Mookerjee@rvm019000,Jedson Pinto@jpp200002,Ignacio Rios Uribe@iar200000,Alejandro Rivera Mesias@axr150331,Simon Siegenthaler@sxs177933,Kirti Sinha@kxs190050,Xiaoxiao Tang@xxt180003,Shervin Tehrani@sst180003,Ashwin Venkataraman@axv190029,Christian Von-Drathen@cxv141430,Guihua Wang@gxw130630,Hongchang Wang@hxw140930,Pingle Wang@pxw200007,Junfeng Wu@jxw175430,Steven Xiao@sxx150930,Yingjie Zhang@yxz180067
+Associate Professors Emeriti:J. Richard Harrison@harrison,Jane Salk@jes025000,David J. Springate@spring8
+Clinical Professors:John Barden@jpb063000,Britt Berrett@brb051000,Abhijit Biswas@axb019100,Shawn Carraher@smc130730,Larry Chasteen@chasteen,Paul Convery@pxc141930,Howard Dover@hfd021000,John Gamino@jpg140630,Randall S. Guttery@rxg112530,William Hefley@weh150130,Robert Hicks@rfh041000,Marilyn Kaplan@mkaplan,Sonia Leach@sel120030,Peter Lewin@plewin,Jeffrey Manzi@jxm158130,John McCracken@jfm,Diane S. McNulty@dmcnulty,Divakar Rajamani@dxr020100,Daniel Rajaratnam@dxr143430,Kannan Ramanathan@kxr087000,Mark Thouin@mxt083000,McClain Watson@jmw077000,Jeff Weekley@jaw160330,Habte Woldu@wolduh,Fang Wu@fxw052000
+Clinical Associate Professors:Shawn Alborz@sxa063000,Dawn Owens@dmo130130,Carolyn Reichert@carolyn,Avanti P. Sethi@asethi,Ramesh Subramoniam@rxs179630,Aysegul Toptal@axt083100,David Widdifield@dsw180001
+Clinical Assistant Professors:Athena Alimirzaei@axa134231,Christina (Krysta) Betanzos@clb120030,Moran Blueshtein@mxb135230,Jerome Gafford@jmg171130,Jeffery (Jeff) Hicks@jnh061000,Revansiddha Khanapure@rbk160130,Kristen Lawson@kal110030,Liping Ma@lxm133730,Ravi Narayan@rln130030,Parneet Pahwa@pxp030100,Jason Parker@jap090020,Nassim Sohaee@nxs045000
+Professors of Instruction:Semiramis Amirpour@sxa130731,Mary Beth Goodrich@goodrich,Chris Linsteadt@ccl019000,Matt Polze@mmp062000,Luell (Lou) Thompson@lot013000
+Associate Professors of Instruction:Vivek Arora@vxa081000,Judd Bradbury@jdb101000,Monica E. Brussolo@meb049000,Amal El-Ashmawi@ahe013000,Ayfer Gurun@axg119030,Maria Hasenhuttl@h1562,Julie Haworth@haworth,Thomas  (Tom) Henderson@txh093000,Kathryn Lookadoo@kxl164330,Sarah Moore@sem054000,Mohammad Naseri Taheri@mxn121930,Hubert Zydorek@hxz120930
+Assistant Professors of Instruction:Negin Enayaty Ahangar@nxe180001,Joseph Mauriello@jam151430,Victoria D. McCrady@vdm130030,Rasoul Ramezani@rxr145930,Gaurav Shekhar@gxs150130
+Professors of Practice:Gregory Ballew@geb011100,Tiffany A. Bortz@tabortz,Ranavir Bose@rxb132730,Alexander Edsel@ade012000,Rajiv Shah@rxs079000
+Associate Professors of Practice:Richard Bowen@rxb073100,Jackie Kimzey@jxk092000,David Parks@dxp153830,Margaret Smallwood@meg012400,Steven Solcher@sjs107020,Kathy Zolton@kxz121730
+Assistant Professors of Practice:Khatereh Ahadi@kxa180010,Steven Haynes@sxh102420,Abu Naser Islam@nxi110630,Edward Meda@exm150330,Paul Nichols@pxn120030,Timothy Stephens@tgs170130,Guido Tirone@gxt170001,Robert Wright@rgw091000
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -2599,6 +2633,19 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-finance-bs
+Professors:Ashiq Ali@axa042200,Gary Bolton@gxb122130,William M. Cready@wmc041000,Umit G. Gurun@ugg041000,Kyle Hyndman@tdp062000,Ningzhong Li@nxl124130,Stanley Liebowitz@liebowit,Vikram Nanda@vkn150030,Suresh Radhakrishnan@sradhakr,Michael J. Rebello@mjr071000,Gil Sadka@gxs143630,Harold Zhang@hxz054000,Feng Zhao@fxz082000
+Associate Professors:Nina Baranchuk@nxb043000,Zhonglan Dai@zxd051000,Rebecca Files@rlf092000,Michael Hasler@mxh190031,Surya N. Janakiraman@suryaj,Robert L. Kieschnick Jr.@rkiesch,Jun Li@jxl128031,Ramachandran (Ram) Natarajan@nataraj,Naim Bugra Ozel@nbo150030,Alejandro Rivera Mesias@axr150331,Simon Siegenthaler@sxs177933,Kelsey D. Wei@kdw061000,Han (Victor) Xia@hxx110930,Steven Xiao@sxx150930,Yexiao Xu@yexiaoxu,Alejandro Zentner@axz051000,Jieying Zhang@jxz146230,Yuan Zhang@yxz122931,Yibin Zhou@yxz066000
+Assistant Professors:Christopher Mace@cxm200014,Jean-Marie Meier@jmm172030,Xiaoxiao Tang@xxt180003,Pingle Wang@pxw200007
+Associate Professor Emeritus:David J. Springate@spring8
+Clinical Professors:John Barden@jpb063000,John Gamino@jpg140630,Randall S. Guttery@rxg112530,Peter Lewin@plewin
+Clinical Associate Professor:Carolyn Reichert@carolyn
+Clinical Assistant Professors:Moran Blueshtein@mxb135230,Revansiddha Khanapure@rbk160130,Liping Ma@lxm133730
+Professors of Instruction:Mary Beth Goodrich@goodrich,Chris Linsteadt@ccl019000,Matt Polze@mmp062000
+Associate Professors of Instruction:Ayfer Gurun@axg119030,Hirofumi Nishi@hxn210016,Daniel Sibley@dcs170002
+Assistant Professors of Instruction:Joseph Mauriello@jam151430,Serena Xiao@swx170030
+Professor of Practice:Tiffany A. Bortz@tabortz
+Associate Professors of Practice:Julie Lynch@jxl180030,Kannoo Ravindran@dal839044,Steven Solcher@sjs107020,Kathy Zolton@kxz121730
+Assistant Professor of Practice:Steven Haynes@sxh102420
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -3444,6 +3491,20 @@ Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 An international experience1is required for all Global Business majors. Students are encouraged to complete up to 6 semester credit hours in a foreign language. For additional information, please contact the Global Business Program Director.
 FACG> jsom-global-business-bs
+Professors:Ashiq Ali@axa042200,Alain Bensoussan@axb046100,Gary Bolton@gxb122130,Metín Çakanyildirim@metin,Huseyin Cavusoglu@huseyin,Jianqing Chen@jxc111031,William M. Cready@wmc041000,Gregory G. Dess@ggd021000,Umit G. Gurun@ugg041000,Dorothée Honhon@dbh130130,Kyle Hyndman@tdp062000,Varghese S. Jacob@vjacob,Sanjay Jain@sxj164830,Ganesh Janakiraman@gxj091000,Elena Katok@emk120030,Dmitri Kuksov@dgk120030,Nanda Kumar@nkumar,Seung-Hyun Lee@sxl029100,Stanley Liebowitz@liebowit,Zhiang (John) Lin@zlin,Sumit K. Majumdar@skm021100,Stanimir Markov@sxm079200,Amit Mehra@axm078200,Syam Menon@sxm021300,Vijay S. Mookerjee@vijaym,B. P. S. Murthi@murthi,Vikram Nanda@vkn150030,Özalp Özer@oxo091000,Mike W. Peng@mxp059000,Hasan Pirkul@hpirkul,Cuili Qian@cxq170330,Suresh Radhakrishnan@sradhakr,Srinivasan Raghunathan@sraghu,Ram C. Rao@rrao,Brian Ratchford@btr051000,Michael J. Rebello@mjr071000,Gil Sadka@gxs143630,Sumit Sarkar@sumit,Suresh P. Sethi@sethi,Kathryn E. Stecke@kes021000,Wing Kwong (Eric) Tsang@wkt071000,Jun Xia@jxx132030,Ying Xie@yxx124930,Harold Zhang@hxz054000,Zhiqiang (Eric) Zheng@zxz062000
+Associate Professors:Mehmet Ayvaci@mua120030,Nina Baranchuk@nxb043000,Zhonglan Dai@zxd051000,Rebecca Files@rlf092000,Bin Hu@bxh180009,Surya N. Janakiraman@suryaj,Robert L. Kieschnick Jr.@rkiesch,Atanu Lahiri@axl144730,Jun Li@jxl128031,Ningzhong Li@nxl124130,Maria Loumioti@mxl175830,Lívia Markóczy@lxm055000,Ramachandran (Ram) Natarajan@nataraj,Naim Bugra Ozel@nbo150030,H. Dennis Park@hxp174230,Anyan Qi@axq140430,Young U. Ryu@ryoung,Serdar Simsek@axs158032,Harpreet Singh@hxs104000,Upender Subramanian@uxs092000,Shaojie Tang@sxt146930,Shouqiang Wang@sxw163830,Kelsey D. Wei@kdw061000,Han (Victor) Xia@hxx110930,Yexiao Xu@yexiaoxu,Alejandro Zentner@axz051000,Jieying Zhang@jxz146230,Yuan Zhang@yxz122931,Zhe (James) Zhang@zxz145430,Feng Zhao@fxz082000,Yibin Zhou@yxz066000
+Assistant Professors:Khai Chiong@kxc173030,Andrew Frazelle@aef180002,Ying Huang@yxh124430,Joonhwi Joo@jxj180020,Sora Jun@sxj177030,Jason Kautz@jdk200000,Sheen Levine@ssl140530,Meng Li@mxl120531,Jean-Marie Meier@jmm172030,Radha Mookerjee@rvm019000,Alejandro Rivera Mesias@axr150331,Alessio Saretto@axs125732,Simon Siegenthaler@sxs177933,Xiaoxiao Tang@xxt180003,Shervin Tehrani@sst180003,Ashwin Venkataraman@axv190029,Christian Von-Drathen@cxv141430,Guihua Wang@gxw130630,Junfeng Wu@jxw175430,Steven Xiao@sxx150930,Yingjie Zhang@yxz180067
+Associate Professors Emeriti:J. Richard Harrison@harrison,Jane Salk@jes025000
+Clinical Professors:John Barden@jpb063000,Abhijit Biswas@axb019100,Shawn Carraher@smc130730,Larry Chasteen@chasteen,Howard Dover@hfd021000,John Gamino@jpg140630,Randall S. Guttery@rxg112530,William Hefley@weh150130,Marilyn Kaplan@mkaplan,Sonia Leach@sel120030,Peter Lewin@plewin,Jeffrey Manzi@jxm158130,Diane S. McNulty@dmcnulty,Divakar Rajamani@dxr020100,Daniel Rajaratnam@dxr143430,Kannan Ramanathan@kxr087000,Mark Thouin@mxt083000,McClain Watson@jmw077000,Jeff Weekley@jaw160330,Habte Woldu@wolduh,Fang Wu@fxw052000
+Clinical Associate Professors:Shawn Alborz@sxa063000,Dawn Owens@dmo130130,Carolyn Reichert@carolyn,Avanti P. Sethi@asethi,Ramesh Subramoniam@rxs179630,Aysegul Toptal@axt083100,David Widdifield@dsw180001
+Clinical Assistant Professors:Athena Alimirzaei@axa134231,Moran Blueshtein@mxb135230,Jerome Gafford@jmg171130,Jeffery (Jeff) Hicks@jnh061000,Revansiddha Khanapure@rbk160130,Liping Ma@lxm133730,Ravi Narayan@rln130030,Parneet Pahwa@pxp030100,Nassim Sohaee@nxs045000
+Professors of Instruction:Semiramis Amirpour@sxa130731,Mary Beth Goodrich@goodrich,Chris Linsteadt@ccl019000,Matt Polze@mmp062000,Luell (Lou) Thompson@lot013000
+Associate Professors of Instruction:Judd Bradbury@jdb101000,Monica E. Brussolo@meb049000,Amal El-Ashmawi@ahe013000,Ayfer Gurun@axg119030,Maria Hasenhuttl@h1562,Julie Haworth@haworth,Thomas  (Tom) Henderson@txh093000,Kathryn Lookadoo@kxl164330,Sarah Moore@sem054000,Mohammad Naseri Taheri@mxn121930,Hubert Zydorek@hxz120930
+Assistant Professors of Instruction:Negin Enayaty Ahangar@nxe180001,Joseph Mauriello@jam151430,Victoria D. McCrady@vdm130030,Edward Meda@exm150330,Rasoul Ramezani@rxr145930,Gaurav Shekhar@gxs150130
+Professors of Practice:Tiffany A. Bortz@tabortz,Ranavir Bose@rxb132730,Alexander Edsel@ade012000,Rajiv Shah@rxs079000
+Associate Professors of Practice:Richard Bowen@rxb073100,Jackie Kimzey@jxk092000,David Parks@dxp153830,Margaret Smallwood@meg012400,Steven Solcher@sjs107020,Kathy Zolton@kxz121730
+Assistant Professors of Practice:Khatereh Ahadi@kxa180010,Abu Naser Islam@nxi110630,Timothy Stephens@tgs170130,Guido Tirone@gxt170001,Robert Wright@rgw091000
+Senior Lecturers:Juliann Chapman@jgc160130,Madison Pedigo@mfp013000
 I. Core Curriculum Requirements: 42 semester credit hours2
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -4172,6 +4233,19 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-healthcare-management-bs
+Professors:Ashiq Ali@axa042200,Gary Bolton@gxb122130,Huseyin Cavusoglu@huseyin,Jianqing Chen@jxc111031,William M. Cready@wmc041000,Gregory G. Dess@ggd021000,Umit G. Gurun@ugg041000,Kyle Hyndman@tdp062000,Varghese S. Jacob@vjacob,Dmitri Kuksov@dgk120030,Nanda Kumar@nkumar,Seung-Hyun Lee@sxl029100,Stanley Liebowitz@liebowit,Zhiang (John) Lin@zlin,Sumit K. Majumdar@skm021100,Syam Menon@sxm021300,Vijay S. Mookerjee@vijaym,B. P. S. Murthi@murthi,Vikram Nanda@vkn150030,Mike W. Peng@mxp059000,Hasan Pirkul@hpirkul,Suresh Radhakrishnan@sradhakr,Srinivasan Raghunathan@sraghu,Ram C. Rao@rrao,Brian Ratchford@btr051000,Michael J. Rebello@mjr071000,Gil Sadka@gxs143630,Sumit Sarkar@sumit,Wing Kwong (Eric) Tsang@wkt071000,Jun Xia@jxx132030,Ying Xie@yxx124930,Harold Zhang@hxz054000,Zhiqiang (Eric) Zheng@zxz062000
+Associate Professors:Mehmet Ayvaci@mua120030,Nina Baranchuk@nxb043000,Zhonglan Dai@zxd051000,Rebecca Files@rlf092000,Surya N. Janakiraman@suryaj,Robert L. Kieschnick Jr.@rkiesch,Atanu Lahiri@axl144730,Jun Li@jxl128031,Ningzhong Li@nxl124130,Lívia Markóczy@lxm055000,Ramachandran (Ram) Natarajan@nataraj,Naim Bugra Ozel@nbo150030,Young U. Ryu@ryoung,Harpreet Singh@hxs104000,Upender Subramanian@uxs092000,Shaojie Tang@sxt146930,Kelsey D. Wei@kdw061000,Han (Victor) Xia@hxx110930,Yexiao Xu@yexiaoxu,Alejandro Zentner@axz051000,Jieying Zhang@jxz146230,Yuan Zhang@yxz122931,Zhe (James) Zhang@zxz145430,Feng Zhao@fxz082000,Yibin Zhou@yxz066000
+Assistant Professors:Sheen Levine@ssl140530,Radha Mookerjee@rvm019000,Alejandro Rivera Mesias@axr150331,Christian Von-Drathen@cxv141430,Guihua Wang@gxw130630,Steven Xiao@sxx150930
+Associate Professors Emeriti:J. Richard Harrison@harrison,Jane Salk@jes025000,David J. Springate@spring8
+Clinical Professors:John Barden@jpb063000,Britt Berrett@brb051000,Abhijit Biswas@axb019100,Shawn Carraher@smc130730,Larry Chasteen@chasteen,Howard Dover@hfd021000,John Gamino@jpg140630,Randall S. Guttery@rxg112530,William Hefley@weh150130,Marilyn Kaplan@mkaplan,Peter Lewin@plewin,Jeffrey Manzi@jxm158130,John McCracken@jfm,Diane S. McNulty@dmcnulty,Daniel Rajaratnam@dxr143430,Kannan Ramanathan@kxr087000,Mark Thouin@mxt083000,Habte Woldu@wolduh,Fang Wu@fxw052000
+Clinical Associate Professors:Shawn Alborz@sxa063000,Dawn Owens@dmo130130,Carolyn Reichert@carolyn
+Clinical Assistant Professors:Moran Blueshtein@mxb135230,Jeffery (Jeff) Hicks@jnh061000,Kristen Lawson@kal110030,Liping Ma@lxm133730,Ravi Narayan@rln130030,Parneet Pahwa@pxp030100,Nassim Sohaee@nxs045000
+Professors of Instruction:Semiramis Amirpour@sxa130731,Mary Beth Goodrich@goodrich,Chris Linsteadt@ccl019000,Matt Polze@mmp062000,Luell (Lou) Thompson@lot013000
+Associate Professors of Instruction:Judd Bradbury@jdb101000,Amal El-Ashmawi@ahe013000,Ayfer Gurun@axg119030,Maria Hasenhuttl@h1562,Julie Haworth@haworth,Thomas  (Tom) Henderson@txh093000,Hubert Zydorek@hxz120930
+Assistant Professors of Instruction:Daniel Karnuta@dxk173030,Joseph Mauriello@jam151430,Victoria D. McCrady@vdm130030
+Professors of Practice:Tiffany A. Bortz@tabortz,Alexander Edsel@ade012000,Rajiv Shah@rxs079000,Keith Thurgood@klt160130
+Associate Professors of Practice:Richard Bowen@rxb073100,Jackie Kimzey@jxk092000,Margaret Smallwood@meg012400,Steven Solcher@sjs107020,Kathy Zolton@kxz121730
+Assistant Professors of Practice:Edward Meda@exm150330,Timothy Stephens@tgs170130,Robert Wright@rgw091000
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -4785,6 +4859,10 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-human-resource-management-bs
+Professor:Riki Takeuchi@rxt173730
+Assistant Professor:Hyesook Chung@hxc220020
+Visiting Professors:Edward Berbarie@efb017000,Kevin Minchey@kxm220058,Alayna Thomas@agt160030,Emily Ward@ejw160030
+Associate Professors of Practice:Dale Albrecht@dja180003,Rhonda Green@rxg180032,Mark Morris@dal629291
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -5366,6 +5444,17 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-marketing-bs
+Professors:Ashiq Ali@axa042200,Sanjay Jain@sxj164830,Dmitri Kuksov@dgk120030,Nanda Kumar@nkumar,Seung-Hyun Lee@sxl029100,Syam Menon@sxm021300,B. P. S. Murthi@murthi,Ram C. Rao@rrao,Upender Subramanian@uxs092000,Ying Xie@yxx124930
+Associate Professors:Harpreet Singh@hxs104000,Zhe (James) Zhang@zxz145430
+Assistant Professors:Khai Chiong@kxc173030,Joonhwi Joo@jxj180020,Tongil Kim@txk200012,Samir Mamadehussene@sxm200118,Radha Mookerjee@rvm019000,Shervin Tehrani@sst180003,Wensi Zhang@wxz161430
+Clinical Professors:Abhijit Biswas@axb019100,Howard Dover@hfd021000,William Hefley@weh150130,Sonia Leach@sel120030,Daniel Rajaratnam@dxr143430,Kannan Ramanathan@kxr087000,Mark Thouin@mxt083000,Fang Wu@fxw052000
+Clinical Associate Professors:Parneet Pahwa@pxp030100,Carolyn Reichert@carolyn,Avanti P. Sethi@asethi
+Clinical Assistant Professor:Moran Blueshtein@mxb135230
+Professor of Instruction:Semiramis Amirpour@sxa130731
+Associate Professors of Instruction:Judd Bradbury@jdb101000,Monica E. Brussolo@meb049000,Anita Dale@akd240002,Maria Hasenhuttl@h1562,Julie Haworth@haworth
+Associate Professor of Practice:David Matthews@dal868969
+Professors of Practice:Alexander Edsel@ade012000
+Assistant Professor of Practice:Guido Tirone@gxt170001
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)
@@ -6012,6 +6101,15 @@ Content:
 Degree Requirements(120 semester credit hours)
 View an Example of Degree Requirements by Semester
 FACG> jsom-supply-chain-management-bs
+Professors:Alain Bensoussan@axb046100,Metín Çakanyildirim@metin,Dorothée Honhon@dbh130130,Bin Hu@bxh180009,Ganesh Janakiraman@gxj091000,Elena Katok@emk120030,Özalp Özer@oxo091000,Suresh P. Sethi@sethi,Kathryn E. Stecke@kes021000
+Associate Professor:Anyan Qi@axq140430,Serdar Simsek@axs158032,Guihua Wang@gxw130630,Shouqiang Wang@sxw163830,Yining Wang@yxw220006
+Assistant Professors:Maya Balakrishnan@mxb240047,Mingliu Chen@mxc230032,Soraya Fatehi@sxf200005,Andrew Frazelle@aef180002,Neda Miraeian@nxm220040,Jimmy Qin@jxq240004,Ignacio Rios Uribe@iar200000,Ashwin Venkataraman@axv190029,Mengxin Wang@mxw230006
+Clinical Professors:Sonia Leach@sel120030,Divakar Rajamani@dxr020100,Kannan Ramanathan@kxr087000
+Clinical Associate Professors:Avanti P. Sethi@asethi,Ramesh Subramoniam@rxs179630,Aysegul Toptal@axt083100,David Widdifield@dsw180001
+Professor of Instruction:Shawn Alborz@sxa063000
+Associate Professors of Instruction:Khatereh Ahadi@kxa180010,Monica E. Brussolo@meb049000,Negin Enayaty Ahangar@nxe180001,Sarmann Kennedyd@sik220001,Mohammad Naseri Taheri@mxn121930,Tristan Whalen@tgw100020
+Assistant Professors of Instruction:Hien Thu Nguyen@htn170130,Rasoul Ramezani@rxr145930
+Professors of Practice:David Parks@dxp153830,Ramesh Subramoniam@rxs179630
 I. Core Curriculum Requirements: 42 semester credit hours1
 Communication: 6 semester credit hours
 Select any 6 semester credit hours fromCommunication Corecourses (see advisor)

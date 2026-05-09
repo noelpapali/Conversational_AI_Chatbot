@@ -1,20 +1,86 @@
 URL: https://jindal.utdallas.edu/admission-requirements/
 Headings:
-- Admission Requirements and Tuition
-- Admission Details by Program Type
+- Required Application Materials
 Content:
-Please review the requirements and tuition that are applicable for all degree-seeking programs. You need to complete the online application form and pay the application fee by the deadline date for the semester to which you are applying. Please visit theUT Dallas Bursars officefor more information on tuition and fees.
+Fall 2026 applications are now closed
+The ability to read, write, speak and understand English is essential for success in graduate studies at UT Dallas. If your native language is not English and you have been educated outside the United States, you must demonstrate English proficiency.
+Please review the requirements as outlined on the Graduate Admission atUT Dallas pagefor specifics on scores and potential waivers.
+For technical assistance with the graduate application, please contactgradapp@utdallas.edu.
+All materials are to be uploaded in the online application as PDF files only (no Word docs or JPEGs) when prompted.*UT Dallas Naveen Jindal School of Management prefers the GMAT admission test. However, we gladly accept the GRE test as well.**All recommendation letters are to be submitted electronically through the online application system.
+*UT Dallas Naveen Jindal School of Management prefers the GMAT admission test. However, we gladly accept the GRE test as well.
+**All recommendation letters are to be submitted electronically through the online application system.
+Lists:
+- Complete graduate application and application feeFall 2026 applications are now closed
+- All undergraduate and graduate transcripts should be uploaded and submitted electronically. DO NOT mail official/paper copies of your documents. Unofficial transcripts are sufficient for releasing an admissions decision. Admitted students must provide official documents prior to enrollment.
+- GMAT* or GRE scores. Students must have an excellent academic record and high scores on the GMAT or GRE. To be considered for admission, students must score 600 on the GMAT or above or receive comparable scores on the GRE. The mean GMAT score for students admitted to the Jindal School of Management PhD programs for Fall 2025 was 637. The mean GRE score (combined) for students admitted for Fall 2025 was 324. The institution code to report GMAT scores is ZTZ-PQ-18, and for GRE scores, it is 6897.Scores must be no older than 5 years, are not waived for any applicants, and must be submitted at the time of application.The Online GRE and Online GMAT will be accepted for Fall 2026 admissions.
+- A curriculum vitae (CV) or résumé. If you do not have professional work experience, still include a CV or résumé, which will give us an overview of your academic background and accomplishments.
+- A statement of purpose that should answer two fundamental questions:Why do you want to pursue a PhD in your chosen concentration?What are your career goals after you obtain your PhD?
+- Why do you want to pursue a PhD in your chosen concentration?
+- What are your career goals after you obtain your PhD?
+- Three letters of recommendation, with at least two being from academic referees (see note below)**.
+- The ability to read, write, speak and understand English is essential for success in graduate studies at UT Dallas. If your native language is not English and you have been educated outside the United States, you must demonstrate English proficiency.Please review the requirements as outlined on the Graduate Admission atUT Dallas pagefor specifics on scores and potential waivers.
 Links:
-- UT Dallas Bursars office - http://www.utdallas.edu/bursar/
-- Fall 2025 or Spring 2026 Applications - https://utdallas.my.site.com/TX_SiteLogin?startURL=%2FTargetX_Portal__PB
-- Summer or Fall 2026 Applications - https://utdcomet.my.site.com/ApplicantPortal/s/login/?ec=302&startURL=%2FApplicantPortal%2Fs%2Fgradapp%2F
-- Undergraduate Programs - https://jindal.utdallas.edu/jindal/admission-requirements/undergraduate/
-- MS Programs - https://jindal.utdallas.edu/jindal/admission-requirements/masters/
-- MBA Programs - https://jindal.utdallas.edu/mba/admissions/
-- PhD Programs - https://jindal.utdallas.edu/jindal/phd-programs/admission-requirements/
-- Executive Education Programs - https://jindal.utdallas.edu/execed/
-- Certificate Programs - https://jindal.utdallas.edu/jindal/certificate-programs/
-- Tuition Plans - https://bursar.utdallas.edu/tuition/tuition-plans-rates/
+- UT Dallas page - https://graduate-admissions.utdallas.edu/apply-to-ut-dallas/international-students/
+- gradapp@utdallas.edu - mailto:gradapp@utdallas.edu
+
+================================================================================
+URL: https://jindal.utdallas.edu/admission-requirements/
+Headings:
+- Alumni Testimonials
+- Devendra Kale
+- Hasan Cavusoglu
+- Tai-Yuan Chen
+- Harish Guda
+- Bharadwaj Kadiyala
+- Aidin Namin
+- Subodha Kumar
+- Wei Chen
+- Oktay Urcan
+- Xuying Zhao
+- Zhengrui Jiang
+- Jess Cornaggia
+- Mina Ameri
+- Blair Flicker
+- Qi Annabelle Feng
+Content:
+PhD in Management Science, Accounting
+Assistant Professor,University of Rhode Island
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+Alumni Professor of Finance,HKUST Business School,
+Hong Kong University of Science and Technology
+Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
+Assistant Professor,Eccles School of Business, University of Utah
+Associate Professor of Marketing Analytics, Loyola Marymount University
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
+Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Professor of Information Systems,School of Business,
+Nanjing University
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
+Assistant ProfessorThe University of Pittsburgh
+Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
+John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
+Links:
+- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
+- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
+- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
+- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
+- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
+- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
+- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
+- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
+- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
+- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
+- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
+- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
+- See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
+
+================================================================================
+URL: https://jindal.utdallas.edu/admission-requirements/
 
 ================================================================================
 URL: https://jindal.utdallas.edu/admission-requirements/undergraduate/
@@ -89,56 +155,56 @@ Links:
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 Headings:
 - Alumni Testimonials
-- Wei Chen
-- Zhengrui Jiang
-- Subodha Kumar
-- Oktay Urcan
-- Qi Annabelle Feng
-- Devendra Kale
-- Bharadwaj Kadiyala
-- Blair Flicker
-- Harish Guda
-- Jess Cornaggia
 - Hasan Cavusoglu
 - Xuying Zhao
-- Tai-Yuan Chen
-- Mina Ameri
 - Aidin Namin
+- Subodha Kumar
+- Blair Flicker
+- Zhengrui Jiang
+- Bharadwaj Kadiyala
+- Jess Cornaggia
+- Qi Annabelle Feng
+- Devendra Kale
+- Mina Ameri
+- Tai-Yuan Chen
+- Wei Chen
+- Harish Guda
+- Oktay Urcan
 Content:
-Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Associate Professor of Marketing Analytics, Loyola Marymount University
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
+Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
 Professor of Information Systems,School of Business,
 Nanjing University
-Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+Assistant Professor,Eccles School of Business, University of Utah
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
 John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
 PhD in Management Science, Accounting
 Assistant Professor,University of Rhode Island
-Assistant Professor,Eccles School of Business, University of Utah
-Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
-Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
-Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
-Professor of Management Information SystemsSauder School of Business, The University of British Columbia
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Assistant ProfessorThe University of Pittsburgh
 Alumni Professor of Finance,HKUST Business School,
 Hong Kong University of Science and Technology
-Assistant ProfessorThe University of Pittsburgh
-Associate Professor of Marketing Analytics, Loyola Marymount University
+Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
 Links:
-- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
-- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
-- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
-- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
-- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
-- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
-- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
-- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
-- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
 - Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
 - Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
-- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
-- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
 - Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
+- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
+- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
+- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
+- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
+- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
+- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
+- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
+- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
+- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================
