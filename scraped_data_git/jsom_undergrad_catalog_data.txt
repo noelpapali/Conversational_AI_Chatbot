@@ -6756,6 +6756,7 @@ URL: https://coursebook.utdallas.edu/search/now/math1325
 Headings:
 - CourseBook
 Content:
+Not sure what to search for?Click here to tryGuided Searchto find classes or build a schedule.
 No course sections matched your search criteria.
 Please try again using fewer or different search terms.
 Lists:
@@ -6765,6 +6766,10 @@ Lists:
 - my events
 - instruction modalities
 - search results
+- UT Dallas
+- OISDS
+- CourseBook Support
+- Privacy Policy
 Links:
 - CourseBook - https://coursebook.utdallas.edu
 - Syllabus Policies - https://coursebook.utdallas.edu/syllabus-policies
@@ -6778,7 +6783,7 @@ Links:
 - search results - /searchresults
 - UT Dallas - https://www.utdallas.edu
 - OISDS - https://oisds.utdallas.edu
-- CourseBook Support - mailto:wat@utdallas.edu?subject=CourseBook Support
+- CourseBook Support - mailto:wat@utdallas.edu
 - Privacy Policy - https://www.utdallas.edu/privacy/
 
 ================================================================================

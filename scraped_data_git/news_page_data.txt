@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: New Initiatives Offer UT Dallas Healthcare Students Insights and Connections
+Title Link: https://jindal.utdallas.edu/news/new-initiatives-offer-ut-dallas-healthcare-students-insights-and-connections/
+Excerpt: The Healthcare Management Area at the Naveen Jindal School of Management has launched two initiatives through the Center for Healthcare Leadership and Management in its effort to offer industry-responsive education that prepares and equips its students for career readiness. One is The Business of Healthcare Seminar Series, a recurring speaker series that connects students with […]
+Meta Details: May 12th, 2026 |Academics,Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/05/health_innovations_case_competition_1st_place_630x630.jpg
+
+==================================================
+
 Title: Record-Breaking JSOM Reunion Showcases Power of Alumni Network
 Title Link: https://jindal.utdallas.edu/news/record-breaking-jsom-reunion-showcases-power-of-alumni-network/
 Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas hosted its 3rd Annual Alumni Reunion April 25, and it was again a resounding success. From heartfelt reunions in the JSOM building to vibrant celebrations at the Davidson Gundy Alumni Center, the day buzzed with energy, laughter, familiar faces and inspiring stories. […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/05/sign_2026_jsom_alumni_reuni
 Title: FinHack 2026 Challenges Students to Solve Finance Problems With AI
 Title Link: https://jindal.utdallas.edu/news/finhack-2026-challenges-students-to-solve-finance-problems-with-ai/
 Excerpt: A recent two-day event presented by the  Naveen Jindal School of Management gave students a closer look at modern challenges in finance — and how tools like artificial intelligence are being used to address them. The program combined panel discussions, a keynote presentation, networking opportunities and a financial hackathon, where students worked in teams to […]
-Meta Details: April 27th, 2026 |Events,Featured
+Meta Details: April 27th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/04/finhack_2026_first_place_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/new-startup-award-program-at-jindal
 Excerpt: Thanks to the generosity of the Draper Foundation, the Innovation and Entrepreneurship (I&E) Programs at the Naveen Jindal School of Management have launched a new $5,000 Startup Founders Award to accelerate student entrepreneurship. Called the Startup Founders Award, student startup companies across schools at The University of Texas at Dallas are eligible to apply each […]
 Meta Details: February 17th, 2026 |Academics,Development,Students
 Image URL: https://jindal.utdallas.edu/files/2026/02/startup_founders_award_630x630.png
-
-==================================================
-
-Title: From Classroom to Startup: Jindal Students Turn Learning Into Life-Changing Innovation
-Title Link: https://jindal.utdallas.edu/news/from-classroom-to-startup-jindal-students-turn-learning-into-life-changing-innovation/
-Excerpt: A popular adage says that it’s not what you know but who you know. For two alumni from the Naveen Jindal School of Management, both are true. They leveraged the professional networks they built while students and applied the skills they learned in their graduate programs to help bring a new healthcare tool to market. […]
-Meta Details: February 12th, 2026 |Alumni
-Image URL: https://jindal.utdallas.edu/files/2026/02/team_will-call_630x630.jpg
 
 ==================================================
 
