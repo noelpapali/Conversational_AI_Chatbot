@@ -907,7 +907,7 @@ Context: Special Event Requests
 
 Context: Student Development
 	- Text: Student Development
-	  Href: https://jindal.utdallas.edu/nlp/
+	  Href: https://jindal.utdallas.edu/student-development/
 
 Context: Student Resources
 	- Text: Student Resources
@@ -1361,7 +1361,7 @@ Context: Special Event Requests
 
 Context: Student Development
 	- Text: Student Development
-	  Href: https://jindal.utdallas.edu/nlp/
+	  Href: https://jindal.utdallas.edu/student-development/
 
 Context: Student Resources
 	- Text: Student Resources
