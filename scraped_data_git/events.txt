@@ -119,28 +119,22 @@ Event URL: 52763440803350&instance=52807598567552
 Month: Jul, 2026
 
 Date: Wednesday, July 01, 2026
-Time: 08:30 AM - 09:30 AM
-Title: Meet the MBA Admissions Team for Coffee at Starbucks
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52771808808560&instance=52771808809585
+Event URL: 52118180250222&instance=52576173448413
 --------------------------------------------------
-Date: Thursday, July 02, 2026
+Date: Tuesday, July 07, 2026
 Time: 11:00 AM - 01:00 PM
 Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52763440803350&instance=52807598569601
---------------------------------------------------
-Date: Wednesday, July 08, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
-Location: 
-Event URL: 50322144938712&instance=50322144975591
+Event URL: 52763440803350&instance=52807598571650
 --------------------------------------------------
 Date: Thursday, July 09, 2026
-Time: 05:30 PM - 06:30 PM
-Title: Executive Coaching Virtual Information Session
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 51967504325072&instance=51967504329171
+Event URL: 52763440803350&instance=52807598572675
 --------------------------------------------------
 Date: Saturday, July 11, 2026
 Time: 10:15 AM - 01:30 PM
@@ -160,17 +154,11 @@ Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
 Event URL: 52118180250222&instance=52576173450462
 --------------------------------------------------
-Date: Thursday, July 16, 2026
+Date: Tuesday, July 21, 2026
 Time: 11:00 AM - 01:00 PM
 Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52763440803350&instance=52807598576773
---------------------------------------------------
-Date: Thursday, July 23, 2026
-Time: 11:00 AM - 01:00 PM
-Title: GRI Certified Sustainability Professional Course
-Location: 
-Event URL: 52763440803350&instance=52807598580871
+Event URL: 52763440803350&instance=52807598578822
 --------------------------------------------------
 Date: Monday, July 27, 2026
 Time: 04:00 PM - 08:00 PM
@@ -178,31 +166,25 @@ Title: FinTEX - Insurance Conference 2026
 Location: 
 Event URL: 51339220236111&instance=51824430276893
 --------------------------------------------------
-Date: Tuesday, July 28, 2026
-Time: 09:00 AM - 06:00 PM
-Title: FinTEX - Insurance Conference 2026
-Location: 
-Event URL: 51339220236111&instance=51824430277918
---------------------------------------------------
 Date: Wednesday, July 29, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 52118180250222&instance=52576173451487
+Event URL: 50322144938712&instance=50322144979688
 --------------------------------------------------
 Month: Aug, 2026
 
-Date: Wednesday, August 05, 2026
-Time: 11:00 AM - 12:00 PM
-Title: MBA Virtual Info Session Full-Time MBA Round 1 Focused
+Date: Wednesday, August 12, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52815793552118&instance=52815793552119
+Event URL: 52118180250222&instance=52576173453536
 --------------------------------------------------
-Date: Friday, August 14, 2026
-Time: 02:00 PM - 03:00 PM
-Title: Drop-In Virtual Q&A Session for MBA Applicants
+Date: Wednesday, August 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52815808735154&instance=52815808735155
+Event URL: 52118180250222&instance=52576173455585
 --------------------------------------------------
 Month: Sep, 2026
 

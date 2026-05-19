@@ -229,8 +229,8 @@ The Jindal School of Management offers certificates through its master’s degre
 ==================================================
 
 Heading (h2): Featured Stories
-	New Startup Award Program at Jindal Advances Student Entrepreneurship
-            Thanks to the generosity of the Draper Foundation, the Innovation and Entrepreneurship (I&E) Programs at the Naveen Jindal School of Management have launched a new $5,000 Startup Founders Award to accelerate student entrepreneurship. Called the Startup Founders Award, student startup companies across schools at The University of Texas at Dallas are eligible to apply each […]
+	Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+            Matthew Turner had never even heard of case competitions before he started his graduate studies at The University of Texas at Dallas and now the MBA program at the Naveen Jindal School of Management has equipped him to win them. He and his teammates recently took first place in the 2025 MBA Case Competition World […]
 
 ==================================================
 
@@ -315,6 +315,8 @@ Context: No Context
 	- Executive Education
 	- Certificate Programs
 	- Davidson Management Honors Program
+	- Nash Leaders Program
+	- Young Scholars Program
 
 Context: No Context
 	- Jindal School Faculty
@@ -344,6 +346,7 @@ Context: No Context
 	- Scholarships
 	- Special Event Requests
 	- Student Development
+	- Student Organizations
 	- Student Resources
 	- Study Abroad
 	- TA/RA Graduate Assistantships
@@ -427,6 +430,8 @@ Context: No Context
 	- Executive Education
 	- Certificate Programs
 	- Davidson Management Honors Program
+	- Nash Leaders Program
+	- Young Scholars Program
 
 Context: No Context
 	- Jindal School Faculty
@@ -456,6 +461,7 @@ Context: No Context
 	- Scholarships
 	- Special Event Requests
 	- Student Development
+	- Student Organizations
 	- Student Resources
 	- Study Abroad
 	- TA/RA Graduate Assistantships
@@ -724,6 +730,8 @@ DBA
 Executive Education
 Certificate Programs
 Davidson Management Honors Program
+Nash Leaders Program
+Young Scholars Program
 	- Text: Programs
 	  Href: https://jindal.utdallas.edu/academics/
 
@@ -762,6 +770,14 @@ Context: Certificate Programs
 Context: Davidson Management Honors Program
 	- Text: Davidson Management Honors Program
 	  Href: https://jindal.utdallas.edu/dmhp
+
+Context: Nash Leaders Program
+	- Text: Nash Leaders Program
+	  Href: https://jindal.utdallas.edu/nlp/
+
+Context: Young Scholars Program
+	- Text: Young Scholars Program
+	  Href: https://jindal.utdallas.edu/ysp/
 
 Context: Faculty
 
@@ -831,6 +847,7 @@ Lockers
 Scholarships 
 Special Event Requests
 Student Development
+Student Organizations
 Student Resources
 
 Study Abroad
@@ -908,6 +925,10 @@ Context: Special Event Requests
 Context: Student Development
 	- Text: Student Development
 	  Href: https://jindal.utdallas.edu/student-development/
+
+Context: Student Organizations
+	- Text: Student Organizations
+	  Href: https://jindal.utdallas.edu/student-organizations/
 
 Context: Student Resources
 	- Text: Student Resources
@@ -1178,6 +1199,8 @@ DBA
 Executive Education
 Certificate Programs
 Davidson Management Honors Program
+Nash Leaders Program
+Young Scholars Program
 	- Text: Programs
 	  Href: https://jindal.utdallas.edu/academics/
 
@@ -1216,6 +1239,14 @@ Context: Certificate Programs
 Context: Davidson Management Honors Program
 	- Text: Davidson Management Honors Program
 	  Href: https://jindal.utdallas.edu/dmhp
+
+Context: Nash Leaders Program
+	- Text: Nash Leaders Program
+	  Href: https://jindal.utdallas.edu/nlp/
+
+Context: Young Scholars Program
+	- Text: Young Scholars Program
+	  Href: https://jindal.utdallas.edu/ysp/
 
 Context: Faculty
 
@@ -1285,6 +1316,7 @@ Lockers
 Scholarships 
 Special Event Requests
 Student Development
+Student Organizations
 Student Resources
 
 Study Abroad
@@ -1362,6 +1394,10 @@ Context: Special Event Requests
 Context: Student Development
 	- Text: Student Development
 	  Href: https://jindal.utdallas.edu/student-development/
+
+Context: Student Organizations
+	- Text: Student Organizations
+	  Href: https://jindal.utdallas.edu/student-organizations/
 
 Context: Student Resources
 	- Text: Student Resources
@@ -1838,9 +1874,9 @@ Context: Upcoming Events
 	- Text: View All Events
 	  Href: /jindal/calendar/
 
-Context: New Startup Award Program at Jindal Advances Student Entrepreneurship
-	- Text: New Startup Award Program at Jindal Advances Student Entrepreneurship
-	  Href: https://jindal.utdallas.edu/news/new-startup-award-program-at-jindal-advances-student-entrepreneurship/
+Context: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+	- Text: Team of Jindal School MBA Students Wins 2025 MBA Case Competition World Cup
+	  Href: https://jindal.utdallas.edu/news/team-of-jindal-school-mba-students-wins-2025-mba-case-competition-world-cup/
 
 Context: Thank you for your interest in the Naveen Jindal School of Management, UT Dallas. Tell us a little bit about yourself, and we’ll send you customized information about our programs. We hope to meet you soon.
 	- Text: Request Information
