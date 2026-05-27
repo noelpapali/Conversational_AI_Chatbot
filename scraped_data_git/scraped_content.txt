@@ -1641,9 +1641,13 @@ Context: Make a Gift
 	- Text: Apply Now
 	  Href: https://utdallas.my.site.com
 
-Context: Congrats, Class of 2026!
-	- Text: Congrats, Class of 2026!
-	  Href: https://commencement.utdallas.edu/ceremony-schedules/schedule/
+Context: Upcoming Events
+	- Text: Upcoming Events
+	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
+
+Context: UT Dallas Project Management Symposium
+	- Text: UT Dallas Project Management Symposium
+	  Href: https://calendar.utdallas.edu/event/ut-dallas-project-management-symposium
 
 Context: Apply Now
 	- Text: Apply Now
