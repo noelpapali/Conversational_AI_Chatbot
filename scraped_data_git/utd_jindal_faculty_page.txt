@@ -2,9 +2,6 @@ FACULTY PAGE CONTENT
 Associate Professor of Instruction, Operations Management
 kahadi@utdallas.edu|(972) 883-6719|JSOM 13.209
 
-Assistant Professor of Instruction, Director of BS in Business Analytics, Information Systems
-prajakti.akarte@utdallas.edu|(972) 883-3566|JSOM 3.708
-
 Professor of Instruction, Operations Management
 salborz@utdallas.edu|(972) 883-6455|JSOM 3.707
 
@@ -19,9 +16,6 @@ sxa130731@utdallas.edu|(972) 883-5069|JSOM 13.407
 
 Associate Professor, Information Systems
 mehmet.ayvaci@utdallas.edu|(972) 883-4747|JSOM 3.202
-
-Professor of Instruction, Information Systems
-jeff.baker@utdallas.edu||JSOM 3.807
 
 Assistant Professor, Operations Management
 maya.balakrishnan@utdallas.edu|(972) 883-6362|JSOM 14.214
@@ -148,9 +142,6 @@ goodrich@utdallas.edu|(972) 883-4775|JSOM 4.220
 
 Professor of Practice, Organizations, Strategy and International Management
 rxg180032@utdallas.edu|(972) 883-5898|JSOM 14.207
-
-Visiting Assistant Professor, Accounting
-dongdi.gu@utdallas.edu|(972) 883-4819|JSOM 4.501
 
 Associate Professor of Instruction, Finance and Managerial Economics
 axg119030@utdallas.edu|(972) 883-5820|JSOM 14.304
@@ -335,9 +326,6 @@ julie.lynch@utdallas.edu|(972) 883-4721|JSOM 14.302
 Clinical Assistant Professor, Finance and Managerial Economics
 liping.ma@utdallas.edu|(972) 883-5068|JSOM 14.208
 
-Assistant Professor, Finance and Managerial Economics
-christopher.mace@utdallas.edu|(972) 883-5180|JSOM 14.506
-
 Professor, Information Systems
 majumdar@utdallas.edu|(972) 883-4786|JSOM 3.812
 
@@ -506,9 +494,6 @@ gary.reichmuth@utdallas.edu|(972) 883-4432|JSOM 1.515B
 Assistant Professor, Finance and Managerial Economics
 christopher.reilly@utdallas.edu|(972) 883-5907|JSOM 14.407
 
-Assistant Professor, Operations Management
-ignacio.riosuribe@utdallas.edu|(972) 883-5174|JSOM 3.415
-
 Associate Professor, Finance and Managerial Economics
 axr150331@utdallas.edu|(972) 883-5048|JSOM 14.322
 
@@ -605,9 +590,6 @@ xiaoxiao.tang@utdallas.edu|(972) 883-4736|JSOM 14.316
 Professor of Practice, Executive Education
 don.taylor@utdallas.edu|(972) 883-2562|JSOM 1.704
 
-Director, Enterprise Management Systems, Professor of Instruction, Information Systems
-lou.thompson@utdallas.edu|(972) 883-2558|JSOM 3.813
-
 Clinical Professor, Information Systems
 mark.thouin@utdallas.edu|(972) 883-4011|JSOM 4.617
 
@@ -637,9 +619,6 @@ sabrina.volpone@utdallas.edu||JSOM 3.217
 
 Assistant Professor, Operations Management
 chonghuan.wang@utdallas.edu|(972) 883-6367|JSOM 3.605
-
-Assistant Professor, Information Systems
-xiaoning.wang@utdallas.edu|(972) 883-5054|JSOM 3.616
 
 Associate Professor, Operations Management
 guihua.wang@utdallas.edu|(972) 883-4411|JSOM 3.231
@@ -748,12 +727,6 @@ kahadi@utdallas.edu
 (972) 883-6719
 JSOM 13.209
 
-Prajakti  Akarte
-Assistant Professor of Instruction, Director of BS in Business Analytics, Information Systems
-prajakti.akarte@utdallas.edu
-(972) 883-3566
-JSOM 3.708
-
 Shawn  Alborz
 Professor of Instruction, Operations Management
 salborz@utdallas.edu
@@ -783,12 +756,6 @@ Associate Professor, Information Systems
 mehmet.ayvaci@utdallas.edu
 (972) 883-4747
 JSOM 3.202
-
-Jeffrey  Baker
-Professor of Instruction, Information Systems
-jeff.baker@utdallas.edu
-
-JSOM 3.807
 
 Maya  Balakrishnan
 Assistant Professor, Operations Management
@@ -1041,12 +1008,6 @@ Professor of Practice, Organizations, Strategy and International Management
 rxg180032@utdallas.edu
 (972) 883-5898
 JSOM 14.207
-
-Dongdi (Grace)  Gu
-Visiting Assistant Professor, Accounting
-dongdi.gu@utdallas.edu
-(972) 883-4819
-JSOM 4.501
 
 Ayfer  Gurun
 Associate Professor of Instruction, Finance and Managerial Economics
@@ -1414,12 +1375,6 @@ liping.ma@utdallas.edu
 (972) 883-5068
 JSOM 14.208
 
-Christopher  Mace
-Assistant Professor, Finance and Managerial Economics
-christopher.mace@utdallas.edu
-(972) 883-5180
-JSOM 14.506
-
 Sumit K. Majumdar
 Professor, Information Systems
 majumdar@utdallas.edu
@@ -1756,12 +1711,6 @@ christopher.reilly@utdallas.edu
 (972) 883-5907
 JSOM 14.407
 
-Ignacio Andres Rios Uribe
-Assistant Professor, Operations Management
-ignacio.riosuribe@utdallas.edu
-(972) 883-5174
-JSOM 3.415
-
 Alejandro  Rivera
 Associate Professor, Finance and Managerial Economics
 axr150331@utdallas.edu
@@ -1954,12 +1903,6 @@ don.taylor@utdallas.edu
 (972) 883-2562
 JSOM 1.704
 
-Luell  Thompson
-Director, Enterprise Management Systems, Professor of Instruction, Information Systems
-lou.thompson@utdallas.edu
-(972) 883-2558
-JSOM 3.813
-
 Mark  Thouin
 Clinical Professor, Information Systems
 mark.thouin@utdallas.edu
@@ -2019,12 +1962,6 @@ Assistant Professor, Operations Management
 chonghuan.wang@utdallas.edu
 (972) 883-6367
 JSOM 3.605
-
-Gavin Xiaoning Wang
-Assistant Professor, Information Systems
-xiaoning.wang@utdallas.edu
-(972) 883-5054
-JSOM 3.616
 
 Guihua  Wang
 Associate Professor, Operations Management
