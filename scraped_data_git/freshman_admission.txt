@@ -100,6 +100,7 @@ Heading: Important Dates
 --------------------------------------------------
 
 Heading: Submit your admission application.
+  Paragraph: Late applicants should submit an application through ApplyTexas, the CommonApp has closed for the fall 2026 cycle.
   Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas. My Texas Future helps you expand options for college, set goals and take action.
 
 --------------------------------------------------
