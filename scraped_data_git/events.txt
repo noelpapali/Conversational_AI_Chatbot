@@ -1,46 +1,34 @@
 Month: Jun, 2026
 
-Date: Monday, June 01, 2026
-Time: 08:30 AM - 09:30 AM
-Title: MSBA&AI Flex Information Session for Prospective Students
+Date: Wednesday, June 03, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52824780832097&instance=52824780832098
+Event URL: 52118180250222&instance=52576173445339
 --------------------------------------------------
-Date: Monday, June 01, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
-Location: 
-Event URL: 52691589211547&instance=52691604203550
---------------------------------------------------
-Date: Thursday, June 04, 2026
-Time: 05:30 PM - 06:30 PM
-Title: Executive Coaching Virtual Information Session
-Location: 
-Event URL: 51967504325072&instance=51967504328146
---------------------------------------------------
-Date: Monday, June 08, 2026
+Date: Saturday, June 06, 2026
 Time: 08:00 AM - 05:00 PM
-Title: STEMposium
+Title: PMP Prep Course
 Location: 
-Event URL: 52869781425961&instance=52869781426986
+Event URL: 52763368943874&instance=52763368944899
 --------------------------------------------------
 Date: Tuesday, June 09, 2026
-Time: 05:00 PM - 06:00 PM
-Title: MS ITM Summer 2026 Kickoff
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 52762278473913&instance=52762278474938
+Event URL: 52771717440585&instance=52771717441610
 --------------------------------------------------
-Date: Friday, June 12, 2026
-Time: 07:00 PM - 09:00 PM
-Title: Executive MBA Alumni Event
+Date: Wednesday, June 10, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 52940040057364&instance=52940040058389
+Event URL: 53010983030752&instance=53011004265073
 --------------------------------------------------
 Date: Saturday, June 13, 2026
-Time: 10:00 AM - 06:00 PM
-Title: Executive Education Open House
+Time: 08:00 AM - 05:00 PM
+Title: PMP Prep Course
 Location: 
-Event URL: 52621561544739&instance=52702291950626
+Event URL: 52763368943874&instance=52763368946948
 --------------------------------------------------
 Date: Tuesday, June 16, 2026
 Time: 06:00 PM - 07:00 PM
