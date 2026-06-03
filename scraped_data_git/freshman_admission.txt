@@ -1,3 +1,23 @@
+URL: https://enroll.utdallas.edu/visit/events/discover-utd/
+
+Heading: 
+
+--------------------------------------------------
+
+Heading: Discover UTD Info Session
+
+--------------------------------------------------
+
+Heading: #FutureComet  #Transfer2UTD
+
+--------------------------------------------------
+
+Heading: 
+
+--------------------------------------------------
+
+==================================================
+
 URL: https://enroll.utdallas.edu/freshman/criteria/
 
 Heading: 
@@ -339,6 +359,11 @@ Heading:
 Heading: Visit UT Dallas
   Paragraph: Learn what it’s like to be a Comet.
   Paragraph: 
+
+--------------------------------------------------
+
+Heading: Join us for a one-hour virtual Discover UTD Info Session!
+  Paragraph: No registration necessary, Thursday 6/11 and 7/9 from 6–7 p.m. Learn about the application process, campus life, scholarships, financial aid and more. Our admission staff will be available to answer your questions. Learn more at Discover UTD.
 
 --------------------------------------------------
 

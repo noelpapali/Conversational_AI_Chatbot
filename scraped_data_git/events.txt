@@ -60,35 +60,41 @@ Title: PMP Prep Course
 Location: 
 Event URL: 52763368943874&instance=52763368948997
 --------------------------------------------------
-Date: Tuesday, June 23, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Date: Monday, June 22, 2026
+Time: 12:00 PM - 12:30 PM
+Title: JSOM CMC- Get Ahead: Preparing for Summer 2027 Internship Recruiting
 Location: 
-Event URL: 52869815639885&instance=52869815640911
+Event URL: 53062885036181&instance=53063044106633
+--------------------------------------------------
+Date: Tuesday, June 23, 2026
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
+Location: 
+Event URL: 52763440803350&instance=52763440810525
 --------------------------------------------------
 Date: Wednesday, June 24, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 52869815639885&instance=52869815641936
+Event URL: 52771795617924&instance=52771795618949
 --------------------------------------------------
 Date: Thursday, June 25, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52869815639885&instance=52869815642961
+Event URL: 52763440803350&instance=52763440812574
 --------------------------------------------------
-Date: Friday, June 26, 2026
+Date: Saturday, June 27, 2026
 Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Title: PMP Prep Course
 Location: 
-Event URL: 52869815639885&instance=52869815643986
+Event URL: 52763368943874&instance=52763368950022
 --------------------------------------------------
-Date: Monday, June 29, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
+Date: Tuesday, June 30, 2026
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52691626081178&instance=52691631524301
+Event URL: 52763440803350&instance=52807598567552
 --------------------------------------------------
 Month: Jul, 2026
 
@@ -135,34 +141,40 @@ Location:
 Event URL: 52691639964949&instance=52691645732676
 --------------------------------------------------
 Date: Wednesday, July 15, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 12:00 PM - 12:30 PM
+Title: JSOM CMC- Finish Strong: 5 Tips to Maximize Your Internship Experience
 Location: 
-Event URL: 52118180250222&instance=52576173450462
+Event URL: 53062885303933&instance=53063036271731
 --------------------------------------------------
-Date: Thursday, July 16, 2026
+Date: Wednesday, July 15, 2026
+Time: 05:30 PM - 07:00 PM
+Title: MBA Info Session & Happy Hour at Katy Trail Ice House in Plano
+Location: 
+Event URL: 52772295256054&instance=52772295257079
+--------------------------------------------------
+Date: Tuesday, July 21, 2026
 Time: 11:00 AM - 01:00 PM
 Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52763440803350&instance=52807598576773
+Event URL: 52763440803350&instance=52807598578822
 --------------------------------------------------
 Date: Thursday, July 23, 2026
-Time: 11:00 AM - 01:00 PM
-Title: GRI Certified Sustainability Professional Course
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 52763440803350&instance=52807598580871
+Event URL: 52815772641083&instance=52815772641084
 --------------------------------------------------
 Date: Monday, July 27, 2026
-Time: 04:00 PM - 08:00 PM
-Title: FinTEX - Insurance Conference 2026
+Time: 05:30 PM - 07:00 PM
+Title: MBA Info Session & Happy Hour at Café Gecko in Richardson
 Location: 
-Event URL: 51339220236111&instance=51824430276893
+Event URL: 52815842136313&instance=52815842137338
 --------------------------------------------------
 Date: Tuesday, July 28, 2026
-Time: 09:00 AM - 06:00 PM
-Title: FinTEX - Insurance Conference 2026
+Time: 12:00 PM - 01:00 PM
+Title: JSOM CMC- Vision Board & Goal Mapping Workshop
 Location: 
-Event URL: 51339220236111&instance=51824430277918
+Event URL: 53062885301956&instance=53063030039552
 --------------------------------------------------
 Date: Wednesday, July 29, 2026
 Time: 12:00 PM - 01:00 PM
@@ -183,6 +195,12 @@ Time: 02:00 PM - 03:00 PM
 Title: Drop-In Virtual Q&A Session for MBA Applicants
 Location: 
 Event URL: 52815808735154&instance=52815808735155
+--------------------------------------------------
+Date: Wednesday, August 26, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173455585
 --------------------------------------------------
 Month: Sep, 2026
 

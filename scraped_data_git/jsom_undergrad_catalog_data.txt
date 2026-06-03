@@ -7087,7 +7087,7 @@ Headings:
 - 
 - 
 - Freshman Admissions
-- Summer Class Enrollment is open.
+- Join us for a one-hour virtualDiscover UTD Info Session!
 - Criteria
 - Application Process
 - Deadlines and Fees
@@ -7106,8 +7106,7 @@ Headings:
 Content:
 If you are a high school senior or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
-Admitted students can take advantage of discounted summer courses through Summer Start Advantage Program, making it easier to get ahead academically.
-VisitSummer Start Advantageto learn how to enroll in summer courses.
+No registration necessary, Thursday 6/11 and 7/9 from 6–7 p.m. Learn about the application process, campus life, scholarships, financial aid and more. Our admission staff will be available to answer your questions. Learn more atDiscover UTD.
 Learn what is required for admission as a freshman applicant.
 Ready to apply? Review the steps required to complete the freshman admission process.
 Already applied? Check yourapplication status.
@@ -7333,7 +7332,8 @@ Links:
 - Contact a Counselor - https://enroll.utdallas.edu/contact/counselor-locator/
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
-- Summer Start Advantage - https://enroll.utdallas.edu/summer-start-advantage/
+- Discover UTD Info Session - https://enroll.utdallas.edu/visit/events/discover-utd/
+- Discover UTD - https://enroll.utdallas.edu/visit/events/discover-utd/
 - Criteria - https://enroll.utdallas.edu/freshman/criteria/
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/
 - application status - https://www.utdallas.edu/status/
