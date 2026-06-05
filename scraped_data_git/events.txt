@@ -1,94 +1,94 @@
 Month: Jun, 2026
 
-Date: Thursday, June 04, 2026
-Time: 05:30 PM - 06:30 PM
-Title: Executive Coaching Virtual Information Session
-Location: 
-Event URL: 51967504325072&instance=51967504328146
---------------------------------------------------
-Date: Monday, June 08, 2026
+Date: Saturday, June 06, 2026
 Time: 08:00 AM - 05:00 PM
-Title: STEMposium
+Title: PMP Prep Course
 Location: 
-Event URL: 52869781425961&instance=52869781426986
+Event URL: 52763368943874&instance=52763368944899
 --------------------------------------------------
 Date: Tuesday, June 09, 2026
-Time: 05:00 PM - 06:00 PM
-Title: MS ITM Summer 2026 Kickoff
+Time: 10:00 AM - 11:00 AM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 52762278473913&instance=52762278474938
+Event URL: 52771717440585&instance=52771717441610
 --------------------------------------------------
-Date: Friday, June 12, 2026
-Time: 07:00 PM - 09:00 PM
-Title: Executive MBA Alumni Event
+Date: Wednesday, June 10, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 52940040057364&instance=52940040058389
+Event URL: 53010983030752&instance=53011004265073
 --------------------------------------------------
 Date: Saturday, June 13, 2026
-Time: 10:15 AM - 01:30 PM
-Title: EMBA Open House
+Time: 08:00 AM - 05:00 PM
+Title: PMP Prep Course
 Location: 
-Event URL: 52691649963589&instance=52691660603819
+Event URL: 52763368943874&instance=52763368946948
 --------------------------------------------------
-Date: Wednesday, June 17, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Date: Tuesday, June 16, 2026
+Time: 06:00 PM - 07:00 PM
+Title: Online Information Session | Professional Certificate in Mediation and Dispute Resolution
 Location: 
-Event URL: 50322144938712&instance=50322144973542
+Event URL: 51967244492666&instance=51967249688733
 --------------------------------------------------
 Date: Wednesday, June 17, 2026
 Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650448146546&instance=50650451587351
---------------------------------------------------
-Date: Wednesday, June 17, 2026
-Time: 12:00 PM - 06:00 PM
-Title: Online Information Session | Executive MBA with an Emphasis on Healthcare Organization Leadership
-Location: 
-Event URL: 52941678347364&instance=52941695787037
---------------------------------------------------
-Date: Thursday, June 18, 2026
-Time: 05:30 PM - 07:00 PM
-Title: MBA Info Session & Happy Hour at Lazy Dog in Addison
-Location: 
-Event URL: 52771730207721&instance=52771730209770
---------------------------------------------------
-Date: Monday, June 22, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815639886
---------------------------------------------------
-Date: Tuesday, June 23, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815640911
---------------------------------------------------
-Date: Wednesday, June 24, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815641936
---------------------------------------------------
-Date: Thursday, June 25, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815642961
---------------------------------------------------
-Date: Friday, June 26, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815643986
---------------------------------------------------
-Date: Monday, June 29, 2026
-Time: 07:00 PM - 08:00 PM
 Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52691626081178&instance=52691631524301
+Event URL: 52691605508033&instance=52691624840239
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
+Location: 
+Event URL: 52118180250222&instance=52576173447388
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 12:00 PM - 01:00 PM
+Title: Professional Systems Engineering and Management Online Information Session
+Location: 
+Event URL: 53021029068553&instance=53021034395231
+--------------------------------------------------
+Date: Saturday, June 20, 2026
+Time: 08:00 AM - 05:00 PM
+Title: PMP Prep Course
+Location: 
+Event URL: 52763368943874&instance=52763368948997
+--------------------------------------------------
+Date: Monday, June 22, 2026
+Time: 12:00 PM - 12:30 PM
+Title: JSOM CMC- Get Ahead: Preparing for Summer 2027 Internship Recruiting
+Location: 
+Event URL: 53062885036181&instance=53063044106633
+--------------------------------------------------
+Date: Tuesday, June 23, 2026
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
+Location: 
+Event URL: 52763440803350&instance=52763440810525
+--------------------------------------------------
+Date: Wednesday, June 24, 2026
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
+Location: 
+Event URL: 52771795617924&instance=52771795618949
+--------------------------------------------------
+Date: Thursday, June 25, 2026
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
+Location: 
+Event URL: 52763440803350&instance=52763440812574
+--------------------------------------------------
+Date: Saturday, June 27, 2026
+Time: 08:00 AM - 05:00 PM
+Title: PMP Prep Course
+Location: 
+Event URL: 52763368943874&instance=52763368950022
+--------------------------------------------------
+Date: Tuesday, June 30, 2026
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
+Location: 
+Event URL: 52763440803350&instance=52807598567552
 --------------------------------------------------
 Month: Jul, 2026
 
