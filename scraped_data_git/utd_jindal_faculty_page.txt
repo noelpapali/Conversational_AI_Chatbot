@@ -423,7 +423,7 @@ Assistant Professor of Instruction, Information Systems
 thiru.pandian@utdallas.edu|(972) 883-4399|JSOM 4.424
 
 Assistant Professor, Finance and Managerial Economics
-hao.pang@utdallas.edu||JSOM 1.515C
+hao.pang@utdallas.edu||JSOM 14.306
 
 Associate Professor, Organizations, Strategy and International Management
 parkhd@utdallas.edu|(972) 883-5113|JSOM 4.203
@@ -479,7 +479,7 @@ rasoul.ramezani@utdallas.edu|(972) 883-5175|JSOM 3.427
 Professor, Marketing
 rrao@utdallas.edu|(972) 883-2580|JSOM 13.502
 
-Associate Professor of Practice, Director, Professional Program in Finance, Finance and Managerial Economics
+Associate Professor of Practice, Director, Energy Management, Director, Professional Program in Finance, Finance and Managerial Economics
 kannoo.ravindran@utdallas.edu|(972) 883-6293|JSOM 3.423
 
 PhD Area Coordinator, PhD Programs, Professor, Finance and Managerial Economics
@@ -536,7 +536,7 @@ prakash.shrivastava@utdallas.edu|(972) 883-5901|JSOM 3.225
 Assistant Professor, Accounting
 federico.siano@utdallas.edu|(972) 883-4994|JSOM 4.216
 
-Associate Professor of Instruction, Director, Energy Management, Finance and Managerial Economics
+Associate Professor of Instruction, Finance and Managerial Economics
 dansibley@utdallas.edu|(972) 883-5021|JSOM 14.216
 
 Associate Professor, Finance and Managerial Economics
@@ -1571,7 +1571,7 @@ Hao  Pang
 Assistant Professor, Finance and Managerial Economics
 hao.pang@utdallas.edu
 
-JSOM 1.515C
+JSOM 14.306
 
 Haemin Dennis Park
 Associate Professor, Organizations, Strategy and International Management
@@ -1682,7 +1682,7 @@ rrao@utdallas.edu
 JSOM 13.502
 
 Kannoo  Ravindran
-Associate Professor of Practice, Director, Professional Program in Finance, Finance and Managerial Economics
+Associate Professor of Practice, Director, Energy Management, Director, Professional Program in Finance, Finance and Managerial Economics
 kannoo.ravindran@utdallas.edu
 (972) 883-6293
 JSOM 3.423
@@ -1796,7 +1796,7 @@ federico.siano@utdallas.edu
 JSOM 4.216
 
 Daniel  Sibley
-Associate Professor of Instruction, Director, Energy Management, Finance and Managerial Economics
+Associate Professor of Instruction, Finance and Managerial Economics
 dansibley@utdallas.edu
 (972) 883-5021
 JSOM 14.216
