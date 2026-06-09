@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School’s Energy Management Programs Poised for Next Phase of Growth
+Title Link: https://jindal.utdallas.edu/news/jindal-schools-energy-management-programs-poised-for-next-phase-of-growth/
+Excerpt: The energy industry is at the center of some of the most important economic, technological and geopolitical developments of our time. Energy security, grid reliability, electrification, artificial intelligence, data center growth, carbon management, commodity markets and sustainability initiatives are all converging to reshape the future of the industry. Kannoo (Ravi) Ravindran So said industry expert […]
+Meta Details: June 9th, 2026 |Academics,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/06/kannoo_ravindran_photo_630x630.jpg
+
+==================================================
+
 Title: From Temoc to Tech Startup: JSOM Alumnus Helps Lead Growing Marketing Company
 Title Link: https://jindal.utdallas.edu/news/from-temoc-to-tech-startup-jsom-alumnus-helps-lead-growing-marketing-company/
 Excerpt: As it turns out, being Temoc can be good preparation for a career in marketing. Years after representing The University of Texas at Dallas as its mascot, Naveen Jindal School of Management alumnus Eric Aaberg, BS’23, is leading marketing efforts for
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/06/aaberg_clouted_630x630.jpg
 Title: YSP Students Celebrate Commitment to JSOM at Signing Day Ceremony
 Title Link: https://jindal.utdallas.edu/news/ysp-students-celebrate-commitment-to-jsom-at-signing-day-ceremony/
 Excerpt: On the evening of May 7, the mood was upbeat in the Naveen Jindal School of Management. It felt less like a traditional scholarship ceremony and more like an NCAA signing day. But instead of announcing athletic commitments, the 19 members of the Young Scholars Program’s ninth cohort and their families were celebrating something else: […]
-Meta Details: May 15th, 2026 |Events,Featured,Students
+Meta Details: May 15th, 2026 |Events,Students
 Image URL: https://jindal.utdallas.edu/files/2026/05/ysp_cohort_9_signing_day_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/upcoming-events-at-jindal-school-im
 Excerpt: Two immersive sustainability events and a competition specifically designed with high school and college students in mind are coming to the Naveen Jindal School of Management this April. First up is the Green Ambassador Certificate Workshop, presented April 11-12 by the Jindal School in partnership with One Earth One Chance, a DFW-based environmental nonprofit. The […]
 Meta Details: March 12th, 2026 |Academics,Events,Students
 Image URL: https://jindal.utdallas.edu/files/2026/03/tree_planting_630x630.jpg
-
-==================================================
-
-Title: VetConnect Returns to Help UT Dallas Veterans Build Career Connections
-Title Link: https://jindal.utdallas.edu/news/vetconnect-returns-to-help-ut-dallas-veterans-build-career-connections/
-Excerpt: VetConnect, an event that helps student and alumni veterans and their dependents from The University of Texas at Dallas shore up their networking and job-interview skills, will be presented March 25 from 10 a.m.-2 p.m. in the Naveen Jindal School of Management’s Executive Dining Room. Presented by the Jindal School’s Career Management Center (CMC) in partnership […]
-Meta Details: March 11th, 2026 |Events,Students
-Image URL: https://jindal.utdallas.edu/files/2025/10/jindal_school_cmc_veterans_day_event_2025_630x630.jpg
 
 ==================================================
 
