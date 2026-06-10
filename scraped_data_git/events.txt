@@ -1,11 +1,5 @@
 Month: Jun, 2026
 
-Date: Tuesday, June 09, 2026
-Time: 10:00 AM - 11:00 AM
-Title: UTD MBA Virtual Q&A Information Session
-Location: 
-Event URL: 52771717440585&instance=52771717441610
---------------------------------------------------
 Date: Wednesday, June 10, 2026
 Time: 05:30 PM - 06:30 PM
 Title: Doctor of Business Administration (DBA) Online Information Session
@@ -159,24 +153,36 @@ Location:
 Event URL: 52815842136313&instance=52815842137338
 --------------------------------------------------
 Date: Tuesday, July 28, 2026
-Time: 12:00 PM - 01:00 PM
-Title: JSOM CMC- Vision Board & Goal Mapping Workshop
+Time: 09:00 AM - 06:00 PM
+Title: FinTEX - Insurance Conference 2026
 Location: 
-Event URL: 53062885301956&instance=53063030039552
+Event URL: 51339220236111&instance=51824430277918
 --------------------------------------------------
 Date: Wednesday, July 29, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
 Location: 
-Event URL: 52118180250222&instance=52576173451487
+Event URL: 50322144938712&instance=50322144979688
+--------------------------------------------------
+Date: Wednesday, July 29, 2026
+Time: 05:45 PM - 07:00 PM
+Title: Doctor of Business Administration (DBA) in person meet & greet
+Location: 
+Event URL: 53011163966635&instance=53011174729287
 --------------------------------------------------
 Month: Aug, 2026
 
-Date: Wednesday, August 05, 2026
-Time: 11:00 AM - 12:00 PM
-Title: MBA Virtual Info Session Full-Time MBA Round 1 Focused
+Date: Saturday, August 01, 2026
+Time: 10:15 AM - 01:30 PM
+Title: EMBA Open House
 Location: 
-Event URL: 52815793552118&instance=52815793552119
+Event URL: 53107492384778&instance=53107513565176
+--------------------------------------------------
+Date: Wednesday, August 12, 2026
+Time: 12:00 PM - 01:00 PM
+Title: Customized Online MBA Webinar
+Location: 
+Event URL: 53124501796949&instance=53124519274139
 --------------------------------------------------
 Date: Friday, August 14, 2026
 Time: 02:00 PM - 03:00 PM
@@ -184,11 +190,11 @@ Title: Drop-In Virtual Q&A Session for MBA Applicants
 Location: 
 Event URL: 52815808735154&instance=52815808735155
 --------------------------------------------------
-Date: Wednesday, August 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Date: Monday, August 24, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52118180250222&instance=52576173455585
+Event URL: 53124521347623&instance=53124527220243
 --------------------------------------------------
 Month: Sep, 2026
 
