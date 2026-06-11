@@ -127,7 +127,7 @@ Heading: Important Dates
 --------------------------------------------------
 
 Heading: Submit your admission application.
-  Paragraph: Late applicants should submit an application through ApplyTexas, the CommonApp has closed for the fall 2026 cycle.
+  Paragraph: The fall 2027 application will open August 1, 2026.
   Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas. My Texas Future helps you expand options for college, set goals and take action.
 
 --------------------------------------------------
@@ -409,10 +409,6 @@ Heading: #FutureComet  #Transfer2UTD
 Heading: 
 
 --------------------------------------------------
-
-==================================================
-
-URL: https://www.instagram.com/explore/tags/futurecomet/
 
 ==================================================
 
