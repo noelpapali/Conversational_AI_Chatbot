@@ -150,7 +150,7 @@ Professor, Accounting
 umit.gurun@utdallas.edu|(972) 883-5917|JSOM 4.813
 
 Clinical Professor Emeritus, Director Emeritus, Real Estate, Finance and Managerial Economics
-guttery@utdallas.edu|(972) 883-5910|JSOM 14.306
+guttery@utdallas.edu|(972) 883-5910|JSOM None
 
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu|(972) 883-5898|JSOM 4.202
@@ -1025,7 +1025,7 @@ Randall  Guttery
 Clinical Professor Emeritus, Director Emeritus, Real Estate, Finance and Managerial Economics
 guttery@utdallas.edu
 (972) 883-5910
-JSOM 14.306
+JSOM None
 
 Maria  Hasenhuttl
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management

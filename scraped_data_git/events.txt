@@ -1,64 +1,46 @@
 Month: Jun, 2026
 
-Date: Wednesday, June 17, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Date: Saturday, June 20, 2026
+Time: 08:00 AM - 05:00 PM
+Title: PMP Prep Course
 Location: 
-Event URL: 50322144938712&instance=50322144973542
---------------------------------------------------
-Date: Wednesday, June 17, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650448146546&instance=50650451587351
---------------------------------------------------
-Date: Wednesday, June 17, 2026
-Time: 12:00 PM - 06:00 PM
-Title: Online Information Session | Executive MBA with an Emphasis on Healthcare Organization Leadership
-Location: 
-Event URL: 52941678347364&instance=52941695787037
---------------------------------------------------
-Date: Thursday, June 18, 2026
-Time: 05:30 PM - 07:00 PM
-Title: MBA Info Session & Happy Hour at Lazy Dog in Addison
-Location: 
-Event URL: 52771730207721&instance=52771730209770
+Event URL: 52763368943874&instance=52763368948997
 --------------------------------------------------
 Date: Monday, June 22, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Time: 12:00 PM - 12:30 PM
+Title: JSOM CMC- Get Ahead: Preparing for Summer 2027 Internship Recruiting
 Location: 
-Event URL: 52869815639885&instance=52869815639886
+Event URL: 53062885036181&instance=53063044106633
 --------------------------------------------------
 Date: Tuesday, June 23, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52869815639885&instance=52869815640911
+Event URL: 52763440803350&instance=52763440810525
 --------------------------------------------------
 Date: Wednesday, June 24, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Time: 11:00 AM - 12:00 PM
+Title: UTD MBA Virtual Q&A Information Session
 Location: 
-Event URL: 52869815639885&instance=52869815641936
+Event URL: 52771795617924&instance=52771795618949
 --------------------------------------------------
 Date: Thursday, June 25, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52869815639885&instance=52869815642961
+Event URL: 52763440803350&instance=52763440812574
 --------------------------------------------------
-Date: Friday, June 26, 2026
+Date: Saturday, June 27, 2026
 Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
+Title: PMP Prep Course
 Location: 
-Event URL: 52869815639885&instance=52869815643986
+Event URL: 52763368943874&instance=52763368950022
 --------------------------------------------------
-Date: Monday, June 29, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
+Date: Tuesday, June 30, 2026
+Time: 11:00 AM - 01:00 PM
+Title: GRI Certified Sustainability Professional Course
 Location: 
-Event URL: 52691626081178&instance=52691631524301
+Event URL: 52763440803350&instance=52807598567552
 --------------------------------------------------
 Month: Jul, 2026
 
