@@ -38,7 +38,9 @@ Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Mohammed Omer, GLEMBA ’19:
+Holly Martin, GLEMBA ’19:
+Paragraph: Customer Experience Manager, 
+ J.B. Hunt
 
 Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
@@ -47,6 +49,10 @@ How to Write an Admissions Essay for an Executive MBA Program:
 Paragraph: The power of your personal story
 Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
 
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
+
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
 Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
@@ -54,10 +60,6 @@ Paragraph: Creating and maintaining a relevant curriculum is key for students to
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
 Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
-
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 Executive Education Request for Information:
 
@@ -92,8 +94,9 @@ Explore all your Executive Education Degree Options:
 
 Executive Education Voices:
 
-Jennifer Masie, EMBA 2022:
-Paragraph: Vice President, Retail Operations and Chief of Staff
+Jake Henne, EMBA 2021:
+Paragraph: World Wide Technology, Client Manager
+  SLED
 
 Transformative Learning for Tomorrow’s Executives:
 Paragraph: Our executive education programs feature cutting-edge, unique offerings designed to elevate your leadership skills and drive success.
@@ -123,15 +126,13 @@ Paragraph: This fully online program connects product development with supply ch
 EMBA with emphasis in Project Management:
 Paragraph: Achieve more with a PMI-accredited program that’s fully online and accessible from anywhere. Enhance your degree with electives and gain additional academic certificates built into your journey.
 
-MS:
+Executive MS:
 
-MS in Healthcare Leadership and Management for Physicians:
+Executive MS in Healthcare Leadership and Management for Physicians:
 Paragraph: Designed for senior physicians in or aspiring to leadership roles, the program blends academic rigor with hands-on learning. Participants thrive in a supportive culture rooted in shared values and professional excellence, with residential four-day classes held every other month.
 
-MS in Leadership and Organizational Development:
+Executive MS in Leadership and Organizational Development:
 Paragraph: Advance your education with concentration credits that count toward both your degree and certificate. Study from anywhere with our fully online format, take part in expert forums at no cost and enjoy the flexibility to progress at a pace that works for your busy lifestyle.
-
-Executive MS:
 
 Executive MS in Management Science:
 Paragraph: Customize your program with concentrations or certifications, gain data-driven strategies, and expand your network alongside executive professionals. Engage directly with subject matter experts through our dynamic Speaker Series.
@@ -159,20 +160,17 @@ Wideblocks:
 Executive & Professional Coaching:
 Paragraph: Gain the training and certification required for ICF Level II while earning credits that may be applied toward an MS degree. With a fully online format and complimentary access to expert forums, you can advance your coaching career from anywhere.
 
-Global Marketing:
-Paragraph: With a focus on digital marketing, customer insights and AI, this program allows you to enroll alongside MBA students and expand your professional network. Taught by experienced marketing executives and UTD faculty, the courses blend academic rigor with practical application.
-
 Healthcare Informatics Leadership:
 Paragraph: Network with fellow physicians while learning from industry experts and physician executives in a hybrid format that combines two residential classes with one online course. This program is available exclusively to current APL students or those eligible for admission.
+
+Management:
+Paragraph: An updated certificate will launch in Fall 2026. Click here to sign up for future notifications.
 
 Mediation and Dispute Resolution:
 Paragraph: Provides a foundation in conflict management. This 40-hour program covers negotiation, cultural and emotional dynamics, and ethical process design, preparing participants for TMCA credentialing.
 
 Organizational Consulting:
 Paragraph: Earn credits that can be applied toward an MS degree. Through our flexible 100% online format and small class sizes that promote interactive learning and complimentary access to expert forums, you will gain valuable knowledge while expanding your professional network.
-
-Management:
-Paragraph: An updated certificate will launch in Fall 2026. Click here to sign up for future notifications.
 
 Product Lifecycle and Supply Chain Management:
 Paragraph: This program integrates product lifecycle with supply chain management while highlighting the impact of AI. Through industry expert–led web conferences and case studies with real-world applications, you’ll gain practical insights into how emerging technologies are reshaping operations.
@@ -182,6 +180,9 @@ Paragraph: Accredited through PMI GAC and taught by world-class faculty, our pro
 
 Strategic Human Resources:
 Paragraph: Explore business dynamics through a human capital lens, and benefit from small class sizes that foster meaningful, interactive online learning. Credits can be applied toward an MS degree.
+
+Strategic Marketing Management:
+Paragraph: With a focus on digital marketing, customer insights and AI, this program allows you to enroll alongside MBA students and expand your professional network. Taught by experienced marketing executives and UTD faculty, the courses blend academic rigor with practical application.
 
 Transformational Leadership:
 Paragraph: Gain the skills to address leadership challenges and build effective strategies. With a 100% online format, you can tailor the program’s pace to fit your schedule and professional goals.

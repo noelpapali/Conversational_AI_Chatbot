@@ -92,7 +92,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -103,7 +104,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -115,6 +117,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -125,6 +128,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -213,6 +217,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -224,6 +229,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -716,7 +722,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -727,7 +734,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -739,6 +747,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -749,6 +758,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -774,6 +784,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -785,6 +796,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -1427,7 +1439,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -1438,7 +1451,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -1450,6 +1464,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -1460,6 +1475,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -1502,6 +1518,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -1513,6 +1530,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -2109,7 +2127,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -2120,7 +2139,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -2132,6 +2152,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -2142,6 +2163,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -2167,6 +2189,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -2178,6 +2201,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -2741,7 +2765,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -2752,7 +2777,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -2764,6 +2790,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -2774,6 +2801,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -2801,6 +2829,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -2812,6 +2841,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -3357,7 +3387,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -3368,7 +3399,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -3380,6 +3412,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -3390,6 +3423,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -3415,6 +3449,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -3426,6 +3461,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -3923,7 +3959,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -3934,7 +3971,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -3946,6 +3984,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -3956,6 +3995,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -3984,6 +4024,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -3995,6 +4036,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -4623,7 +4665,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -4634,7 +4677,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -4646,6 +4690,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -4656,6 +4701,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -4681,6 +4727,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -4692,6 +4739,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -5286,7 +5334,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -5297,7 +5346,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -5309,6 +5359,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -5319,6 +5370,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -5344,6 +5396,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -5355,6 +5408,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -5968,7 +6022,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -5979,7 +6034,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -5991,6 +6047,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -6001,6 +6058,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -6026,6 +6084,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -6037,6 +6096,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -6658,7 +6718,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -6669,7 +6730,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -6681,6 +6743,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -6691,6 +6754,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -6720,6 +6784,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -6731,6 +6796,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -7374,7 +7440,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -7385,7 +7452,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -7397,6 +7465,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -7407,6 +7476,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -7438,6 +7508,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -7449,6 +7520,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -8141,7 +8213,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -8152,7 +8225,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -8164,6 +8238,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -8174,6 +8249,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -8205,6 +8281,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -8216,6 +8293,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -8800,7 +8878,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -8811,7 +8890,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -8823,6 +8903,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -8833,6 +8914,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -8862,6 +8944,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -8873,6 +8956,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -9416,7 +9500,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -9427,7 +9512,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -9439,6 +9525,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -9449,6 +9536,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -9474,6 +9562,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -9485,6 +9574,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -9991,7 +10081,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -10002,7 +10093,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -10014,6 +10106,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -10024,6 +10117,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -10049,6 +10143,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -10060,6 +10155,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -11338,7 +11434,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -11349,7 +11446,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -11361,6 +11459,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -11371,6 +11470,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -11415,6 +11515,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -11426,6 +11527,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -12481,7 +12583,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -12492,7 +12595,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -12504,6 +12608,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -12514,6 +12619,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -12556,6 +12662,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -12567,6 +12674,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -13325,7 +13433,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -13336,7 +13445,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -13348,6 +13458,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -13358,6 +13469,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -13400,6 +13512,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -13411,6 +13524,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -14169,7 +14283,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -14180,7 +14295,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -14192,6 +14308,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -14202,6 +14319,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -14244,6 +14362,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -14255,6 +14374,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -15013,7 +15133,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -15024,7 +15145,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -15036,6 +15158,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -15046,6 +15169,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -15088,6 +15212,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -15099,6 +15224,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -15817,7 +15943,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -15828,7 +15955,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -15840,6 +15968,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -15850,6 +15979,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -15875,6 +16005,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -15886,6 +16017,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -16480,7 +16612,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -16491,7 +16624,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -16503,6 +16637,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -16513,6 +16648,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -16538,6 +16674,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -16549,6 +16686,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -16990,7 +17128,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -17001,7 +17140,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -17013,6 +17153,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -17023,6 +17164,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -17048,6 +17190,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -17059,6 +17202,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -17662,7 +17806,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -17673,7 +17818,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -17685,6 +17831,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -17695,6 +17842,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -17720,6 +17868,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -17731,6 +17880,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -19113,7 +19263,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -19124,7 +19275,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -19136,6 +19288,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -19146,6 +19299,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -19190,6 +19344,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -19201,6 +19356,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -20073,7 +20229,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -20084,7 +20241,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -20096,6 +20254,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -20106,6 +20265,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -20131,6 +20291,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -20142,6 +20303,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -20610,7 +20772,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -20621,7 +20784,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -20633,6 +20797,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -20643,6 +20808,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -20668,6 +20834,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -20679,6 +20846,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -21947,7 +22115,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -21958,7 +22127,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -21970,6 +22140,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -21980,6 +22151,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -22024,6 +22196,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -22035,6 +22208,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -23050,7 +23224,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -23061,7 +23236,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -23073,6 +23249,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -23083,6 +23260,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -23108,6 +23286,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -23119,6 +23298,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -24501,7 +24681,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -24512,7 +24693,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -24524,6 +24706,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -24534,6 +24717,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -24578,6 +24762,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -24589,6 +24774,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -25490,7 +25676,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -25501,7 +25688,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -25513,6 +25701,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -25523,6 +25712,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -25551,6 +25741,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -25562,6 +25753,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
@@ -26059,7 +26251,8 @@ Lists:
 - Jump to navigation
 - Jump to search
 - Catalog Home
-- Undergraduate Catalogs2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- Undergraduate Catalogs2026 Undergraduate Catalog2025 Undergraduate Catalog2024 Undergraduate Catalog2023 Undergraduate Catalog2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -26070,7 +26263,8 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
-- Graduate Catalogs2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- Graduate Catalogs2026 Graduate Catalog2025 Graduate Catalog2024 Graduate Catalog2023 Graduate Catalog2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -26082,6 +26276,7 @@ Lists:
 - 2017 Graduate Catalog
 - 2016 Graduate Catalog
 - 
+- 2026 Undergraduate Catalog
 - 2025 Undergraduate Catalog
 - 2024 Undergraduate Catalog
 - 2023 Undergraduate Catalog
@@ -26092,6 +26287,7 @@ Lists:
 - 2018 Undergraduate Catalog
 - 2017 Undergraduate Catalog
 - 2016 Undergraduate Catalog
+- 2026 Graduate Catalog
 - 2025 Graduate Catalog
 - 2024 Graduate Catalog
 - 2023 Graduate Catalog
@@ -26117,6 +26313,7 @@ Links:
 - Jump to search - #search
 - Catalog Home - https://catalog.utdallas.edu
 - Undergraduate Catalogs - 
+- 2026 Undergraduate Catalog - https://catalog.utdallas.edu/2026/undergraduate/home/
 - 2025 Undergraduate Catalog - https://catalog.utdallas.edu/2025/undergraduate/home/
 - 2024 Undergraduate Catalog - https://catalog.utdallas.edu/2024/undergraduate/home/
 - 2023 Undergraduate Catalog - https://catalog.utdallas.edu/2023/undergraduate/home/
@@ -26128,6 +26325,7 @@ Links:
 - 2017 Undergraduate Catalog - https://catalog.utdallas.edu/2017/undergraduate/home/
 - 2016 Undergraduate Catalog - https://catalog.utdallas.edu/2016/undergraduate/home/
 - Graduate Catalogs - 
+- 2026 Graduate Catalog - https://catalog.utdallas.edu/2026/graduate/home/
 - 2025 Graduate Catalog - https://catalog.utdallas.edu/2025/graduate/home/
 - 2024 Graduate Catalog - https://catalog.utdallas.edu/2024/graduate/home/
 - 2023 Graduate Catalog - https://catalog.utdallas.edu/2023/graduate/home/
