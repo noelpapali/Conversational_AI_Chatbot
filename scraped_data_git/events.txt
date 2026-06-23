@@ -1,11 +1,5 @@
 Month: Jun, 2026
 
-Date: Monday, June 22, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815639886
---------------------------------------------------
 Date: Tuesday, June 23, 2026
 Time: 08:00 AM - 05:00 PM
 Title: ITS Exploration

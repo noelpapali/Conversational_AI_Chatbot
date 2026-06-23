@@ -38,20 +38,10 @@ Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
+Mohammed Omer, GLEMBA ’19:
 
 Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
-
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
-
-Difference Between EMBA and PMBA:
-Paragraph: What is the difference between EMBA and PMBA?
-Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 The Importance of a Relevant Curriculum:
 Paragraph: Curriculum is Key for Students
@@ -60,6 +50,14 @@ Paragraph: Creating and maintaining a relevant curriculum is key for students to
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
 Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
+
+How to Write an Admissions Essay for an Executive MBA Program:
+Paragraph: The power of your personal story
+Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+
+Difference Between EMBA and PMBA:
+Paragraph: What is the difference between EMBA and PMBA?
+Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
 Executive Education Request for Information:
 
@@ -94,9 +92,9 @@ Explore all your Executive Education Degree Options:
 
 Executive Education Voices:
 
-Jake Henne, EMBA 2021:
-Paragraph: World Wide Technology, Client Manager
-  SLED
+Khaled Hallak, EMBA 2021:
+Paragraph: Bank of America, Officer,
+  Syndicated Loan Closer
 
 Transformative Learning for Tomorrow’s Executives:
 Paragraph: Our executive education programs feature cutting-edge, unique offerings designed to elevate your leadership skills and drive success.
@@ -414,16 +412,19 @@ Don Taylor, MHA:
 Paragraph: APL Program Director
 Paragraph: don.taylor@utdallas.edu |
       (972) 883-2562 |
+      JSOM 1.704
 
 Megan Gray Hering:
 Paragraph: APL Program Manager
 Paragraph: megan.hering@utdallas.edu |
       (972) 883-2980 |
+      JSOM 1.703
 
 Kathleen Milam:
 Paragraph: APL Program Manager
 Paragraph: kathleen.milam@utdallas.edu |
       (972) 883-5066 |
+      JSOM 1.702
 
 ==================================================
 
