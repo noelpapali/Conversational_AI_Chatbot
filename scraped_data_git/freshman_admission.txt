@@ -11,7 +11,8 @@ Heading: Discover UTD Info Session
 Heading: Live Event Links
   Paragraph: No registration needed — just click the “Join Event” link at the scheduled time to attend.
   Paragraph: Thursday, June 11, 6–7 p.m.Join Live Event (6/11) | Add to Calendar
-  Paragraph: Thursday, July 9, 6–7 p.m.Join Live Event (7/9) | Add to Calendar
+  Paragraph: Thursday, July 9, 6–7 p.m.Join Live Event (7/9)
+  Paragraph: Add to Calendar
 
 --------------------------------------------------
 
