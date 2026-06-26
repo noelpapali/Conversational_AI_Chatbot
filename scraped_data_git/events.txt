@@ -1,11 +1,5 @@
 Month: Jun, 2026
 
-Date: Thursday, June 25, 2026
-Time: 08:00 AM - 05:00 PM
-Title: ITS Exploration
-Location: 
-Event URL: 52869815639885&instance=52869815642961
---------------------------------------------------
 Date: Friday, June 26, 2026
 Time: 08:00 AM - 05:00 PM
 Title: ITS Exploration
@@ -174,11 +168,11 @@ Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
 Event URL: 52118180250222&instance=52576173456610
 --------------------------------------------------
-Date: Thursday, September 24, 2026
-Time: 08:30 AM - 10:00 AM
-Title: Connect with the MSITM Program Director
+Date: Wednesday, September 23, 2026
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 53240941383859&instance=53240947411763
+Event URL: 52118180250222&instance=52576173458659
 --------------------------------------------------
 Month: Oct, 2026
 
