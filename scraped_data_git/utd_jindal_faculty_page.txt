@@ -89,9 +89,6 @@ khai.chiong@utdallas.edu|(972) 883-5027|JSOM 13.324
 Assistant Professor, Organizations, Strategy and International Management
 hyesook.chung@utdallas.edu|(972) 883-5043|JSOM 4.223
 
-Clinical Professor, Executive Education
-paul.convery@utdallas.edu|(972) 883-4697|JSOM 1.907
-
 Assistant Professor, Accounting
 rafael.copat@utdallas.edu|(972) 883-4187|JSOM 4.802
 
@@ -149,7 +146,7 @@ axg119030@utdallas.edu|(972) 883-5820|JSOM 14.304
 Professor, Accounting
 umit.gurun@utdallas.edu|(972) 883-5917|JSOM 4.813
 
-Clinical Professor Emeritus, Director Emeritus, Real Estate, Finance and Managerial Economics
+Director Emeritus, Real Estate, Finance and Managerial Economics
 guttery@utdallas.edu|(972) 883-5910|JSOM None
 
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
@@ -901,12 +898,6 @@ hyesook.chung@utdallas.edu
 (972) 883-5043
 JSOM 4.223
 
-Paul B. Convery
-Clinical Professor, Executive Education
-paul.convery@utdallas.edu
-(972) 883-4697
-JSOM 1.907
-
 Rafael  Copat
 Assistant Professor, Accounting
 rafael.copat@utdallas.edu
@@ -1022,7 +1013,7 @@ umit.gurun@utdallas.edu
 JSOM 4.813
 
 Randall  Guttery
-Clinical Professor Emeritus, Director Emeritus, Real Estate, Finance and Managerial Economics
+Director Emeritus, Real Estate, Finance and Managerial Economics
 guttery@utdallas.edu
 (972) 883-5910
 JSOM None
