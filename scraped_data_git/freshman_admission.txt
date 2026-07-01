@@ -42,15 +42,6 @@ Heading:
 
 --------------------------------------------------
 
-Heading: Important Dates
-  Table (Regular Style):
-    Date, Details
-    August 1, CommonApp and ApplyTexas applications open
-    December 1, Priority Admission Application Deadline*
-    May 1, Regular Application Deadline
-
---------------------------------------------------
-
 Heading: Admission Review Criteria
   Paragraph: Each applicant brings unique achievements, experiences and perspectives to our community. Freshman applications are reviewed individually using a holistic review process. The following factors are considered:
   List:
@@ -110,20 +101,11 @@ Heading:
 --------------------------------------------------
 
 Heading: Freshman Admissions: Application Process
-  Paragraph: Ready to begin your journey at UT Dallas? Follow these steps to complete your freshman admission application. UT Dallas also participates in Direct Admission programs.
+  Paragraph: Ready to begin your journey at UT Dallas? Follow these steps to complete your freshman admission application. UT Dallas also participates in Direct Admission programs.
 
 --------------------------------------------------
 
 Heading: 
-
---------------------------------------------------
-
-Heading: Important Dates
-  Table (Regular Style):
-    Date, Details
-    August 1, CommonApp and ApplyTexas applications open
-    December 1, Priority Admission Application Deadline*
-    May 1, Regular Application Deadline
 
 --------------------------------------------------
 
@@ -203,15 +185,6 @@ Heading:
 
 --------------------------------------------------
 
-Heading: Important Dates
-  Table (Regular Style):
-    Date, Details
-    August 1, CommonApp and ApplyTexas applications open
-    December 1, Priority Admission Application Deadline*
-    May 1, Regular Application Deadline
-
---------------------------------------------------
-
 Heading: Application Deadline (Domestic and International)
   Table (Stripes Style):
     Term, Priority Application Deadline1, Regular Application Deadline2
@@ -263,15 +236,6 @@ Heading: Freshman Admissions: Timeline
 --------------------------------------------------
 
 Heading: 
-
---------------------------------------------------
-
-Heading: Important Dates
-  Table (Regular Style):
-    Date, Details
-    August 1, CommonApp and ApplyTexas applications open
-    December 1, Priority Admission Application Deadline*
-    May 1, Regular Application Deadline
 
 --------------------------------------------------
 

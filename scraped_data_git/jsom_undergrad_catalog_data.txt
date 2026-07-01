@@ -6855,7 +6855,7 @@ Headings:
 - 
 - Transfer Admissions: Criteria
 - 
-- Transfer Application Open Dates
+- Domestic Application Deadlines
 - Admission Review Criteria
 - Assured Admission Criteria
 - International Applicants
@@ -6869,6 +6869,16 @@ Headings:
 Content:
 You are considered a transfer student if you have previously completed college-level coursework at an accredited institution — excluding the summer following high school graduation.
 Applications are accepted for the fall, spring and summer semesters from students in good standing at their higher education institutions. If you are currently enrolled in high school and also attending a college/university and you will not complete any college-level coursework after the summer after your high school graduation, you should apply forfreshman admission.
+July 1
+Fall
+November 1
+Spring
+May 1
+Summer
+FASFA School Code
+009741
+finaid.utdallas.edu
+Visit the Office of Financial Aid for more information.
 All applicants are reviewed individually and holistically. Consideration is given to the following factors:
 Applicants are eligible for assured transfer admission by meeting one of the following criteria options:
 Qualify for admission under section 51.8035 of the Texas Education Code. To take advantage of this option, you can indicate within the Apply Texas application that you qualify for automatic admission as a transfer applicant based on the following criteria: graduated from a Texas or U.S. Department of Defense high school in the top 10 percent of my class within the last three years and have completed the core curriculum at a Texas junior college or lower division institution (e.g., community college). Applicants who check yes to the question within the application will be required to submit an official copy of their high school transcript as part of the transfer application file to ensure that all law provisions are met.
@@ -7116,6 +7126,7 @@ Links:
 - Comet Connection - https://enroll.utdallas.edu/transfer/comet-connection/
 - Steps After Admission - https://enroll.utdallas.edu/transfer/steps-after-admission/
 - Applicant Types - https://enroll.utdallas.edu/apply/
+- finaid.utdallas.edu - http://finaid.utdallas.edu
 - Additional Requirements - https://enroll.utdallas.edu/apply/international-applicants/
 - Contact us - https://enroll.utdallas.edu/contact/
 - counselor locator tool - https://enroll.utdallas.edu/contact/counselor-locator/
