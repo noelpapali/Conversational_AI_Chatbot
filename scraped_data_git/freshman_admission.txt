@@ -8,10 +8,7 @@ Heading: Discover UTD Info Session
 
 --------------------------------------------------
 
-Heading: Live Event Links
-  Paragraph: No registration needed — just click the “Join Event” link at the scheduled time to attend.
-  Paragraph: Thursday, June 11, 6–7 p.m.Join Live Event (6/11) | Add to Calendar
-  Paragraph: Thursday, July 9, 6–7 p.m.Join Live Event (7/9)
+Heading: Thursday, July 9, 6–7 p.m.
   Paragraph: Add to Calendar
 
 --------------------------------------------------
@@ -335,7 +332,7 @@ Heading: Visit UT Dallas
 --------------------------------------------------
 
 Heading: Join us for a one-hour virtual Discover UTD Info Session!
-  Paragraph: No registration necessary, Thursday 6/11 and 7/9 from 6–7 p.m. Learn about the application process, campus life, scholarships, financial aid and more. Our admission staff will be available to answer your questions. Learn more at Discover UTD.
+  Paragraph: No registration necessary, Thursday 7/9 from 6–7 p.m. Learn about the application process, campus life, scholarships, financial aid and more. Our admission staff will be available to answer your questions. Learn more at Discover UTD.
 
 --------------------------------------------------
 
