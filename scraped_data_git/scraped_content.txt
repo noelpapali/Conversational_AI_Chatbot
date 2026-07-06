@@ -1769,9 +1769,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: World Cup at the ICP Student Lounge
-	- Text: World Cup at the ICP Student Lounge
-	  Href: https://calendar.utdallas.edu/event/world-cup-icp
+Context: EMBA Open House
+	- Text: EMBA Open House
+	  Href: https://calendar.utdallas.edu/event/emba-open-house-aug1
 
 Context: FinTEX – Insurance Conference 2026
 	- Text: FinTEX – Insurance Conference 2026
