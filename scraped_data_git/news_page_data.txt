@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Study from Jindal School Researcher Finds Employee Satisfaction Declines After Companies Go Public
+Title Link: https://jindal.utdallas.edu/news/study-from-jindal-school-researcher-finds-employee-satisfaction-declines-after-companies-go-public/
+Excerpt: When companies go public, most stakeholders think about the big paycheck, the equity that finally pays off, or the prestige of ringing the opening bell. Far less attention is paid to what happens to employees once the celebration is over. Jedson Pinto “The natural assumption is that an IPO makes everyone inside happier,” said Dr. […]
+Meta Details: July 8th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/07/stressed_employee_630x630.jpg
+
+==================================================
+
 Title: Jindal School Students Win Three National Championships at FBLA Collegiate Conference
 Title Link: https://jindal.utdallas.edu/news/jindal-school-students-win-three-national-championships-at-fbla-collegiate-conference/
 Excerpt: Three students from the Naveen Jindal School of Management won national championships at the 2026 Future Business Leaders of America (FBLA) Collegiate National Leadership Conference in Las Vegas, held June 6-8. Their performances helped The University of Texas at Dallas finish second in the nation in total top-10 placements. Competing against students from nearly 200 […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/07/fbla_nationals_utd_team_202
 Title: JSOM Professors Build Global Connections During International Week in Poland
 Title Link: https://jindal.utdallas.edu/news/jsom-professors-build-global-connections-during-international-week-in-poland/
 Excerpt: When Drs. Kannan Ramanathan and Thiru Pandian recently traveled to Poland for the 15th annual International Week at the University of Economics in Katowice, they were not simply representing the Naveen Jindal School of Management. They were sharing expertise in healthcare systems, analytics and business education while building new opportunities for international collaboration. Kannan Ramanathan […]
-Meta Details: June 25th, 2026 |Faculty/Research,Featured
+Meta Details: June 25th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/06/kannan_ramanathan_presentation_on_us_healthcare_system_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/dr-sulman-ahmed-founder-ceo-of-deca
 Excerpt: The University of Texas at Dallas is excited to announce that Dr. Sulman Ahmed, BS’01, founder, chairman and CEO of DECA Dental Group and a UT Dallas Distinguished Alumnus, will serve as the keynote speaker at the finals of the Draper Pitch Competition. Scheduled for April 14, this flagship entrepreneurship event promises to be a […]
 Meta Details: March 26th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/03/draper_pitch_competition_sulman_ahmed_630x630.jpg
-
-==================================================
-
-Title: Jindal School Leads National Conversation on Preparing Business Graduates for the AI Era at Sixth Annual Undergraduate Deans Conference
-Title Link: https://jindal.utdallas.edu/news/jindal-school-leads-national-conversation-on-preparing-business-graduates-for-the-ai-era-at-sixth-annual-undergraduate-deans-conference/
-Excerpt: Business school deans and administrators from universities across the U.S. gathered at The University of Texas at Dallas’ Naveen Jindal School of Management for an inspiring two-day event that showcased bold leadership in reshaping undergraduate business education for a future driven by artificial intelligence. The sixth-annual Undergraduate Deans Conference, held March 5–6 at the Davidson-Gundy […]
-Meta Details: March 25th, 2026 |Events
-Image URL: https://jindal.utdallas.edu/files/2026/03/ug_deans_conf_2026_audience_630x630.jpg
 
 ==================================================
 
