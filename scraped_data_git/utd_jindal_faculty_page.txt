@@ -65,7 +65,7 @@ ziyi.cao@utdallas.edu||JSOM 3.802
 Professor, Information Systems
 huseyin@utdallas.edu|(972) 883-5939|JSOM 3.418
 
-Assistant Professor, Operations Management
+Associate Professor, Operations Management
 boxiao.chen@utdallas.edu||JSOM 3.813
 
 Associate Professor, Finance and Managerial Economics
@@ -680,7 +680,7 @@ ying.xie@utdallas.edu|(972) 883-5839|JSOM 13.223
 Associate Professor, Finance and Managerial Economics
 yexiaoxu@utdallas.edu|(972) 883-6703|JSOM 14.509
 
-Assistant Professor, Accounting
+Associate Professor, Accounting
 hao.xue@utdallas.edu||JSOM 3.616
 
 Associate Professor, Finance and Managerial Economics
@@ -856,8 +856,8 @@ huseyin@utdallas.edu
 (972) 883-5939
 JSOM 3.418
 
-Boxiao  Chen
-Assistant Professor, Operations Management
+Boxiao (Beryl)  Chen
+Associate Professor, Operations Management
 boxiao.chen@utdallas.edu
 
 JSOM 3.813
@@ -2087,7 +2087,7 @@ yexiaoxu@utdallas.edu
 JSOM 14.509
 
 Hao  Xue
-Assistant Professor, Accounting
+Associate Professor, Accounting
 hao.xue@utdallas.edu
 
 JSOM 3.616

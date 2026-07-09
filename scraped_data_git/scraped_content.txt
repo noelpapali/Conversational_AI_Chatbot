@@ -1763,7 +1763,7 @@ Context: Make a Gift
 
 Context: Make a Gift
 	- Text: Apply Now
-	  Href: https://utdallas.my.site.com
+	  Href: https://enroll.utdallas.edu/apply/
 
 Context: Upcoming Events
 	- Text: Upcoming Events
