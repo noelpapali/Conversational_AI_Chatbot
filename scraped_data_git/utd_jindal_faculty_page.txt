@@ -267,7 +267,7 @@ Associate Professor, Information Systems
 atanu.lahiri@utdallas.edu|(972) 883-5934|JSOM 3.809
 
 Clinical Professor, Executive Education
-van.latham@utdallas.edu|(972) 883-5809|JSOM 1.910
+van.latham@utdallas.edu|(972) 883-5809|JSOM 1.519
 
 Assistant Professor, Information Systems
 thomas.lavastida@utdallas.edu||JSOM 4.408
@@ -402,7 +402,7 @@ Associate Professor of Instruction, Director, Undergraduate Finance Program, Fin
 hiro.nishi@utdallas.edu|(972) 883-5893|JSOM 14.328
 
 Clinical Professor, Organizations, Strategy and International Management
-larry.norton@utdallas.edu|(972) 883-5809|JSOM 1.910
+larry.norton@utdallas.edu|(972) 883-5809|JSOM 1.519
 
 Professor of Practice, Information Systems
 dawn.owens@utdallas.edu|(972) 883-4901|JSOM 11.105G
@@ -1262,7 +1262,7 @@ Van  Latham
 Clinical Professor, Executive Education
 van.latham@utdallas.edu
 (972) 883-5809
-JSOM 1.910
+JSOM 1.519
 
 Thomas Jose Lavastida
 Assistant Professor, Information Systems
@@ -1532,7 +1532,7 @@ Larry W. Norton
 Clinical Professor, Organizations, Strategy and International Management
 larry.norton@utdallas.edu
 (972) 883-5809
-JSOM 1.910
+JSOM 1.519
 
 Dawn  Owens
 Professor of Practice, Information Systems
