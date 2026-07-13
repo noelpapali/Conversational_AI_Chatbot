@@ -157,56 +157,56 @@ Links:
 URL: https://jindal.utdallas.edu/phd-programs/admission-requirements/
 Headings:
 - Alumni Testimonials
-- Blair Flicker
-- Devendra Kale
-- Wei Chen
-- Subodha Kumar
-- Mina Ameri
-- Xuying Zhao
-- Bharadwaj Kadiyala
-- Tai-Yuan Chen
-- Jess Cornaggia
 - Zhengrui Jiang
-- Oktay Urcan
-- Qi Annabelle Feng
-- Harish Guda
+- Tai-Yuan Chen
+- Subodha Kumar
 - Aidin Namin
+- Blair Flicker
+- Wei Chen
+- Harish Guda
 - Hasan Cavusoglu
+- Devendra Kale
+- Oktay Urcan
+- Mina Ameri
+- Jess Cornaggia
+- Bharadwaj Kadiyala
+- Qi Annabelle Feng
+- Xuying Zhao
 Content:
-Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
-PhD in Management Science, Accounting
-Assistant Professor,University of Rhode Island
-Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
-Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
-Assistant ProfessorThe University of Pittsburgh
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
-Assistant Professor,Eccles School of Business, University of Utah
-Alumni Professor of Finance,HKUST Business School,
-Hong Kong University of Science and Technology
-Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
 Professor of Information Systems,School of Business,
 Nanjing University
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
-John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
-Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
+Alumni Professor of Finance,HKUST Business School,
+Hong Kong University of Science and Technology
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
 Associate Professor of Marketing Analytics, Loyola Marymount University
+Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
+Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
 Professor of Management Information SystemsSauder School of Business, The University of British Columbia
+PhD in Management Science, Accounting
+Assistant Professor,University of Rhode Island
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
+Assistant ProfessorThe University of Pittsburgh
+Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
+Assistant Professor,Eccles School of Business, University of Utah
+John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
 Links:
-- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
-- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
-- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
-- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
-- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
-- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
-- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
-- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
 - Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
-- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
-- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
-- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
+- Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
 - Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
+- Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
+- Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
 - Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
+- Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
+- Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
+- Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
+- Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
+- Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
+- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================
@@ -256,7 +256,7 @@ Headings:
 - Plan your Executive Visit
 - Jindal School Experience
 - Plan your Executive Visit
-- Schedule Appointments
+- Book your Executive Visit by selecting your intended major below:
 Content:
 The Jindal SchoolThe University of Texas at Dallas(972) 883-5889jsomug@utdallas.edu
 Book your Campus Visit
@@ -303,7 +303,7 @@ Headings:
 - Plan your Executive Visit
 - Jindal School Experience
 - Plan your Executive Visit
-- Schedule Appointments
+- Book your Executive Visit by selecting your intended major below:
 Content:
 Join us for our signature prospective student event: the Jindal School Experience, and hear from current students and staff, mingle with Academic Program Directors, and connect with other future students. Attendees will also have the option to add a campus and/or residence hall tour. The Jindal School Experience is offered several times throughout the spring semester and registration is required. Please select a date to register. Registration for each event will open approximately one month prior to the event date.
 Our Jindal School Experience events have concluded for the year. Admitted Fall 2026 students are still welcome to attend available Comet Launchpad events (below). We also offer personalized Executive Visits for anyone wishing to visit the Jindal School for the remainder of the Spring. 2027 Jindal School Experience dates will be available in the Fall.
@@ -341,6 +341,7 @@ URL: https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduat
 Headings:
 - Jindal School Experience
 - Plan your Executive Visit
+- Book your Executive Visit by selecting your intended major below:
 Content:
 Join us for our signature prospective student event: the Jindal School Experience, and hear from current students and staff, mingle with Academic Program Directors, and connect with other future students. Attendees will also have the option to add a campus and/or residence hall tour. The Jindal School Experience is offered several times throughout the spring semester and registration is required. Please select a date to register. Registration for each event will open approximately one month prior to the event date.
 Our Jindal School Experience events have concluded for the year. Admitted Fall 2026 students are still welcome to attend available Comet Launchpad events (below). We also offer personalized Executive Visits for anyone wishing to visit the Jindal School for the remainder of the Spring. 2027 Jindal School Experience dates will be available in the Fall.
@@ -359,12 +360,6 @@ Lists:
 Links:
 - Comet Launchpad webpage - https://enroll.utdallas.edu/visit/events/comet-launchpad/
 - Davidson Management Honors Program - https://jindal.utdallas.edu/honors-programs/dmhp/
-
-================================================================================
-URL: https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
-Headings:
-- Schedule Appointments
-Links:
 - Accounting - https://outlook.office365.com/owa/calendar/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/bookings/s/R420WW0caky4YBoTg19yoQ2
 - Business Administration - https://outlook.office365.com/owa/calendar/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/bookings/s/VK5KmrVsXEy8csN5Dd0Apw2
 - Business Analytics & AI - https://outlook.office365.com/owa/calendar/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/bookings/s/B6Uv_MTYvkGSZs4rdlZdJA2
