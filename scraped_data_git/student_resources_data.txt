@@ -385,6 +385,27 @@ Links:
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
 Headings:
+- Digital Badges for Undergraduate Professional Development
+Content:
+Through WisePath (Powered by Suitable), students in our undergraduate professional development courses can earn exclusive digital badges by engaging in workshops, activities, and hands-on experiences that develop practical skills. Achieving these badges shows their dedication to professional communication, ongoing learning, and preparedness for the modern job market. Badges are verifiable via the WisePath app, and students can add them to their resumes and LinkedIn profiles.
+Lists:
+- Consistently attended and participated in all weekly class meetings.
+- Engaged in at least one professional development workshop outside of class.
+- Enhanced internship search portfolio through feedback and revision.
+- Completed a Business Communication Center session to improve business presentation skills.
+- Showcased effective time management skills by completing professional development activities while balancing academic responsibilities.
+- Successfully completed the Professional Development course as a Top Performer and received recognition from the Director of Professional Development.
+- Successfully completed the AI Networking Challenge, showcasing the ability to build meaningful professional connections through AI-simulated informational interviews and networking scenarios.
+- Successfully completed an assessment through the Business Communication Center, demonstrating proficiency in using AI ethically to gain a competitive advantage in the job market.
+- Applied critical thinking skills to evaluate and analyze AI-generated outputs.
+- Completed at least 3 Business Communication Center presentation practice sessions and applied feedback to enhance clarity, organization, and audience awareness.
+- Demonstrated proficiency in presenting in both in-person and virtual environments.
+Links:
+- https://app.suitable.co - https://app.suitable.co
+
+================================================================================
+URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
+Headings:
 - Student Resources
 Content:
 You must use your UTD NetID email (ex: abc333000@utdallas.edu) for these systems.
