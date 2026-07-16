@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Leadership Transition Continues Legacy at Jindal School’s Center for Internal Auditing Excellence
+Title Link: https://jindal.utdallas.edu/news/leadership-transition-continues-legacy-at-jindal-schools-center-for-internal-auditing-excellence/
+Excerpt: The Center for Internal Auditing Excellence in the Naveen Jindal School of Management has entered a new chapter as Professor Matthew (Matt) Paske, BS’08, MS’10, has been appointed director, succeeding Dr. Joseph Mauriello, MBA’02, MS’03, PhD’22, who, after 11 years at the center’s helm, is stepping into the role of chief audit executive for The […]
+Meta Details: July 16th, 2026 |Academics,Alumni,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/07/internal_audit_hero_image_630x630.jpg
+
+==================================================
+
 Title: Study from Jindal School Researcher Finds Employee Satisfaction Declines After Companies Go Public
 Title Link: https://jindal.utdallas.edu/news/study-from-jindal-school-researcher-finds-employee-satisfaction-declines-after-companies-go-public/
 Excerpt: When companies go public, most stakeholders think about the big paycheck, the equity that finally pays off, or the prestige of ringing the opening bell. Far less attention is paid to what happens to employees once the celebration is over. Jedson Pinto “The natural assumption is that an IPO makes everyone inside happier,” said Dr. […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/07/stressed_employee_630x630.j
 Title: Jindal School Students Win Three National Championships at FBLA Collegiate Conference
 Title Link: https://jindal.utdallas.edu/news/jindal-school-students-win-three-national-championships-at-fbla-collegiate-conference/
 Excerpt: Three students from the Naveen Jindal School of Management won national championships at the 2026 Future Business Leaders of America (FBLA) Collegiate National Leadership Conference in Las Vegas, held June 6-8. Their performances helped The University of Texas at Dallas finish second in the nation in total top-10 placements. Competing against students from nearly 200 […]
-Meta Details: July 2nd, 2026 |Featured,Students
+Meta Details: July 2nd, 2026 |Students
 Image URL: https://jindal.utdallas.edu/files/2026/07/fbla_nationals_utd_team_2026_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/dallas-innovates-names-jindal-schoo
 Excerpt: New employees entering a workforce driven by data and propelled by artificial intelligence are not being asked to learn the job. They are expected to perform at a higher level from day one, according to Dr. Gaurav Shekhar, associate dean for administration, student success and alumni relations at the Naveen Jindal School of Management. That […]
 Meta Details: March 30th, 2026 |Academics,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/03/gaurav_shekhar_ai_75_630x630.jpg
-
-==================================================
-
-Title: Dr. Sulman Ahmed, Founder & CEO of DECA Dental Group and UT Dallas Distinguished Alumnus, to Deliver Keynote at Draper Pitch Competition Finals
-Title Link: https://jindal.utdallas.edu/news/dr-sulman-ahmed-founder-ceo-of-deca-dental-group-and-ut-dallas-distinguished-alumnus-to-deliver-keynote-at-draper-pitch-competition-finals/
-Excerpt: The University of Texas at Dallas is excited to announce that Dr. Sulman Ahmed, BS’01, founder, chairman and CEO of DECA Dental Group and a UT Dallas Distinguished Alumnus, will serve as the keynote speaker at the finals of the Draper Pitch Competition. Scheduled for April 14, this flagship entrepreneurship event promises to be a […]
-Meta Details: March 26th, 2026 |Events
-Image URL: https://jindal.utdallas.edu/files/2026/03/draper_pitch_competition_sulman_ahmed_630x630.jpg
 
 ==================================================
 
