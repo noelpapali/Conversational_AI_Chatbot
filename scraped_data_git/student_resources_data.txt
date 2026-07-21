@@ -387,7 +387,7 @@ URL: https://jindal.utdallas.edu/student-resources/business-communication-center
 Headings:
 - Digital Badges for Undergraduate Professional Development
 Content:
-Through WisePath (Powered by Suitable), students in our undergraduate professional development courses can earn exclusive digital badges by engaging in workshops, activities, and hands-on experiences that develop practical skills. Achieving these badges shows their dedication to professional communication, ongoing learning, and preparedness for the modern job market. Badges are verifiable via the WisePath app, and students can add them to their resumes and LinkedIn profiles.
+Through WisePath (powered by Suitable), students in our undergraduate professional development courses can earn exclusive digital badges by participating in workshops and activities that build practical, career-ready skills. Earning these badges demonstrates a commitment to professional communication, continuous learning, and workplace preparedness. All badges are awarded by the Business Communication Center with the approval of the Director of Professional Development. Badges are verifiable through the WisePath app and can be showcased on resumes, LinkedIn profiles, and other professional portfolios.
 Lists:
 - Consistently attended and participated in all weekly class meetings.
 - Engaged in at least one professional development workshop outside of class.
