@@ -388,6 +388,7 @@ Headings:
 - Digital Badges for Undergraduate Professional Development
 Content:
 Through WisePath (powered by Suitable), students in our undergraduate professional development courses can earn exclusive digital badges by participating in workshops and activities that build practical, career-ready skills. Earning these badges demonstrates a commitment to professional communication, continuous learning, and workplace preparedness. All badges are awarded by the Business Communication Center with the approval of the Director of Professional Development. Badges are verifiable through the WisePath app and can be showcased on resumes, LinkedIn profiles, and other professional portfolios.
+Demonstrated proficiency in the ethical use of AI to gain a competitive advantage in the job search process by applying the Human-AI Interaction competencies of Delegation, Description, Discernment, and Diligence to develop application materials and critically evaluate AI-generated recommendations.
 Lists:
 - Consistently attended and participated in all weekly class meetings.
 - Engaged in at least one professional development workshop outside of class.
@@ -396,8 +397,6 @@ Lists:
 - Showcased effective time management skills by completing professional development activities while balancing academic responsibilities.
 - Successfully completed the Professional Development course as a Top Performer and received recognition from the Director of Professional Development.
 - Successfully completed the AI Networking Challenge, showcasing the ability to build meaningful professional connections through AI-simulated informational interviews and networking scenarios.
-- Successfully completed an assessment through the Business Communication Center, demonstrating proficiency in using AI ethically to gain a competitive advantage in the job market.
-- Applied critical thinking skills to evaluate and analyze AI-generated outputs.
 - Completed at least 3 Business Communication Center presentation practice sessions and applied feedback to enhance clarity, organization, and audience awareness.
 - Demonstrated proficiency in presenting in both in-person and virtual environments.
 Links:
