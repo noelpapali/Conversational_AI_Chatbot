@@ -54,12 +54,6 @@ Heading: International Applicants
 
 --------------------------------------------------
 
-Heading: Questions?
-  Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
-  Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
 Heading: 
 
 --------------------------------------------------
@@ -130,12 +124,6 @@ Heading: Veterans
 
 --------------------------------------------------
 
-Heading: Questions?
-  Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
-  Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
 Heading: 
 
 --------------------------------------------------
@@ -183,12 +171,6 @@ Heading: Submitting Fee Waivers
 
 --------------------------------------------------
 
-Heading: Questions?
-  Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
-  Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
-
---------------------------------------------------
-
 Heading: 
 
 --------------------------------------------------
@@ -230,12 +212,6 @@ Heading: Your completed application will be reviewed.
 Heading: You will receive an admission decision.
   Paragraph: Once an admission decision is made, your application status will be updated in your Galaxy Applicant Center. A decision letter will also be mailed to the address listed on your application, as well as emailed to your UT Dallas email address.
   Paragraph: If admitted, you will need to complete the steps after admission for freshmen before you can register for classes.
-
---------------------------------------------------
-
-Heading: Questions?
-  Paragraph: Our admission counselors are here to help guide you through the entire admission process — from choosing your school and submitting your application to preparing for enrollment.
-  Paragraph: Contact us or use our counselor locator tool to email your assigned UT Dallas admission counselor directly.
 
 --------------------------------------------------
 
@@ -302,7 +278,6 @@ Heading:
 
 Heading: Visit UT Dallas
   Paragraph: Learn what it’s like to be a Comet.
-  Paragraph: 
 
 --------------------------------------------------
 

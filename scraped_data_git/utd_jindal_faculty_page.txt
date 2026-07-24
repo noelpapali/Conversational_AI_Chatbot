@@ -413,9 +413,6 @@ naim.ozel@utdallas.edu|(972) 883-5051|JSOM 4.403
 Research Professor, Operations Management
 oozer@utdallas.edu|(972) 883-2316|JSOM 3.412
 
-Professor of Practice, Program Director,  MS Business Analytics & AI - Cohort and Online, Information Systems
-antonio.paes@utdallas.edu||JSOM 3.810
-
 Associate Professor of Instruction, Marketing
 pxp030100@utdallas.edu|(972) 883-5042|JSOM 13.308
 
@@ -1551,12 +1548,6 @@ Research Professor, Operations Management
 oozer@utdallas.edu
 (972) 883-2316
 JSOM 3.412
-
-Antonio Padua Paes
-Professor of Practice, Program Director,  MS Business Analytics & AI - Cohort and Online, Information Systems
-antonio.paes@utdallas.edu
-
-JSOM 3.810
 
 Parneet  Pahwa
 Associate Professor of Instruction, Marketing
