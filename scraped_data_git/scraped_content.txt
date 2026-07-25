@@ -1785,10 +1785,6 @@ Context: EMBA Open House
 	- Text: EMBA Open House
 	  Href: https://calendar.utdallas.edu/event/emba-open-house-aug1
 
-Context: FinTEX – Insurance Conference 2026
-	- Text: FinTEX – Insurance Conference 2026
-	  Href: https://calendar.utdallas.edu/event/fintex-insurance-conference-2026
-
 Context: Apply Now
 	- Text: Apply Now
 	  Href: https://jindal.utdallas.edu/admission-requirements/?_ga=2.241799367.453193223.1743428658-29614718.1743199431
