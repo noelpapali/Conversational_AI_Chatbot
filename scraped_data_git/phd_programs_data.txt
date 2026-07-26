@@ -13,10 +13,10 @@ Headings:
   The Gateway to Your Academic Career
   Recent graduates secured tenure-track appointments at the following universities:
   PhD Resource Articles
+  What’s it like to be a PhD student?
   Why choose JSOM for my PhD?
   What makes a perfect PhD programs applicant?
   Is a PhD for you?
-  What’s it like to be a PhD student?
   News
   Dipak Jain Named as Jindal School’s Inaugural Eminent PhD Alumnus
   Jindal School PhD and MBA Graduate Wins Prestigious Fellow Award
@@ -36,11 +36,11 @@ Paragraphs:
   Typical awards include a $39,300 annual stipend and a tuition and fee waiver.
   Our aim is to place doctoral students in quality research universities by developing strong research and scholarly skills through advanced, specialized education.
   Find advice and resources you need as you consider joining the PhD program at the UT Dallas Jindal School of Management.
+  Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
   The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
   Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
   What does it mean to have a PhD?
   Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
-  Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
   A dog-eared letter dated April 7, 1982, is so important to Dr. Dipak C. Jain, PhD’86, MS’86, that he has kept it for forty-plus years.
   A graduate of The University of Texas at Dallas’ Naveen Jindal School of Management was recently named as one of six recipients of the INFORMS Information Systems Society Distinguished Fellow Award.
   Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
@@ -538,6 +538,17 @@ Find advice and resources you need as you consider joining the PhD program at th
 
  
 
+What’s it like to be a PhD student?
+Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+
+
+
+
+
+
+
+ 
+
 Why choose JSOM for my PhD?
 The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
 
@@ -563,17 +574,6 @@ Getting into a good PhD program is a bit like dating. Some programs are attracti
 Is a PhD for you?
 What does it mean to have a PhD?
 Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
-
-
-
-
-
-
-
- 
-
-What’s it like to be a PhD student?
-Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
 
 
  See all Resource Articles
@@ -675,70 +675,70 @@ Headings:
   Management Science
   Concentrate in the following areas:
   PhD Resource Articles
-  What makes a perfect PhD programs applicant?
   What’s it like to be a PhD student?
-  Is a PhD for you?
   Why choose JSOM for my PhD?
+  Is a PhD for you?
+  What makes a perfect PhD programs applicant?
   Alumni Testimonials
-  Wei Chen
-  Mina Ameri
-  Aidin Namin
-  Bharadwaj Kadiyala
-  Devendra Kale
-  Subodha Kumar
-  Oktay Urcan
-  Hasan Cavusoglu
-  Jess Cornaggia
   Zhengrui Jiang
+  Hasan Cavusoglu
+  Devendra Kale
+  Aidin Namin
   Qi Annabelle Feng
-  Tai-Yuan Chen
+  Oktay Urcan
   Blair Flicker
+  Subodha Kumar
   Xuying Zhao
+  Bharadwaj Kadiyala
   Harish Guda
+  Tai-Yuan Chen
+  Mina Ameri
+  Jess Cornaggia
+  Wei Chen
   Start your PhD application
 
 Paragraphs:
   Find advice and resources you need as you consider joining the PhD program at the UT Dallas Jindal School of Management.
-  Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
   Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+  The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
   What does it mean to have a PhD?
   Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
-  The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
-  Assistant Professor in Analytics, Information & Operations,
- School of Business, University of Kansas
-  Assistant Professor 
-The University of Pittsburgh
-  Associate Professor of Marketing Analytics, Loyola Marymount University
-  Assistant Professor,
-  Eccles School of Business, University of Utah
+  Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
+  Professor of Information Systems,
+ School of Business,
+Nanjing University
+  Professor of Management Information Systems 
+Sauder School of Business, The University of British Columbia
   PhD in Management Science, Accounting
 Assistant Professor, 
  University of Rhode Island
+  Associate Professor of Marketing Analytics, Loyola Marymount University
+  John and Donna Krenicki Chair, 
+Professor in Operations Management
+Krannert School of Management, Purdue University
+  Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign
+  Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
   Distinguished Fellow of the Information Systems Society, INFORMS 
 Paul R. Anderson Distinguished Chair Professor, 
 Marketing and Supply Chain Management, 
 Fox School of Business, Temple University
-  Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign
-  Professor of Management Information Systems 
-Sauder School of Business, The University of British Columbia
-  Alumni Professor of Finance,
- Smeal College of Business, Pennsylvania State University
-  Professor of Information Systems,
- School of Business,
-Nanjing University
-  John and Donna Krenicki Chair, 
-Professor in Operations Management
-Krannert School of Management, Purdue University
+  Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
+  Assistant Professor,
+  Eccles School of Business, University of Utah
+  Assistant Professor in Supply Chain Management 
+W.P. Carey School of Business, Arizona State University
   Alumni Professor of Finance,
  HKUST Business School,
 Hong Kong University of Science and Technology
-  Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
-  Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
-  Assistant Professor in Supply Chain Management 
-W.P. Carey School of Business, Arizona State University
+  Assistant Professor 
+The University of Pittsburgh
+  Alumni Professor of Finance,
+ Smeal College of Business, Pennsylvania State University
+  Assistant Professor in Analytics, Information & Operations,
+ School of Business, University of Kansas
   Before you apply, get familiar with the admission requirements and application process for Jindal School PhD programs at UT Dallas.
   Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
   Last Updated: March 4, 2024
@@ -1096,8 +1096,8 @@ Find advice and resources you need as you consider joining the PhD program at th
 
  
 
-What makes a perfect PhD programs applicant?
-Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
+What’s it like to be a PhD student?
+Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
 
 
 
@@ -1107,8 +1107,8 @@ Getting into a good PhD program is a bit like dating. Some programs are attracti
 
  
 
-What’s it like to be a PhD student?
-Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+Why choose JSOM for my PhD?
+The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
 
 
 
@@ -1130,8 +1130,8 @@ Do you want to be your own boss? Have flexible hours designed around your needs?
 
  
 
-Why choose JSOM for my PhD?
-The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
+What makes a perfect PhD programs applicant?
+Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
 
 
  See all Resource Articles
@@ -1144,13 +1144,14 @@ The University of Texas at Dallas is a relatively young university, officially l
  
 
 
-Wei Chen
+Zhengrui Jiang
 
-Assistant Professor in Analytics, Information & Operations,
- School of Business, University of Kansas
+Professor of Information Systems,
+ School of Business,
+Nanjing University
 
 
-When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
+The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
  
 
 
@@ -1164,13 +1165,34 @@ When I joined the PhD program at UT Dallas, I had a single objective in mind–t
  
 
 
-Mina Ameri
+Hasan Cavusoglu
 
-Assistant Professor 
-The University of Pittsburgh
+Professor of Management Information Systems 
+Sauder School of Business, The University of British Columbia
 
 
-I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Devendra Kale
+
+PhD in Management Science, Accounting
+Assistant Professor, 
+ University of Rhode Island
+
+
+My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
  
 
 
@@ -1203,13 +1225,14 @@ Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive l
  
 
 
-Bharadwaj Kadiyala
+Qi Annabelle Feng
 
-Assistant Professor,
-  Eccles School of Business, University of Utah
+John and Donna Krenicki Chair, 
+Professor in Operations Management
+Krannert School of Management, Purdue University
 
 
-The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
+During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
  
 
 
@@ -1223,14 +1246,33 @@ The PhD program at UTD provides a fantastic environment for learning and sharing
  
 
 
-Devendra Kale
+Oktay Urcan
 
-PhD in Management Science, Accounting
-Assistant Professor, 
- University of Rhode Island
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign  
 
 
-My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Blair Flicker
+
+Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
+
+
+The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
  
 
 
@@ -1266,13 +1308,13 @@ The PhD program at the Jindal School of Management prepared me for a successful 
  
 
 
-Oktay Urcan
+Xuying Zhao
 
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign  
+Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
 
 
-PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
  
 
 
@@ -1286,13 +1328,13 @@ PhD education at Jindal School of Management transformed me from an undergraduat
  
 
 
-Hasan Cavusoglu
+Bharadwaj Kadiyala
 
-Professor of Management Information Systems 
-Sauder School of Business, The University of British Columbia
+Assistant Professor,
+  Eccles School of Business, University of Utah
 
 
-Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
  
 
 
@@ -1306,55 +1348,13 @@ Beyond their remarkable intellect, the faculty members at the Jindal School of M
  
 
 
-Jess Cornaggia
+Harish Guda
 
-Alumni Professor of Finance,
- Smeal College of Business, Pennsylvania State University
-
-
-The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
- 
+Assistant Professor in Supply Chain Management 
+W.P. Carey School of Business, Arizona State University
 
 
-
-
-
-
-
-
-
- 
-
-
-Zhengrui Jiang
-
-Professor of Information Systems,
- School of Business,
-Nanjing University
-
-
-The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Qi Annabelle Feng
-
-John and Donna Krenicki Chair, 
-Professor in Operations Management
-Krannert School of Management, Purdue University
-
-
-During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
+The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
  
 
 
@@ -1389,13 +1389,13 @@ The PhD program at UTD offered solid and life-altering training to students. Fac
  
 
 
-Blair Flicker
+Mina Ameri
 
-Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
+Assistant Professor 
+The University of Pittsburgh
 
 
-The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
+I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
  
 
 
@@ -1409,13 +1409,13 @@ The PhD program at UT Dallas has been nothing short of life-changing. The facult
  
 
 
-Xuying Zhao
+Jess Cornaggia
 
-Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
+Alumni Professor of Finance,
+ Smeal College of Business, Pennsylvania State University
 
 
-At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
  
 
 
@@ -1429,13 +1429,13 @@ At UTDallas, I met so many excellent professors and classmates, who have become 
  
 
 
-Harish Guda
+Wei Chen
 
-Assistant Professor in Supply Chain Management 
-W.P. Carey School of Business, Arizona State University
+Assistant Professor in Analytics, Information & Operations,
+ School of Business, University of Kansas
 
 
-The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
+When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
  
 
 
@@ -1482,33 +1482,21 @@ Finance
 Information Systems
 Marketing
 Operations Management
-  Wei Chen
+  Zhengrui Jiang
 
-Assistant Professor in Analytics, Information & Operations,
- School of Business, University of Kansas
-
-
-When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
-  Mina Ameri
-
-Assistant Professor 
-The University of Pittsburgh
+Professor of Information Systems,
+ School of Business,
+Nanjing University
 
 
-I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
-  Aidin Namin
+The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
+  Hasan Cavusoglu
 
-Associate Professor of Marketing Analytics, Loyola Marymount University
-
-
-Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
-  Bharadwaj Kadiyala
-
-Assistant Professor,
-  Eccles School of Business, University of Utah
+Professor of Management Information Systems 
+Sauder School of Business, The University of British Columbia
 
 
-The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
+Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
   Devendra Kale
 
 PhD in Management Science, Accounting
@@ -1517,6 +1505,34 @@ Assistant Professor,
 
 
 My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+  Aidin Namin
+
+Associate Professor of Marketing Analytics, Loyola Marymount University
+
+
+Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
+  Qi Annabelle Feng
+
+John and Donna Krenicki Chair, 
+Professor in Operations Management
+Krannert School of Management, Purdue University
+
+
+During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
+  Oktay Urcan
+
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign  
+
+
+PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+  Blair Flicker
+
+Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
+
+
+The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
   Subodha Kumar
 
 Distinguished Fellow of the Information Systems Society, INFORMS 
@@ -1526,43 +1542,27 @@ Fox School of Business, Temple University
 
 
 The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
-  Oktay Urcan
+  Xuying Zhao
 
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign  
-
-
-PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
-  Hasan Cavusoglu
-
-Professor of Management Information Systems 
-Sauder School of Business, The University of British Columbia
+Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
 
 
-Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
-  Jess Cornaggia
+At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+  Bharadwaj Kadiyala
 
-Alumni Professor of Finance,
- Smeal College of Business, Pennsylvania State University
-
-
-The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
-  Zhengrui Jiang
-
-Professor of Information Systems,
- School of Business,
-Nanjing University
+Assistant Professor,
+  Eccles School of Business, University of Utah
 
 
-The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
-  Qi Annabelle Feng
+The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
+  Harish Guda
 
-John and Donna Krenicki Chair, 
-Professor in Operations Management
-Krannert School of Management, Purdue University
+Assistant Professor in Supply Chain Management 
+W.P. Carey School of Business, Arizona State University
 
 
-During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
+The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
   Tai-Yuan Chen
 
 Alumni Professor of Finance,
@@ -1571,27 +1571,27 @@ Hong Kong University of Science and Technology
 
 
 The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
-  Blair Flicker
+  Mina Ameri
 
-Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
-
-
-The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
-  Xuying Zhao
-
-Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
+Assistant Professor 
+The University of Pittsburgh
 
 
-At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
-  Harish Guda
+I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+  Jess Cornaggia
 
-Assistant Professor in Supply Chain Management 
-W.P. Carey School of Business, Arizona State University
+Alumni Professor of Finance,
+ Smeal College of Business, Pennsylvania State University
 
 
-The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
+The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
+  Wei Chen
+
+Assistant Professor in Analytics, Information & Operations,
+ School of Business, University of Kansas
+
+
+When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
   Undergraduate
 MS
 MBA
@@ -1612,36 +1612,36 @@ Faculty Publications
 News & Stories
 
 Testimonials:
-  Name: Wei Chen
-  Quote: When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
-  Name: Mina Ameri
-  Quote: I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
-  Name: Aidin Namin
-  Quote: Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
-  Name: Bharadwaj Kadiyala
-  Quote: The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
-  Name: Devendra Kale
-  Quote: My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
-  Name: Subodha Kumar
-  Quote: The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
-  Name: Oktay Urcan
-  Quote: PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
-  Name: Hasan Cavusoglu
-  Quote: Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
-  Name: Jess Cornaggia
-  Quote: The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
   Name: Zhengrui Jiang
   Quote: The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
+  Name: Hasan Cavusoglu
+  Quote: Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+  Name: Devendra Kale
+  Quote: My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+  Name: Aidin Namin
+  Quote: Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
   Name: Qi Annabelle Feng
   Quote: During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
-  Name: Tai-Yuan Chen
-  Quote: The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+  Name: Oktay Urcan
+  Quote: PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
   Name: Blair Flicker
   Quote: The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
+  Name: Subodha Kumar
+  Quote: The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
   Name: Xuying Zhao
   Quote: At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+  Name: Bharadwaj Kadiyala
+  Quote: The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
   Name: Harish Guda
   Quote: The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
+  Name: Tai-Yuan Chen
+  Quote: The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+  Name: Mina Ameri
+  Quote: I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+  Name: Jess Cornaggia
+  Quote: The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
+  Name: Wei Chen
+  Quote: When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
 
 ==================================================
 
@@ -1654,26 +1654,26 @@ Headings:
   PhD Grants Program
   McDermott Fellows
   Alumni Testimonials
+  Hasan Cavusoglu
+  Jess Cornaggia
+  Aidin Namin
+  Qi Annabelle Feng
   Wei Chen
-  Oktay Urcan
+  Tai-Yuan Chen
+  Xuying Zhao
   Bharadwaj Kadiyala
   Subodha Kumar
-  Mina Ameri
-  Jess Cornaggia
-  Tai-Yuan Chen
-  Hasan Cavusoglu
-  Qi Annabelle Feng
-  Aidin Namin
-  Xuying Zhao
+  Blair Flicker
   Harish Guda
   Zhengrui Jiang
+  Mina Ameri
+  Oktay Urcan
   Devendra Kale
-  Blair Flicker
   PhD Resource Articles
-  Why choose JSOM for my PhD?
   What makes a perfect PhD programs applicant?
-  What’s it like to be a PhD student?
+  Why choose JSOM for my PhD?
   Is a PhD for you?
+  What’s it like to be a PhD student?
   Start your PhD application
 
 Paragraphs:
@@ -1694,47 +1694,47 @@ Tuition & fees
 Discretionary budget of $10,000
 Professional development activities and enrichment opportunities
   The award is for 4 years (5th year as needed).15 of the most talented applicants to doctoral programs at UT Dallas will be named fellows. There is no separate application for the program; applicants will be automatically considered during admissions. Details can be found at the Eugene McDermott Graduate Fellows  website.
+  Professor of Management Information Systems 
+Sauder School of Business, The University of British Columbia
+  Alumni Professor of Finance,
+ Smeal College of Business, Pennsylvania State University
+  Associate Professor of Marketing Analytics, Loyola Marymount University
+  John and Donna Krenicki Chair, 
+Professor in Operations Management
+Krannert School of Management, Purdue University
   Assistant Professor in Analytics, Information & Operations,
  School of Business, University of Kansas
-  Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign
+  Alumni Professor of Finance,
+ HKUST Business School,
+Hong Kong University of Science and Technology
+  Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
   Assistant Professor,
   Eccles School of Business, University of Utah
   Distinguished Fellow of the Information Systems Society, INFORMS 
 Paul R. Anderson Distinguished Chair Professor, 
 Marketing and Supply Chain Management, 
 Fox School of Business, Temple University
-  Assistant Professor 
-The University of Pittsburgh
-  Alumni Professor of Finance,
- Smeal College of Business, Pennsylvania State University
-  Alumni Professor of Finance,
- HKUST Business School,
-Hong Kong University of Science and Technology
-  Professor of Management Information Systems 
-Sauder School of Business, The University of British Columbia
-  John and Donna Krenicki Chair, 
-Professor in Operations Management
-Krannert School of Management, Purdue University
-  Associate Professor of Marketing Analytics, Loyola Marymount University
-  Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
+  Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
   Assistant Professor in Supply Chain Management 
 W.P. Carey School of Business, Arizona State University
   Professor of Information Systems,
  School of Business,
 Nanjing University
+  Assistant Professor 
+The University of Pittsburgh
+  Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign
   PhD in Management Science, Accounting
 Assistant Professor, 
  University of Rhode Island
-  Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
   Find advice and resources you need as you consider joining the PhD program at the UT Dallas Jindal School of Management.
-  The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
   Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
-  Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+  The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
   What does it mean to have a PhD?
   Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
+  Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
   Before you apply, get familiar with the admission requirements and application process for Jindal School PhD programs at UT Dallas.
   Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
   Last Updated: August 13, 2025
@@ -2116,17 +2116,6 @@ Find advice and resources you need as you consider joining the PhD program at th
 
  
 
-Why choose JSOM for my PhD?
-The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
-
-
-
-
-
-
-
- 
-
 What makes a perfect PhD programs applicant?
 Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
 
@@ -2138,8 +2127,8 @@ Getting into a good PhD program is a bit like dating. Some programs are attracti
 
  
 
-What’s it like to be a PhD student?
-Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+Why choose JSOM for my PhD?
+The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
 
 
 
@@ -2154,6 +2143,17 @@ What does it mean to have a PhD?
 Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
 
 
+
+
+
+
+
+ 
+
+What’s it like to be a PhD student?
+Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+
+
  See all Resource Articles
   Start your PhD application
 Before you apply, get familiar with the admission requirements and application process for Jindal School PhD programs at UT Dallas. 
@@ -2161,6 +2161,86 @@ How to Apply
 
 Elements with class 'smallblock':
   Alumni Testimonials
+
+
+
+
+
+ 
+
+
+Hasan Cavusoglu
+
+Professor of Management Information Systems 
+Sauder School of Business, The University of British Columbia
+
+
+Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jess Cornaggia
+
+Alumni Professor of Finance,
+ Smeal College of Business, Pennsylvania State University
+
+
+The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Aidin Namin
+
+Associate Professor of Marketing Analytics, Loyola Marymount University
+
+
+Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Qi Annabelle Feng
+
+John and Donna Krenicki Chair, 
+Professor in Operations Management
+Krannert School of Management, Purdue University
+
+
+During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
+ 
+
+
+
+
 
 
 
@@ -2189,13 +2269,34 @@ When I joined the PhD program at UT Dallas, I had a single objective in mind–t
  
 
 
-Oktay Urcan
+Tai-Yuan Chen
 
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign  
+Alumni Professor of Finance,
+ HKUST Business School,
+Hong Kong University of Science and Technology
 
 
-PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Xuying Zhao
+
+Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
+
+
+At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
  
 
 
@@ -2251,134 +2352,13 @@ The PhD program at the Jindal School of Management prepared me for a successful 
  
 
 
-Mina Ameri
+Blair Flicker
 
-Assistant Professor 
-The University of Pittsburgh
+Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
 
 
-I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Jess Cornaggia
-
-Alumni Professor of Finance,
- Smeal College of Business, Pennsylvania State University
-
-
-The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Tai-Yuan Chen
-
-Alumni Professor of Finance,
- HKUST Business School,
-Hong Kong University of Science and Technology
-
-
-The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Hasan Cavusoglu
-
-Professor of Management Information Systems 
-Sauder School of Business, The University of British Columbia
-
-
-Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Qi Annabelle Feng
-
-John and Donna Krenicki Chair, 
-Professor in Operations Management
-Krannert School of Management, Purdue University
-
-
-During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Aidin Namin
-
-Associate Professor of Marketing Analytics, Loyola Marymount University
-
-
-Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Xuying Zhao
-
-Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
-
-
-At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
  
 
 
@@ -2433,6 +2413,46 @@ The faculty at the Jindal School of Management is world-renowned for their high 
  
 
 
+Mina Ameri
+
+Assistant Professor 
+The University of Pittsburgh
+
+
+I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Oktay Urcan
+
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign  
+
+
+PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
 Devendra Kale
 
 PhD in Management Science, Accounting
@@ -2441,26 +2461,6 @@ Assistant Professor,
 
 
 My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Blair Flicker
-
-Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
-
-
-The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
  
 
 
@@ -2476,6 +2476,34 @@ Elements with class 'colgrid':
 
 
 3rd-5th Year: $5,000
+  Hasan Cavusoglu
+
+Professor of Management Information Systems 
+Sauder School of Business, The University of British Columbia
+
+
+Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+  Jess Cornaggia
+
+Alumni Professor of Finance,
+ Smeal College of Business, Pennsylvania State University
+
+
+The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
+  Aidin Namin
+
+Associate Professor of Marketing Analytics, Loyola Marymount University
+
+
+Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
+  Qi Annabelle Feng
+
+John and Donna Krenicki Chair, 
+Professor in Operations Management
+Krannert School of Management, Purdue University
+
+
+During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
   Wei Chen
 
 Assistant Professor in Analytics, Information & Operations,
@@ -2483,13 +2511,21 @@ Assistant Professor in Analytics, Information & Operations,
 
 
 When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
-  Oktay Urcan
+  Tai-Yuan Chen
 
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign  
+Alumni Professor of Finance,
+ HKUST Business School,
+Hong Kong University of Science and Technology
 
 
-PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+  Xuying Zhao
+
+Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
+
+
+At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
   Bharadwaj Kadiyala
 
 Assistant Professor,
@@ -2506,56 +2542,13 @@ Fox School of Business, Temple University
 
 
 The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
-  Mina Ameri
+  Blair Flicker
 
-Assistant Professor 
-The University of Pittsburgh
-
-
-I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
-  Jess Cornaggia
-
-Alumni Professor of Finance,
- Smeal College of Business, Pennsylvania State University
+Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
 
 
-The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
-  Tai-Yuan Chen
-
-Alumni Professor of Finance,
- HKUST Business School,
-Hong Kong University of Science and Technology
-
-
-The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
-  Hasan Cavusoglu
-
-Professor of Management Information Systems 
-Sauder School of Business, The University of British Columbia
-
-
-Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
-  Qi Annabelle Feng
-
-John and Donna Krenicki Chair, 
-Professor in Operations Management
-Krannert School of Management, Purdue University
-
-
-During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
-  Aidin Namin
-
-Associate Professor of Marketing Analytics, Loyola Marymount University
-
-
-Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
-  Xuying Zhao
-
-Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
-
-
-At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
   Harish Guda
 
 Assistant Professor in Supply Chain Management 
@@ -2571,6 +2564,20 @@ Nanjing University
 
 
 The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
+  Mina Ameri
+
+Assistant Professor 
+The University of Pittsburgh
+
+
+I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+  Oktay Urcan
+
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign  
+
+
+PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
   Devendra Kale
 
 PhD in Management Science, Accounting
@@ -2579,13 +2586,6 @@ Assistant Professor,
 
 
 My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
-  Blair Flicker
-
-Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
-
-
-The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
   Undergraduate
 MS
 MBA
@@ -2606,36 +2606,36 @@ Faculty Publications
 News & Stories
 
 Testimonials:
+  Name: Hasan Cavusoglu
+  Quote: Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+  Name: Jess Cornaggia
+  Quote: The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
+  Name: Aidin Namin
+  Quote: Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
+  Name: Qi Annabelle Feng
+  Quote: During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
   Name: Wei Chen
   Quote: When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
-  Name: Oktay Urcan
-  Quote: PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+  Name: Tai-Yuan Chen
+  Quote: The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+  Name: Xuying Zhao
+  Quote: At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
   Name: Bharadwaj Kadiyala
   Quote: The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
   Name: Subodha Kumar
   Quote: The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
-  Name: Mina Ameri
-  Quote: I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
-  Name: Jess Cornaggia
-  Quote: The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
-  Name: Tai-Yuan Chen
-  Quote: The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
-  Name: Hasan Cavusoglu
-  Quote: Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
-  Name: Qi Annabelle Feng
-  Quote: During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
-  Name: Aidin Namin
-  Quote: Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
-  Name: Xuying Zhao
-  Quote: At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+  Name: Blair Flicker
+  Quote: The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
   Name: Harish Guda
   Quote: The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
   Name: Zhengrui Jiang
   Quote: The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
+  Name: Mina Ameri
+  Quote: I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+  Name: Oktay Urcan
+  Quote: PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
   Name: Devendra Kale
   Quote: My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
-  Name: Blair Flicker
-  Quote: The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
 
 ==================================================
 
@@ -4378,15 +4378,15 @@ Headings:
   International student rules and information
   Where do I find the forms for visa application and sponsorship?
   Student Testimonials
-  Monique Tran, MS’25, BS’23
-  Sonal Patel, MS’24/ MBA’23
-  Rolando Perez, BS’20/ MS’23
   Steven Match, MS’24
-  Kennedy Shaffer, MS’20
+  Rolando Perez, BS’20/ MS’23
   Dr. Sai Lakhan Kyasa, MS’24
-  Karun Joseph, BS’22/ MS’23
-  Blake Cedeno, BS’21, MS’23
   Kennedy Shaffer, MS’20
+  Monique Tran, MS’25, BS’23
+  Kennedy Shaffer, MS’20
+  Karun Joseph, BS’22/ MS’23
+  Sonal Patel, MS’24/ MBA’23
+  Blake Cedeno, BS’21, MS’23
   Upcoming Events
   Ready to start your graduate application?
 
@@ -4456,16 +4456,16 @@ Office of Financial Aid – Scholarships
   UT Dallas has a student services department that helps international students. Please visit the International Student Services webpages.
   These can be obtained from your local U.S. embassy or consulate. Consult UTD’s International Student Services for helpful tips and links.
 For more information, see
-  Monique Tran, a Spring 2025 MS graduate and fast-track student, has been a standout member of our program since her undergraduate years. While she initially pursued a clinical path, her internships with Elevance Health, Parkland Health, and Amentum sparked a deeper interest in the broader impact of healthcare systems. Monique’s academic excellence is reflected in her outstanding 3.9 GPA, and her leadership as Vice President and President of the Elite Scholars and Leaders Program.
-  Sonal Patel, RDN, is a Public Health Specialist at Dallas County Health and Human Services. She completed her MBA/MS in Healthcare Leadership and Management at the University of Texas at Dallas in 2024. As a dedicated health and wellness professional, Patel brings a wealth of experience from corporate wellness to clinical practice, consistently achieving high patient satisfaction and improved health outcomes. With extensive expertise in program development and implementation, she excels in communication and collaboration, making her a valuable asset in any health and wellness initiative.
-  Perez is a distinguished MS Healthcare Leadership and Management graduate from UT Dallas. During his time there, he also served as the president for the Elite Scholar and Leader Program. He is currently working as a Schedule Capacity Analyst II at UT Southwestern Medical Center. He also serves as the Vice-Chair for the ACHE NTX Student Council and as the Chair for the Member Engagement Committee for NALHE DFW. Driven by a commitment to innovation in healthcare, Perez aims to enhance healthcare quality and access while reducing costs, ensuring that everyone can afford high-quality care. Deeply rooted in Texas, he is dedicated to fostering collaboration and understanding within the healthcare community, believing that unity and mutual respect are key to achieving common goals.
   Match is the Director of Procurement Solutions at Vizient, where he leads initiatives aimed at improving healthcare performance. With a focus on leveraging analytical insights and fostering client partnerships, Match drives project success through strategic thinking and outstanding communication. His dedication to maximizing the benefits of Vizient’s offerings across diverse client scenarios highlights his commitment to enhancing efficiency and effectiveness in healthcare procurement. Match’s ability to build positive relationships and deliver strategic solutions underscores his expertise and enthusiasm in the field.
-  Patient Coordinator, Identity Eyecare
+  Perez is a distinguished MS Healthcare Leadership and Management graduate from UT Dallas. During his time there, he also served as the president for the Elite Scholar and Leader Program. He is currently working as a Schedule Capacity Analyst II at UT Southwestern Medical Center. He also serves as the Vice-Chair for the ACHE NTX Student Council and as the Chair for the Member Engagement Committee for NALHE DFW. Driven by a commitment to innovation in healthcare, Perez aims to enhance healthcare quality and access while reducing costs, ensuring that everyone can afford high-quality care. Deeply rooted in Texas, he is dedicated to fostering collaboration and understanding within the healthcare community, believing that unity and mutual respect are key to achieving common goals.
   Kyasa is a dedicated physician from India. Upon graduating from the MS Healthcare Leadership and Management program, he secured a position as a Clinical Research Coordinator at Harvard Medical School and Massachusetts General Hospital. With a robust proficiency in Epic software, eClinicalWorks, and clinical monitoring, Kyasa brings a diverse skill set to healthcare operations. His expertise extends to research design development, marketing strategy, and the pharmaceutical industry. Kyasa is committed to advancing healthcare outcomes and is eager to connect and collaborate with others in the medical community on innovative healthcare solutions.
+  Jason Mikhaiel is the Medicaid Eligibility Area Manager, following his role as a CSO Manager in Training at Parallon. With extensive experience in customer service and a passion for engaging with people, Mikhaiel is always eager to gain new experiences and embrace new opportunities. He recently earned his Master’s degree in Healthcare Management from the University of Texas at Dallas. Mikhaiel thrives on challenges that push and motivate him to innovate and find better ways to accomplish tasks. He believes in the endless pursuit of knowledge, regardless of one’s experience or tenure.
+  Monique Tran, a Spring 2025 MS graduate and fast-track student, has been a standout member of our program since her undergraduate years. While she initially pursued a clinical path, her internships with Elevance Health, Parkland Health, and Amentum sparked a deeper interest in the broader impact of healthcare systems. Monique’s academic excellence is reflected in her outstanding 3.9 GPA, and her leadership as Vice President and President of the Elite Scholars and Leaders Program.
+  Patient Coordinator, Identity Eyecare
   Karun Joseph is a Senior Sourcing Analyst at Health Care Service Corporation. She graduated from the MS in Healthcare Leadership and Management program in 2023. Joseph has successfully implemented sourcing strategies and processes, managed supplier relationships, and led cross-functional projects aimed at optimizing continuous improvement within the procurement organization. Her expertise in strategic sourcing and process improvement is instrumental in enhancing the efficiency and effectiveness of the procurement function.
+  Sonal Patel, RDN, is a Public Health Specialist at Dallas County Health and Human Services. She completed her MBA/MS in Healthcare Leadership and Management at the University of Texas at Dallas in 2024. As a dedicated health and wellness professional, Patel brings a wealth of experience from corporate wellness to clinical practice, consistently achieving high patient satisfaction and improved health outcomes. With extensive expertise in program development and implementation, she excels in communication and collaboration, making her a valuable asset in any health and wellness initiative.
   Assistant Market Director – Patient Access, Parallon HCA Healthcare
   Cedeno started his career with Parallon in January 2022 as part of Parallon’s Manager In Training program where he served at Medical City Dallas, Medical City Heart and Spine, and Medical City Arlington. Cedeno received a recent promotion to Assistant Market Director for Patient Access where he continues to drive exceptional operational performance and deliver team engagement. During his tenure with Parallon, Cedeno has been involved with many projects and has been instrumental in Medical City Dallas’s top tier performance. Cedeno graduated from The University of Texas at Dallas with a Bachelor’s Degree in Healthcare Management in 2021 and his Master’s degree in 2023 as part of the Healthcare Leadership and Management program.
-  Jason Mikhaiel is the Medicaid Eligibility Area Manager, following his role as a CSO Manager in Training at Parallon. With extensive experience in customer service and a passion for engaging with people, Mikhaiel is always eager to gain new experiences and embrace new opportunities. He recently earned his Master’s degree in Healthcare Management from the University of Texas at Dallas. Mikhaiel thrives on challenges that push and motivate him to innovate and find better ways to accomplish tasks. He believes in the endless pursuit of knowledge, regardless of one’s experience or tenure.
   Before you apply, get familiar with the application process for Jindal School graduate programs at UT Dallas.
   Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
   Last Updated: August 6, 2025
@@ -5176,24 +5176,8 @@ COVID-19 International Student FAQs
  
 
 
-Monique Tran, MS’25, BS’23
-Monique Tran, a Spring 2025 MS graduate and fast-track student, has been a standout member of our program since her undergraduate years. While she initially pursued a clinical path, her internships with Elevance Health, Parkland Health, and Amentum sparked a deeper interest in the broader impact of healthcare systems. Monique’s academic excellence is reflected in her outstanding 3.9 GPA, and her leadership as Vice President and President of the Elite Scholars and Leaders Program.
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-Sonal Patel, MS’24/ MBA’23
-Sonal Patel, RDN, is a Public Health Specialist at Dallas County Health and Human Services. She completed her MBA/MS in Healthcare Leadership and Management at the University of Texas at Dallas in 2024. As a dedicated health and wellness professional, Patel brings a wealth of experience from corporate wellness to clinical practice, consistently achieving high patient satisfaction and improved health outcomes. With extensive expertise in program development and implementation, she excels in communication and collaboration, making her a valuable asset in any health and wellness initiative.
+Steven Match, MS’24
+Match is the Director of Procurement Solutions at Vizient, where he leads initiatives aimed at improving healthcare performance. With a focus on leveraging analytical insights and fostering client partnerships, Match drives project success through strategic thinking and outstanding communication. His dedication to maximizing the benefits of Vizient’s offerings across diverse client scenarios highlights his commitment to enhancing efficiency and effectiveness in healthcare procurement. Match’s ability to build positive relationships and deliver strategic solutions underscores his expertise and enthusiasm in the field.
 
 
 
@@ -5224,8 +5208,40 @@ Perez is a distinguished MS Healthcare Leadership and Management graduate from U
  
 
 
-Steven Match, MS’24
-Match is the Director of Procurement Solutions at Vizient, where he leads initiatives aimed at improving healthcare performance. With a focus on leveraging analytical insights and fostering client partnerships, Match drives project success through strategic thinking and outstanding communication. His dedication to maximizing the benefits of Vizient’s offerings across diverse client scenarios highlights his commitment to enhancing efficiency and effectiveness in healthcare procurement. Match’s ability to build positive relationships and deliver strategic solutions underscores his expertise and enthusiasm in the field.
+Dr. Sai Lakhan Kyasa, MS’24
+Kyasa is a dedicated physician from India. Upon graduating from the MS Healthcare Leadership and Management program, he secured a position as a Clinical Research Coordinator at Harvard Medical School and Massachusetts General Hospital. With a robust proficiency in Epic software, eClinicalWorks, and clinical monitoring, Kyasa brings a diverse skill set to healthcare operations. His expertise extends to research design development, marketing strategy, and the pharmaceutical industry. Kyasa is committed to advancing healthcare outcomes and is eager to connect and collaborate with others in the medical community on innovative healthcare solutions.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kennedy Shaffer, MS’20
+Jason Mikhaiel is the Medicaid Eligibility Area Manager, following his role as a CSO Manager in Training at Parallon. With extensive experience in customer service and a passion for engaging with people, Mikhaiel is always eager to gain new experiences and embrace new opportunities. He recently earned his Master’s degree in Healthcare Management from the University of Texas at Dallas. Mikhaiel thrives on challenges that push and motivate him to innovate and find better ways to accomplish tasks. He believes in the endless pursuit of knowledge, regardless of one’s experience or tenure.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Monique Tran, MS’25, BS’23
+Monique Tran, a Spring 2025 MS graduate and fast-track student, has been a standout member of our program since her undergraduate years. While she initially pursued a clinical path, her internships with Elevance Health, Parkland Health, and Amentum sparked a deeper interest in the broader impact of healthcare systems. Monique’s academic excellence is reflected in her outstanding 3.9 GPA, and her leadership as Vice President and President of the Elite Scholars and Leaders Program.
 
 
 
@@ -5257,8 +5273,8 @@ Upon graduation, I approached one of my professors with my dilemma, and he intro
  
 
 
-Dr. Sai Lakhan Kyasa, MS’24
-Kyasa is a dedicated physician from India. Upon graduating from the MS Healthcare Leadership and Management program, he secured a position as a Clinical Research Coordinator at Harvard Medical School and Massachusetts General Hospital. With a robust proficiency in Epic software, eClinicalWorks, and clinical monitoring, Kyasa brings a diverse skill set to healthcare operations. His expertise extends to research design development, marketing strategy, and the pharmaceutical industry. Kyasa is committed to advancing healthcare outcomes and is eager to connect and collaborate with others in the medical community on innovative healthcare solutions.
+Karun Joseph, BS’22/ MS’23
+Karun Joseph is a Senior Sourcing Analyst at Health Care Service Corporation. She graduated from the MS in Healthcare Leadership and Management program in 2023. Joseph has successfully implemented sourcing strategies and processes, managed supplier relationships, and led cross-functional projects aimed at optimizing continuous improvement within the procurement organization. Her expertise in strategic sourcing and process improvement is instrumental in enhancing the efficiency and effectiveness of the procurement function.
 
 
 
@@ -5273,8 +5289,8 @@ Kyasa is a dedicated physician from India. Upon graduating from the MS Healthcar
  
 
 
-Karun Joseph, BS’22/ MS’23
-Karun Joseph is a Senior Sourcing Analyst at Health Care Service Corporation. She graduated from the MS in Healthcare Leadership and Management program in 2023. Joseph has successfully implemented sourcing strategies and processes, managed supplier relationships, and led cross-functional projects aimed at optimizing continuous improvement within the procurement organization. Her expertise in strategic sourcing and process improvement is instrumental in enhancing the efficiency and effectiveness of the procurement function.
+Sonal Patel, MS’24/ MBA’23
+Sonal Patel, RDN, is a Public Health Specialist at Dallas County Health and Human Services. She completed her MBA/MS in Healthcare Leadership and Management at the University of Texas at Dallas in 2024. As a dedicated health and wellness professional, Patel brings a wealth of experience from corporate wellness to clinical practice, consistently achieving high patient satisfaction and improved health outcomes. With extensive expertise in program development and implementation, she excels in communication and collaboration, making her a valuable asset in any health and wellness initiative.
 
 
 
@@ -5292,22 +5308,6 @@ Karun Joseph is a Senior Sourcing Analyst at Health Care Service Corporation. Sh
 Blake Cedeno, BS’21, MS’23
 Assistant Market Director – Patient Access, Parallon HCA Healthcare
 Cedeno started his career with Parallon in January 2022 as part of Parallon’s Manager In Training program where he served at Medical City Dallas, Medical City Heart and Spine, and Medical City Arlington. Cedeno received a recent promotion to Assistant Market Director for Patient Access where he continues to drive exceptional operational performance and deliver team engagement. During his tenure with Parallon, Cedeno has been involved with many projects and has been instrumental in Medical City Dallas’s top tier performance. Cedeno graduated from The University of Texas at Dallas with a Bachelor’s Degree in Healthcare Management in 2021 and his Master’s degree in 2023 as part of the Healthcare Leadership and Management program.
-
-
-
-
-
-
-
-
-
-
- 
-
-
-Kennedy Shaffer, MS’20
-Jason Mikhaiel is the Medicaid Eligibility Area Manager, following his role as a CSO Manager in Training at Parallon. With extensive experience in customer service and a passion for engaging with people, Mikhaiel is always eager to gain new experiences and embrace new opportunities. He recently earned his Master’s degree in Healthcare Management from the University of Texas at Dallas. Mikhaiel thrives on challenges that push and motivate him to innovate and find better ways to accomplish tasks. He believes in the endless pursuit of knowledge, regardless of one’s experience or tenure.
-
 
 
 
@@ -5442,28 +5442,28 @@ For more information, see
 COVID-19 International Student FAQs
 
 Elements with class 'colgrid':
-  Monique Tran, MS’25, BS’23
-Monique Tran, a Spring 2025 MS graduate and fast-track student, has been a standout member of our program since her undergraduate years. While she initially pursued a clinical path, her internships with Elevance Health, Parkland Health, and Amentum sparked a deeper interest in the broader impact of healthcare systems. Monique’s academic excellence is reflected in her outstanding 3.9 GPA, and her leadership as Vice President and President of the Elite Scholars and Leaders Program.
-  Sonal Patel, MS’24/ MBA’23
-Sonal Patel, RDN, is a Public Health Specialist at Dallas County Health and Human Services. She completed her MBA/MS in Healthcare Leadership and Management at the University of Texas at Dallas in 2024. As a dedicated health and wellness professional, Patel brings a wealth of experience from corporate wellness to clinical practice, consistently achieving high patient satisfaction and improved health outcomes. With extensive expertise in program development and implementation, she excels in communication and collaboration, making her a valuable asset in any health and wellness initiative.
-  Rolando Perez, BS’20/ MS’23
-Perez is a distinguished MS Healthcare Leadership and Management graduate from UT Dallas. During his time there, he also served as the president for the Elite Scholar and Leader Program. He is currently working as a Schedule Capacity Analyst II at UT Southwestern Medical Center. He also serves as the Vice-Chair for the ACHE NTX Student Council and as the Chair for the Member Engagement Committee for NALHE DFW. Driven by a commitment to innovation in healthcare, Perez aims to enhance healthcare quality and access while reducing costs, ensuring that everyone can afford high-quality care. Deeply rooted in Texas, he is dedicated to fostering collaboration and understanding within the healthcare community, believing that unity and mutual respect are key to achieving common goals.
   Steven Match, MS’24
 Match is the Director of Procurement Solutions at Vizient, where he leads initiatives aimed at improving healthcare performance. With a focus on leveraging analytical insights and fostering client partnerships, Match drives project success through strategic thinking and outstanding communication. His dedication to maximizing the benefits of Vizient’s offerings across diverse client scenarios highlights his commitment to enhancing efficiency and effectiveness in healthcare procurement. Match’s ability to build positive relationships and deliver strategic solutions underscores his expertise and enthusiasm in the field.
+  Rolando Perez, BS’20/ MS’23
+Perez is a distinguished MS Healthcare Leadership and Management graduate from UT Dallas. During his time there, he also served as the president for the Elite Scholar and Leader Program. He is currently working as a Schedule Capacity Analyst II at UT Southwestern Medical Center. He also serves as the Vice-Chair for the ACHE NTX Student Council and as the Chair for the Member Engagement Committee for NALHE DFW. Driven by a commitment to innovation in healthcare, Perez aims to enhance healthcare quality and access while reducing costs, ensuring that everyone can afford high-quality care. Deeply rooted in Texas, he is dedicated to fostering collaboration and understanding within the healthcare community, believing that unity and mutual respect are key to achieving common goals.
+  Dr. Sai Lakhan Kyasa, MS’24
+Kyasa is a dedicated physician from India. Upon graduating from the MS Healthcare Leadership and Management program, he secured a position as a Clinical Research Coordinator at Harvard Medical School and Massachusetts General Hospital. With a robust proficiency in Epic software, eClinicalWorks, and clinical monitoring, Kyasa brings a diverse skill set to healthcare operations. His expertise extends to research design development, marketing strategy, and the pharmaceutical industry. Kyasa is committed to advancing healthcare outcomes and is eager to connect and collaborate with others in the medical community on innovative healthcare solutions.
+  Kennedy Shaffer, MS’20
+Jason Mikhaiel is the Medicaid Eligibility Area Manager, following his role as a CSO Manager in Training at Parallon. With extensive experience in customer service and a passion for engaging with people, Mikhaiel is always eager to gain new experiences and embrace new opportunities. He recently earned his Master’s degree in Healthcare Management from the University of Texas at Dallas. Mikhaiel thrives on challenges that push and motivate him to innovate and find better ways to accomplish tasks. He believes in the endless pursuit of knowledge, regardless of one’s experience or tenure.
+  Monique Tran, MS’25, BS’23
+Monique Tran, a Spring 2025 MS graduate and fast-track student, has been a standout member of our program since her undergraduate years. While she initially pursued a clinical path, her internships with Elevance Health, Parkland Health, and Amentum sparked a deeper interest in the broader impact of healthcare systems. Monique’s academic excellence is reflected in her outstanding 3.9 GPA, and her leadership as Vice President and President of the Elite Scholars and Leaders Program.
   Kennedy Shaffer, MS’20
 
 Patient Coordinator, Identity Eyecare
 
 Upon graduation, I approached one of my professors with my dilemma, and he introduced me to ‘the business of healthcare.’ I have been hooked ever since!
-  Dr. Sai Lakhan Kyasa, MS’24
-Kyasa is a dedicated physician from India. Upon graduating from the MS Healthcare Leadership and Management program, he secured a position as a Clinical Research Coordinator at Harvard Medical School and Massachusetts General Hospital. With a robust proficiency in Epic software, eClinicalWorks, and clinical monitoring, Kyasa brings a diverse skill set to healthcare operations. His expertise extends to research design development, marketing strategy, and the pharmaceutical industry. Kyasa is committed to advancing healthcare outcomes and is eager to connect and collaborate with others in the medical community on innovative healthcare solutions.
   Karun Joseph, BS’22/ MS’23
 Karun Joseph is a Senior Sourcing Analyst at Health Care Service Corporation. She graduated from the MS in Healthcare Leadership and Management program in 2023. Joseph has successfully implemented sourcing strategies and processes, managed supplier relationships, and led cross-functional projects aimed at optimizing continuous improvement within the procurement organization. Her expertise in strategic sourcing and process improvement is instrumental in enhancing the efficiency and effectiveness of the procurement function.
+  Sonal Patel, MS’24/ MBA’23
+Sonal Patel, RDN, is a Public Health Specialist at Dallas County Health and Human Services. She completed her MBA/MS in Healthcare Leadership and Management at the University of Texas at Dallas in 2024. As a dedicated health and wellness professional, Patel brings a wealth of experience from corporate wellness to clinical practice, consistently achieving high patient satisfaction and improved health outcomes. With extensive expertise in program development and implementation, she excels in communication and collaboration, making her a valuable asset in any health and wellness initiative.
   Blake Cedeno, BS’21, MS’23
 Assistant Market Director – Patient Access, Parallon HCA Healthcare
 Cedeno started his career with Parallon in January 2022 as part of Parallon’s Manager In Training program where he served at Medical City Dallas, Medical City Heart and Spine, and Medical City Arlington. Cedeno received a recent promotion to Assistant Market Director for Patient Access where he continues to drive exceptional operational performance and deliver team engagement. During his tenure with Parallon, Cedeno has been involved with many projects and has been instrumental in Medical City Dallas’s top tier performance. Cedeno graduated from The University of Texas at Dallas with a Bachelor’s Degree in Healthcare Management in 2021 and his Master’s degree in 2023 as part of the Healthcare Leadership and Management program.
-  Kennedy Shaffer, MS’20
-Jason Mikhaiel is the Medicaid Eligibility Area Manager, following his role as a CSO Manager in Training at Parallon. With extensive experience in customer service and a passion for engaging with people, Mikhaiel is always eager to gain new experiences and embrace new opportunities. He recently earned his Master’s degree in Healthcare Management from the University of Texas at Dallas. Mikhaiel thrives on challenges that push and motivate him to innovate and find better ways to accomplish tasks. He believes in the endless pursuit of knowledge, regardless of one’s experience or tenure.
   Undergraduate
 MS
 MBA
@@ -5631,16 +5631,16 @@ For more information, see
 COVID-19 International Student FAQs
 
 Testimonials:
-  Name: Monique Tran, MS’25, BS’23
-  Name: Sonal Patel, MS’24/ MBA’23
-  Name: Rolando Perez, BS’20/ MS’23
   Name: Steven Match, MS’24
+  Name: Rolando Perez, BS’20/ MS’23
+  Name: Dr. Sai Lakhan Kyasa, MS’24
+  Name: Kennedy Shaffer, MS’20
+  Name: Monique Tran, MS’25, BS’23
   Name: Kennedy Shaffer, MS’20
   Quote: Upon graduation, I approached one of my professors with my dilemma, and he introduced me to ‘the business of healthcare.’ I have been hooked ever since!
-  Name: Dr. Sai Lakhan Kyasa, MS’24
   Name: Karun Joseph, BS’22/ MS’23
+  Name: Sonal Patel, MS’24/ MBA’23
   Name: Blake Cedeno, BS’21, MS’23
-  Name: Kennedy Shaffer, MS’20
 
 ==================================================
 
@@ -5653,25 +5653,25 @@ Headings:
   Required Application Materials
   Alumni Testimonials
   Jess Cornaggia
-  Blair Flicker
-  Oktay Urcan
-  Tai-Yuan Chen
-  Hasan Cavusoglu
-  Bharadwaj Kadiyala
-  Wei Chen
-  Subodha Kumar
   Mina Ameri
-  Aidin Namin
-  Devendra Kale
-  Zhengrui Jiang
   Harish Guda
-  Qi Annabelle Feng
+  Tai-Yuan Chen
+  Devendra Kale
+  Hasan Cavusoglu
+  Subodha Kumar
+  Wei Chen
+  Zhengrui Jiang
+  Oktay Urcan
   Xuying Zhao
+  Bharadwaj Kadiyala
+  Aidin Namin
+  Qi Annabelle Feng
+  Blair Flicker
   PhD Resource Articles
   What makes a perfect PhD programs applicant?
-  Is a PhD for you?
   Why choose JSOM for my PhD?
   What’s it like to be a PhD student?
+  Is a PhD for you?
 
 Paragraphs:
   The PhD in International Management Studies program and the PhD in Management Science program each admit 3-5 new students per year per concentration (fall admission only). Both are designed to be full-time programs with completion being 4 to 5 years.
@@ -5689,45 +5689,45 @@ Paragraphs:
   **All recommendation letters are to be submitted electronically through the online application system.
   Alumni Professor of Finance,
  Smeal College of Business, Pennsylvania State University
-  Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
-  Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign
+  Assistant Professor 
+The University of Pittsburgh
+  Assistant Professor in Supply Chain Management 
+W.P. Carey School of Business, Arizona State University
   Alumni Professor of Finance,
  HKUST Business School,
 Hong Kong University of Science and Technology
+  PhD in Management Science, Accounting
+Assistant Professor, 
+ University of Rhode Island
   Professor of Management Information Systems 
 Sauder School of Business, The University of British Columbia
-  Assistant Professor,
-  Eccles School of Business, University of Utah
-  Assistant Professor in Analytics, Information & Operations,
- School of Business, University of Kansas
   Distinguished Fellow of the Information Systems Society, INFORMS 
 Paul R. Anderson Distinguished Chair Professor, 
 Marketing and Supply Chain Management, 
 Fox School of Business, Temple University
-  Assistant Professor 
-The University of Pittsburgh
-  Associate Professor of Marketing Analytics, Loyola Marymount University
-  PhD in Management Science, Accounting
-Assistant Professor, 
- University of Rhode Island
+  Assistant Professor in Analytics, Information & Operations,
+ School of Business, University of Kansas
   Professor of Information Systems,
  School of Business,
 Nanjing University
-  Assistant Professor in Supply Chain Management 
-W.P. Carey School of Business, Arizona State University
+  Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign
+  Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
+  Assistant Professor,
+  Eccles School of Business, University of Utah
+  Associate Professor of Marketing Analytics, Loyola Marymount University
   John and Donna Krenicki Chair, 
 Professor in Operations Management
 Krannert School of Management, Purdue University
-  Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
+  Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
   Find advice and resources you need as you consider joining the PhD program at the UT Dallas Jindal School of Management.
   Getting into a good PhD program is a bit like dating. Some programs are attractive but may not be a good fit under the surface. Finding a good match is important. Competition is fierce, and there is no one-size-fits all.
-  What does it mean to have a PhD?
-  Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
   The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
   Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
+  What does it mean to have a PhD?
+  Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
   Copyright © 2026, All rights reserved.800 W Campbell Road,Richardson, TX 75080, USA · (972) 883-2705The University of Texas at Dallas
   Last Updated: April 16, 2026
   Sitemap  |  Content Owners  |  Privacy Policy  |  Accessibility  |   Sumit Sarkar
@@ -6133,13 +6133,13 @@ The PhD program prepared me for a successful career in academia. I had ample res
  
 
 
-Blair Flicker
+Mina Ameri
 
-Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
+Assistant Professor 
+The University of Pittsburgh
 
 
-The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
+I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
  
 
 
@@ -6153,13 +6153,13 @@ The PhD program at UT Dallas has been nothing short of life-changing. The facult
  
 
 
-Oktay Urcan
+Harish Guda
 
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign  
+Assistant Professor in Supply Chain Management 
+W.P. Carey School of Business, Arizona State University
 
 
-PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
  
 
 
@@ -6194,6 +6194,27 @@ The PhD program at UTD offered solid and life-altering training to students. Fac
  
 
 
+Devendra Kale
+
+PhD in Management Science, Accounting
+Assistant Professor, 
+ University of Rhode Island
+
+
+My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
 Hasan Cavusoglu
 
 Professor of Management Information Systems 
@@ -6201,46 +6222,6 @@ Sauder School of Business, The University of British Columbia
 
 
 Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Bharadwaj Kadiyala
-
-Assistant Professor,
-  Eccles School of Business, University of Utah
-
-
-The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Wei Chen
-
-Assistant Professor in Analytics, Information & Operations,
- School of Business, University of Kansas
-
-
-When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
  
 
 
@@ -6276,53 +6257,13 @@ The PhD program at the Jindal School of Management prepared me for a successful 
  
 
 
-Mina Ameri
+Wei Chen
 
-Assistant Professor 
-The University of Pittsburgh
-
-
-I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
- 
+Assistant Professor in Analytics, Information & Operations,
+ School of Business, University of Kansas
 
 
-
-
-
-
-
-
-
- 
-
-
-Aidin Namin
-
-Associate Professor of Marketing Analytics, Loyola Marymount University
-
-
-Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-Devendra Kale
-
-PhD in Management Science, Accounting
-Assistant Professor, 
- University of Rhode Island
-
-
-My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
  
 
 
@@ -6357,13 +6298,72 @@ The faculty at the Jindal School of Management is world-renowned for their high 
  
 
 
-Harish Guda
+Oktay Urcan
 
-Assistant Professor in Supply Chain Management 
-W.P. Carey School of Business, Arizona State University
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign  
 
 
-The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
+PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Xuying Zhao
+
+Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
+
+
+At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Bharadwaj Kadiyala
+
+Assistant Professor,
+  Eccles School of Business, University of Utah
+
+
+The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Aidin Namin
+
+Associate Professor of Marketing Analytics, Loyola Marymount University
+
+
+Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
  
 
 
@@ -6398,13 +6398,13 @@ During my time in the PhD program, I had the opportunity to interact with and le
  
 
 
-Xuying Zhao
+Blair Flicker
 
-Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
+Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
 
 
-At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
  
 
 
@@ -6432,18 +6432,6 @@ Getting into a good PhD program is a bit like dating. Some programs are attracti
 
  
 
-Is a PhD for you?
-What does it mean to have a PhD?
-Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
-
-
-
-
-
-
-
- 
-
 Why choose JSOM for my PhD?
 The University of Texas at Dallas is a relatively young university, officially launched in 1969, with the first PhD in management awarded in 1977. The prestige of the program was quickly established, with graduates taking jobs at top-ranked institutions all over the world.
 
@@ -6459,6 +6447,18 @@ What’s it like to be a PhD student?
 Will I receive financial support? Will I have free time? How many hours will be spent on work and classes? Are there any social activities available on campus? These are common questions as students begin the process of applying to a PhD program.
 
 
+
+
+
+
+
+ 
+
+Is a PhD for you?
+What does it mean to have a PhD?
+Do you want to be your own boss? Have flexible hours designed around your needs? These are a few of the perks when working in academia – you are responsible for your own productivity, on your own schedule.
+
+
  See all Resource Articles
 
 Elements with class 'smallblock':
@@ -6472,20 +6472,20 @@ Alumni Professor of Finance,
 
 
 The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
-  Blair Flicker
+  Mina Ameri
 
-Assistant Professor in Management Science 
-Darla Moore School of Business, University of South Carolina
-
-
-The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
-  Oktay Urcan
-
-Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
-Gies College of Business, University of Illinois at Urbana-Champaign  
+Assistant Professor 
+The University of Pittsburgh
 
 
-PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
+  Harish Guda
+
+Assistant Professor in Supply Chain Management 
+W.P. Carey School of Business, Arizona State University
+
+
+The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
   Tai-Yuan Chen
 
 Alumni Professor of Finance,
@@ -6494,6 +6494,14 @@ Hong Kong University of Science and Technology
 
 
 The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+  Devendra Kale
+
+PhD in Management Science, Accounting
+Assistant Professor, 
+ University of Rhode Island
+
+
+My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
   Hasan Cavusoglu
 
 Professor of Management Information Systems 
@@ -6501,20 +6509,6 @@ Sauder School of Business, The University of British Columbia
 
 
 Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
-  Bharadwaj Kadiyala
-
-Assistant Professor,
-  Eccles School of Business, University of Utah
-
-
-The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
-  Wei Chen
-
-Assistant Professor in Analytics, Information & Operations,
- School of Business, University of Kansas
-
-
-When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
   Subodha Kumar
 
 Distinguished Fellow of the Information Systems Society, INFORMS 
@@ -6524,27 +6518,13 @@ Fox School of Business, Temple University
 
 
 The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
-  Mina Ameri
+  Wei Chen
 
-Assistant Professor 
-The University of Pittsburgh
-
-
-I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
-  Aidin Namin
-
-Associate Professor of Marketing Analytics, Loyola Marymount University
+Assistant Professor in Analytics, Information & Operations,
+ School of Business, University of Kansas
 
 
-Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
-  Devendra Kale
-
-PhD in Management Science, Accounting
-Assistant Professor, 
- University of Rhode Island
-
-
-My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
   Zhengrui Jiang
 
 Professor of Information Systems,
@@ -6553,13 +6533,33 @@ Nanjing University
 
 
 The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
-  Harish Guda
+  Oktay Urcan
 
-Assistant Professor in Supply Chain Management 
-W.P. Carey School of Business, Arizona State University
+Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty Fellow 
+Gies College of Business, University of Illinois at Urbana-Champaign  
 
 
-The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
+PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
+  Xuying Zhao
+
+Associate Professor in Operations Management
+Mendoza College of Business, University of Notre Dame
+
+
+At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+  Bharadwaj Kadiyala
+
+Assistant Professor,
+  Eccles School of Business, University of Utah
+
+
+The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
+  Aidin Namin
+
+Associate Professor of Marketing Analytics, Loyola Marymount University
+
+
+Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
   Qi Annabelle Feng
 
 John and Donna Krenicki Chair, 
@@ -6568,13 +6568,13 @@ Krannert School of Management, Purdue University
 
 
 During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
-  Xuying Zhao
+  Blair Flicker
 
-Associate Professor in Operations Management
-Mendoza College of Business, University of Notre Dame
+Assistant Professor in Management Science 
+Darla Moore School of Business, University of South Carolina
 
 
-At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
   Undergraduate
 MS
 MBA
@@ -6597,34 +6597,34 @@ News & Stories
 Testimonials:
   Name: Jess Cornaggia
   Quote: The PhD program prepared me for a successful career in academia. I had ample resources to conduct high quality research and, most importantly, I had helpful mentors who really invested in me and taught me the nuances of the profession.
-  Name: Blair Flicker
-  Quote: The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
-  Name: Oktay Urcan
-  Quote: PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
-  Name: Tai-Yuan Chen
-  Quote: The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
-  Name: Hasan Cavusoglu
-  Quote: Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
-  Name: Bharadwaj Kadiyala
-  Quote: The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
-  Name: Wei Chen
-  Quote: When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
-  Name: Subodha Kumar
-  Quote: The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
   Name: Mina Ameri
   Quote: I started in the Jindal School of Management knowing nothing about research. But during my 5 years of PhD, I grew from being a student to being a researcher. And it was all because of the help and guidance I received from the kind and caring people there and especially my amazing advisors. Now, my professors and classmates have become my lifetime friends and I will always have what I’ve learned from them, how to work hard, how to not give up, and how to help others on similar journeys.
-  Name: Aidin Namin
-  Quote: Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
-  Name: Devendra Kale
-  Quote: My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
-  Name: Zhengrui Jiang
-  Quote: The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
   Name: Harish Guda
   Quote: The six years I spent at JSOM as a PhD student were ones of immense learning. My advisors were extremely patient, and supportive of my learning and growth. The abundant number of courses, seminars, research talks and conferences in the various departments at JSOM provided tremendous exposure to cutting-edge research in Management Science — it often felt like drinking from a firehose. I am grateful to the program for providing me with an excellent learning experience.
-  Name: Qi Annabelle Feng
-  Quote: During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
+  Name: Tai-Yuan Chen
+  Quote: The PhD program at UTD offered solid and life-altering training to students. Faculty members are well-known experts in their own field and most importantly, they are always available whenever students need advice. I was able to coauthor with them and started to build up my research pipeline in early stage . After graduation, with its rapid expansion, the reputation of Jindal School of Management continues to intangibly benefits my academic career. I sincerely appreciate the education from UTD SOM!
+  Name: Devendra Kale
+  Quote: My time in the PhD program at the Jindal School of Management was about continuous intellectual development and critical thinking skills. Prior to joining the PhD program, I was unaware of the intricacies of academic research. But the well-structured program combined with continued and priceless support from my advisors made this uphill ride a memorable journey. It also helped me discover my passion for academic research and transform into an independent researcher. I strongly recommend Jindal School of Management to future PhD students.
+  Name: Hasan Cavusoglu
+  Quote: Beyond their remarkable intellect, the faculty members at the Jindal School of Management impressed me with their passion for excellence in research, dedication to superb doctoral education and endless patience toward PhD students during my time in the program. They are truly a source of inspiration. I consider myself privileged to have been trained by incredible professors who showed us how to achieve rigor and relevance in research.
+  Name: Subodha Kumar
+  Quote: The PhD program at the Jindal School of Management prepared me for a successful career in academia. During my doctoral studies, I was fortunate to interact with brilliant professors from different disciplines. They helped me understand how to conduct high-impact research, and mentored me on how to effectively teach. I feel very privileged to have earned my PhD at the Jindal School of Management.
+  Name: Wei Chen
+  Quote: When I joined the PhD program at UT Dallas, I had a single objective in mind–to become a future faculty member at a research institution. Today, when I look back, I can say that the PhD program, especially the professors, helped me achieve this goal 100%: During my time at UTD, I have obtained invaluable skills that are required to conduct research and communicate with others. More importantly, I have gained confidence as a researcher and a teacher. For this, I am forever grateful.
+  Name: Zhengrui Jiang
+  Quote: The faculty at the Jindal School of Management is world-renowned for their high research productivity. What is less known is that the training PhD students receive here is also top-notch. Despite their busy schedules, PhD student mentoring is always a priority for the professors. I feel very fortunate that I finished my PhD in Management Science at the Jindal School of Management.
+  Name: Oktay Urcan
+  Quote: PhD education at Jindal School of Management transformed me from an undergraduate student who never heard of accounting research to an accounting researcher and teacher at world renowned academic institutions. All credit goes to the faculty members and especially my advisors who patiently invested their valuable time in my PhD training. I enjoyed all moments we shared together as student-mentor, co-authors, colleagues and friends.
   Name: Xuying Zhao
   Quote: At UTDallas, I met so many excellent professors and classmates, who have become my life-long mentors and friends. The professors are internationally recognized leaders in their areas, full of passion for research, extremely brilliant, and also hard-working. Meanwhile, they devote huge amount of time to helping and guiding PhD students. I feel very lucky to complete my PhD study in Naveen Jindal School of Management at UTDallas.
+  Name: Bharadwaj Kadiyala
+  Quote: The PhD program at UTD provides a fantastic environment for learning and sharing ideas with faculty who are widely regarded as experts in their respective fields and with other highly motivated PhD students. The faculty are extremely enthusiastic about identifying and rigorously addressing interesting research problems. I feel lucky to have been a part of that environment during my PhD and it is through my interactions with the faculty that I have been able to develop my own academic research agenda.
+  Name: Aidin Namin
+  Quote: Doctoral programs at JSOM provide a diverse, inclusive, and research-intensive learning environment. The wonderful faculty and advisors train students on state-of-the-art quantitative techniques so that the students can conduct impactful research and build their academic career.
+  Name: Qi Annabelle Feng
+  Quote: During my time in the PhD program, I had the opportunity to interact with and learn from many extremely brilliant and well-respected professors. After graduating from the program, I realized that the benefit I obtained from was not just about writing several high-quality papers with them. They made me understand it is important to go deep and be broad, and they showed me a true scholar is a life-long learner who is always modest and curious.
+  Name: Blair Flicker
+  Quote: The PhD program at UT Dallas has been nothing short of life-changing. The faculty—diverse in research interests but unified by deep expertise—turned me into a true scholar. My thinking is so much clearer now compared to when I began the program. My professors prepared me for a successful career as an academic by constantly pushing me, but gently. I had two kids during my studies, yet I was never questioned about how I chose to balance my research progress with family time. I do not know if I could have found a more supportive environment at any other institution.
 
 ==================================================
 
