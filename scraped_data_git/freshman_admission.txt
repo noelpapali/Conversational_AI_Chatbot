@@ -40,7 +40,7 @@ Heading: Texas Top 10%
 --------------------------------------------------
 
 Heading: Home-Schooled and GED
-  Paragraph: As required by Texas Senate Bill 1543, applicants who present evidence of obtaining a non-traditional secondary education (for example, those who were home-schooled or earned a GED instead of a high school diploma) will be assigned a percentile rank compared to the average class rank of students from traditional schools who have equivalent SAT or ACT scores.
+  Paragraph: As required by Texas Senate Bill 1543, applicants who present evidence of obtaining a non-traditional secondary education (for example, those who were home-schooled or earned a GED instead of a high school diploma) will be assigned a percentile rank compared to the average class rank of students from traditional schools who have equivalent SAT or ACT scores. Composite score of 1320 or an ACT Composite score of 28 will be assigned the equivalent weighted average high school graduating class rank of 94 or higher.
 
 --------------------------------------------------
 
@@ -76,8 +76,8 @@ Heading:
 --------------------------------------------------
 
 Heading: Submit your admission application.
-  Paragraph: The fall 2027 application will open August 1, 2026.
-  Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas. My Texas Future helps you expand options for college, set goals and take action.
+  Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas.
+  Paragraph: My Texas Future helps you expand options for college, set goals and take action.
 
 --------------------------------------------------
 
@@ -108,6 +108,7 @@ Heading: Submitting Supplementary Documentation
     - Official college transcripts for dual credit courses
     - Official AP test scores
     - Submit your official SAT or ACT scores: SAT Code 6897 | ACT Code 4243
+    - Classic Learning Test (CLT) scores
   Paragraph: The university does not require test scores for admission or scholarship consideration. However, we strongly encourage applicants to submit official scores to meet Texas Success Initiative (TSI) requirements. Submitted test scores will be used solely to enhance an applicant’s admission or scholarship review and will never have a negative impact.
   Paragraph: Submit your supplementary documentation through the Orion Applicant Center inside Galaxy using the “Submit Supplemental Docs” option in the Admissions Forms folder. Official transcripts and test scores must be sent from the college/testing agency.
   Paragraph: *UT Dallas also accepts applications submitted through ApplyTexas. Students should submit only one application (either through Common App or ApplyTexas) for their anticipated start term.

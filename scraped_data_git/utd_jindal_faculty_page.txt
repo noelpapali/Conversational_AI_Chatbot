@@ -281,6 +281,9 @@ andrewlee@utdallas.edu||JSOM 4.427
 Assistant Professor, Organizations, Strategy and International Management
 jennifer.lee@utdallas.edu|(972) 883-5047|JSOM 4.227
 
+Assistant Professor, Marketing
+peter.s.lee@utdallas.edu||JSOM 13.303
+
 Professor, Organizations, Strategy and International Management
 lee.1085@utdallas.edu|(972) 883-6267|JSOM 4.409
 
@@ -344,9 +347,6 @@ vatsal.maru@utdallas.edu||JSOM 4.414
 Associate Professor of Practice, Director, Center for Retail Innovation and Strategy Excellence (RISE), Marketing
 david.matthews@utdallas.edu||JSOM 2.608
 
-Associate Professor of Instruction, Accounting
-joseph.mauriello@utdallas.edu|(972) 883-4729|JSOM 3.710
-
 Professor, Information Systems
 amit.mehra@utdallas.edu|(972) 883-5083|JSOM 3.433
 
@@ -376,6 +376,9 @@ semoore@utdallas.edu|(972) 883-5129|JSOM 13.207
 
 Associate Professor of Instruction, Organizations, Strategy and International Management
 mark.morris@utdallas.edu||JSOM 3.205
+
+Professor of Instruction, Information Systems
+renita.murimi@utdallas.edu||JSOM 00000
 
 Professor, Marketing
 murthi@utdallas.edu|(972) 883-6355|JSOM 13.320
@@ -1285,6 +1288,12 @@ jennifer.lee@utdallas.edu
 (972) 883-5047
 JSOM 4.227
 
+Peter  Lee
+Assistant Professor, Marketing
+peter.s.lee@utdallas.edu
+
+JSOM 13.303
+
 Seung-Hyun (Sean)  Lee
 Professor, Organizations, Strategy and International Management
 lee.1085@utdallas.edu
@@ -1411,12 +1420,6 @@ david.matthews@utdallas.edu
 
 JSOM 2.608
 
-Joseph  Mauriello
-Associate Professor of Instruction, Accounting
-joseph.mauriello@utdallas.edu
-(972) 883-4729
-JSOM 3.710
-
 Amit  Mehra
 Professor, Information Systems
 amit.mehra@utdallas.edu
@@ -1476,6 +1479,12 @@ Associate Professor of Instruction, Organizations, Strategy and International Ma
 mark.morris@utdallas.edu
 
 JSOM 3.205
+
+Renita  Murimi
+Professor of Instruction, Information Systems
+renita.murimi@utdallas.edu
+
+JSOM 00000
 
 B.P.S.  Murthi
 Professor, Marketing
