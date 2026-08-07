@@ -77,6 +77,7 @@ Heading:
 
 Heading: Submit your admission application.
   Paragraph: Freshman applicants can apply through CommonApp and ApplyTexas.
+  Paragraph: Please note, Common Application applicants will receive information on how to access their applicant portal in mid-August, when we begin receiving applications. All applications are marked as received based upon the date they are submitted through CommonApp, not on the date UT Dallas receives the application.
   Paragraph: My Texas Future helps you expand options for college, set goals and take action.
 
 --------------------------------------------------
