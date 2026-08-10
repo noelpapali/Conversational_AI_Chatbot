@@ -14,6 +14,19 @@ For assistance, call:(972) 883-2275Office Location:JSOM 2.250Office Hours: Mon-T
 For assistance, call:(972) 883-2750Office Location:JSOM 2.250Office Hours: Mon-Thurs: 9 a.m. to 6 p.m.Fri: 9 a.m. to 5 p.m.Walk-in Advising Hours: Mon-Thurs: 9 a.m. to 4 p.m.Fri: 9 a.m. to 4 p.m.Email:JSOMGRAdvising@utdallas.edu
 
 ================================================================================
+URL: https://jindal.utdallas.edu/student-resources/scholarships/
+Headings:
+- Search and Apply for Scholarships
+Content:
+The Jindal School offers merit and need-based scholarships to help new and current students pay for their education.
+The Jindal School is proud of the many donors who make these scholarships available to its bright and talented students.
+Our goal is to award scholarships that help students leverage the Texas-resident tuition rate for two consecutive semesters. Each scholarship has specific criteria. Applicants should read the requirements carefully.
+Links:
+- JSOM Undergraduate Scholarships - /jindal/student-resources/scholarships/undergraduate-scholarships/
+- JSOM Graduate Scholarships - /jindal/student-resources/scholarships/graduate-scholarships/
+- UT Dallas Scholarships - https://finaid.utdallas.edu/scholarships/
+
+================================================================================
 URL: https://jindal.utdallas.edu/student-resources/assistantships/
 Headings:
 - Apply for a Teaching Assistantship!
