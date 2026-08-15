@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Study Examines How Technology Restrictions Can Weaken U.S. Companies’ Global Influence
+Title Link: https://jindal.utdallas.edu/news/jindal-school-study-examines-how-technology-restrictions-can-weaken-u-s-companies-global-influence/
+Excerpt: Could efforts to protect America’s technology leadership actually weaken U.S. companies’ influence over future technologies? A new study from the Naveen Jindal School of Management suggests the answer can be yes. The paper, “Techno‑Nationalism’s Paradox in International Standard Setting,” was published in the July 2026 issue of the Journal of International Business Studies, one of […]
+Meta Details: August 14th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/08/technology_restrictions_and_global_innovation_ecosystem_graphic_630x630.png
+
+==================================================
+
 Title: Geneva Experience Helps Physicians Studying Healthcare Leadership and Management at the Jindal School Rethink U.S. Healthcare
 Title Link: https://jindal.utdallas.edu/news/geneva-experience-helps-physicians-studying-healthcare-leadership-and-management-at-the-jindal-school-rethink-u-s-healthcare/
 Excerpt: A group of physician students in the Naveen Jindal School of Management‘s Alliance for Physician Leadership degree program traveled to Geneva this summer to learn how healthcare systems in other countries operate. More importantly, they returned with fresh perspectives on how the United States could improve its own approach to health and healthcare. Marsha Weaver […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/08/apl_coins_630x630.jpg
 Title: Leadership Transition Continues Legacy at Jindal School’s Center for Internal Auditing Excellence
 Title Link: https://jindal.utdallas.edu/news/leadership-transition-continues-legacy-at-jindal-schools-center-for-internal-auditing-excellence/
 Excerpt: The Center for Internal Auditing Excellence in the Naveen Jindal School of Management has entered a new chapter as Professor Matthew (Matt) Paske, BS’08, MS’10, has been appointed director, succeeding Dr. Joseph Mauriello, MBA’02, MS’03, PhD’22, who, after 11 years at the center’s helm, is stepping into the role of chief audit executive for The […]
-Meta Details: July 16th, 2026 |Academics,Alumni,Faculty/Research,Featured
+Meta Details: July 16th, 2026 |Academics,Alumni,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/07/internal_audit_hero_image_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-global-business-stude
 Excerpt: A Global Business senior at the Naveen Jindal School of Management has earned national and international recognition through selection into two highly competitive programs, becoming the first student at The University of Texas at Dallas to be selected for both. Hayagreev Jayaram Hayagreev Jayaram, a member of the Hobson Wildenthal Honors College, was awarded the […]
 Meta Details: April 2nd, 2026 |Academics,Students
 Image URL: https://jindal.utdallas.edu/files/2026/04/hayagreev_jayaram_global_business_portrait_630x629.png
-
-==================================================
-
-Title: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation
-Title Link: https://jindal.utdallas.edu/news/paying-it-forward-inspiring-legacy-of-the-eclat-foundation/
-Excerpt: Paying It Forward: The Inspiring Legacy of the ECLAT Foundation Ever wonder how the ECLAT Atrium in the Naveen Jindal School of Management got its name? It started years ago when a group of Taiwan immigrants built a beacon of hope through the ECLAT Foundation. Founded in 2011 as a 501(c)(3) nonprofit by Jane Jan […]
-Meta Details: March 31st, 2026 |Academics,Development,Students
-Image URL: https://jindal.utdallas.edu/files/2022/07/eclat-ceremony-pirkul-630-630-featured.jpg
 
 ==================================================
 
