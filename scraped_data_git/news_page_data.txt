@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Professor Built an Academic Area and a Business Paradigm
+Title Link: https://jindal.utdallas.edu/news/jindal-school-professor-built-an-academic-area-and-a-business-paradigm/
+Excerpt: When Dr. Suresh Sethi began building the Operations and Supply Chain Management Area at the Naveen Jindal School of Management in 1997, he was not just putting together an academic program from scratch. He was also developing a way of thinking about business decisions, one that would eventually be named in part after him. The […]
+Meta Details: August 19th, 2026 |Academics,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2024/09/suresh_sethi_630x630.jpg
+
+==================================================
+
 Title: Jindal School Study Examines How Technology Restrictions Can Weaken U.S. Companies’ Global Influence
 Title Link: https://jindal.utdallas.edu/news/jindal-school-study-examines-how-technology-restrictions-can-weaken-u-s-companies-global-influence/
 Excerpt: Could efforts to protect America’s technology leadership actually weaken U.S. companies’ influence over future technologies? A new study from the Naveen Jindal School of Management suggests the answer can be yes. The paper, “Techno‑Nationalism’s Paradox in International Standard Setting,” was published in the July 2026 issue of the Journal of International Business Studies, one of […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/08/technology_restrictions_and
 Title: Geneva Experience Helps Physicians Studying Healthcare Leadership and Management at the Jindal School Rethink U.S. Healthcare
 Title Link: https://jindal.utdallas.edu/news/geneva-experience-helps-physicians-studying-healthcare-leadership-and-management-at-the-jindal-school-rethink-u-s-healthcare/
 Excerpt: A group of physician students in the Naveen Jindal School of Management‘s Alliance for Physician Leadership degree program traveled to Geneva this summer to learn how healthcare systems in other countries operate. More importantly, they returned with fresh perspectives on how the United States could improve its own approach to health and healthcare. Marsha Weaver […]
-Meta Details: August 3rd, 2026 |Academics,Faculty/Research,Featured,Students
+Meta Details: August 3rd, 2026 |Academics,Faculty/Research,Students
 Image URL: https://jindal.utdallas.edu/files/2026/08/apl_coins_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-attains-top-25-overal
 Excerpt: The Naveen Jindal School of Management has reached its highest-ever standing in U.S. News & World Report’s 2026 Best Business Schools rankings, coming in at No. 23 (tied) overall and placing No. 9 among public universities, solidifying its position among the nation’s top programs. The Jindal School’s Full-Time MBA program moved up eight positions this […]
 Meta Details: April 8th, 2026 |Academics
 Image URL: https://jindal.utdallas.edu/files/2026/04/mba_ranking_630x630.jpg
-
-==================================================
-
-Title: Jindal School Global Business Student Earns National Recognition
-Title Link: https://jindal.utdallas.edu/news/jindal-school-global-business-student-earns-national-recognition/
-Excerpt: A Global Business senior at the Naveen Jindal School of Management has earned national and international recognition through selection into two highly competitive programs, becoming the first student at The University of Texas at Dallas to be selected for both. Hayagreev Jayaram Hayagreev Jayaram, a member of the Hobson Wildenthal Honors College, was awarded the […]
-Meta Details: April 2nd, 2026 |Academics,Students
-Image URL: https://jindal.utdallas.edu/files/2026/04/hayagreev_jayaram_global_business_portrait_630x629.png
 
 ==================================================
 
