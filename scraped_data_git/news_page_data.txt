@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Livestreamed Event To Highlight UT Dallas’ Role in North Texas Economic Growth
+Title Link: https://jindal.utdallas.edu/news/livestreamed-event-to-highlight-ut-dallas-role-in-north-texas-economic-growth/
+Excerpt: A Sept. 15 breakfast presented by the Building Owners and Managers Association of Greater Dallas and hosted by the Herbert D. Weitzman Institute for Real Estate will examine how The University of Texas at Dallas contributes to workforce development, business innovation and regional economic competitiveness. Although attendance at the Davidson-Gundy Alumni Center is by invitation […]
+Meta Details: August 21st, 2026 |Corporate,Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/08/BOMA-Breakfast-Graphic-3.jpg
+
+==================================================
+
 Title: Jindal School Professor Built an Academic Area and a Business Paradigm
 Title Link: https://jindal.utdallas.edu/news/jindal-school-professor-built-an-academic-area-and-a-business-paradigm/
 Excerpt: When Dr. Suresh Sethi began building the Operations and Supply Chain Management Area at the Naveen Jindal School of Management in 1997, he was not just putting together an academic program from scratch. He was also developing a way of thinking about business decisions, one that would eventually be named in part after him. The […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2024/09/suresh_sethi_630x630.jpg
 Title: Jindal School Study Examines How Technology Restrictions Can Weaken U.S. Companies’ Global Influence
 Title Link: https://jindal.utdallas.edu/news/jindal-school-study-examines-how-technology-restrictions-can-weaken-u-s-companies-global-influence/
 Excerpt: Could efforts to protect America’s technology leadership actually weaken U.S. companies’ influence over future technologies? A new study from the Naveen Jindal School of Management suggests the answer can be yes. The paper, “Techno‑Nationalism’s Paradox in International Standard Setting,” was published in the July 2026 issue of the Journal of International Business Studies, one of […]
-Meta Details: August 14th, 2026 |Faculty/Research,Featured
+Meta Details: August 14th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/08/technology_restrictions_and_global_innovation_ecosystem_graphic_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/faculty-spotlight-steven-haynes-tea
 Excerpt: Dr. Steven Haynes spends much of his time teaching students how to think about risk: anticipating problems, assessing consequences and making tough decisions when the stakes are high. Steven Haynes plays bass guitar for The Evening Band, a bluesy rock band based in Dallas-Ft. Worth Other times, he stands on stage with a bass guitar […]
 Meta Details: April 10th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/04/the_evening_band_steven_haynes_photo_with_bass_guitar_630x630.jpg
-
-==================================================
-
-Title: Jindal School Attains Top 25 Overall Ranking Among U.S. MBA Programs
-Title Link: https://jindal.utdallas.edu/news/jindal-school-attains-top-25-overall-ranking-among-u-s-mba-programs/
-Excerpt: The Naveen Jindal School of Management has reached its highest-ever standing in U.S. News & World Report’s 2026 Best Business Schools rankings, coming in at No. 23 (tied) overall and placing No. 9 among public universities, solidifying its position among the nation’s top programs. The Jindal School’s Full-Time MBA program moved up eight positions this […]
-Meta Details: April 8th, 2026 |Academics
-Image URL: https://jindal.utdallas.edu/files/2026/04/mba_ranking_630x630.jpg
 
 ==================================================
 

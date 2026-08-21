@@ -116,6 +116,12 @@ Heading: Submitting Supplementary Documentation
 
 --------------------------------------------------
 
+Heading: High School Rank Certification
+  Paragraph: While not required, counselors or school administrators may complete the form linked below to certify an applicant’s exact rank or class percentage within their class.
+  Paragraph: High School Rank Certification Form
+
+--------------------------------------------------
+
 Heading: International Students
   Paragraph: Review our additional documentation requirements for applying as an international student.
 

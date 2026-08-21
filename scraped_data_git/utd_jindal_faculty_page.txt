@@ -1,4 +1,7 @@
 FACULTY PAGE CONTENT
+Associate Professor of Practice, Accounting
+adrienne.adame@utdallas.edu||JSOM 3.810
+
 Associate Professor of Instruction, Operations Management
 kahadi@utdallas.edu|(972) 883-6719|JSOM 13.209
 
@@ -134,6 +137,9 @@ sms151730@utdallas.edu|(972) 883-4774|JSOM 14.213
 Assistant Professor, Information Systems
 ruijiang.gao@utdallas.edu||JSOM 2.609
 
+Associate Professor of Practice, Finance and Managerial Economics
+sircar.gautam@utdallas.edu||JSOM 14.203
+
 Assistant Professor, Operations Management
 naireet.ghosh@utdallas.edu||JSOM 4.421
 
@@ -187,6 +193,9 @@ june.huang@utdallas.edu|(972) 883-5813|JSOM 4.431
 
 Associate Professor, Accounting
 ying.huang1@utdallas.edu|(972) 883-5989|JSOM 4.419
+
+Associate Professor of Practice, Organizations, Strategy and International Management
+tahir.hussain@utdallas.edu||JSOM 14.201
 
 Professor, Finance and Managerial Economics
 kyleb.hyndman@utdallas.edu|(972) 883-5872|JSOM 3.614
@@ -385,6 +394,9 @@ murthi@utdallas.edu|(972) 883-6355|JSOM 13.320
 
 Assistant Professor of Practice, Organizations, Strategy and International Management
 celestin.musekura@utdallas.edu||JSOM 1.707
+
+Associate Professor of Practice, Accounting
+david.nachman@utdallas.edu||JSOM 3.810
 
 Professor, Finance and Managerial Economics
 vikram.nanda@utdallas.edu|(972) 883-5004|JSOM 14.502
@@ -713,6 +725,9 @@ junya.zhou@utdallas.edu|(972) 883-5827|JSOM 14.308
 Associate Professor, Accounting
 yibin.zhou@utdallas.edu|(972) 883-2738|JSOM 4.430
 
+Assistant Professor, Organizations, Strategy and International Management
+yi.zhu@utdallas.edu||JSOM 3.708
+
 Professor of Practice, Accounting
 kathy.zolton@utdallas.edu|(972) 883-5927|JSOM 3.705
 
@@ -724,6 +739,12 @@ FACULTY LISTING
 
 
 STAFF PROFILES (Gray Wide Block)
+Adrienne  Adame
+Associate Professor of Practice, Accounting
+adrienne.adame@utdallas.edu
+
+JSOM 3.810
+
 Khatereh  Ahadi
 Associate Professor of Instruction, Operations Management
 kahadi@utdallas.edu
@@ -994,6 +1015,12 @@ ruijiang.gao@utdallas.edu
 
 JSOM 2.609
 
+Sircar  Gautam
+Associate Professor of Practice, Finance and Managerial Economics
+sircar.gautam@utdallas.edu
+
+JSOM 14.203
+
 Naireet  Ghosh
 Assistant Professor, Operations Management
 naireet.ghosh@utdallas.edu
@@ -1101,6 +1128,12 @@ Associate Professor, Accounting
 ying.huang1@utdallas.edu
 (972) 883-5989
 JSOM 4.419
+
+Tahir  Hussain
+Associate Professor of Practice, Organizations, Strategy and International Management
+tahir.hussain@utdallas.edu
+
+JSOM 14.201
 
 Kyle  Hyndman
 Professor, Finance and Managerial Economics
@@ -1497,6 +1530,12 @@ Assistant Professor of Practice, Organizations, Strategy and International Manag
 celestin.musekura@utdallas.edu
 
 JSOM 1.707
+
+David  Nachman
+Associate Professor of Practice, Accounting
+david.nachman@utdallas.edu
+
+JSOM 3.810
 
 Vikram  Nanda
 Professor, Finance and Managerial Economics
@@ -2151,6 +2190,12 @@ Associate Professor, Accounting
 yibin.zhou@utdallas.edu
 (972) 883-2738
 JSOM 4.430
+
+Yi  Zhu
+Assistant Professor, Organizations, Strategy and International Management
+yi.zhu@utdallas.edu
+
+JSOM 3.708
 
 Kathy  Zolton
 Professor of Practice, Accounting
