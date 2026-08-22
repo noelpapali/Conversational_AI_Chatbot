@@ -7083,7 +7083,7 @@ Links:
 - Tours - https://enroll.utdallas.edu/visit/tours/
 - Events - https://enroll.utdallas.edu/visit/events/
 - Scholars Day - https://enroll.utdallas.edu/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Preview Friday - https://enroll.utdallas.edu/visit/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7117,7 +7117,7 @@ Links:
 - Tours - https://enroll.utdallas.edu/visit/tours/
 - Events - https://enroll.utdallas.edu/visit/events/
 - Scholars Day - https://enroll.utdallas.edu/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Preview Friday - https://enroll.utdallas.edu/visit/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7379,7 +7379,7 @@ Links:
 - Tours - https://enroll.utdallas.edu/visit/tours/
 - Events - https://enroll.utdallas.edu/visit/events/
 - Scholars Day - https://enroll.utdallas.edu/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Preview Friday - https://enroll.utdallas.edu/visit/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
@@ -7413,7 +7413,7 @@ Links:
 - Tours - https://enroll.utdallas.edu/visit/tours/
 - Events - https://enroll.utdallas.edu/visit/events/
 - Scholars Day - https://enroll.utdallas.edu/scholars-day/
-- Preview Friday - https://enroll.utdallas.edu/visit/events/preview-friday/
+- Preview Friday - https://enroll.utdallas.edu/visit/preview-friday/
 - Contact - #
 - Contact Us - https://enroll.utdallas.edu/contact/
 - Counselor Locator - https://enroll.utdallas.edu/contact/counselor-locator/
