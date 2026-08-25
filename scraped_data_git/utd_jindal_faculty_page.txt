@@ -725,7 +725,7 @@ junya.zhou@utdallas.edu|(972) 883-5827|JSOM 14.308
 Associate Professor, Accounting
 yibin.zhou@utdallas.edu|(972) 883-2738|JSOM 4.430
 
-Assistant Professor, Organizations, Strategy and International Management
+Assistant Professor, Information Systems
 yi.zhu@utdallas.edu||JSOM 3.708
 
 Professor of Practice, Accounting
@@ -2192,7 +2192,7 @@ yibin.zhou@utdallas.edu
 JSOM 4.430
 
 Yi  Zhu
-Assistant Professor, Organizations, Strategy and International Management
+Assistant Professor, Information Systems
 yi.zhu@utdallas.edu
 
 JSOM 3.708

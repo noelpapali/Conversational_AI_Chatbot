@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: North Texas African Diaspora Business Leaders Help Shape Jindal School’s Africa Initiative
+Title Link: https://jindal.utdallas.edu/news/north-texas-african-diaspora-business-leaders-help-shape-jindal-schools-africa-initiative/
+Excerpt: Forty-three business leaders, entrepreneurs and changemakers from the African diaspora attended the inaugural Africa Table Breakfast on Aug. 8 at the Naveen Jindal School of Management. The event introduced the school’s Africa Initiative to members of North Texas’ African business community and invited their ideas for developing its programs and partnerships. Guests gather for the […]
+Meta Details: August 25th, 2026 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/08/africa_table_2026_featured_image_630x630.png
+
+==================================================
+
 Title: Livestreamed Event To Highlight UT Dallas’ Role in North Texas Economic Growth
 Title Link: https://jindal.utdallas.edu/news/livestreamed-event-to-highlight-ut-dallas-role-in-north-texas-economic-growth/
 Excerpt: A Sept. 15 breakfast presented by the Building Owners and Managers Association of Greater Dallas and hosted by the Herbert D. Weitzman Institute for Real Estate will examine how The University of Texas at Dallas contributes to workforce development, business innovation and regional economic competitiveness. Although attendance at the Davidson-Gundy Alumni Center is by invitation […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/08/BOMA-Breakfast-Graphic-3.jp
 Title: Jindal School Professor Built an Academic Area and a Business Paradigm
 Title Link: https://jindal.utdallas.edu/news/jindal-school-professor-built-an-academic-area-and-a-business-paradigm/
 Excerpt: When Dr. Suresh Sethi began building the Operations and Supply Chain Management Area at the Naveen Jindal School of Management in 1997, he was not just putting together an academic program from scratch. He was also developing a way of thinking about business decisions, one that would eventually be named in part after him. The […]
-Meta Details: August 19th, 2026 |Academics,Faculty/Research,Featured
+Meta Details: August 19th, 2026 |Academics,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2024/09/suresh_sethi_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/national-award-highlights-jindal-sc
 Excerpt: On March 18, Dr. Daniel Rajaratnam, a clinical professor in the Jindal School’s Marketing Area, received the 2025-2026 Federation of Business Disciplines (FBD) Outstanding Educator Award at the 2026 annual FBD conference, held this year in Richardson. The honor recognizes his sustained impact and dedication to teaching, research and service in marketing education.
 Meta Details: April 14th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/04/fbd_award_rajaratnam_630x630.jpg
-
-==================================================
-
-Title: Faculty Spotlight: Steven Haynes Teaches Risk by Day, Plays Music Live by Night
-Title Link: https://jindal.utdallas.edu/news/faculty-spotlight-steven-haynes-teaches-risk-by-day-plays-music-live-by-night/
-Excerpt: Dr. Steven Haynes spends much of his time teaching students how to think about risk: anticipating problems, assessing consequences and making tough decisions when the stakes are high. Steven Haynes plays bass guitar for The Evening Band, a bluesy rock band based in Dallas-Ft. Worth Other times, he stands on stage with a bass guitar […]
-Meta Details: April 10th, 2026 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2026/04/the_evening_band_steven_haynes_photo_with_bass_guitar_630x630.jpg
 
 ==================================================
 
