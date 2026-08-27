@@ -95,6 +95,9 @@ khai.chiong@utdallas.edu|(972) 883-5027|JSOM 13.324
 Assistant Professor, Organizations, Strategy and International Management
 hyesook.chung@utdallas.edu|(972) 883-5043|JSOM 4.223
 
+Assistant Professor of Practice, Organizations, Strategy and International Management
+jason.cirilo@utdallas.edu|(972) 883-5019|JSOM 13.313
+
 Assistant Professor, Accounting
 rafael.copat@utdallas.edu|(972) 883-4187|JSOM 4.802
 
@@ -930,6 +933,12 @@ Assistant Professor, Organizations, Strategy and International Management
 hyesook.chung@utdallas.edu
 (972) 883-5043
 JSOM 4.223
+
+Jason  Cirilo
+Assistant Professor of Practice, Organizations, Strategy and International Management
+jason.cirilo@utdallas.edu
+(972) 883-5019
+JSOM 13.313
 
 Rafael  Copat
 Assistant Professor, Accounting

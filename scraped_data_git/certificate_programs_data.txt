@@ -85,9 +85,9 @@ Tabs:
 Accounting and Finance:
 List:
   - Research Foundations in Accounting (Link: /accounting/masters-degree-options/graduate-certificate-research-foundations/)
-  - Fintech (Link: /fin/program-resources/fintech-certificate/)
-  - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
-  - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
+  - Fintech (Link: https://fin.utdallas.edu/ms-ftec/)
+  - Financial Data Science (Link: https://fin.utdallas.edu/financial-data-science-certificate/)
+  - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/certificate-in-insurance-technology-and-analytics/)
 
 Healthcare Management:
 List:
@@ -251,9 +251,9 @@ Tabs:
 Accounting and Finance:
 List:
   - Research Foundations in Accounting (Link: /accounting/masters-degree-options/graduate-certificate-research-foundations/)
-  - Fintech (Link: /fin/program-resources/fintech-certificate/)
-  - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
-  - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
+  - Fintech (Link: https://fin.utdallas.edu/ms-ftec/)
+  - Financial Data Science (Link: https://fin.utdallas.edu/financial-data-science-certificate/)
+  - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/certificate-in-insurance-technology-and-analytics/)
 
 Healthcare Management:
 List:
