@@ -1781,9 +1781,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: JSOM New Student Kickoff
-	- Text: JSOM New Student Kickoff
-	  Href: https://calendar.utdallas.edu/event/jsom-new-student-kickoff
+Context: JSOM Student Organization Orientation – Comet Calendar
+	- Text: JSOM Student Organization Orientation – Comet Calendar
+	  Href: https://calendar.utdallas.edu/event/jsom-student-organization-orientation
 
 Context: RISE Retail Conference
 	- Text: RISE Retail Conference

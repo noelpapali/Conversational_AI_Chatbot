@@ -1,10 +1,18 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: New Jindal School Study Shows When AI Should Get the Final Say
+Title Link: https://jindal.utdallas.edu/news/new-jindal-school-study-shows-when-ai-should-get-the-final-say/
+Excerpt: A new study from the Naveen Jindal School of Management suggests that artificial intelligence can be the final decision maker in a business process when its effective quality for a particular task meets or exceeds that of the human alternative. Hongda Zhong The paper based on that study —  “Optimal Integration: Human, Machine, and Generative […]
+Meta Details: August 28th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/08/hongda_zhong_headshot_2-630x630-1.jpg
+
+==================================================
+
 Title: North Texas African Diaspora Business Leaders Help Shape Jindal School’s Africa Initiative
 Title Link: https://jindal.utdallas.edu/news/north-texas-african-diaspora-business-leaders-help-shape-jindal-schools-africa-initiative/
 Excerpt: Forty-three business leaders, entrepreneurs and changemakers from the African diaspora attended the inaugural Africa Table Breakfast on Aug. 8 at the Naveen Jindal School of Management. The event introduced the school’s Africa Initiative to members of North Texas’ African business community and invited their ideas for developing its programs and partnerships. Guests gather for the […]
-Meta Details: August 25th, 2026 |Events,Featured
+Meta Details: August 25th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/08/africa_table_2026_featured_image_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/students-from-jindal-school-win-com
 Excerpt: A team of undergraduate students from The University of Texas at Dallas’ Naveen Jindal School of Management recently took first place in CoMIS 2026, the 14th annual case competition presented by the University of Minnesota’s Carlson School of Management. UT Dallas Team, surrounded by executives from Cemstone, the sponsor of the Final Competition Round. The […]
 Meta Details: April 17th, 2026 |Students
 Image URL: https://jindal.utdallas.edu/files/2026/04/comis_2026_a_630x630.jpg
-
-==================================================
-
-Title: National Award Highlights Jindal School Professor’s Impact in Marketing Education
-Title Link: https://jindal.utdallas.edu/news/national-award-highlights-jindal-school-professors-impact-in-marketing-education/
-Excerpt: On March 18, Dr. Daniel Rajaratnam, a clinical professor in the Jindal School’s Marketing Area, received the 2025-2026 Federation of Business Disciplines (FBD) Outstanding Educator Award at the 2026 annual FBD conference, held this year in Richardson. The honor recognizes his sustained impact and dedication to teaching, research and service in marketing education.
-Meta Details: April 14th, 2026 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2026/04/fbd_award_rajaratnam_630x630.jpg
 
 ==================================================
 

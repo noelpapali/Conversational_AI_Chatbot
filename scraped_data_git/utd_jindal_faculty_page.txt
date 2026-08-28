@@ -140,9 +140,6 @@ sms151730@utdallas.edu|(972) 883-4774|JSOM 14.213
 Assistant Professor, Information Systems
 ruijiang.gao@utdallas.edu||JSOM 2.609
 
-Associate Professor of Practice, Finance and Managerial Economics
-sircar.gautam@utdallas.edu||JSOM 14.203
-
 Assistant Professor, Operations Management
 naireet.ghosh@utdallas.edu||JSOM 4.421
 
@@ -565,6 +562,9 @@ harpreet@utdallas.edu|(972) 883-4770|JSOM 3.430
 
 Assistant Professor, Accounting
 kirti.sinha@utdallas.edu|(972) 883-5869|JSOM 4.413
+
+Associate Professor of Practice, Finance and Managerial Economics
+gautam.sircar@utdallas.edu||JSOM 14.203
 
 Associate Professor of Instruction, Organizations, Strategy and International Management
 agnieszka.skuza@utdallas.edu|(972) 883-5099|JSOM 13.403
@@ -1023,12 +1023,6 @@ Assistant Professor, Information Systems
 ruijiang.gao@utdallas.edu
 
 JSOM 2.609
-
-Sircar  Gautam
-Associate Professor of Practice, Finance and Managerial Economics
-sircar.gautam@utdallas.edu
-
-JSOM 14.203
 
 Naireet  Ghosh
 Assistant Professor, Operations Management
@@ -1875,6 +1869,12 @@ Assistant Professor, Accounting
 kirti.sinha@utdallas.edu
 (972) 883-5869
 JSOM 4.413
+
+Gautam  Sircar
+Associate Professor of Practice, Finance and Managerial Economics
+gautam.sircar@utdallas.edu
+
+JSOM 14.203
 
 Agnieszka  Skuza
 Associate Professor of Instruction, Organizations, Strategy and International Management
