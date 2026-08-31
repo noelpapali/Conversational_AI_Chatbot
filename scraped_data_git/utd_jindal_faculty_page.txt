@@ -161,9 +161,6 @@ guttery@utdallas.edu|(972) 883-5910|JSOM None
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu|(972) 883-5898|JSOM 4.202
 
-Associate Professor of Instruction, Director, BS Marketing, Marketing
-haworth@utdallas.edu|(972) 883-5940|JSOM 13.328
-
 Assistant Professor of Practice, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics, Information Systems
 steven.haynes@utdallas.edu|(972) 883-5038|JSOM 14.401
 
@@ -332,9 +329,6 @@ kathryn.lookadoo@utdallas.edu|(972) 883-5998|JSOM 4.425
 Associate Professor, Accounting
 maria.loumioti@utdallas.edu|(972) 883-5026|JSOM 3.711
 
-Associate Professor of Practice, Director, Real Estate, Finance and Managerial Economics
-julie.lynch@utdallas.edu|(972) 883-4721|JSOM 14.302
-
 Clinical Assistant Professor, Finance and Managerial Economics
 liping.ma@utdallas.edu|(972) 883-5068|JSOM 14.208
 
@@ -400,9 +394,6 @@ david.nachman@utdallas.edu||JSOM 3.810
 
 Professor, Finance and Managerial Economics
 vikram.nanda@utdallas.edu|(972) 883-5004|JSOM 14.502
-
-Associate Professor, Accounting
-nataraj@utdallas.edu|(972) 883-2739|JSOM 4.809
 
 Associate Professor of Instruction, Information Systems
 rabih.neouchi@utdallas.edu|(972) 883-4780|JSOM 14.329
@@ -601,9 +592,6 @@ riki.takeuchi@utdallas.edu|(972) 883-5112|JSOM 4.412
 
 Assistant Professor, Finance and Managerial Economics
 xiaoxiao.tang@utdallas.edu|(972) 883-4736|JSOM 14.316
-
-Professor of Practice, Executive Education
-don.taylor@utdallas.edu|(972) 883-2562|JSOM 1.704
 
 Clinical Professor, Information Systems
 mark.thouin@utdallas.edu|(972) 883-4011|JSOM 4.617
@@ -1066,12 +1054,6 @@ maria.hasenhuttl@utdallas.edu
 (972) 883-5898
 JSOM 4.202
 
-Julie  Haworth
-Associate Professor of Instruction, Director, BS Marketing, Marketing
-haworth@utdallas.edu
-(972) 883-5940
-JSOM 13.328
-
 Steven  Haynes
 Assistant Professor of Practice, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics, Information Systems
 steven.haynes@utdallas.edu
@@ -1408,12 +1390,6 @@ maria.loumioti@utdallas.edu
 (972) 883-5026
 JSOM 3.711
 
-Julie  Lynch
-Associate Professor of Practice, Director, Real Estate, Finance and Managerial Economics
-julie.lynch@utdallas.edu
-(972) 883-4721
-JSOM 14.302
-
 Liping  Ma
 Clinical Assistant Professor, Finance and Managerial Economics
 liping.ma@utdallas.edu
@@ -1545,12 +1521,6 @@ Professor, Finance and Managerial Economics
 vikram.nanda@utdallas.edu
 (972) 883-5004
 JSOM 14.502
-
-Ram  Natarajan
-Associate Professor, Accounting
-nataraj@utdallas.edu
-(972) 883-2739
-JSOM 4.809
 
 Rabih  Neouchi
 Associate Professor of Instruction, Information Systems
@@ -1947,12 +1917,6 @@ Assistant Professor, Finance and Managerial Economics
 xiaoxiao.tang@utdallas.edu
 (972) 883-4736
 JSOM 14.316
-
-Donald  Taylor
-Professor of Practice, Executive Education
-don.taylor@utdallas.edu
-(972) 883-2562
-JSOM 1.704
 
 Mark  Thouin
 Clinical Professor, Information Systems
