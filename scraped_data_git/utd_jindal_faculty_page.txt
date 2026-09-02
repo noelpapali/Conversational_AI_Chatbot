@@ -155,9 +155,6 @@ axg119030@utdallas.edu|(972) 883-5820|JSOM 14.304
 Professor, Accounting
 umit.gurun@utdallas.edu|(972) 883-5917|JSOM 4.813
 
-Director Emeritus, Real Estate, Finance and Managerial Economics
-guttery@utdallas.edu|(972) 883-5910|JSOM None
-
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu|(972) 883-5898|JSOM 4.202
 
@@ -476,7 +473,7 @@ daniel.rajaratnam@utdallas.edu|(972) 883-5028|JSOM 13.318
 Clinical Professor, Operations Management
 kannan.ramanathan@utdallas.edu|(972) 883-5953|JSOM 3.622
 
-Assistant Professor of Instruction, Operations Management
+Associate Professor of Instruction, Operations Management
 rasoul.ramezani@utdallas.edu|(972) 883-5175|JSOM 3.427
 
 Professor, Marketing
@@ -1041,12 +1038,6 @@ Professor, Accounting
 umit.gurun@utdallas.edu
 (972) 883-5917
 JSOM 4.813
-
-Randall  Guttery
-Director Emeritus, Real Estate, Finance and Managerial Economics
-guttery@utdallas.edu
-(972) 883-5910
-JSOM None
 
 Maria  Hasenhuttl
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
@@ -1685,7 +1676,7 @@ kannan.ramanathan@utdallas.edu
 JSOM 3.622
 
 Rasoul  Ramezani
-Assistant Professor of Instruction, Operations Management
+Associate Professor of Instruction, Operations Management
 rasoul.ramezani@utdallas.edu
 (972) 883-5175
 JSOM 3.427
