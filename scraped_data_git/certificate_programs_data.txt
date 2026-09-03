@@ -98,6 +98,7 @@ List:
 
 Information Systems:
 List:
+  - AI Strategy for Business (Link: https://infosystems.utdallas.edu/certificate-programs/ai-strategy-for-business/)
   - Analytics for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/analytics-for-managers/)
   - Applied Data Engineering for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/applied-data-engineering-for-managers/)
   - Applied Machine Learning (Link: /infosystems/certificate-programs/applied-machine-learning//)
@@ -264,6 +265,7 @@ List:
 
 Information Systems:
 List:
+  - AI Strategy for Business (Link: https://infosystems.utdallas.edu/certificate-programs/ai-strategy-for-business/)
   - Analytics for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/analytics-for-managers/)
   - Applied Data Engineering for Managers (Link: https://infosystems.utdallas.edu/certificate-programs/applied-data-engineering-for-managers/)
   - Applied Machine Learning (Link: /infosystems/certificate-programs/applied-machine-learning//)

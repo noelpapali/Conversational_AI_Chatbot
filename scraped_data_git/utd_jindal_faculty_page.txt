@@ -335,9 +335,6 @@ majumdar@utdallas.edu|(972) 883-4786|JSOM 3.812
 Associate Professor, Marketing
 samir.mamadehussene@utdallas.edu|(972) 883-4865|JSOM 13.504
 
-Associate Professor of Instruction, Executive Director for the Institute for Innovation and Entrepreneurship, Organizations, Strategy and International Management
-carol.marcus-rehtmeyer@utdallas.edu|(972) 883-6828|JSOM 4.211
-
 Professor, Accounting
 stan.markov@utdallas.edu|(972) 883-5166|JSOM 3.815
 
@@ -1398,12 +1395,6 @@ Associate Professor, Marketing
 samir.mamadehussene@utdallas.edu
 (972) 883-4865
 JSOM 13.504
-
-Carol  Marcus-Rehtmeyer
-Associate Professor of Instruction, Executive Director for the Institute for Innovation and Entrepreneurship, Organizations, Strategy and International Management
-carol.marcus-rehtmeyer@utdallas.edu
-(972) 883-6828
-JSOM 4.211
 
 Stanimir  Markov
 Professor, Accounting
