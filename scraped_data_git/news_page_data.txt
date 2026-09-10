@@ -1,10 +1,18 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Dallas’ Financial Growth Opens Doors for Jindal School Finance Students
+Title Link: https://jindal.utdallas.edu/news/dallas-financial-growth-opens-doors-for-jindal-school-finance-students/
+Excerpt: According to data recently released by the Federal Reserve Bank of Dallas, jobs in the financial activities sector — which includes finance, insurance and real estate — accounted for 10.1% of all employment in metro Dallas in June. For students considering a career in finance, that concentration — surpassing metro New York’s 9.9% — gives […]
+Meta Details: September 10th, 2026 |Academics,Alumni,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/09/finance_alumni_profile_fall_2026_630x630.png
+
+==================================================
+
 Title: Jindal School Cybersecurity Professor Named ISSA Senior Member
 Title Link: https://jindal.utdallas.edu/news/jindal-school-cybersecurity-professor-named-issa-senior-member/
 Excerpt: As organizations face more frequent and sophisticated digital threats, they increasingly need professionals who can manage cybersecurity risks. Students preparing for those roles through the Bachelor of Science in Cybersecurity and Risk Management program at the Naveen Jindal School of Management can learn from a faculty member recently recognized for her expertise and leadership in […]
-Meta Details: September 1st, 2026 |Academics,Faculty/Research,Featured
+Meta Details: September 1st, 2026 |Academics,Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/08/renita_murimi_headshot_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/finhack-2026-challenges-students-to
 Excerpt: A recent two-day event presented by the  Naveen Jindal School of Management gave students a closer look at modern challenges in finance — and how tools like artificial intelligence are being used to address them. The program combined panel discussions, a keynote presentation, networking opportunities and a financial hackathon, where students worked in teams to […]
 Meta Details: April 27th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/04/finhack_2026_first_place_630x630.jpg
-
-==================================================
-
-Title: AI@JindalSchool Distinguished Lecture Series: AI Pioneer Dr. Erol Gelenbe
-Title Link: https://jindal.utdallas.edu/news/aijindalschool-distinguished-lecture-series-ai-pioneer-dr-erol-gelenbe/
-Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas is proud to announce the launch of the AI@JindalSchool Distinguished Lecture Series, a major new initiative designed to reinforce Jindal’s position as a national leader in artificial intelligence education, research and thought leadership. The series will bring 4–6 world-renowned AI experts to […]
-Meta Details: April 17th, 2026 |Events
-Image URL: https://jindal.utdallas.edu/files/2026/04/AI@JindalSchool-Erol-Gelenbe-Graphic-630x630-1.jpg
 
 ==================================================
 
