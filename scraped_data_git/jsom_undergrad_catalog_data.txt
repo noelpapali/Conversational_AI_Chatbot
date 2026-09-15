@@ -6863,9 +6863,6 @@ Headings:
 - Contact Us
 - Stay Connected
 - Quick Links
-- 
-- 
-- 
 Content:
 You are considered a transfer student if you have previously completed college-level coursework at an accredited institution — excluding the summer following high school graduation.
 Applications are accepted for the fall, spring and summer semesters from students in good standing at their higher education institutions. If you are currently enrolled in high school and also attending a college/university and you will not complete any college-level coursework after the summer after your high school graduation, you should apply forfreshman admission.
@@ -7182,9 +7179,6 @@ Headings:
 - Contact Us
 - Stay Connected
 - Quick Links
-- 
-- 
-- 
 Content:
 If you are a high school senior or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 

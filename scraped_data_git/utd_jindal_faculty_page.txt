@@ -638,7 +638,7 @@ yining.wang@utdallas.edu|(972) 883-4813|JSOM 4.810
 Clinical Professor, Organizations, Strategy and International Management
 mcclain.watson@utdallas.edu|(972) 883-4875|JSOM 4.415
 
-Associate Professor, Finance and Managerial Economics
+Professor, Finance and Managerial Economics
 kelsey.wei@utdallas.edu|(972) 883-5978|JSOM 14.320
 
 Assistant Professor, Organizations, Strategy and International Management
@@ -2003,7 +2003,7 @@ mcclain.watson@utdallas.edu
 JSOM 4.415
 
 Kelsey D. Wei
-Associate Professor, Finance and Managerial Economics
+Professor, Finance and Managerial Economics
 kelsey.wei@utdallas.edu
 (972) 883-5978
 JSOM 14.320
