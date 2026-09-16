@@ -1,10 +1,18 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Faculty-Led Trip to London Explores U.K. Healthcare System
+Title Link: https://jindal.utdallas.edu/news/faculty-led-trip-to-london-explores-u-k-healthcare-system/
+Excerpt: A recent faculty-led trip to London introduced students from The University of Texas at Dallas not only to a radically different healthcare system but also to the value of experiencing another country and culture firsthand. Funded by UT Dallas’ Office of International Education, the program brought together students from the BS in Healthcare Management program […]
+Meta Details: September 16th, 2026 |Academics,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2026/09/2026_summer_heathcare_management_london_a_630x630.jpg
+
+==================================================
+
 Title: Dallas’ Financial Growth Opens Doors for Jindal School Finance Students
 Title Link: https://jindal.utdallas.edu/news/dallas-financial-growth-opens-doors-for-jindal-school-finance-students/
 Excerpt: According to data recently released by the Federal Reserve Bank of Dallas, jobs in the financial activities sector — which includes finance, insurance and real estate — accounted for 10.1% of all employment in metro Dallas in June. For students considering a career in finance, that concentration — surpassing metro New York’s 9.9% — gives […]
-Meta Details: September 10th, 2026 |Academics,Alumni,Featured
+Meta Details: September 10th, 2026 |Academics,Alumni
 Image URL: https://jindal.utdallas.edu/files/2026/09/finance_alumni_profile_fall_2026_630x630.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/record-breaking-jsom-reunion-showca
 Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas hosted its 3rd Annual Alumni Reunion April 25, and it was again a resounding success. From heartfelt reunions in the JSOM building to vibrant celebrations at the Davidson Gundy Alumni Center, the day buzzed with energy, laughter, familiar faces and inspiring stories. […]
 Meta Details: May 5th, 2026 |Alumni,Events
 Image URL: https://jindal.utdallas.edu/files/2026/05/sign_2026_jsom_alumni_reunion_630x630.jpg
-
-==================================================
-
-Title: FinHack 2026 Challenges Students to Solve Finance Problems With AI
-Title Link: https://jindal.utdallas.edu/news/finhack-2026-challenges-students-to-solve-finance-problems-with-ai/
-Excerpt: A recent two-day event presented by the  Naveen Jindal School of Management gave students a closer look at modern challenges in finance — and how tools like artificial intelligence are being used to address them. The program combined panel discussions, a keynote presentation, networking opportunities and a financial hackathon, where students worked in teams to […]
-Meta Details: April 27th, 2026 |Events
-Image URL: https://jindal.utdallas.edu/files/2026/04/finhack_2026_first_place_630x630.jpg
 
 ==================================================
 

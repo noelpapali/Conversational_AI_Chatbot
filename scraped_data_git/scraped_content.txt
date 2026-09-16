@@ -1781,13 +1781,13 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: JSOM Student Organization Orientation
-	- Text: JSOM Student Organization Orientation
-	  Href: https://calendar.utdallas.edu/event/jsom-student-organization-orientation
+Context: IECG 24th Annual Corporate Governance Conference
+	- Text: IECG 24th Annual Corporate Governance Conference
+	  Href: https://calendar.utdallas.edu/event/iecg-24th-annual-corporate-governance-conference
 
-Context: RISE Retail Conference
-	- Text: RISE Retail Conference
-	  Href: https://calendar.utdallas.edu/event/rise-retail-conference
+Context: JSOM Student Organization Fair
+	- Text: JSOM Student Organization Fair
+	  Href: https://calendar.utdallas.edu/event/jsom-student-organization-fair-7311
 
 Context: Apply Now
 	- Text: Apply Now
