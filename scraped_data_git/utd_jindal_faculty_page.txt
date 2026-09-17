@@ -326,6 +326,9 @@ kathryn.lookadoo@utdallas.edu|(972) 883-5998|JSOM 4.425
 Associate Professor, Accounting
 maria.loumioti@utdallas.edu|(972) 883-5026|JSOM 3.711
 
+Associate Professor of Practice, Director, Real Estate, Finance and Managerial Economics
+julie.lynch@utdallas.edu|(972) 883-4721|JSOM 14.302
+
 Clinical Assistant Professor, Finance and Managerial Economics
 liping.ma@utdallas.edu|(972) 883-5068|JSOM 14.208
 
@@ -1377,6 +1380,12 @@ Associate Professor, Accounting
 maria.loumioti@utdallas.edu
 (972) 883-5026
 JSOM 3.711
+
+Julie  Lynch
+Associate Professor of Practice, Director, Real Estate, Finance and Managerial Economics
+julie.lynch@utdallas.edu
+(972) 883-4721
+JSOM 14.302
 
 Liping  Ma
 Clinical Assistant Professor, Finance and Managerial Economics
