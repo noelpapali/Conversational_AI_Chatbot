@@ -1,10 +1,18 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: For First Time, Jindal School’s Internal Auditing Center Led by All-Alumni Leadership Team
+Title Link: https://jindal.utdallas.edu/news/for-first-time-jindal-schools-internal-auditing-center-led-by-all-alumni-leadership-team/
+Excerpt: For the first time in its history, the Center for Internal Auditing Excellence in the Naveen Jindal School of Management is being led by two Jindal School alumni following the appointment of Adrienne Adame, MS’10, as assistant director. Adame joins Director Matthew (Matt) Paske, BS’08, MS’10, who became director in 2026 after returning to the […]
+Meta Details: September 18th, 2026 |Academics,Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/09/paske_adame_photo_630x630.png
+
+==================================================
+
 Title: Faculty-Led Trip to London Explores U.K. Healthcare System
 Title Link: https://jindal.utdallas.edu/news/faculty-led-trip-to-london-explores-u-k-healthcare-system/
 Excerpt: A recent faculty-led trip to London introduced students from The University of Texas at Dallas not only to a radically different healthcare system but also to the value of experiencing another country and culture firsthand. Funded by UT Dallas’ Office of International Education, the program brought together students from the BS in Healthcare Management program […]
-Meta Details: September 16th, 2026 |Academics,Featured,Students
+Meta Details: September 16th, 2026 |Academics,Students
 Image URL: https://jindal.utdallas.edu/files/2026/09/2026_summer_heathcare_management_london_a_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/new-initiatives-offer-ut-dallas-hea
 Excerpt: The Healthcare Management Area at the Naveen Jindal School of Management has launched two initiatives through the Center for Healthcare Leadership and Management in its effort to offer industry-responsive education that prepares and equips its students for career readiness. One is The Business of Healthcare Seminar Series, a recurring speaker series that connects students with […]
 Meta Details: May 12th, 2026 |Academics,Events
 Image URL: https://jindal.utdallas.edu/files/2026/05/health_innovations_case_competition_1st_place_630x630.jpg
-
-==================================================
-
-Title: Record-Breaking JSOM Reunion Showcases Power of Alumni Network
-Title Link: https://jindal.utdallas.edu/news/record-breaking-jsom-reunion-showcases-power-of-alumni-network/
-Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas hosted its 3rd Annual Alumni Reunion April 25, and it was again a resounding success. From heartfelt reunions in the JSOM building to vibrant celebrations at the Davidson Gundy Alumni Center, the day buzzed with energy, laughter, familiar faces and inspiring stories. […]
-Meta Details: May 5th, 2026 |Alumni,Events
-Image URL: https://jindal.utdallas.edu/files/2026/05/sign_2026_jsom_alumni_reunion_630x630.jpg
 
 ==================================================
 
