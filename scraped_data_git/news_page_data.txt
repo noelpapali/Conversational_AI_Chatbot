@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: AI’s Rising Power Demand Reshapes Energy Management Careers
+Title Link: https://jindal.utdallas.edu/news/ais-rising-power-demand-reshapes-energy-management-careers/
+Excerpt: Artificial intelligence runs on vast amounts of data and electricity. Its rapid growth is driving demand for the power plants, transmission lines, energy storage and other infrastructure needed to support data centers. Building it all will require people. A recent Goldman Sachs report estimates that the U.S. power and grid value chain will need approximately […]
+Meta Details: September 23rd, 2026 |Academics,Alumni,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/09/data_center_630x630.jpg
+
+==================================================
+
 Title: For First Time, Jindal School’s Internal Auditing Center Led by All-Alumni Leadership Team
 Title Link: https://jindal.utdallas.edu/news/for-first-time-jindal-schools-internal-auditing-center-led-by-all-alumni-leadership-team/
 Excerpt: For the first time in its history, the Center for Internal Auditing Excellence in the Naveen Jindal School of Management is being led by two Jindal School alumni following the appointment of Adrienne Adame, MS’10, as assistant director. Adame joins Director Matthew (Matt) Paske, BS’08, MS’10, who became director in 2026 after returning to the […]
@@ -52,7 +60,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/08/africa_table_2026_featured_
 Title: Livestreamed Event To Highlight UT Dallas’ Role in North Texas Economic Growth
 Title Link: https://jindal.utdallas.edu/news/livestreamed-event-to-highlight-ut-dallas-role-in-north-texas-economic-growth/
 Excerpt: A Sept. 15 breakfast presented by the Building Owners and Managers Association of Greater Dallas and hosted by the Herbert D. Weitzman Institute for Real Estate will examine how The University of Texas at Dallas contributes to workforce development, business innovation and regional economic competitiveness. Although attendance at the Davidson-Gundy Alumni Center is by invitation […]
-Meta Details: August 21st, 2026 |Corporate,Events,Featured
+Meta Details: August 21st, 2026 |Corporate,Events
 Image URL: https://jindal.utdallas.edu/files/2026/08/BOMA-Breakfast-Graphic-3.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/as-ai-reshapes-hiring-jindal-school
 Excerpt: Artificial intelligence is increasingly making résumés and cover letters easier to polish. At the same time, employers are finding it harder to trust those documents. Against this backdrop, the Naveen Jindal School of Management is preparing students for a hiring process that increasingly tests how candidates think in real time rather than how well they […]
 Meta Details: May 14th, 2026 |Corporate,Students
 Image URL: https://jindal.utdallas.edu/files/2026/05/case_interview_prep-program-pilot_cohort_630x630.jpg
-
-==================================================
-
-Title: New Initiatives Offer UT Dallas Healthcare Students Insights and Connections
-Title Link: https://jindal.utdallas.edu/news/new-initiatives-offer-ut-dallas-healthcare-students-insights-and-connections/
-Excerpt: The Healthcare Management Area at the Naveen Jindal School of Management has launched two initiatives through the Center for Healthcare Leadership and Management in its effort to offer industry-responsive education that prepares and equips its students for career readiness. One is The Business of Healthcare Seminar Series, a recurring speaker series that connects students with […]
-Meta Details: May 12th, 2026 |Academics,Events
-Image URL: https://jindal.utdallas.edu/files/2026/05/health_innovations_case_competition_1st_place_630x630.jpg
 
 ==================================================
 
