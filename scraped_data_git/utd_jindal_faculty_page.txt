@@ -83,6 +83,9 @@ mingliu.chen@utdallas.edu|(972) 883-4758|JSOM 3.702
 Assistant Professor, Organizations, Strategy and International Management
 qingqing.chen@utdallas.edu|(972) 883-2759|JSOM 4.225
 
+Professor, Operations Management
+xin.chen@utdallas.edu||JSOM 3.415
+
 Assistant Professor, Information Systems
 zenan.chen@utdallas.edu||JSOM 3.811
 
@@ -924,6 +927,12 @@ Assistant Professor, Organizations, Strategy and International Management
 qingqing.chen@utdallas.edu
 (972) 883-2759
 JSOM 4.225
+
+Xin  Chen
+Professor, Operations Management
+xin.chen@utdallas.edu
+
+JSOM 3.415
 
 Zenan  Chen
 Assistant Professor, Information Systems
