@@ -620,8 +620,8 @@ riki.takeuchi@utdallas.edu|(972) 883-5112|JSOM 4.412
 Assistant Professor, Finance and Managerial Economics
 xiaoxiao.tang@utdallas.edu|(972) 883-4736|JSOM 14.316
 
-Associate Professor of Instruction Emeritus, Information Systems
-lou.thompson@utdallas.edu|(972) 883-2558|JSOM 3.813
+Professor of Instruction Emeritus, Information Systems
+lou.thompson@utdallas.edu|(972) 883-2558|JSOM 23.341
 
 Clinical Professor, Information Systems
 mark.thouin@utdallas.edu|(972) 883-4011|JSOM 4.617
@@ -2003,10 +2003,10 @@ xiaoxiao.tang@utdallas.edu
 JSOM 14.316
 
 Luell  Thompson
-Associate Professor of Instruction Emeritus, Information Systems
+Professor of Instruction Emeritus, Information Systems
 lou.thompson@utdallas.edu
 (972) 883-2558
-JSOM 3.813
+JSOM 23.341
 
 Mark  Thouin
 Clinical Professor, Information Systems
