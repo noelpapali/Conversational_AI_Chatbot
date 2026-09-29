@@ -56,9 +56,6 @@ ashim.bose@utdallas.edu||JSOM 3.424
 Clinical Associate Professor, Information Systems
 judd.bradbury@utdallas.edu|(972) 883-4873|JSOM 3.220
 
-Associate Professor of Instruction, Operations Management
-monica.brussolo@utdallas.edu|(972) 883-4411|JSOM 11.105C
-
 Professor, Operations Management
 metin@utdallas.edu|(972) 883-6361|JSOM 3.701
 
@@ -99,7 +96,7 @@ Assistant Professor, Organizations, Strategy and International Management
 hyesook.chung@utdallas.edu|(972) 883-5043|JSOM 4.223
 
 Assistant Professor of Practice, Organizations, Strategy and International Management
-jason.cirilo@utdallas.edu|(972) 883-5019|JSOM 13.313
+jason.cirilo@utdallas.edu|(972) 883-5019|JSOM 22.207
 
 Assistant Professor, Accounting
 rafael.copat@utdallas.edu|(972) 883-4187|JSOM 4.802
@@ -429,7 +426,7 @@ Clinical Professor, Organizations, Strategy and International Management
 larry.norton@utdallas.edu|(972) 883-5809|JSOM 1.519
 
 Professor of Practice, Information Systems
-dawn.owens@utdallas.edu|(972) 883-4901|JSOM 11.105G
+dawn.owens@utdallas.edu|(972) 883-4901|JSOM 22.427
 
 Professor, Accounting
 naim.ozel@utdallas.edu|(972) 883-5051|JSOM 4.403
@@ -874,12 +871,6 @@ judd.bradbury@utdallas.edu
 (972) 883-4873
 JSOM 3.220
 
-Monica  Brussolo
-Associate Professor of Instruction, Operations Management
-monica.brussolo@utdallas.edu
-(972) 883-4411
-JSOM 11.105C
-
 Metin  Cakanyildirim
 Professor, Operations Management
 metin@utdallas.edu
@@ -962,7 +953,7 @@ Jason  Cirilo
 Assistant Professor of Practice, Organizations, Strategy and International Management
 jason.cirilo@utdallas.edu
 (972) 883-5019
-JSOM 13.313
+JSOM 22.207
 
 Rafael  Copat
 Assistant Professor, Accounting
@@ -1622,7 +1613,7 @@ Dawn  Owens
 Professor of Practice, Information Systems
 dawn.owens@utdallas.edu
 (972) 883-4901
-JSOM 11.105G
+JSOM 22.427
 
 N. Bugra  Ozel
 Professor, Accounting
