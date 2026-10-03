@@ -7184,7 +7184,7 @@ Content:
 If you are a high school senior or have recently graduated and have not enrolled in another college or university, you should apply for freshman admission.
 
 Get ready, you can apply to college for free! The second full week of October is officiallyFree College Application Week in Texas. FromOctober 12–18, 2026, Texas residents can apply to UT Dallas (or any public college or university in Texas) forundergraduate admission without paying an application fee.Please note that the deadline to submit your application to take advantage of Free Application Week is October 18.
-Texas Residents MUST submit through ApplyTexas to qualify to have their fee waived. Learn more atMy Texas Future.
+Texas Residents MUST submit throughApply Texasto qualify to have their fee waived. Learn more atMy Texas Future.
 Learn what is required for admission as a freshman applicant.
 Ready to apply? Review the steps required to complete the freshman admission process.
 Already applied? Check yourapplication status.
@@ -7422,6 +7422,7 @@ Links:
 - Contact a Counselor - https://enroll.utdallas.edu/contact/counselor-locator/
 - UT Dallas - https://sites.utdallas.edu
 - Office of Admission and Enrollment - https://enroll.utdallas.edu
+- Apply Texas - https://www.applytexas.org/
 - My Texas Future - https://www.mytexasfuture.org/adult-college/
 - Criteria - https://enroll.utdallas.edu/freshman/criteria/
 - Application Process - https://enroll.utdallas.edu/freshman/application-process/

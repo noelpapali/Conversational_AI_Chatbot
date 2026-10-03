@@ -69,7 +69,7 @@ Heading: Freshman Admissions: Application Process
 
 Heading: Free College Application Week
   Paragraph: Get ready, you can apply to college for free! The second full week of October is officially Free College Application Week in Texas. From October 12–18, 2026, Texas residents can apply to UT Dallas (or any public college or university in Texas) for undergraduate admission without paying an application fee. Please note that the deadline to submit your application to take advantage of Free Application Week is October 18.
-  Paragraph: Texas Residents MUST submit through ApplyTexas to qualify to have their fee waived. Learn more at My Texas Future.
+  Paragraph: Texas Residents MUST submit through Apply Texas to qualify to have their fee waived. Learn more at My Texas Future.
 
 --------------------------------------------------
 
