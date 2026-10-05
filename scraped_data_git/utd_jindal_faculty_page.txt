@@ -308,7 +308,7 @@ ning.li@utdallas.edu|(972) 883-5801|JSOM 4.206
 Assistant Professor, Marketing
 yilun.li@utdallas.edu||JSOM 13.507
 
-Associate Professor, Finance and Managerial Economics
+Professor, Finance and Managerial Economics
 jun.li3@utdallas.edu|(972) 883-4422|JSOM 14.510
 
 Professor, Accounting
@@ -1376,7 +1376,7 @@ yilun.li@utdallas.edu
 JSOM 13.507
 
 Jun  Li
-Associate Professor, Finance and Managerial Economics
+Professor, Finance and Managerial Economics
 jun.li3@utdallas.edu
 (972) 883-4422
 JSOM 14.510
