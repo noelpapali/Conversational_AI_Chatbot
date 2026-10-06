@@ -167,7 +167,7 @@ harrison@utdallas.edu|(972) 883-2569|JSOM 14.303
 Assistant Area Coordinator, Organizations, Strategy and International Management, Associate Professor of Instruction, Organizations, Strategy and International Management
 maria.hasenhuttl@utdallas.edu|(972) 883-5898|JSOM 4.202
 
-Assistant Professor of Practice, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics, Information Systems
+Associate Professor of Practice, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics, Information Systems
 steven.haynes@utdallas.edu|(972) 883-5038|JSOM 14.401
 
 Clinical Professor Emeritus, Information Systems
@@ -1094,7 +1094,7 @@ maria.hasenhuttl@utdallas.edu
 JSOM 4.202
 
 Steven  Haynes
-Assistant Professor of Practice, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics, Information Systems
+Associate Professor of Practice, Director, BS Cybersecurity and Risk Management, Finance and Managerial Economics, Information Systems
 steven.haynes@utdallas.edu
 (972) 883-5038
 JSOM 14.401

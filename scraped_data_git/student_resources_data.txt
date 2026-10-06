@@ -442,49 +442,6 @@ Links:
 - bcc@utdallas.edu - mailto:bcc@utdallas.edu
 
 ================================================================================
-URL: https://jindal.utdallas.edu/student-resources/business-communication-center/
-Headings:
-- Frequently Asked Questions
-- Information for Faculty
-- Who can visit the BCC? Who are the staff members?
-- How can I encourage students to use the BCC?
-- Can the Business Communication Center help students avoid plagiarism?
-- What kinds of assignments can students bring to the BCC?
-- Should I send my whole class to the BCC?
-- How can I ensure that tutors will instruct my students according to specific parameters I have set for the assignment?
-Content:
-Currently enrolled JSOM undergraduate, graduate, and PhD students may attend the BCC. Tutors are full-time professionals with writing center experience and student workers with exemplary written and verbal communication skills.
-Although tutors are not content experts, they are skilled writers with tutoring training, so they can help students with communication issues that do not require advanced subject-matter knowledge.
-Include the BCC link in your syllabus and a blurb about services.
-Syllabus Blurb: The Business Communication Center offers free in-person and online coaching to JSOM students to improve written and verbal communication skills. Students can schedule appointments for class assignments, presentations, resumes, cover letters, and other tasks. Visitbcc.utdallas.eduto make an appointment or to refer to additional student resources for improving communication skills.
-Yes. Many students do not understand how to use and document sources correctly. Tutors can provide resources. Also, when students copy and paste passages, tutors will often recognize the problem simply from changes in writing style. This creates an opportunity to work with students on paraphrasing and correctly citing sources. Tutors can also help students use AI ethically when permitted for assignments.
-JSOM students are welcome to bring any piece of writing or presentation, including class assignments, essays, research papers, case studies, cover letters, resumes, LinkedIn profiles, PowerPoint presentations, or even Toastmasters speeches. Team projects are also welcome. Frequently, the tutor facilitates discussions about issues students did not realize existed, from organization and tone to format and thorough development.
-No, BCC services are available only through individual appointments.
-Although tutors ask students for the assignment parameters, students do not always bring these to the BCC. When specific parameters are not provided, tutors instruct students to cite, reference, and format papers using the APA Style Guide.
-Lists:
-Links:
-- bcc.utdallas.edu - https://jindal.utdallas.edu/student-resources/business-communication-center/
-
-================================================================================
-URL: https://jindal.utdallas.edu/student-resources/business-communication-center/policies-and-faq/
-Title: Information for Faculty
-Questions and Answers:
-Q: Who can visit the BCC? Who are the staff members?
-A: Currently enrolled JSOM undergraduate, graduate, and PhD students may attend the BCC. Tutors are full-time professionals with writing center experience and student workers with exemplary written and verbal communication skills.
-Although tutors are not content experts, they are skilled writers with tutoring training, so they can help students with communication issues that do not require advanced subject-matter knowledge.
-Q: How can I encourage students to use the BCC?
-A: Include the BCC link in your syllabus and a blurb about services.
-Syllabus Blurb: The Business Communication Center offers free in-person and online coaching to JSOM students to improve written and verbal communication skills. Students can schedule appointments for class assignments, presentations, resumes, cover letters, and other tasks. Visitbcc.utdallas.eduto make an appointment or to refer to additional student resources for improving communication skills.
-Q: Can the Business Communication Center help students avoid plagiarism?
-A: Yes. Many students do not understand how to use and document sources correctly. Tutors can provide resources. Also, when students copy and paste passages, tutors will often recognize the problem simply from changes in writing style. This creates an opportunity to work with students on paraphrasing and correctly citing sources. Tutors can also help students use AI ethically when permitted for assignments.
-Q: What kinds of assignments can students bring to the BCC?
-A: JSOM students are welcome to bring any piece of writing or presentation, including class assignments, essays, research papers, case studies, cover letters, resumes, LinkedIn profiles, PowerPoint presentations, or even Toastmasters speeches. Team projects are also welcome. Frequently, the tutor facilitates discussions about issues students did not realize existed, from organization and tone to format and thorough development.
-Q: Should I send my whole class to the BCC?
-A: No, BCC services are available only through individual appointments.
-Q: How can I ensure that tutors will instruct my students according to specific parameters I have set for the assignment?
-A: Although tutors ask students for the assignment parameters, students do not always bring these to the BCC. When specific parameters are not provided, tutors instruct students to cite, reference, and format papers using the APA Style Guide.
-
-================================================================================
 URL: https://jindal.utdallas.edu/student-resources/deans-council/
 Headings:
 - Thank you for your interest in the Dean’s Council
