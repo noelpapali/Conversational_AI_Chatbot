@@ -230,7 +230,7 @@ joonhwi.joo@utdallas.edu|(972) 883-4741|JSOM 13.326
 Assistant Professor, Information Systems
 aditya.karanam@utdallas.edu||JSOM 3.222
 
-Assistant Professor of Instruction, Organizations, Strategy and International Management
+Associate Professor of Instruction, Organizations, Strategy and International Management
 daniel.karnuta@utdallas.edu|(972) 883-5165|JSOM 2.416
 
 Professor, Operations Management
@@ -711,7 +711,7 @@ Associate Professor, Finance and Managerial Economics
 yexiaoxu@utdallas.edu|(972) 883-6703|JSOM 14.509
 
 Associate Professor, Accounting
-hao.xue@utdallas.edu||JSOM 3.616
+hao.xue@utdallas.edu|(972) 883-4762|JSOM 3.616
 
 Associate Professor, Finance and Managerial Economics
 azentner@utdallas.edu|(972) 883-5966|JSOM 3.206
@@ -1220,7 +1220,7 @@ aditya.karanam@utdallas.edu
 JSOM 3.222
 
 Daniel  Karnuta
-Assistant Professor of Instruction, Organizations, Strategy and International Management
+Associate Professor of Instruction, Organizations, Strategy and International Management
 daniel.karnuta@utdallas.edu
 (972) 883-5165
 JSOM 2.416
@@ -2182,7 +2182,7 @@ JSOM 14.509
 Hao  Xue
 Associate Professor, Accounting
 hao.xue@utdallas.edu
-
+(972) 883-4762
 JSOM 3.616
 
 Alejandro  Zentner

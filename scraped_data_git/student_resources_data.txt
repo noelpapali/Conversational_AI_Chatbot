@@ -413,6 +413,7 @@ Discover careers, internships, employer events, on campus jobs, and more. You mu
 Step-by-step instructions for tailoring resumes, leveraging AI tools, and networking with alumni and recruiters on LinkedIn to increase interview opportunities and career success.
 Craft a compelling 30-second introduction for networking, interviews, and career conversations.
 Free virtual work simulations that help students build career-readiness and industry-specific skills valued by employers.
+A presentation practice tool that provides real-time feedback on pacing, filler words, repetition, and audience engagement to help students become more confident and effective presenters.
 Tips and strategies to help students practice effectively and deliver presentations with confidence.
 Learn to create and deliver engaging, impactful presentations by focusing on clear messaging, confident delivery, and effective visual aids.
 A quick guide to planning, organizing, and confidently delivering effective presentations.
@@ -433,6 +434,7 @@ Links:
 - 12 Steps for a Strong Job Application - /jindal/files/2026/07/12-Steps-for-a-Strong-Job-Application.pdf
 - Elevator Pitch Guide - /jindal/files/2026/07/Elevator-Pitch-Guide.pdf
 - Forage - https://www.theforage.com/landing/university-of-texas-qooyz/ba-1105-3105-test-2ws7
+- Microsoft Speaker Coach - https://support.microsoft.com/en-us/powerpoint/rehearse-your-slide-show-with-speaker-coach
 - 5 Ways to Rehearse Your Presentation - /jindal/files/2026/07/5-Ways-to-Rehearse-Your-Presentation.pdf
 - Lightning Talk Guide - /jindal/files/2026/07/Lightning-Talk-Guide.pdf
 - Presentation Success Guide - /jindal/files/2026/07/Presentation-Success-Guide.pdf
