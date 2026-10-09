@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jain Family Fellowship Helps Jindal School Student Find Confidence, Opportunity
+Title Link: https://jindal.utdallas.edu/news/jain-family-fellowship-helps-jindal-school-student-find-confidence-opportunity/
+Excerpt: Chintan Dibbadahalli Kumar nearly rejected himself before anyone else had the chance. When the Naveen Jindal School of Management graduate student learned about the Jain Family Fellowship, he questioned whether he was qualified enough to receive it. He considered not applying. “Eventually, I realized that if I didn’t apply, I had already given myself a […]
+Meta Details: October 9th, 2026 |Development,Featured,Students
+Image URL: https://jindal.utdallas.edu/files/2026/10/chintan-dibbadahalli_kumar_cropped_630x630.jpg
+
+==================================================
+
 Title: Federal Projections Show Strong Growth in Careers Aligned With Jindal School Programs
 Title Link: https://jindal.utdallas.edu/news/federal-projections-show-strong-growth-in-careers-aligned-with-jindal-school-programs/
 Excerpt: Five of the nation’s fastest-growing occupations are closely aligned with undergraduate programs offered by the Naveen Jindal School of Management, according to new federal employment projections. The U.S. Bureau of Labor Statistics, which released its projections for 2025–35 on Aug. 27, expects employment in those occupations to grow from 15.8% to 34.6%: Data scientists: 34.6% […]
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/from-temoc-to-tech-startup-jsom-alu
 Excerpt: As it turns out, being Temoc can be good preparation for a career in marketing. Years after representing The University of Texas at Dallas as its mascot, Naveen Jindal School of Management alumnus Eric Aaberg, BS’23, is leading marketing efforts for
 Meta Details: June 2nd, 2026 |Alumni
 Image URL: https://jindal.utdallas.edu/files/2026/06/aaberg_clouted_630x630.jpg
-
-==================================================
-
-Title: YSP Students Celebrate Commitment to JSOM at Signing Day Ceremony
-Title Link: https://jindal.utdallas.edu/news/ysp-students-celebrate-commitment-to-jsom-at-signing-day-ceremony/
-Excerpt: On the evening of May 7, the mood was upbeat in the Naveen Jindal School of Management. It felt less like a traditional scholarship ceremony and more like an NCAA signing day. But instead of announcing athletic commitments, the 19 members of the Young Scholars Program’s ninth cohort and their families were celebrating something else: […]
-Meta Details: May 15th, 2026 |Events,Students
-Image URL: https://jindal.utdallas.edu/files/2026/05/ysp_cohort_9_signing_day_630x630.jpg
 
 ==================================================
 
