@@ -20,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/10/upward_bar_chart_in_utd_col
 Title: AI’s Rising Power Demand Reshapes Energy Management Careers
 Title Link: https://jindal.utdallas.edu/news/ais-rising-power-demand-reshapes-energy-management-careers/
 Excerpt: Artificial intelligence runs on vast amounts of data and electricity. Its rapid growth is driving demand for the power plants, transmission lines, energy storage and other infrastructure needed to support data centers. Building it all will require people. A recent Goldman Sachs report estimates that the U.S. power and grid value chain will need approximately […]
-Meta Details: September 23rd, 2026 |Academics,Alumni,Featured
+Meta Details: September 23rd, 2026 |Academics,Alumni
 Image URL: https://jindal.utdallas.edu/files/2026/09/data_center_630x630.jpg
 
 ==================================================
