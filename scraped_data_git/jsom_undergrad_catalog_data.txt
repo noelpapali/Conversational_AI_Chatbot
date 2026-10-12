@@ -6872,7 +6872,7 @@ November 1
 Spring
 May 1
 Summer
-FASFA School Code
+FAFSA School Code
 009741
 finaid.utdallas.edu
 Visit the Office of Financial Aid for more information.
