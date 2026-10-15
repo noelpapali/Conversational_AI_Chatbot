@@ -286,21 +286,23 @@ Links:
 
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/labs/
-Title: JSOM Statistics and Math Lab
+Title: JSOM OPRE Lab
 Headings:
+- Tutor Schedule
+- Lab Contacts
 Content:
-JSOM Statistics and Math Lab would be assisting students in the following courses:
-The JSOM Statistics and Math Lab is located in room JSOM 2.414 and is open from Monday through Friday, per the schedule below. It will remain open until finals week and will be closed during breaks and on holidays. Students can reach out to us to get clarifications on their doubts. Our contact details are as below:
-Name: Apoorva JadeNetID: AXJ200026Email ID:axj200026@utdallas.edu
-Name: Supreeth NimmagaddaNetID: SXN220118Email ID:sxn220118@utdallas.edu
-We will be holding the above-mentioned office hours on campus in the lab located in room JSOM 2.414. Students can also reach out to us through the Microsoft Teams app on our respective Net ID.
+TheOPRE Labis located in its new space in JSOM 12.106, offering tutoring and academic support to students enrolled in the following courses:
+Location:JSOM 12.106
+Hours:Monday–Friday, 9:00 AM–5:00 PM
+The lab will alsoremain open through finals weekto provide additional academic support as students prepare for their exams.
+For questions or additional information, please contact:
 Lists:
-- OPRE 3333 Quantitative Business Analysis
-- OPRE 3340 Advanced Business Quantitative Methods
-- OPRE 3360 Managerial Methods in Decision Making Under Uncertainty
+- OPRE 3333– Quantitative Business Analysis
+- OPRE 3360– Managerial Methods in Decision-Making Under Uncertainty
+- Shreyas Adicherla– Shreyas.Adicherla@UTDallas.edu
+- Nisarg Vaghasiya– Nisarg.Vaghasiya@UTDallas.edu
+- Mohammad Bakhshi– Mohammad.Bakhshi@UTDallas.edu
 Links:
-- axj200026@utdallas.edu - mailto:axj200026@utdallas.edu
-- sxn220118@utdallas.edu - mailto:sxn220118@utdallas.edu
 
 ================================================================================
 URL: https://jindal.utdallas.edu/student-resources/labs/

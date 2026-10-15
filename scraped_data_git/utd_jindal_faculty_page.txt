@@ -294,7 +294,7 @@ Assistant Professor, Organizations, Strategy and International Management
 jennifer.lee@utdallas.edu|(972) 883-5047|JSOM 4.227
 
 Assistant Professor, Marketing
-peter.s.lee@utdallas.edu||JSOM 13.303
+peter.s.lee@utdallas.edu||JSOM 13.215
 
 Professor, Organizations, Strategy and International Management
 lee.1085@utdallas.edu|(972) 883-6267|JSOM 4.409
@@ -1349,7 +1349,7 @@ Peter  Lee
 Assistant Professor, Marketing
 peter.s.lee@utdallas.edu
 
-JSOM 13.303
+JSOM 13.215
 
 Seung-Hyun (Sean)  Lee
 Professor, Organizations, Strategy and International Management
