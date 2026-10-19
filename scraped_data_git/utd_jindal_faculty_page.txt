@@ -464,7 +464,7 @@ hpirkul@utdallas.edu|(972) 883-6813|JSOM 4.608
 Professor of Instruction, Accounting
 polze@utdallas.edu|(972) 883-4742|JSOM 4.233
 
-Associate Professor, Operations Management
+Professor, Operations Management
 axq140430@utdallas.edu|(972) 883-5952|JSOM 3.214
 
 Professor, Organizations, Strategy and International Management
@@ -1688,7 +1688,7 @@ polze@utdallas.edu
 JSOM 4.233
 
 Anyan  Qi
-Associate Professor, Operations Management
+Professor, Operations Management
 axq140430@utdallas.edu
 (972) 883-5952
 JSOM 3.214
