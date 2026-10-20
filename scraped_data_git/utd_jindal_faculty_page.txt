@@ -56,6 +56,9 @@ ashim.bose@utdallas.edu||JSOM 3.424
 Clinical Associate Professor, Information Systems
 judd.bradbury@utdallas.edu|(972) 883-4873|JSOM 3.220
 
+Professor of Instruction, Operations Management
+monica.brussolo@utdallas.edu|(972) 883-4411|JSOM 11.105C
+
 Professor, Operations Management
 metin@utdallas.edu|(972) 883-6361|JSOM 3.701
 
@@ -870,6 +873,12 @@ Clinical Associate Professor, Information Systems
 judd.bradbury@utdallas.edu
 (972) 883-4873
 JSOM 3.220
+
+Monica  Brussolo
+Professor of Instruction, Operations Management
+monica.brussolo@utdallas.edu
+(972) 883-4411
+JSOM 11.105C
 
 Metin  Cakanyildirim
 Professor, Operations Management
