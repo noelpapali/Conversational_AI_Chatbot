@@ -549,7 +549,7 @@ Associate Professor, Marketing
 shervin.tehrani@utdallas.edu|(972) 883-5921|JSOM 13.219
 
 Associate Professor of Instruction, Information Systems
-gaurav.shekhar@utdallas.edu|(972) 883-5147|JSOM 4.614
+gaurav.shekhar@utdallas.edu|(972) 883-5147|JSOM 23.106
 
 Assistant Professor, Organizations, Strategy and International Management
 anavir.shermon@utdallas.edu|(972) 883-2752|JSOM 4.222
@@ -1862,7 +1862,7 @@ Gaurav  Shekhar
 Associate Professor of Instruction, Information Systems
 gaurav.shekhar@utdallas.edu
 (972) 883-5147
-JSOM 4.614
+JSOM 23.106
 
 Anavir  Shermon
 Assistant Professor, Organizations, Strategy and International Management
