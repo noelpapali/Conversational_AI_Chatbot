@@ -391,7 +391,6 @@ Headings:
 - Digital Badges for Undergraduate Professional Development
 Content:
 Through WisePath (powered by Suitable), students in our undergraduate professional development courses can earn exclusive digital badges by participating in workshops and activities that build practical, career-ready skills. Earning these badges demonstrates a commitment to professional communication, continuous learning, and workplace preparedness. All badges are awarded by the Business Communication Center with the approval of the Director of Professional Development. Badges are verifiable through the WisePath app and can be showcased on resumes, LinkedIn profiles, and other professional portfolios.
-Demonstrated proficiency in the ethical use of AI to gain a competitive advantage in the job search process by applying the Human-AI Interaction competencies of Delegation, Description, Discernment, and Diligence to develop application materials and critically evaluate AI-generated recommendations.
 Lists:
 - Consistently attended and participated in all weekly class meetings.
 - Engaged in at least one professional development workshop outside of class.
@@ -399,7 +398,6 @@ Lists:
 - Completed a Business Communication Center session to improve business presentation skills.
 - Showcased effective time management skills by completing professional development activities while balancing academic responsibilities.
 - Successfully completed the Professional Development course as a Top Performer and received recognition from the Director of Professional Development.
-- Successfully completed the AI Networking Challenge, showcasing the ability to build meaningful professional connections through AI-simulated informational interviews and networking scenarios.
 - Completed at least 3 Business Communication Center presentation practice sessions and applied feedback to enhance clarity, organization, and audience awareness.
 - Demonstrated proficiency in presenting in both in-person and virtual environments.
 Links:
@@ -424,10 +422,12 @@ A powerful online writing tool to improve their written communication. You must 
 A comprehensive online resource that helps students avoid plagiarism, correctly format papers, and cite sources using APA and MLA style guidelines.
 For questions regarding access to these tools, please contactbcc@utdallas.edu.
 Lists:
+- Microsoft Copilot is our approved browser-based AI chat solution for staff, faculty, and students. It can quickly summarize lengthy PDFs and articles, generate professional-quality content, and create engaging images for social media, emails, articles, and other communications.
 - A quick guide to using generative AI effectively, ethically, and responsibly.
 - An AI-powered career exploration activity to help identify skills, compare them to career requirements, discover skill gaps, and create an action plan for professional development.
 - A guide to using AI tools effectively for career exploration, résumés, cover letters, networking, interviews, and more.
 Links:
+- Microsoft Copilot - https://atlas.utdallas.edu/TDClient/30/Portal/Requests/Service/432/Microsoft-Copilot-Chat
 - AI Fluency Guide - /jindal/files/2026/07/AI-Fluency-Guide.pdf
 - Copilot Career Skills Inventory Exercise - /jindal/files/2026/07/Copilot-Career-Skills-Inventory-Exercise.pdf
 - Copilot Job Search Prompt Guide - /jindal/files/2026/07/Copilot-Job-Search-Prompt-Guide.pdf
