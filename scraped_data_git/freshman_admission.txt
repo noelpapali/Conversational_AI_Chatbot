@@ -40,7 +40,7 @@ Heading: Texas Top 10%
 --------------------------------------------------
 
 Heading: Home-Schooled and GED
-  Paragraph: As required by Texas Senate Bill 1543, applicants who present evidence of obtaining a non-traditional secondary education (for example, those who were home-schooled or earned a GED instead of a high school diploma) will be assigned a percentile rank compared to the average class rank of students from traditional schools who have equivalent SAT or ACT scores. Composite score of 1320 or an ACT Composite score of 28 will be assigned the equivalent weighted average high school graduating class rank of 94 or higher.
+  Paragraph: As required by Texas Senate Bill 1543, applicants who present evidence of obtaining a non-traditional secondary education (for example, those who were home-schooled or earned a GED instead of a high school diploma) will be assigned a percentile rank compared to the average class rank of students from traditional schools who have equivalent SAT or ACT scores. Composite scores at or above 1320 on the SAT or 28 on the ACT will be assigned the equivalent weighted average high school graduating class rank in the top 10%.
 
 --------------------------------------------------
 
