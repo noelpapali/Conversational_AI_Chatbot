@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: He Studied Data Privacy 20 Years Ago. Now He Sees a Bigger Problem Coming.
+Title Link: https://jindal.utdallas.edu/news/he-studied-data-privacy-20-years-ago-now-he-sees-a-bigger-problem-coming/
+Excerpt: Flock Safety now operates approximately 120,000 license-plate cameras across 49 states, according to news reports, drawing criticism from privacy advocates over mass surveillance and the collection of motorists’ location data. For one University of Texas at Dallas researcher who has studied data privacy for more than two decades, the cameras illustrate a problem he began […]
+Meta Details: October 30th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/10/if12-som-sarkar-3479_medium_630x630.jpg
+
+==================================================
+
 Title: Business Communication Fundamentals Still Key in the Age of AI
 Title Link: https://jindal.utdallas.edu/news/business-communication-fundamentals-still-key-in-the-age-of-ai/
 Excerpt: Communication will always be one of the fundamental business skills, whether practiced traditionally or enhanced by artificial intelligence. That principle guides the work of Business Communication faculty in the Naveen Jindal School of Management. Two of its faculty members were honored for that work at this year’s Association for Business Communication (ABC) international conference. ABC’s […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/10/lookadoo_at_abc_baltimore_k
 Title: ESG Ratings Overlook Major Sources of Green Innovation
 Title Link: https://jindal.utdallas.edu/news/esg-ratings-overlook-major-sources-of-green-innovation/
 Excerpt: Some companies with relatively low environmental ratings are also developing some of the most influential green technologies, according to new research from the Naveen Jindal School of Management. In a study published in the September 2026 print issue of Management Science, Dr. Umit Gurun, Stan Liebowitz Professor in the Jindal School’s Accounting area, and co-authors […]
-Meta Details: October 21st, 2026 |Faculty/Research,Featured
+Meta Details: October 21st, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/10/oil_refinery_near_solar_panels_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/study-from-jindal-school-researcher
 Excerpt: When companies go public, most stakeholders think about the big paycheck, the equity that finally pays off, or the prestige of ringing the opening bell. Far less attention is paid to what happens to employees once the celebration is over. Jedson Pinto “The natural assumption is that an IPO makes everyone inside happier,” said Dr. […]
 Meta Details: July 8th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/07/stressed_employee_630x630.jpg
-
-==================================================
-
-Title: Jindal School Students Win Three National Championships at FBLA Collegiate Conference
-Title Link: https://jindal.utdallas.edu/news/jindal-school-students-win-three-national-championships-at-fbla-collegiate-conference/
-Excerpt: Three students from the Naveen Jindal School of Management won national championships at the 2026 Future Business Leaders of America (FBLA) Collegiate National Leadership Conference in Las Vegas, held June 6-8. Their performances helped The University of Texas at Dallas finish second in the nation in total top-10 placements. Competing against students from nearly 200 […]
-Meta Details: July 2nd, 2026 |Students
-Image URL: https://jindal.utdallas.edu/files/2026/07/fbla_nationals_utd_team_2026_630x630.jpg
 
 ==================================================
 
