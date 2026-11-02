@@ -1781,13 +1781,13 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: AI Day 2026
-	- Text: AI Day 2026
-	  Href: https://calendar.utdallas.edu/event/ai-day-2026
+Context: Run Today. Feed Tomorrow 5K
+	- Text: Run Today. Feed Tomorrow 5K
+	  Href: https://calendar.utdallas.edu/event/run-today-feed-tomorrow-5k
 
-Context: AI Week
-	- Text: AI Week
-	  Href: https://calendar.utdallas.edu/event/ai-week
+Context: JSOM Mentor & Campus Partner Appreciation Dinner
+	- Text: JSOM Mentor & Campus Partner Appreciation Dinner
+	  Href: https://calendar.utdallas.edu/event/jsom-mentorcampus-partner-appreciation-dinner
 
 Context: Apply Now
 	- Text: Apply Now

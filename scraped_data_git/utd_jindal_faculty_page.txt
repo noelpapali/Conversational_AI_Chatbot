@@ -30,7 +30,7 @@ Associate Professor, Finance and Managerial Economics
 nina.baranchuk@utdallas.edu|(972) 883-4771|JSOM 14.324
 
 Clinical Professor, Executive Education
-john.barden@utdallas.edu|(972) 883-4434|JSOM 1.708
+john.barden@utdallas.edu|(972) 883-4434|JSOM 22.535
 
 Professor, Operations Management
 alain.bensoussan@utdallas.edu|(972) 883-6117|JSOM 3.211
@@ -624,10 +624,10 @@ Professor of Instruction Emeritus, Information Systems
 lou.thompson@utdallas.edu|(972) 883-2558|JSOM 23.341
 
 Clinical Professor, Information Systems
-mark.thouin@utdallas.edu|(972) 883-4011|JSOM 4.617
+mark.thouin@utdallas.edu|(972) 883-4011|JSOM 1.708
 
 Professor of Practice, Organizations, Strategy and International Management
-keith.thurgood@utdallas.edu|(972) 883-5853|JSOM 2.413
+keith.thurgood@utdallas.edu|(972) 883-5853|JSOM 1.906
 
 Associate Professor of Practice, Marketing
 gxt170001@utdallas.edu|(972) 883-5036|JSOM 13.211
@@ -753,7 +753,7 @@ Professor of Practice, Accounting
 kathy.zolton@utdallas.edu|(972) 883-5927|JSOM 3.705
 
 Associate Professor of Instruction, Director, MS IMS Program, Organizations, Strategy and International Management
-hxz120930@utdallas.edu|(972) 883-5037|JSOM 3.613
+hxz120930@utdallas.edu|(972) 883-5037|JSOM 1.704
 
 
 FACULTY LISTING
@@ -824,7 +824,7 @@ John P. Barden
 Clinical Professor, Executive Education
 john.barden@utdallas.edu
 (972) 883-4434
-JSOM 1.708
+JSOM 22.535
 
 Alain  Bensoussan
 Professor, Operations Management
@@ -2012,13 +2012,13 @@ Mark  Thouin
 Clinical Professor, Information Systems
 mark.thouin@utdallas.edu
 (972) 883-4011
-JSOM 4.617
+JSOM 1.708
 
 Keith  Thurgood
 Professor of Practice, Organizations, Strategy and International Management
 keith.thurgood@utdallas.edu
 (972) 883-5853
-JSOM 2.413
+JSOM 1.906
 
 Guido  Tirone
 Associate Professor of Practice, Marketing
@@ -2270,4 +2270,4 @@ Hubert  Zydorek
 Associate Professor of Instruction, Director, MS IMS Program, Organizations, Strategy and International Management
 hxz120930@utdallas.edu
 (972) 883-5037
-JSOM 3.613
+JSOM 1.704
