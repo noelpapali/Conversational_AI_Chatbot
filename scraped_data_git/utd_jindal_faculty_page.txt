@@ -174,7 +174,7 @@ Associate Professor of Practice, Director, BS Cybersecurity and Risk Management,
 steven.haynes@utdallas.edu|(972) 883-5038|JSOM 14.401
 
 Clinical Professor Emeritus, Information Systems
-william.hefley@utdallas.edu|(972) 883-5006|JSOM 3.615
+william.hefley@utdallas.edu|(972) 883-5006|JSOM 23.343
 
 Associate Professor of Instruction, Organizations, Strategy and International Management
 thenderson@utdallas.edu|(972) 883-5835|JSOM 4.231
@@ -183,10 +183,10 @@ Associate Professor of Practice, Accounting
 christopher.hes@utdallas.edu|(972) 883-5945|JSOM 13.404
 
 Clinical Assistant Professor, Organizations, Strategy and International Management
-jeff.hicks@utdallas.edu|(972) 883-5986|JSOM 13.409
+jeff.hicks@utdallas.edu|(972) 883-5986|JSOM 22.543
 
 Clinical Professor, Executive Education
-robert.hicks@utdallas.edu|(972) 883-5900|JSOM 1.920
+robert.hicks@utdallas.edu|(972) 883-5900|JSOM 22.543
 
 Professor, Operations Management
 dorothee.honhon@utdallas.edu|(972) 883-5947|JSOM 3.203
@@ -276,7 +276,7 @@ Professor, Marketing
 nkumar@utdallas.edu|(972) 883-6426|JSOM 13.306
 
 Associate Professor of Practice, Executive Education
-anna.ladipo@utdallas.edu|(972) 883-4957|JSOM 1.515A
+anna.ladipo@utdallas.edu|(972) 883-4957|JSOM 22.501
 
 Associate Professor, Information Systems
 atanu.lahiri@utdallas.edu|(972) 883-5934|JSOM 3.809
@@ -363,7 +363,7 @@ Associate Professor of Practice, Director, Center for Retail Innovation and Stra
 david.matthews@utdallas.edu||JSOM 2.608
 
 Clinical Professor Emeritus, Executive Education
-john.mccracken@utdallas.edu|(972) 883-6252|JSOM 1.704
+john.mccracken@utdallas.edu|(972) 883-6252|JSOM 23.337
 
 Professor, Information Systems
 amit.mehra@utdallas.edu|(972) 883-5083|JSOM 3.433
@@ -513,7 +513,7 @@ Clinical Associate Professor, Director, MS Finance, Finance and Managerial Econo
 carolyn@utdallas.edu|(972) 883-5854|JSOM 14.206
 
 Associate Professor of Instruction, Executive Education
-gary.reichmuth@utdallas.edu|(972) 883-4432|JSOM 1.515B
+gary.reichmuth@utdallas.edu|(972) 883-4432|JSOM 22.503
 
 Assistant Professor, Finance and Managerial Economics
 christopher.reilly@utdallas.edu|(972) 883-5907|JSOM 14.407
@@ -1112,7 +1112,7 @@ William  Hefley
 Clinical Professor Emeritus, Information Systems
 william.hefley@utdallas.edu
 (972) 883-5006
-JSOM 3.615
+JSOM 23.343
 
 Tom  Henderson
 Associate Professor of Instruction, Organizations, Strategy and International Management
@@ -1130,13 +1130,13 @@ Jeffrey  Hicks
 Clinical Assistant Professor, Organizations, Strategy and International Management
 jeff.hicks@utdallas.edu
 (972) 883-5986
-JSOM 13.409
+JSOM 22.543
 
 Robert  Hicks
 Clinical Professor, Executive Education
 robert.hicks@utdallas.edu
 (972) 883-5900
-JSOM 1.920
+JSOM 22.543
 
 Dorothee  Honhon
 Professor, Operations Management
@@ -1316,7 +1316,7 @@ Anna  Ladipo
 Associate Professor of Practice, Executive Education
 anna.ladipo@utdallas.edu
 (972) 883-4957
-JSOM 1.515A
+JSOM 22.501
 
 Atanu  Lahiri
 Associate Professor, Information Systems
@@ -1490,7 +1490,7 @@ John F. McCracken
 Clinical Professor Emeritus, Executive Education
 john.mccracken@utdallas.edu
 (972) 883-6252
-JSOM 1.704
+JSOM 23.337
 
 Amit  Mehra
 Professor, Information Systems
@@ -1790,7 +1790,7 @@ Gary  Reichmuth
 Associate Professor of Instruction, Executive Education
 gary.reichmuth@utdallas.edu
 (972) 883-4432
-JSOM 1.515B
+JSOM 22.503
 
 Christopher  Reilly
 Assistant Professor, Finance and Managerial Economics
