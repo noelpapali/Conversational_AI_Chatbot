@@ -714,9 +714,9 @@ Associate Professor, Finance and Managerial Economics
 yexiaoxu@utdallas.edu|(972) 883-6703|JSOM 14.509
 
 Associate Professor, Accounting
-hao.xue@utdallas.edu|(972) 883-4762|JSOM 3.616
+hao.xue@utdallas.edu|(972) 883-4762|JSOM 4.809
 
-Associate Professor, Finance and Managerial Economics
+Professor, Finance and Managerial Economics
 azentner@utdallas.edu|(972) 883-5966|JSOM 3.206
 
 Area Coordinator, Finance and Managerial Economics, Professor, Finance and Managerial Economics
@@ -747,7 +747,7 @@ Associate Professor, Accounting
 yibin.zhou@utdallas.edu|(972) 883-2738|JSOM 4.430
 
 Assistant Professor, Information Systems
-yi.zhu@utdallas.edu||JSOM 3.708
+yi.zhu@utdallas.edu||JSOM 3.620
 
 Professor of Practice, Accounting
 kathy.zolton@utdallas.edu|(972) 883-5927|JSOM 3.705
@@ -2192,10 +2192,10 @@ Hao  Xue
 Associate Professor, Accounting
 hao.xue@utdallas.edu
 (972) 883-4762
-JSOM 3.616
+JSOM 4.809
 
 Alejandro  Zentner
-Associate Professor, Finance and Managerial Economics
+Professor, Finance and Managerial Economics
 azentner@utdallas.edu
 (972) 883-5966
 JSOM 3.206
@@ -2258,7 +2258,7 @@ Yi  Zhu
 Assistant Professor, Information Systems
 yi.zhu@utdallas.edu
 
-JSOM 3.708
+JSOM 3.620
 
 Kathy  Zolton
 Professor of Practice, Accounting
