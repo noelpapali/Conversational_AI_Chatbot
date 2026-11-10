@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Faculty Spotlight: Riki Takeuchi Wins Three Gold Medals at Taekwondo Nationals
+Title Link: https://jindal.utdallas.edu/news/faculty-spotlight-riki-takeuchi-wins-three-gold-medals-at-taekwondo-nationals/
+Excerpt: Dr. Riki Takeuchi returned from the AAU Taekwondo National Championships this summer with three gold medals — and a reminder of how much the discipline behind each one has in common with academic research. The faculty member in the Organization, Strategy and International Management (OSIM) area of the Naveen Jindal School of Management says Taekwondo […]
+Meta Details: November 10th, 2026 |Faculty/Research,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/11/riki_takeuchi_2026_aau_natl_champ_4_630x630.png
+
+==================================================
+
 Title: How the Jindal School’s MS ITM Helped Edison Chen Build Clapper
 Title Link: https://jindal.utdallas.edu/news/how-the-jindal-schools-ms-itm-helped-edison-chen-build-clapper/
 Excerpt: While he pursued his MS in Information Technology and Management at the Naveen Jindal School of Management, Edison Chen, MS’17, had to balance graduate school, an internship and a used-car marketplace he had started to help international students find transportation. The Dean’s Excellence Scholarship reduced the financial pressure he felt; the degree program taught him […]
@@ -20,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/11/situational_ai_group_shot_6
 Title: He Studied Data Privacy 20 Years Ago. Now He Sees a Bigger Problem Coming.
 Title Link: https://jindal.utdallas.edu/news/he-studied-data-privacy-20-years-ago-now-he-sees-a-bigger-problem-coming/
 Excerpt: Flock Safety now operates approximately 120,000 license-plate cameras across 49 states, according to news reports, drawing criticism from privacy advocates over mass surveillance and the collection of motorists’ location data. For one University of Texas at Dallas researcher who has studied data privacy for more than two decades, the cameras illustrate a problem he began […]
-Meta Details: October 30th, 2026 |Faculty/Research,Featured
+Meta Details: October 30th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/10/if12-som-sarkar-3479_medium_630x630.jpg
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-study-examines-how-te
 Excerpt: Could efforts to protect America’s technology leadership actually weaken U.S. companies’ influence over future technologies? A new study from the Naveen Jindal School of Management suggests the answer can be yes. The paper, “Techno‑Nationalism’s Paradox in International Standard Setting,” was published in the July 2026 issue of the Journal of International Business Studies, one of […]
 Meta Details: August 14th, 2026 |Faculty/Research
 Image URL: https://jindal.utdallas.edu/files/2026/08/technology_restrictions_and_global_innovation_ecosystem_graphic_630x630.png
-
-==================================================
-
-Title: Geneva Experience Helps Physicians Studying Healthcare Leadership and Management at the Jindal School Rethink U.S. Healthcare
-Title Link: https://jindal.utdallas.edu/news/geneva-experience-helps-physicians-studying-healthcare-leadership-and-management-at-the-jindal-school-rethink-u-s-healthcare/
-Excerpt: A group of physician students in the Naveen Jindal School of Management‘s Alliance for Physician Leadership degree program traveled to Geneva this summer to learn how healthcare systems in other countries operate. More importantly, they returned with fresh perspectives on how the United States could improve its own approach to health and healthcare. Marsha Weaver […]
-Meta Details: August 3rd, 2026 |Academics,Faculty/Research,Students
-Image URL: https://jindal.utdallas.edu/files/2026/08/apl_coins_630x630.jpg
 
 ==================================================
 
