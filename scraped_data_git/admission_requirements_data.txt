@@ -160,54 +160,54 @@ Headings:
 - Alumni Testimonials
 - Mina Ameri
 - Wei Chen
+- Bharadwaj Kadiyala
 - Blair Flicker
+- Hasan Cavusoglu
 - Devendra Kale
 - Tai-Yuan Chen
+- Aidin Namin
 - Harish Guda
 - Oktay Urcan
-- Bharadwaj Kadiyala
+- Xuying Zhao
 - Zhengrui Jiang
 - Jess Cornaggia
-- Subodha Kumar
 - Qi Annabelle Feng
-- Aidin Namin
-- Hasan Cavusoglu
-- Xuying Zhao
+- Subodha Kumar
 Content:
 Assistant ProfessorThe University of Pittsburgh
 Assistant Professor in Analytics, Information & Operations,School of Business, University of Kansas
+Assistant Professor,Eccles School of Business, University of Utah
 Assistant Professor in Management ScienceDarla Moore School of Business, University of South Carolina
+Professor of Management Information SystemsSauder School of Business, The University of British Columbia
 PhD in Management Science, Accounting
 Assistant Professor,University of Rhode Island
 Alumni Professor of Finance,HKUST Business School,
 Hong Kong University of Science and Technology
+Associate Professor of Marketing Analytics, Loyola Marymount University
 Assistant Professor in Supply Chain ManagementW.P. Carey School of Business, Arizona State University
 Associate Professor of Accountancy and Fred & Virginia Roedgers Faculty FellowGies College of Business, University of Illinois at Urbana-Champaign
-Assistant Professor,Eccles School of Business, University of Utah
+Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
 Professor of Information Systems,School of Business,
 Nanjing University
 Alumni Professor of Finance,Smeal College of Business, Pennsylvania State University
-Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
 John and Donna Krenicki Chair,Professor in Operations ManagementKrannert School of Management, Purdue University
-Associate Professor of Marketing Analytics, Loyola Marymount University
-Professor of Management Information SystemsSauder School of Business, The University of British Columbia
-Associate Professor in Operations ManagementMendoza College of Business, University of Notre Dame
+Distinguished Fellow of the Information Systems Society, INFORMSPaul R. Anderson Distinguished Chair Professor,Marketing and Supply Chain Management,Fox School of Business, Temple University
 Links:
 - Mina Ameri - https://jindal.utdallas.edu/testimonials/phd-testimonials/mina-ameri/
 - Wei Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/wei-chen/
+- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
 - Blair Flicker - https://jindal.utdallas.edu/testimonials/phd-testimonials/blair-flicker/
+- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
 - Devendra Kale - https://jindal.utdallas.edu/testimonials/phd-testimonials/devendra-kale/
 - Tai-Yuan Chen - https://jindal.utdallas.edu/testimonials/phd-testimonials/tai-yuan-chen/
+- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
 - Harish Guda - https://jindal.utdallas.edu/testimonials/phd-testimonials/harish-guda/
 - Oktay Urcan - https://jindal.utdallas.edu/testimonials/phd-testimonials/oktay-urcan/
-- Bharadwaj Kadiyala - https://jindal.utdallas.edu/testimonials/phd-testimonials/bharadwaj-kadiyala/
+- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
 - Zhengrui Jiang - https://jindal.utdallas.edu/testimonials/phd-testimonials/zhengrui-jiang/
 - Jess Cornaggia - https://jindal.utdallas.edu/testimonials/phd-testimonials/jess-cornaggia/
-- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
 - Qi Annabelle Feng - https://jindal.utdallas.edu/testimonials/phd-testimonials/qi-annabelle-feng/
-- Aidin Namin - https://jindal.utdallas.edu/testimonials/phd-testimonials/aidin-namin/
-- Hasan Cavusoglu - https://jindal.utdallas.edu/testimonials/phd-testimonials/hasan-cavusoglu/
-- Xuying Zhao - https://jindal.utdallas.edu/testimonials/phd-testimonials/xuying-zhao/
+- Subodha Kumar - https://jindal.utdallas.edu/testimonials/phd-testimonials/subodha-kumar/
 - See all PhD Alumni Testimonials - https://jindal.utdallas.edu/jindal/phd-testimonials
 
 ================================================================================
@@ -254,13 +254,12 @@ URL: https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduat
 Headings:
 - Undergraduate Recruitment & Onboarding Office
 - Book a Personalized Executive Visit
+- Attend a Jindal School Event
 Content:
 The Jindal SchoolThe University of Texas at Dallas(972) 883-5889jsomug@utdallas.edu
 Book your Campus Visit
 Every student is unique, and we believe your campus visit should be too! Customize your Jindal School Executive Visit to fit your individual interests and goals.
-Thinking about transferring to the Jindal School? Visit campus, tour our school, and learn more about transfer credits, admission requirements, and what to expect after you’re admitted.
 Can’t make it to campus in person? Sign up to attend a webinar! Can’t make it to campus in person? Sign up to attend a webinar!
-Jindal Jumpstart is your opportunity to explore the Jindal School and get a head start on your college application journey.
 Get help with questions about the application process, degree requirements, or create a personalized transfer plan. (Offered in person or virtually)
 Lists:
 - Accounting
@@ -290,21 +289,18 @@ Links:
 - HR Management - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/iITLACq-DkmQ5qJVeK-obg2?ismsaljsauthenabled=true
 - Marketing - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/qDBvECYCmUuEUTjREgqTGQ2?ismsaljsauthenabled=true
 - Supply Chain Management & Analytics - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/8UBaHXMKeUWbjVuuhWXlsQ2?ismsaljsauthenabled=true
-- Register - https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=HR0ojU2c90uxbgMtFd6fbLMH1NBPEjJFuiW3yjE9N3VURTRFQ0tBWFBaQUZSTjRUOVBPQjM4M01CMy4u
 - Freshmen - https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=HR0ojU2c90uxbgMtFd6fbLMH1NBPEjJFuiW3yjE9N3VUQlBFTk4wRzEzMjdDMFJIWElCOEdQNkNPTy4u
 - Transfer - https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=HR0ojU2c90uxbgMtFd6fbLMH1NBPEjJFuiW3yjE9N3VUM0Q0WTM5RldLRTlESUZRU0YyOFQxQTQ0Vy4u
-- Register - https://forms.cloud.microsoft/pages/responsepage.aspx?id=HR0ojU2c90uxbgMtFd6fbFhUj0lq_p9LvpsMlBW-twlURERXUTdQWDZITURLQ05CTURHNjdQRTY3My4u&route=shorturl
 - Book an Advising Appointment - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/Jj3z94GtaEi9EnfYlbadog2?ismsaljsauthenabled
 
 ================================================================================
 URL: https://jindal.utdallas.edu/undergraduate-programs/prospective-undergraduates/?_ga=2.31430911.1730077543.1617027628-190102431.1606368389#02-apply-now
 Headings:
 - Book a Personalized Executive Visit
+- Attend a Jindal School Event
 Content:
 Every student is unique, and we believe your campus visit should be too! Customize your Jindal School Executive Visit to fit your individual interests and goals.
-Thinking about transferring to the Jindal School? Visit campus, tour our school, and learn more about transfer credits, admission requirements, and what to expect after you’re admitted.
 Can’t make it to campus in person? Sign up to attend a webinar! Can’t make it to campus in person? Sign up to attend a webinar!
-Jindal Jumpstart is your opportunity to explore the Jindal School and get a head start on your college application journey.
 Get help with questions about the application process, degree requirements, or create a personalized transfer plan. (Offered in person or virtually)
 Lists:
 - Accounting
@@ -330,10 +326,8 @@ Links:
 - HR Management - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/iITLACq-DkmQ5qJVeK-obg2?ismsaljsauthenabled=true
 - Marketing - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/qDBvECYCmUuEUTjREgqTGQ2?ismsaljsauthenabled=true
 - Supply Chain Management & Analytics - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/8UBaHXMKeUWbjVuuhWXlsQ2?ismsaljsauthenabled=true
-- Register - https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=HR0ojU2c90uxbgMtFd6fbLMH1NBPEjJFuiW3yjE9N3VURTRFQ0tBWFBaQUZSTjRUOVBPQjM4M01CMy4u
 - Freshmen - https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=HR0ojU2c90uxbgMtFd6fbLMH1NBPEjJFuiW3yjE9N3VUQlBFTk4wRzEzMjdDMFJIWElCOEdQNkNPTy4u
 - Transfer - https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=HR0ojU2c90uxbgMtFd6fbLMH1NBPEjJFuiW3yjE9N3VUM0Q0WTM5RldLRTlESUZRU0YyOFQxQTQ0Vy4u
-- Register - https://forms.cloud.microsoft/pages/responsepage.aspx?id=HR0ojU2c90uxbgMtFd6fbFhUj0lq_p9LvpsMlBW-twlURERXUTdQWDZITURLQ05CTURHNjdQRTY3My4u&route=shorturl
 - Book an Advising Appointment - https://bookings.cloud.microsoft/book/JSOMUndergraduateRecruitingandOnboarding@utdallas.edu/s/Jj3z94GtaEi9EnfYlbadog2?ismsaljsauthenabled
 
 ================================================================================

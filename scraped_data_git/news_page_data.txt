@@ -1,10 +1,26 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: UT Dallas Entrepreneurship Programs Rank Among World’s Top 25
+Title Link: https://jindal.utdallas.edu/news/ut-dallas-entrepreneurship-programs-rank-among-worlds-top-25/
+Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas has been ranked among the world’s top 25 graduate and undergraduate entrepreneurship programs in The Princeton Review’s 2027 rankings. The Jindal School ranked No. 14 worldwide, No. 13 overall in the U.S. and No. 8 among U.S. public universities for graduate entrepreneurship. […]
+Meta Details: November 13th, 2026 |Academics,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/11/2027-Rankings-Entrepreneurship-Princeton-Review-630x630-1.jpg
+
+==================================================
+
+Title: AI Week Explores Human Leadership in a Changing Workplace
+Title Link: https://jindal.utdallas.edu/news/ai-week-explores-human-leadership-in-a-changing-workplace/
+Excerpt: As artificial intelligence takes on more of the work once assigned to new business graduates, Dr. Hasan Pirkul sees a question universities must confront: What should they be teaching the people who will manage it? Hasan Pirkul “Are we teaching our students what the AI will be doing?” asked Pirkul, dean and Caruth Chair of […]
+Meta Details: November 11th, 2026 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/11/mark_austin_ai_day_fall_2026_630x630b.png
+
+==================================================
+
 Title: Faculty Spotlight: Riki Takeuchi Wins Three Gold Medals at Taekwondo Nationals
 Title Link: https://jindal.utdallas.edu/news/faculty-spotlight-riki-takeuchi-wins-three-gold-medals-at-taekwondo-nationals/
 Excerpt: Dr. Riki Takeuchi returned from the AAU Taekwondo National Championships this summer with three gold medals — and a reminder of how much the discipline behind each one has in common with academic research. The faculty member in the Organization, Strategy and International Management (OSIM) area of the Naveen Jindal School of Management says Taekwondo […]
-Meta Details: November 10th, 2026 |Faculty/Research,Featured
+Meta Details: November 10th, 2026 |Faculty
 Image URL: https://jindal.utdallas.edu/files/2026/11/riki_takeuchi_2026_aau_natl_champ_4_630x630.png
 
 ==================================================
@@ -12,7 +28,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/11/riki_takeuchi_2026_aau_natl
 Title: How the Jindal School’s MS ITM Helped Edison Chen Build Clapper
 Title Link: https://jindal.utdallas.edu/news/how-the-jindal-schools-ms-itm-helped-edison-chen-build-clapper/
 Excerpt: While he pursued his MS in Information Technology and Management at the Naveen Jindal School of Management, Edison Chen, MS’17, had to balance graduate school, an internship and a used-car marketplace he had started to help international students find transportation. The Dean’s Excellence Scholarship reduced the financial pressure he felt; the degree program taught him […]
-Meta Details: November 6th, 2026 |Academics,Alumni,Featured
+Meta Details: November 6th, 2026 |Academics,Alumni
 Image URL: https://jindal.utdallas.edu/files/2026/11/edison_chen_630x630.jpg
 
 ==================================================
@@ -20,7 +36,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/11/edison_chen_630x630.jpg
 Title: Students Explore How AI Could Develop Situational Awareness
 Title Link: https://jindal.utdallas.edu/news/students-explore-how-ai-could-develop-situational-awareness/
 Excerpt: Detailed input can help artificial intelligence tools provide better answers, but even a complex prompt and lengthy exchange might not capture the full context of a real-world situation. In the workplace, decisions often depend on what has happened, what is changing and when a person needs to step in. That challenge was brought into focus […]
-Meta Details: November 3rd, 2026 |Academics,Events,Faculty/Research,Students
+Meta Details: November 3rd, 2026 |Academics,Events,Research,Students
 Image URL: https://jindal.utdallas.edu/files/2026/11/situational_ai_group_shot_630x630.jpg
 
 ==================================================
@@ -28,7 +44,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/11/situational_ai_group_shot_6
 Title: He Studied Data Privacy 20 Years Ago. Now He Sees a Bigger Problem Coming.
 Title Link: https://jindal.utdallas.edu/news/he-studied-data-privacy-20-years-ago-now-he-sees-a-bigger-problem-coming/
 Excerpt: Flock Safety now operates approximately 120,000 license-plate cameras across 49 states, according to news reports, drawing criticism from privacy advocates over mass surveillance and the collection of motorists’ location data. For one University of Texas at Dallas researcher who has studied data privacy for more than two decades, the cameras illustrate a problem he began […]
-Meta Details: October 30th, 2026 |Faculty/Research
+Meta Details: October 30th, 2026 |Faculty,Research
 Image URL: https://jindal.utdallas.edu/files/2026/10/if12-som-sarkar-3479_medium_630x630.jpg
 
 ==================================================
@@ -36,7 +52,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/10/if12-som-sarkar-3479_medium
 Title: Business Communication Fundamentals Still Key in the Age of AI
 Title Link: https://jindal.utdallas.edu/news/business-communication-fundamentals-still-key-in-the-age-of-ai/
 Excerpt: Communication will always be one of the fundamental business skills, whether practiced traditionally or enhanced by artificial intelligence. That principle guides the work of Business Communication faculty in the Naveen Jindal School of Management. Two of its faculty members were honored for that work at this year’s Association for Business Communication (ABC) international conference. ABC’s […]
-Meta Details: October 27th, 2026 |Academics,Business Communications Program,Faculty/Research
+Meta Details: October 27th, 2026 |Academics,Business Communications Program,Faculty,Research
 Image URL: https://jindal.utdallas.edu/files/2026/10/lookadoo_at_abc_baltimore_keynote_630x630.jpg
 
 ==================================================
@@ -44,7 +60,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/10/lookadoo_at_abc_baltimore_k
 Title: ESG Ratings Overlook Major Sources of Green Innovation
 Title Link: https://jindal.utdallas.edu/news/esg-ratings-overlook-major-sources-of-green-innovation/
 Excerpt: Some companies with relatively low environmental ratings are also developing some of the most influential green technologies, according to new research from the Naveen Jindal School of Management. In a study published in the September 2026 print issue of Management Science, Dr. Umit Gurun, Stan Liebowitz Professor in the Jindal School’s Accounting area, and co-authors […]
-Meta Details: October 21st, 2026 |Faculty/Research
+Meta Details: October 21st, 2026 |Faculty,Research
 Image URL: https://jindal.utdallas.edu/files/2026/10/oil_refinery_near_solar_panels_630x630.jpg
 
 ==================================================
@@ -92,7 +108,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/09/data_center_630x630.jpg
 Title: For First Time, Jindal School’s Internal Auditing Center Led by All-Alumni Leadership Team
 Title Link: https://jindal.utdallas.edu/news/for-first-time-jindal-schools-internal-auditing-center-led-by-all-alumni-leadership-team/
 Excerpt: For the first time in its history, the Center for Internal Auditing Excellence in the Naveen Jindal School of Management is being led by two Jindal School alumni following the appointment of Adrienne Adame, MS’10, as assistant director. Adame joins Director Matthew (Matt) Paske, BS’08, MS’10, who became director in 2026 after returning to the […]
-Meta Details: September 18th, 2026 |Academics,Faculty/Research
+Meta Details: September 18th, 2026 |Academics,Faculty
 Image URL: https://jindal.utdallas.edu/files/2026/09/paske_adame_photo_630x630.png
 
 ==================================================
@@ -116,7 +132,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/09/finance_alumni_profile_fall
 Title: Jindal School Cybersecurity Professor Named ISSA Senior Member
 Title Link: https://jindal.utdallas.edu/news/jindal-school-cybersecurity-professor-named-issa-senior-member/
 Excerpt: As organizations face more frequent and sophisticated digital threats, they increasingly need professionals who can manage cybersecurity risks. Students preparing for those roles through the Bachelor of Science in Cybersecurity and Risk Management program at the Naveen Jindal School of Management can learn from a faculty member recently recognized for her expertise and leadership in […]
-Meta Details: September 1st, 2026 |Academics,Faculty/Research
+Meta Details: September 1st, 2026 |Academics,Faculty
 Image URL: https://jindal.utdallas.edu/files/2026/08/renita_murimi_headshot_630x630.png
 
 ==================================================
@@ -124,7 +140,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/08/renita_murimi_headshot_630x
 Title: New Jindal School Study Shows When AI Should Get the Final Say
 Title Link: https://jindal.utdallas.edu/news/new-jindal-school-study-shows-when-ai-should-get-the-final-say/
 Excerpt: A new study from the Naveen Jindal School of Management suggests that artificial intelligence can be the final decision maker in a business process when its effective quality for a particular task meets or exceeds that of the human alternative. Hongda Zhong The paper based on that study —  “Optimal Integration: Human, Machine, and Generative […]
-Meta Details: August 28th, 2026 |Faculty/Research
+Meta Details: August 28th, 2026 |Faculty,Research
 Image URL: https://jindal.utdallas.edu/files/2026/08/hongda_zhong_headshot_2-630x630-1.jpg
 
 ==================================================
@@ -142,22 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/livestreamed-event-to-highlight-ut-
 Excerpt: A Sept. 15 breakfast presented by the Building Owners and Managers Association of Greater Dallas and hosted by the Herbert D. Weitzman Institute for Real Estate will examine how The University of Texas at Dallas contributes to workforce development, business innovation and regional economic competitiveness. Although attendance at the Davidson-Gundy Alumni Center is by invitation […]
 Meta Details: August 21st, 2026 |Corporate,Events
 Image URL: https://jindal.utdallas.edu/files/2026/08/BOMA-Breakfast-Graphic-3.jpg
-
-==================================================
-
-Title: Jindal School Professor Built an Academic Area and a Business Paradigm
-Title Link: https://jindal.utdallas.edu/news/jindal-school-professor-built-an-academic-area-and-a-business-paradigm/
-Excerpt: When Dr. Suresh Sethi began building the Operations and Supply Chain Management Area at the Naveen Jindal School of Management in 1997, he was not just putting together an academic program from scratch. He was also developing a way of thinking about business decisions, one that would eventually be named in part after him. The […]
-Meta Details: August 19th, 2026 |Academics,Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2024/09/suresh_sethi_630x630.jpg
-
-==================================================
-
-Title: Jindal School Study Examines How Technology Restrictions Can Weaken U.S. Companies’ Global Influence
-Title Link: https://jindal.utdallas.edu/news/jindal-school-study-examines-how-technology-restrictions-can-weaken-u-s-companies-global-influence/
-Excerpt: Could efforts to protect America’s technology leadership actually weaken U.S. companies’ influence over future technologies? A new study from the Naveen Jindal School of Management suggests the answer can be yes. The paper, “Techno‑Nationalism’s Paradox in International Standard Setting,” was published in the July 2026 issue of the Journal of International Business Studies, one of […]
-Meta Details: August 14th, 2026 |Faculty/Research
-Image URL: https://jindal.utdallas.edu/files/2026/08/technology_restrictions_and_global_innovation_ecosystem_graphic_630x630.png
 
 ==================================================
 
